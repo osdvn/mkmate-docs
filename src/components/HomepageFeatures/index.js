@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Bạn là người dùng mới?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Hãy tìm hiểu cách dùng sản phẩm <a href="/docs/intro">tại đây</a>.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Phát hiện lỗi sản phẩm?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Đừng gần ngại <a href="https://my.osd.vn/issue/new">tạo phiếu yêu cầu hỗ trợ</a> để thông báo với chúng tôi.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Đề xuất 1 tính năng mới',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Kế hoạch cải tiến sản phẩm liên tục cập nhật <a href="https://my.osd.vn/issue/new">issue mới</a> do bạn đề xuất.
       </>
     ),
   },

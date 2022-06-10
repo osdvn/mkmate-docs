@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tài liệu Mkmate ',
-  tagline: 'Hướng dẫn sử dụng mkmate',
+  title: 'Hướng dẫn sử dụng',
+  tagline: 'Tài liệu hướng dẫn mkmate, phiên bản 6.0, triển khai tập trung SAAS',
   url: 'https://mkmate.osd.vn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'osdvn', // Usually your GitHub org/user name.
+  projectName: 'mkmate-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Mkmate Docs',
+        title: 'Mkmate',
         logo: {
-          alt: 'Mkmate docs',
+          alt: 'Mkmate',
           src: 'img/logo.svg',
         },
         items: [
@@ -67,12 +67,13 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tài liệu',
+            label: 'Hướng dẫn sử dụng',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog/changelog', label: 'Changelog', position: 'left'},
+          {to: '/blog/roadmap', label: 'Roadmap', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://osd.vn',
+            label: 'OSD.VN',
             position: 'right',
           },
         ],
@@ -81,41 +82,49 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Sản phẩm Mkmate',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Tài liệu hướng dẫn',
                 to: '/docs/intro',
               },
+              {
+                label: 'Changelog',
+                to: '/blog/changelog',
+              },
+              {
+                label: 'Lộ trình phát triển',
+                to: '/blog/roadmap',
+              }
             ],
           },
           {
-            title: 'Community',
+            title: 'Kênh hỗ trợ',
             items: [
               {
                 label: 'Zalo',
-                href: 'https://zalo.com/mkmate',
+                href: 'https://zalo.me/osd.vn',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/mkmate',
+                label: 'Báo lỗi & đề xuất tính năng',
+                to: 'https://my.osd.vn/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/mkmate',
+                label: 'Liên hệ',
+                href: 'https://osd.vn/information/contact',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Khác',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'OSD.VN',
+                to: 'https://osd.vn',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/osdvn/mkmate-docs',
+                label: 'Cộng đồng F1',
+                href: 'https://f1.edu.vn',
               },
             ],
           },
