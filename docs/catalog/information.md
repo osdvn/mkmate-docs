@@ -1,11 +1,8 @@
 ---
 slug: information
-title: Quản lý bài Thông tin
-authors:
-  name: Dzung Do
-  title: OSD.VN Core Team
-  url: https://github.com/saosangmo
-  image_url: https://github.com/saosangmo.png
-tags: [roadmap, mkmate]
+sidebar_position: 3
+sidebar_label: Bài thông tin
+title: Quản lý Bài Thông tin
+tags: [information, thông tin, chính sách]
 ---
 # Quản lý bài Thông tin
