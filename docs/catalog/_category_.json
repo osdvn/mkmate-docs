@@ -2,6 +2,7 @@
   "label": "Quản lý nội dung",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Quản lý nội dung."
   }
 }

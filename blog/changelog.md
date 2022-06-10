@@ -8,6 +8,6 @@ authors:
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
 ---
-## 20-03-222,  v6.0 release
+## 2202-03-20, phát hành phiên bản 6.0
 - Triển khai tập trung SAAS
 - Nâng cấp toàn bộ dự án đã triển khai

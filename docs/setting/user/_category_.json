@@ -1,0 +1,8 @@
+{
+    "label": "Thành viên",
+    "position": 10,
+    "link": {
+      "type": "generated-index",
+      "description": "Quản lý thành viên."
+    }
+}

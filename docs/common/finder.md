@@ -1,11 +1,6 @@
 ---
 slug: finder
 title: Trình quản lý file
-authors:
-  name: Dzung Do
-  title: OSD.VN Core Team
-  url: https://github.com/saosangmo
-  image_url: https://github.com/saosangmo.png
-tags: [roadmap, mkmate]
+tags: [finder, image manager]
 ---
 # Trình quản lý file (Finder)

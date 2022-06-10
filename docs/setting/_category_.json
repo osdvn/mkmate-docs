@@ -1,0 +1,8 @@
+{
+    "label": "Hệ thống",
+    "position": 10,
+    "link": {
+      "type": "generated-index",
+      "description": "Cấu hình hệ thống."
+    }
+}
