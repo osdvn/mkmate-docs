@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'Mkmate Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Mkmate docs',
           src: 'img/logo.svg',
         },
         items: [
@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tài liệu',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OSD.VN.`,
+        copyright: `Copyright © 2012 - ${new Date().getFullYear()} OSD.VN.`,
       },
       prism: {
         theme: lightCodeTheme,
