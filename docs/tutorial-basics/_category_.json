@@ -1,8 +1,8 @@
 {
-  "label": "Chức năng dùng chung",
+  "label": "Tính năng chung",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Những tính năng dùng chung tại nhiều màn hình của Mkmate."
+    "description": "Giới thiệu cách sử dụng những tính năng tại nhiều màn hình của Mkmate."
   }
 }
