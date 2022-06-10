@@ -1,6 +1,6 @@
 ---
-slug: finder
-title: Trình quản lý file
+slug: information
+title: Quản lý bài Thông tin
 authors:
   name: Dzung Do
   title: OSD.VN Core Team
@@ -8,4 +8,4 @@ authors:
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
 ---
-# Trình quản lý file (Finder)
+# Quản lý bài Thông tin
