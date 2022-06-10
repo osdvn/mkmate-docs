@@ -10,7 +10,7 @@ Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cả
 
 ## Những tính năng cơ bản
 
-![ql-file.jpg (71 KB)](../media/data/news/2022/hdsd-pisale/ql-file.jpg)
+![ql-file.jpg (71 KB)](img/ql-file.jpg)
 
 *   (1) Quay lại thư mục đã từng truy cập (lùi 1 bước)
 *   (2) Trở về thư mục đã từng truy cập (tiến 1 bước)
@@ -43,13 +43,13 @@ Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cả
 *   (34) Tìm kiếm ảnh
 *   (29) Đổi danh sách kiểu xem thư mục ảnh hoặc file ảnh
 
-![trinh-quan-ly-file-3.jpg (83 KB)](../media/data/news/2022/hdsd-pisale/trinh-quan-ly-file-3.jpg)
+![trinh-quan-ly-file-3.jpg (83 KB)](img/trinh-quan-ly-file-3.jpg)
 
-![trinh-quan-ly-file-4.jpg (65 KB)](../media/data/news/2022/hdsd-pisale/trinh-quan-ly-file-4.jpg)
+![trinh-quan-ly-file-4.jpg (65 KB)](img/trinh-quan-ly-file-4.jpg)
 
 *   (30) Sắp xếp theo thứ tự theo tên ảnh, kích thước ảnh, ngày upload ảnh
 
-![trinh-quan-ly-file-5.jpg (16 KB)](../media/data/news/2022/hdsd-pisale/trinh-quan-ly-file-5.jpg)
+![trinh-quan-ly-file-5.jpg (16 KB)](img/trinh-quan-ly-file-5.jpg)
 
 ## Trình đơn ngữ cảnh
 
@@ -57,7 +57,7 @@ Trình đơn này được hiện ra khi bạn click phải chuột vào đối 
 
 ### Đối với file thông thường
 
-![trinh-quan-ly-file-1.jpg (82 KB)](../media/data/news/2022/hdsd-pisale/trinh-quan-ly-file-1.jpg)
+![trinh-quan-ly-file-1.jpg (82 KB)](img/trinh-quan-ly-file-1.jpg)
 
 **Các chức năng có cách sử dụng cụ thể như sau:**
 
@@ -83,7 +83,7 @@ máy chủ, chức năng này chỉ được mở khi được yêu cầu hỗ t
 
 ### Đối với thư mục
 
-![trinh-quan-ly-file-2.jpg (55 KB)](../media/data/news/2022/hdsd-pisale/trinh-quan-ly-file-2.jpg)
+![trinh-quan-ly-file-2.jpg (55 KB)](img/trinh-quan-ly-file-2.jpg)
 
 Cách thao tác tương tự như với file, đặc thù của thư mục sẽ cho phép bạn thao tác những chức năng sau:
 
@@ -106,7 +106,7 @@ Cách thao tác tương tự như với file, đặc thù của thư mục sẽ 
 
 ## Chỉnh sửa và thay đổi kích thước hình ảnh
 
-![ql-file-2.jpeg (82 KB)](../media/data/news/2022/hdsd-pisale/ql-file-2.jpeg)
+![ql-file-2.jpeg (82 KB)](img/ql-file-2.jpeg)
 
 **Các chức năng chỉ hỗ trợ mức đơn giản như dưới đây**
 
@@ -164,7 +164,7 @@ Chức năng này chỉ được hiển thị với nhóm quản trị hệ th�
 
 Người dùng có quyền quản trị có thể xóa vĩnh viễn hoặc khôi phục lại hình ảnh trong thùng rác, tương tự như cơ chế quản lý file với công cụ **Windows Explorer** hoặc **Finder** của **MacOS** **X**.
 
-## Chính sách upload hình ảnh lên hệ thống
+## Một số lưu ý với hình ảnh sử dụng trên website
 
 Ảnh đưa lên website tốt nhất là ở định dạng JPG, nếu được nén theo chuẩn losslessly là tốt nhất, kích thước chiều rộng tối đa là 1920 pixel, độ phân giải 72 dpi, quality = 80-85%. Khi bạn không chắc chắn về định dạng ảnh thì tuyệt đối không nên dùng định dạng ảnh PNG.
 
@@ -172,4 +172,4 @@ Do đặc thù người đọc chỉ xem website được trên các thiết b�
 
 Thực tế của chính sách này là nhằm giúp người dùng truy cập website được nhanh nhất. Với người đọc trả tiền internet theo lưu lượng (3G, 4G, 5G,... là phổ biến) thì sẽ giúp tiết kiệm chi phí cho người đọc.
 
-Dung lượng của file ảnh khi không được chú ý sẽ dễ làm tăng nhanh tổng lưu lượng của website gây cho chủ sở hữu website phải tăng chi phí host website (một cách không xứng đáng).
+Dung lượng của file ảnh khi không được chú ý sẽ dễ làm tăng nhanh tổng lưu lượng của website gây cho chủ sở hữu website phải tăng chi phí thuê host website (một cách không xứng đáng).
