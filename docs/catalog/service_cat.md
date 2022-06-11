@@ -39,10 +39,6 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 **Bước 4** Nhấp chuột vào nút **Lưu** để hoàn tất
 
-## Sửa nhóm dịch vụ
-
-Nhấn chọn nhóm dịch vụ muốn sửa, trang nhóm dịch vụ được mở ra, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
-
 ## Xóa nhóm dịch vụ
 
 **Cách 1**:
@@ -56,3 +52,7 @@ Truy cập nhóm dịch vụ chi tiết, bên góc phải màn hình nhấn ch�
 Nhấn chọn tích tại nhóm dịch vụ muốn xóa và chọn **Xóa**
 
 Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
+
+## Sửa nhóm dịch vụ
+
+Nhấn chọn nhóm dịch vụ muốn sửa, trang nhóm dịch vụ được mở ra, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
