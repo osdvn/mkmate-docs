@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Đề xuất 1 tính năng mới',
+    title: 'Đề xuất tính năng',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
