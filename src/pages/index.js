@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Content-centric, nội dung là yếu tố quyết định - 1min ⏱️
+            Content-centric, CMS - 1min ⏱️
           </Link>
         </div>
       </div>
