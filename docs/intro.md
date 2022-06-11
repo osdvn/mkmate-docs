@@ -1,9 +1,13 @@
 ---
-sidebar_position: 1
+sidebar_label: Giới thiệu
+sidebar_position: 0
+tags: [mkmate, content-centric]
 ---
 
 # Giới thiệu Mkmate - Content-centric
 Content centric là khái niệm tương đối mới mẻ với người dùng Việt Nam, được OSD.VN phát hiện sau một thời gian dài thiết kế website dành cho nhóm khách hàng có nhu cầu tiếp thị bằng phương pháp SEO.
+
+Content centric được Maica marketing team của OSD.VN chuyển ngữ thành "Nội dung tốt là trọng tâm". Chính vì vậy, các tính năng của Mkmate sẽ có mục tiêu lớn nhất và nhất quán là tập trung vào quản lý, biên tập và quảng bá nội dung thông tin cho website.
 
 Hoạt động SEO là một tổng hợp gồm quá nhiều kỹ năng khiến các webmaster mất nhiều thời gian cho hoạt động kỹ thuật web nhiều quá và vì thế thời gian dự án SEO hay bị kéo dài và thất bại.
 
