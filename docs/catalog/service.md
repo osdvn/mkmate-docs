@@ -80,10 +80,6 @@ Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lư
 
 _Chú ý: cần nhập nội dung English và nội dung tiếng Việt nếu có_
 
-## Sửa một bài viết dịch vụ
-
-Nhấn chọn trực tiếp vào bài dịch vụ để **Sửa**, sau khi thay đổi các thông tin - thiết lập của bài dịch vụ cần chọn **Lưu** để hoàn tất.
-
 ## Xóa một bài dịch vụ
 
 **Cách 1**: Xóa bài dịch vụ tại menu thả danh sách xuống bên trái
@@ -95,6 +91,10 @@ Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội 
 **Cách 2**: Xóa tại bài dịch vụ chi tiết
 
 Truy cập dịch vụ chi tiết, bên góc phải màn hình nhấn chọn tab **Xóa dịch vụ**. Tương tự cách xóa 1, hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
+
+## Sửa một bài viết dịch vụ
+
+Nhấn chọn trực tiếp vào bài dịch vụ để **Sửa**, sau khi thay đổi các thông tin - thiết lập của bài dịch vụ cần chọn **Lưu** để hoàn tất.
 
 ## Nhân bản bài dịch vụ
 
