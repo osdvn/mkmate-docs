@@ -33,6 +33,8 @@
 
 **Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, **Slug** không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“)
 
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+
 ## Xóa thư viện ảnh
 
 Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và chọn **Xóa**.
