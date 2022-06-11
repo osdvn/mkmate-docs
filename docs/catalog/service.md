@@ -50,14 +50,7 @@ Trạng thái Lựa chọn trạng thái hiển thị cho bài dịch vụ (Bậ
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
-**FAQs**
-
-Câu hỏi thường gặp là các câu hỏi và trả lời thường theo cùng một chủ đề nhất định. Tập hợp những câu hỏi phổ biến thường có xu hướng được hỏi đi hỏi lại, giúp người đọc hiểu rõ hơn về dịch vụ của bạn.
-
-**Tiêu đề**
-- Dựa vào mục đích của dịch vụ để đặt câu hỏi, bạn có thể sử dụng các cách thức sau:
-- Hỏi thẳng vào vấn đề Những câu hỏi này chủ yếu áp dụng trong những trường hợp bạn cần câu trả lời dứt khoát hoặc cần khẳng định lại câu trả lời.
-- Đưa những câu hỏi mở thăm dò Những câu hỏi này nhằm thăm dò ý kiến, khiến cho người được hỏi có thể đưa ra thêm các thông tin giải đáp những điều người đọc thường thắc mắc.
+**FAQs** xem chi tiết tại đây
 
 **Nội dung**
 - Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề.
