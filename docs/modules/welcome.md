@@ -4,7 +4,7 @@ Cho phép hiển thị các thông điệp tùy chỉnh trên website.
 
 Hình minh họa được hiển thị như sau:
 
-![mo-dun-noi-dung]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/mo-dun-noi-dung.jpg)
+![mo-dun-noi-dung.jpg (37 KB)](img/mo-dun-noi-dung.jpg)
 
 Để cấu hình mô đun Nội dung, bạn cần:
 
@@ -12,11 +12,9 @@ Hình minh họa được hiển thị như sau:
 
 **Bước 2** Nhấp chuột vào nút **Cấu hình**
 
-![mo-dun-noi-dung-1]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/mo-dun-noi-dung-1.jpg)
-
 **Bước 3** Trang tạo cấu hình mô đun Nội dung được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-![mo-dun-noi-dung-2]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/mo-dun-noi-dung-2.jpg)
+![mo-dun-noi-dung-2.jpg (77 KB)](img/mo-dun-noi-dung-2.jpg)
 
 Những thông tin cần cấu hình như sau:
 
@@ -31,4 +29,3 @@ Những thông tin cần cấu hình như sau:
 **Thứ tự** Đánh thứ tự hiển thị cho mô đun (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
-

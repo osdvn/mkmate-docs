@@ -8,11 +8,11 @@ Là khi người dùng thực hiện tìm kiếm trên thanh tìm kiếm, công 
 
 **Bước 2** Nhấp chuột vào nút **Cấu hình**
 
-![hop-tim-kiem]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/hop-tim-kiem.jpg)
+![hop-tim-kiem.jpg (22 KB)](img/hop-tim-kiem.jpg)
 
 **Bước 3** Trang tạo cấu hình mô đun hộp tìm kiếm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-![hop-tim-kiem-1]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/hop-tim-kiem-1.jpg)
+![hop-tim-kiem-1.jpg (47 KB)](hop-tim-kiem-1.jpg)
 
 Những thông tin cần cấu hình như sau:
 
@@ -28,13 +28,8 @@ Những thông tin cần cấu hình như sau:
 
 - Thu gọn: hiển thị icon tìm kiếm, khi click vào icon hệ thống sẽ hiển thị khung box điền nội dung tìm kiếm từ khóa
 
-![hop-tim-kiem-thugon]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/hop-tim-kiem-thugon.jpg)
-
 - Đơn giản: hiển thị icon và khung box tìm kiếm từ khóa
-
-![hop-tim-kiem--kieu-don-gian]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/hop-tim-kiem--kieu-don-gian.jpg)
 
 - Nâng cao
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
-
