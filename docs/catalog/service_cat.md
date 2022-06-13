@@ -23,7 +23,7 @@ _Những thông tin cụ thể cần điền như sau:_
 
 **Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm dịch vụ, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài dịch vụ. Được hiển thị phía dưới danh sách các bài dịch vụ
 
-**Ảnh đại diện** Để upload được ảnh, bạn cần chọn Duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. _(Ví dụ: ảnh nhóm dịch vụ sẽ upload lên thư mục nhom-dich-vu có sẵn tại trình quản lý file hoặc bạn có thể tạo mới bằng cách nhấn chọn vào thư mục data (thư mục gốc) rồi chọn New folder, tiếp theo bạn nhập tên thư mục là nhom-dich-vu và tải ảnh dịch vụ hoặc nhóm dịch vụ lên thư mục này)_ Xem chi tiết cách upload ảnh [tại đây](../lam-chu-trinh-quan-ly-file)
+**Ảnh đại diện** Để upload được ảnh, bạn cần chọn Duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. _(Ví dụ: ảnh nhóm dịch vụ sẽ upload lên thư mục nhom-dich-vu có sẵn tại trình quản lý file hoặc bạn có thể tạo mới bằng cách nhấn chọn vào thư mục data (thư mục gốc) rồi chọn New folder, tiếp theo bạn nhập tên thư mục là nhom-dich-vu và tải ảnh dịch vụ hoặc nhóm dịch vụ lên thư mục này)_ Xem chi tiết cách upload ảnh [tại đây](../common/finder)
 
 **Cấp danh mục cha** Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục dịch vụ, hệ thống gợi ý tên danh mục để bạn lựa chọn _(ví dụ: Phẫu thuật thẩm mỹ)_. Hình minh họa:
 
