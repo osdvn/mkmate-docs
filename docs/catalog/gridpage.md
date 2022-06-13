@@ -14,11 +14,19 @@ Tại đây bạn có thể quản lý các bài long form.
 
 Bạn thêm các bài long form theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile,** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
+![long-form.jpg](img/long-form.jpg)
+
 Tùy chỉnh màn hình Desktop:
+
+![long-form-1.jpg](img/long-form-1.jpg)
 
 Tùy chỉnh màn hình Tablet:
 
+![long-form-2.jpg](img/long-form-2.jpg)
+
 Tùy chỉnh màn hình Mobile:
+
+![long-form-3.jpg](img/long-form-3.jpg)
 
 Taị đây bạn có thể thêm, sửa, xóa bài long form:
 
@@ -36,6 +44,8 @@ Taị đây bạn có thể thêm, sửa, xóa bài long form:
 - Add row 8-4
 
 Hình minh họa mỗi tab được hiển thị lần lượt như sau:
+
+![long-form-4.jpg](img/long-form-4.jpg)
 
 **Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
 
