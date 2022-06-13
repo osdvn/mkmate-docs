@@ -18,7 +18,7 @@ Tùy chỉnh màn hình Desktop:
 
 Tùy chỉnh màn hình Tablet:
 
-Tùy chỉnh màn hình Mobile
+Tùy chỉnh màn hình Mobile:
 
 Taị đây bạn có thể thêm, sửa, xóa bài long form:
 
