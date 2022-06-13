@@ -8,7 +8,7 @@ Logo website sẽ được hiển thị góc trái hoặc giữa màn hình. Đ�
 
 **Bước 2** Trang tạo logo mới được mở ra, cập nhật logo website tại đây
 
-![nhandien.jpg (122 KB)](../media/data/news/2022/hdsd-pisale/nhandien.jpg)
+![nhandien.jpg (122 KB)](img/nhandien.jpg)
 
 **Logo** Nhấn chọn **Chọn** để tải logo từ máy tính của bạn lên trình quản lý file
 
