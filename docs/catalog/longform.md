@@ -13,19 +13,11 @@ Bài longform là loại bài viết dùng cho những nội dung trình bày c�
 
 Bạn thêm các bài long form theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile**, nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
-![tuy-chinh-phien-ban.jpg (105 KB)](img/tuy-chinh-phien-ban.jpg)
-
 Tùy chỉnh màn hình Desktop:
-
-![bai-long-form.jpg (601 KB)](img/bai-long-form.jpg)
 
 Tùy chỉnh màn hình Tablet:
 
-![bai-long-form-tablet.jpg (521 KB)](img/bai-long-form-tablet.jpg)
-
 Tùy chỉnh màn hình Mobile
-
-![bai-long-form-mobile.jpg (333 KB)](img/bai-long-form-mobile.jpg)
 
 Taị đây bạn có thể thêm, sửa, xóa bài long form:
 
