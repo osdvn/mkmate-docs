@@ -11,6 +11,8 @@
 
 **Bước 3** Trang tạo nhóm dịch vụ mới được mở ra, điền các thông tin chi tiết của nhóm dịch vụ đó.
 
+![nhom-dich-vu.jpg](img/nhom-dich-vu.jpg)
+
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm dịch vụ._
 
 _Những thông tin cụ thể cần điền như sau:_

@@ -12,6 +12,7 @@ Quản lý thông tin liên hệ chung của công ty, thiết lập cấu hình
 
 Nhấn chọn **Hệ thống -> Thiết lập hệ thống**
 
+![thiet-lap-chung.jpg](img/thiet-lap-chung.jpg)
 
 Những thông tin cụ thể cần điền như sau:
 

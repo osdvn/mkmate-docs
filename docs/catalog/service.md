@@ -18,6 +18,8 @@ published: true
 
 **Bước 3** Trang tạo bài dịch vụ mới được mở ra, nhập thông tin các trường trong dịch vụ bao gồm:
 
+![dich-vu.jpg](img/dich-vu.jpg)
+
 Những thông tin cụ thể cần điền như sau:
 
 **Tên dịch vụ** Nhập tên dịch vụ bạn muốn hiển thị trên wesbite

@@ -8,15 +8,21 @@ Nhấn chọn **Giao diện -> Trình đơn**
 
 Để tạo nhóm menu bạn chọn nút **(+)** bên góc màn hình phải
 
+![trinh-don.jpg](img/trinh-don.jpg)
+
 Những thông tin cụ thể cần điền như sau
 
 **Nhóm menu Tiếng Việt** Nhập tên nhóm menu bằng tiếng Việt
+
+![trinh-don-1.jpg](img/trinh-don-1.jpg)
 
 Nhấn nút **Lưu** để hoàn tất
 
 ### Thêm danh mục menu tự do
 
 Để thêm danh mục menu bạn điền thông tin tại trường **Thêm menu tự do**
+
+![trinh-don-2.jpg](img/trinh-don-2.jpg)
 
 Những thông tin cụ thể cần điền như sau
 
@@ -30,13 +36,23 @@ Khi hoàn thành nhấn chọn **Thêm vào menu để hoàn tất**
 
 Tại trường **Thêm mục điều hướng**, bạn nhấn chọn danh sách thả xuống để chọn loại nội dung tương ứng cần thêm menu trên wesbite
 
+![trinh-don-3.jpg](img/trinh-don-3.jpg)
+
 Ví dụ: nhấn chọn **nhóm dịch vụ** hoặc nhóm bất kỳ => Gõ tên nhóm dịch vụ, hệ thống sẽ gợi ý cho bạn chọn
+
+![trinh-don-4.jpg](img/trinh-don-4.jpg)
 
 Sau khi chọn xong nhóm dịch vụ, các nhóm menu sẽ được hiển thị như sau
 
+![trinh-don-5.jpg](img/trinh-don-5.jpg)
+
 Tiếp theo, bạn cần nhấn chọn **Thêm vào menu**, các menu sẽ được chuyển sang màn hình bên phải, hình minh họa dưới đây, sau đó nhấn chọn **Cập nhật menu**
 
+![trinh-don-6.jpg](img/trinh-don-6.jpg)
+
 **Cấu hình menu cấp con** Nhấn và giữ menu cần tùy chỉnh cấp con và kéo, thả khoảng 1cm sau đó click Cập nhật menu để lưu lại vị trí thứ tự của menu. Xem chi tiết hình bên dưới.
+
+![trinh-don-7.jpg](img/trinh-don-7.jpg)
 
 Làm tương tự đối với các cấp menu nhỏ hơn
 
@@ -46,17 +62,28 @@ Nhóm Fotermenu hoặc các nhóm khác làm tương tự Topmenu. Có thể t�
 
 Sau khi thay đổi thông tin menu, bạn cần chọn **Lưu** để cập nhật
 
+![trinh-don-8.jpg](img/trinh-don-8.jpg)
+![trinh-don-9.jpg](img/trinh-don-9.jpg)
+
 ### Xóa danh mục trong nhóm menu
 
 Để xóa danh mục trong nhóm menu bạn chọn icon hình thùng rác bên cạnh **Sửa**. Chọn **OK**.
 
+![trinh-don-10.jpg](img/trinh-don-10.jpg)
+
 Hệ thống cảnh báo bạn chắc chắn muốn xóa với thông điệp như sau: "Xóa mục trình đơn Bạn có chắc chắn muốn xóa mục trình đơn này? **Phẫu thuật nâng mũi**. Việc này đồng thời cũng sẽ xóa các mục cấp dưới nếu có." => Chọn **Đồng ý** nếu chắc chắn xóa.
+
+![trinh-don-11.jpg](img/trinh-don-11.jpg)
 
 Sau khi thay đổi các thông tin - thiết lập của danh mục imenu trong nhóm menu, cần chọn **Lưu**, tiếp theo chọn **Cập nhật menu** để lưu lại những thay đổi.
 
 ### Cấu hình mô đun danh mục Topmenu muốn hiển thị trên website
 
 Đầu tiên bạn truy cập vào **Giao diện -> Mô-đun -> Menu/Trình đơn**
+
+![trinh-don-12.jpg](img/trinh-don-12.jpg)
+
+![trinh-don-13.jpg](img/trinh-don-13.jpg)
 
 Những thông tin cụ thể cần điền như sau
 
@@ -70,7 +97,10 @@ Tích vào ô check box để hiển thị tên nhóm menu trên website
 
 Hình minh họa cấu hình như dưới đây
 
+![trinh-don-14.jpg](img/trinh-don-14.jpg)	
+
 Hiển thị bên ngoài website như dưới đây
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+![trinh-don-15.jpg](img/trinh-don-15.jpg)
 
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.

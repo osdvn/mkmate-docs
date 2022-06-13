@@ -15,6 +15,8 @@ Cho phép quản lý các bài thông tin như bài giới thiệu, các bài vi
 
 Hình minh họa hiển thị ngoài website:
 
+![thong-tin.jpg](img/thong-tin.jpg)
+
 ## Thêm mới bài thông tin
 
 Tại đây bạn có thể quản lý các bài thông tin.
@@ -24,6 +26,8 @@ Tại đây bạn có thể quản lý các bài thông tin.
 **Bước 2** Nhấp chuột vào nút **Thêm**
 
 **Bước 3** Trang tạo thông tin mới được mở ra, điền các thông tin chi tiết của bài thông tin đó.
+
+![thong-tin-1.jpg](img/thong-tin-1.jpg)
 
 Bạn thêm các bài thông tin như Giới thiệu, các chính sách của công ty,...
 
