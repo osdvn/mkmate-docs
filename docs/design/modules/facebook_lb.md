@@ -1,3 +1,7 @@
+---
+title: Quản lý Facebook Like Box
+tags: [facebook]
+---
 # Quản lý Facebook Like Box
 
 Facebook Like Box nhằm tiếp cận khách hàng bằng cách kết nối mạng xã hội vào website, giúp mang lại thêm nhiều lượng truy cập, tương tác với khách hàng và dễ dàng lan truyền thông tin từ người dùng hơn.

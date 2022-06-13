@@ -1,5 +1,4 @@
 ---
-slug: finder
 title: Trình quản lý file
 tags: [finder, image manager]
 ---
