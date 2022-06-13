@@ -52,9 +52,6 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc l
 
 **FAQs** xem chi tiết tại đây
 
-**Nội dung**
-- Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề.
-
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
 **Meta title** Tự động lấy từ Tiêu đề, khi Meta title không khác tiêu đề thì không cần điền. Thẻ tiêu đề được hiển thị trên các trang kết quả của công cụ tìm kiếm dưới dạng tiêu đề có thể nhấp cho một kết quả nhất định và rất quan trọng đối với khả năng sử dụng, SEO và chia sẻ mạng xã hội
