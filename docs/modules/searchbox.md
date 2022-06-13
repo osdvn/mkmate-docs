@@ -8,11 +8,9 @@ Là khi người dùng thực hiện tìm kiếm trên thanh tìm kiếm, công 
 
 **Bước 2** Nhấp chuột vào nút **Cấu hình**
 
-![hop-tim-kiem.jpg (22 KB)](img/hop-tim-kiem.jpg)
-
 **Bước 3** Trang tạo cấu hình mô đun hộp tìm kiếm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-![hop-tim-kiem-1.jpg (47 KB)](hop-tim-kiem-1.jpg)
+![hop-tim-kiem.jpg](img/hop-tim-kiem.jpg)
 
 Những thông tin cần cấu hình như sau:
 
