@@ -17,7 +17,7 @@ Chức năng này sử dụng để thay thế tự động thông tin trong tư
 
 **Bước 3** Điền các thông tin chi tiết của danh mục đó.
 
-![mau-noi-dung-1.jpg](img/mau-noi-dung-1.jpg)
+![cn-mau-noi-dung-6.jpg](img/cn-mau-noi-dung-6.jpg)
 
 **Tên mẫu** Nhập tên ký hiệu biến ngắn gọn _(ví dụ: {{diachi}})_
 
@@ -31,14 +31,14 @@ Truy cập vài bài viết muốn hiển thị mẫu nội dung tự động:
 
 Nhập tên biến  đã tạo tại **Mẫu nội dung** vào trình soạn thảo của bài viết bằng cách gõ @ tại nơi muốn hiển thị mẫu nội dung, hệ thống sẽ gợi ý các mẫu nội dung cho bạn lựa chọn như sau:
 
-![mau-noi-dung-2.jpg](img/mau-noi-dung-2.jpg)
+![cn-mau-noi-dung-3.jpg](img/cn-mau-noi-dung-3.jpg)
 
 Sau khi dán tên biến vào form trình soạn thảo, màn hình sẽ hiển thị minh họa như sau:
 
-![mau-noi-dung-3.jpg](img/mau-noi-dung-3.jpg)
+![cn-mau-noi-dung-4.jpg](img/cn-mau-noi-dung-4.jpg)
 
 Bạn nhập tên biến ở vị trí nào sẽ hiển thị tên biến ở vị trí đó trong bài viết. Khi xem ngoài wesbite mẫu nội dung được hiển thị như sau:
 
-![mau-noi-dung-4.jpg](img/mau-noi-dung-4.jpg)
+![cn-mau-noi-dung-5.jpg](img/cn-mau-noi-dung-5.jpg)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
