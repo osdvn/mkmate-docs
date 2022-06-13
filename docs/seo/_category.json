@@ -1,9 +1,8 @@
 {
     "label": "SEO",
-    "position": 6,
+    "position": 5,
     "link": {
       "type": "generated-index",
       "description": "Cấu hình SEO cho website."
     }
-  }
-  
+}
