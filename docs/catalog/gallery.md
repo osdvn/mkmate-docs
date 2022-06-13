@@ -3,7 +3,11 @@ slug: gallery
 title: Quản lý Thư viện ảnh
 sidebar_position: 1
 sidebar_label: Thư viện ảnh
-tags: [gallery, photo, thư viện ảnh]
+tags:
+  - gallery
+  - photo
+  - thư viện ảnh
+published: true
 ---
 # Quản lý Thư viện ảnh
 
@@ -45,4 +49,12 @@ tags: [gallery, photo, thư viện ảnh]
 
 **Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, **Slug** không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu "-")
 
-_**Chú ý**: cần nhập nội dung tab tiếng Anh và nội dung tab tiếng Việt (nếu có)_
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn Lưu để hoàn tất.
+
+## Xóa thư viện ảnh
+
+Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và chọn **Xóa**.
+
+## Sửa thư viện ảnh
+
+Để sửa thư viện ảnh, nhấn chọn vào bài thư viện ảnh đó để sửa, sau khi thay đổi các thông tin - thiết lập của thư viện ảnh, cần chọn **Lưu** để lưu lại những thay đổi.
