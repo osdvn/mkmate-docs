@@ -9,11 +9,9 @@ Cấu hình một hệ thống kinh doanh theo chuỗi gồm từ hai hay nhiề
 
 **Bước 2** Nhấp chuột vào nút **Cấu hình**
 
-![he-thong-cua-hang]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/he-thong-cua-hang.jpg)
-
 **Bước 3** Trang tạo cấu hình mô đun hệ thống cửa hàng được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-![he-thong-cua-hang-1]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/he-thong-cua-hang-1.jpg)
+![he-thong-cua-hang-1.jpg (69 KB)](img/he-thong-cua-hang-1.jpg)
 
 Những nội dung cần điền như sau:
 
@@ -29,7 +27,7 @@ Những nội dung cần điền như sau:
 
 - Loại bản đồ: hiển thị minh họa như sau:
 
-![he-thong-cua-hang-ban-do]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/he-thong-cua-hang-ban-do.jpg)
+![he-thong-cua-hang-ban-do.jpg (235 KB))](img/he-thong-cua-hang-ban-do.jpg)
 
 - Loại danh sách: được hiển thị theo list danh sách các điểm cửa hàng
 
