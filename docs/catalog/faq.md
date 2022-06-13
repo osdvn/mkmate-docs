@@ -9,7 +9,6 @@ Câu hỏi thường gặp là các câu hỏi và trả lời thường theo c�
 - Hỏi thẳng vào vấn đề Những câu hỏi này chủ yếu áp dụng trong những trường hợp bạn cần câu trả lời dứt khoát hoặc cần khẳng định lại câu trả lời.
 - Đưa những câu hỏi mở thăm dò Những câu hỏi này nhằm thăm dò ý kiến, khiến cho người được hỏi có thể đưa ra thêm các thông tin giải đáp những điều người đọc thường thắc mắc.
 
-
 **Nội dung**
 - Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề.
 
