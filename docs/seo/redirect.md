@@ -15,3 +15,4 @@ URL cũ: nhập tên URL cũ vào button, URL được xác định bị xóa kh
 URL đích: nhập địa chỉ URL trang đích mà bạn muốn chuyển hướng đến, thao tác này thực hiện chuyển hướng người dùng lẫn bộ máy tìm kiếm từ một đường dẫn URL qua một đường dẫn URL khác (ví dụ: https://osd.vn/news/blog)
 
 Sau đó chọn **Lưu**
+
