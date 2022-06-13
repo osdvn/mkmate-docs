@@ -6,11 +6,9 @@ Logo website sẽ được hiển thị góc trái hoặc giữa màn hình. Đ�
 
 **Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện -> Nhận diện**
 
-![142418_ql-logo-1](../media/data/uploads/2022/04/04/142418_ql-logo-1.jpg)
-
-![nhandien]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/nhandien.jpg)
-
 **Bước 2** Trang tạo logo mới được mở ra, cập nhật logo website tại đây
+
+![nhandien.jpg (122 KB)](../media/data/news/2022/hdsd-pisale/nhandien.jpg)
 
 **Logo** Nhấn chọn **Chọn** để tải logo từ máy tính của bạn lên trình quản lý file
 
