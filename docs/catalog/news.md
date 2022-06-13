@@ -20,6 +20,8 @@ published: true
 
 **Bước 3** Trang tạo tin bài mới được mở ra, nhập thông tin các trường tin bài bao gồm:
 
+![tin-bai)](img/tin-bai.jpg)
+
 Những thông tin cụ thể cần điền như sau
 
 **Tiêu đề** Nhập tên bài tin bạn muốn hiển thị trên wesbite
