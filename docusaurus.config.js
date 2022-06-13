@@ -62,7 +62,7 @@ const config = {
         title: 'Mkmate',
         logo: {
           alt: 'Mkmate',
-          src: 'img/logo.svg',
+          src: '//asset.osd.vn/mkmate.png',
         },
         items: [
           {
