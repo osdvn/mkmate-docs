@@ -4,6 +4,8 @@ Câu hỏi thường gặp là các câu hỏi và trả lời thường theo c�
 
 ## Thêm mới câu hỏi thường gặp
 
+![faqs.jpg](img/faqs.jpg)
+
 **Tiêu đề**
 - Dựa vào mục đích của dịch vụ để đặt câu hỏi, bạn có thể sử dụng các cách thức sau:
 - Hỏi thẳng vào vấn đề Những câu hỏi này chủ yếu áp dụng trong những trường hợp bạn cần câu trả lời dứt khoát hoặc cần khẳng định lại câu trả lời.
