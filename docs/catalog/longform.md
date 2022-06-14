@@ -10,9 +10,11 @@ published: true
 # Quản lý bài Longform
 Bài longform là loại bài viết dùng cho những nội dung trình bày có độ phức tạp và phi cấu trúc, là 1 dạng đơn giản của cách thiết kế landingpage.
 
-**Bước 1** Tại màn hình quản trị, bạn chọn mục **Nội dung -> Longform** => **Thêm**
+## Thêm bài longform
 
-**Bước 2** Trang tạo landingpage mới được mở ra, điền các thông tin chi tiết của bài thông tin đó.
+1. Tại màn hình quản trị, bạn chọn mục **Nội dung -> Longform** => **Thêm**
+
+2. Trang tạo landingpage mới được mở ra, điền các thông tin chi tiết của bài thông tin đó.
 
 Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile**, nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
@@ -51,14 +53,18 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 **Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
 
-**Meta title** Tự động lấy từ Tiêu đề, khi Meta title không khác tiêu đề thì bạn không cần điền
-
-**Meta Description** Tự động lấy từ Sapo, khi Meta Description không khác sapo thì bạn không cần điền
-
-**Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề bài longform (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, Slug không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“)
-
 **Trạng thái** Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự** Đánh thứ tự hiển thị của bài thông tin (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
-Sau khi hoàn tất các thao tác để thêm mới bài thông tin, đừng quên ấn nút **Lưu** nhé.
+3. Sau khi hoàn tất các thao tác để thêm mới bài thông tin, đừng quên ấn nút **Lưu** nhé.
+
+## Xóa bài longform
+
+Để xóa một bài viết longform, tích vào bài viết longform đó và chọn **Xóa**.
+
+## Sửa bài longform
+
+Để sửa một bài viết longform, nhấn chọn vào bài longform đó để sửa, sau khi thay đổi các thông tin - thiết lập của bài viết tin cần chọn **Lưu** để lưu lại những thay đổi.
+
+
