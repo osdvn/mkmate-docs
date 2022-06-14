@@ -28,7 +28,7 @@ Tùy chỉnh màn hình Tablet:
 
 ![long-form-2.jpg](img/long-form-2.jpg)
 
-Tùy chỉnh màn hình Mobile
+Tùy chỉnh màn hình Mobile:
 
 ![long-form-3.jpg](img/long-form-3.jpg)
 
@@ -56,6 +56,10 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 **Trạng thái** Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự** Đánh thứ tự hiển thị của bài thông tin (với số 0 là số lớn nhất được hiển thị đầu tiên)
+
+Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
+
+Xem chi tiết **tại đây**
 
 3. Sau khi hoàn tất các thao tác để thêm mới bài thông tin, đừng quên ấn nút **Lưu** nhé.
 
