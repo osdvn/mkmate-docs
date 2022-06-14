@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 # Quản lý bài Longform
-Bài longform là loại bài viết dùng cho những nội dung trình bày có độ phức tạp và phi cấu trúc, là 1 dạng đơn giản của cách thiết kế landing page.
+Bài longform là loại bài viết dùng cho những nội dung trình bày có độ phức tạp và phi cấu trúc, là 1 dạng đơn giản của cách thiết kế landingpage.
 
 **Bước 1** Tại màn hình quản trị, bạn chọn mục **Nội dung -> Longform** => **Thêm**
 
