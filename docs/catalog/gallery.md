@@ -25,7 +25,7 @@ Những thông tin cụ thể cần điền như sau:
 
 **Thư viện ảnh** Upload các bộ ảnh trình bày kiểu gallery
 *   **Tên album (Tiếng Việt)**: nhập tên cho mỗi ảnh trong bộ sưu tập
-*   **Nội dung**: mô tả ảnh trong bộ sưu tập (nếu có)
+*   **Mô tả hình ảnh (Tiếng Việt)**: mô tả ảnh trong bộ sưu tập
 *   **Hình ảnh**: Nhấp chọn nút **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
 **Ảnh đại diện** Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
