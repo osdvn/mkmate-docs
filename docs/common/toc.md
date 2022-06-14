@@ -13,8 +13,8 @@ Cách làm mục lục tự động bao gồm 2 bước cơ bản: (1) Đánh d�
 
 1. Đánh dấu mục lục
 
-- Lựa chọn nội dung bạn muốn định dạng thành heading. Bôi đên hoặc click trỏ chuột vào vùng nội dung đó
-- Tại nút Format trên thanh công cụ của trình soạn thảo, chọn heading 2 (hoặc chọn heading tùy chỉnh)
+- Lựa chọn nội dung bạn muốn định dạng thành heading. Bôi đen hoặc click trỏ chuột vào vùng nội dung đó.
+- Tại nút **Format** trên thanh công cụ của trình soạn thảo, chọn heading 2 (hoặc chọn heading tùy chỉnh)
 
 2. Cách hiển thị mục lục
 
