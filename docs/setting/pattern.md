@@ -8,8 +8,8 @@ published: true
 ---
 # Quản lý Mẫu nội dung
 Chức năng này sử dụng để thay thế tự động thông tin trong tương lai dễ bị thay đổi trong tin bài.
+
 ## Thêm mẫu nội dung
-Để cấu hình mô đun mẫu nội dung, bạn cần:
 
 **Bước 1** Tại màn hình quản trị, bạn chọn mục **Hệ thống => Mẫu nội dung** hoặc **Hệ thống => Quản lý mẫu => Mẫu nội dung**
 
@@ -17,13 +17,11 @@ Chức năng này sử dụng để thay thế tự động thông tin trong tư
 
 **Bước 3** Điền các thông tin chi tiết của danh mục đó.
 
-![cn-mau-noi-dung-6.jpg](img/cn-mau-noi-dung-6.jpg)
-
 **Tên mẫu** Nhập tên ký hiệu biến ngắn gọn _(ví dụ: `{{ diachi }}` )_
 
 **Nội dung cần thay thế** Nhập tiêu đề và nội dung hiển thị trên website
 
-**Phạm vi** Phạm vi bố cục hiển thị mẫu nội dung này. Tại đây hệ thống cho phép lựa chọn 4 tab hiển thị 4 bố cục khác nhau: **_Mô tả chi tiết, Tab nhóm sản phẩm, Tab sản phẩm, Tab dịch vụ_**
+**Phạm vi** Phạm vi bố cục hiển thị mẫu nội dung này. Tại đây hệ thống cho phép lựa chọn 4 tab hiển thị 4 bố cục khác nhau: **_Nội dung chi tiết, Tab dịch vụ_**
 
 ## Hướng dẫn nhanh điền mẫu nội dung trong thông tin bài viết
 

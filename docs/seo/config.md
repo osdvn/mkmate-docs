@@ -14,7 +14,6 @@ Thông tin này sẽ hiển thị trên công cụ tìm kiếm Google khi ngư�
 
 **Meta title** Tiêu đề của trang web, được hiển thị trên trình duyệt web của người dùng _(ví dụ: OSD.VN | Online Service Development)_
 
-Ví dụ hình minh họa dưới đây:
 
 **Meta description** Nhập một đoạn nội dung miêu tả cho trang (sẽ hiển thị trên google khi tìm kiếm www.osd.vn).
 
