@@ -12,13 +12,9 @@ published: true
  
 # Thêm bài dịch vụ mới
 
-**Bước 1** Tại màn hình quản trị, bạn chọn **Nội dung -> Dịch vụ**
+1.  Tại màn hình quản trị, bạn chọn **Nội dung -> Dịch vụ -> Thêm**
 
-**Bước 2** Nhấp chuột vào **Thêm**
-
-**Bước 3** Trang tạo bài dịch vụ mới được mở ra, nhập thông tin các trường trong dịch vụ bao gồm:
-
-![dich-vu.jpg](img/dich-vu.jpg)
+2.  Trang tạo bài dịch vụ mới được mở ra, nhập thông tin các trường trong dịch vụ bao gồm:
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -30,7 +26,7 @@ Những thông tin cụ thể cần điền như sau:
 
 Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) viết bài chuẩn SEO đạt kết quả cao](https://osd.vn/huong-dan-tu-van-ky-thuat-viet-bai-chuan-seo-dat-ket-qua-cao.html)
 
-Ảnh đại diện Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh dịch vụ từ máy tính và tải lên
+**Ảnh đại diện** Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh dịch vụ từ máy tính và tải lên
 
 **Thư viện ảnh** Nhấp chọn nút Thêm ảnh để chọn tải nhiều ảnh cùng một dịch vụ lên trình quản lý ảnh
 
