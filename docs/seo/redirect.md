@@ -1,5 +1,14 @@
+---
+title: Quản lý tin bài
+sidebar_position: 2
+sidebar_label: Chuyển hướng URL
+tags:
+  - seo
+  - 301
+  - redirect
+---
 
-# Quản lý Chuyển hướng URL
+# Quản lý Chuyển hướng URL (301 redirect)
 
 Redirect 301 hay còn gọi là chuyển hướng URL là phương pháp chuyển hướng nhằm thông báo rằng các URL hoặc các trang web đã được chuyển hướng vĩnh viễn sang một URL hoặc một trang web khác. Điều này có nghĩa là tất cả các giá trị của trang web hoặc URL gốc như hình ảnh, nội dung… sẽ được chuyển hết sang URL mới.
 
