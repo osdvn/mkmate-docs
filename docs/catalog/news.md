@@ -30,9 +30,9 @@ Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) vi�
 
 **Câu hỏi thường gặp** Xem tại đây
 
-**Hình ảnh** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
+**Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
 
-**Chuyên mục** Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó vào
+**Chuyên mục** Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó
 
 **Tag** Nhập từ khóa cho tin bài và ngăn cách nhau bằng dấu phẩy
 
@@ -54,16 +54,18 @@ Sau khi hoàn tất các thao tác để thêm mới tin bài, đừng quên ấ
 
 ## Xóa một tin bài
 
-**Cách 1:** Xóa bài tin tại menu thả danh sách xuống bên trái
+**Cách 1:** Xóa tin bài tại menu thả danh sách xuống bên trái
 
 Nhấn tích vào tin bài đó và chọn **Xóa**.
 
 Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
 
-**Cách 2:** Xóa tại bài tin chi tiết
+**Cách 2:** Xóa tại tin bài chi tiết
 
-Truy cập vào bài tin chi tiết, tại góc phải màn hình bạn nhấn chọn tab **Xóa bài**. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
+Truy cập vào tin bài chi tiết, tại góc phải màn hình bạn nhấn chọn tab **Xóa bài**.
+
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
 
 ## Sửa một tin bài
 
-Nhấn chọn trực tiếp tại bài tin muốn sửa, sau khi thay đổi các thông tin - thiết lập của bài viết cần chọn **Lưu** để hoàn tất.
+Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin - thiết lập của bài viết cần chọn **Lưu** để hoàn tất.
