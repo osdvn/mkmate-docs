@@ -20,7 +20,7 @@ published: true
 
 3. Trang tạo tin bài mới được mở ra, nhập thông tin các trường tin bài bao gồm:
 
-![tin-bai)](img/tin-bai.jpg)
+![tin-bai.jpg](img/tin-bai.jpg)
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -60,16 +60,24 @@ Sau khi hoàn tất các thao tác để thêm mới tin bài, đừng quên ấ
 
 ## Xóa một tin bài
 
-**Cách 1:** Xóa bài tin tại menu thả danh sách xuống bên trái
+1. Xóa bài tin tại menu thả danh sách xuống bên trái
 
 Nhấn tích vào tin bài đó và chọn **Xóa**.
 
+![tin-bai-1.jpg](img/tin-bai-1.jpg)
+
 Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
 
-**Cách 2:** Xóa tại bài tin chi tiết
+![tin-bai-2.jpg](img/tin-bai-2.jpg)
+
+2. Xóa tại bài tin chi tiết
 
 Truy cập vào bài tin chi tiết, tại góc phải màn hình bạn nhấn chọn tab **Xóa bài**. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
+
+![tin-bai)](img/tin-bai.jpg)
 
 ## Sửa một tin bài
 
 Nhấn chọn **Sửa** trực tiếp ở tin bài đó, sau khi thay đổi các thông tin - thiết lập của bài viết cần chọn **Lưu** để hoàn tất.
+
+![tin-bai)](img/tin-bai.jpg)
