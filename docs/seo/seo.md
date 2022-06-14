@@ -1,5 +1,4 @@
 ---
-slug: seo
 title: Cấu hình SEO
 tags:
   - seo
