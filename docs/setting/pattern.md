@@ -19,7 +19,7 @@ Chức năng này sử dụng để thay thế tự động thông tin trong tư
 
 ![cn-mau-noi-dung-6.jpg](img/cn-mau-noi-dung-6.jpg)
 
-**Tên mẫu** Nhập tên ký hiệu biến ngắn gọn _(ví dụ: {{diachi}})_
+**Tên mẫu** Nhập tên ký hiệu biến ngắn gọn _(ví dụ: `{{ diachi }}` )_
 
 **Nội dung cần thay thế** Nhập tiêu đề và nội dung hiển thị trên website
 
