@@ -2,7 +2,10 @@
 slug: longform
 sidebar_label: Longform
 title: Quản lý longform
-tags: [longform, landingpage]
+tags:
+  - longform
+  - landingpage
+published: true
 ---
 # Quản lý bài Longform
 Bài longform là loại bài viết dùng cho những nội dung trình bày có độ phức tạp và phi cấu trúc, là 1 dạng đơn giản của cách thiết kế landing page.
@@ -11,23 +14,23 @@ Bài longform là loại bài viết dùng cho những nội dung trình bày c�
 
 **Bước 2** Trang tạo landingpage mới được mở ra, điền các thông tin chi tiết của bài thông tin đó.
 
-Bạn thêm các bài long form theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile**, nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
+Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile**, nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
-![tuy-chinh-phien-ban.jpg (105 KB)](img/tuy-chinh-phien-ban.jpg)
+![long-form.jpg](img/long-form.jpg)
 
 Tùy chỉnh màn hình Desktop:
 
-![bai-long-form.jpg (601 KB)](img/bai-long-form.jpg)
+![long-form-1.jpg](img/long-form-1.jpg)
 
 Tùy chỉnh màn hình Tablet:
 
-![bai-long-form-tablet.jpg (521 KB)](img/bai-long-form-tablet.jpg)
+![long-form-2.jpg](img/long-form-2.jpg)
 
 Tùy chỉnh màn hình Mobile
 
-![bai-long-form-mobile.jpg (333 KB)](img/bai-long-form-mobile.jpg)
+![long-form-3.jpg](img/long-form-3.jpg)
 
-Taị đây bạn có thể thêm, sửa, xóa bài long form:
+Taị đây bạn có thể thêm, sửa, xóa bài longform:
 
 **Tên landing page** Tiêu đề là một phần quan trọng hàng đầu của bài viết. Tiêu đề quyết định đến số lượng người truy cập bài viết của bạn bởi nó là phần đầu tiên trong bài viết tiếp cận đến người đọc, nó mang sứ mệnh thu hút và kích thích sự tò mò, ý muốn khám phá bài viết ở người đọc.
 
@@ -44,7 +47,7 @@ Taị đây bạn có thể thêm, sửa, xóa bài long form:
 
 Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
-# (thiếu ảnh cần bổ sung)
+![long-form-4.jpg](img/long-form-4.jpg)
 
 **Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
 
@@ -52,9 +55,9 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 **Meta Description** Tự động lấy từ Sapo, khi Meta Description không khác sapo thì bạn không cần điền
 
-**Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề bài long form (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, Slug không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“)
+**Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề bài longform (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, Slug không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“)
 
-**Trạng thái** Lựa chọn trạng thái hiển thị bài long form (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái** Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự** Đánh thứ tự hiển thị của bài thông tin (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
