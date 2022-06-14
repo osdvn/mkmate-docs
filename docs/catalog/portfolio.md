@@ -21,11 +21,11 @@ Tại đây bạn có thể quản lý các bài dự án tiêu biểu.
 
 **Tiêu đề** Tiêu đề là một phần quan trọng hàng đầu của bài viết. Tiêu đề quyết định đến số lượng người truy cập bài viết của bạn bởi nó là phần đầu tiên trong bài viết tiếp cận đến người đọc, nó mang sứ mệnh thu hút và kích thích sự tò mò, ý muốn khám phá bài viết ở người đọc.
 
-**Mô tả ngắn** Mô tả chi tiết bài dự án tiêu biểu để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh.
+**Mô tả ngắn** Mô tả tóm tắt bài dự án tiêu biểu.
 
-Mô tả
+**Mô tả** Mô tả chi tiết bài dự án tiêu biểu để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh.
 
-Thư viện ảnh
+**Thư viện ảnh** Nhấn chọn **Thêm ảnh => Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
 
 **Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có)
 
@@ -38,7 +38,6 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
 
 Sau khi hoàn tất các thao tác để thêm mới bài dự án tiêu biểu, đừng quên ấn nút **Lưu** nhé.
-
 
 ## Xóa bài dự án tiêu biểu
 
