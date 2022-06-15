@@ -1,3 +1,7 @@
+---
+title: Câu hỏi thường gặp
+tags: [faqs, câu hỏi thường gặp, SEO]
+---
 # Quản lý câu hỏi thường gặp
 
 Câu hỏi thường gặp là các câu hỏi và trả lời thường theo cùng một chủ đề nhất định. Tập hợp những câu hỏi phổ biến thường có xu hướng được hỏi đi hỏi lại, giúp người đọc hiểu rõ hơn về dịch vụ của bạn.

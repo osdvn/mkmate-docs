@@ -1,5 +1,5 @@
 ---
-title: Logic xóa mục
+title: Logic xóa
 tags: [xóa, delete]
 ---
 # Logic xóa các mục, các thành phần thông tin trong một nội dung
