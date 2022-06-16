@@ -28,7 +28,7 @@ Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) vi�
 
 **Ảnh đại diện** Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh dịch vụ từ máy tính và tải lên
 
-**Thư viện ảnh** Nhấp chọn nút Thêm ảnh để chọn tải nhiều ảnh cùng một dịch vụ lên trình quản lý ảnh
+**Thư viện ảnh** Nhấp chọn nút **Thêm ảnh** để chọn tải nhiều ảnh cùng một dịch vụ lên trình quản lý ảnh
 
 **Giá bán** Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một dịch vụ.
 
