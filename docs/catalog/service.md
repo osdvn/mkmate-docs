@@ -36,7 +36,7 @@ Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) vi�
 
 **Mục lục tự động** Xem [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
-**Nổi bật** 
+**Nổi bật** Xem tại đây
 
 **Ngày xuất bản** Lựa chọn ngày xuất bản cho bài dịch vụ
 
