@@ -5,11 +5,9 @@
 
 ## Thêm một nhóm dịch vụ bạn cần:
 
-**Bước 1** Tại màn hình quản trị, bạn chọn menu **Nội dung -> Nhóm và danh mục -> Nhóm dịch vụ**
+1. Tại màn hình quản trị, bạn chọn menu **Nội dung -> Nhóm và danh mục -> Nhóm dịch vụ -> Thêm**
 
-**Bước 2** Nhấp chuột vào **Thêm**
-
-**Bước 3** Trang tạo nhóm dịch vụ mới được mở ra, điền các thông tin chi tiết của nhóm dịch vụ đó.
+2. Trang tạo nhóm dịch vụ mới được mở ra, điền các thông tin chi tiết của nhóm dịch vụ đó.
 
 ![nhom-dich-vu.jpg](img/nhom-dich-vu.jpg)
 
@@ -33,13 +31,9 @@ _Những thông tin cụ thể cần điền như sau:_
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
-**Meta title** Tự động lấy từ Tiêu đề, khi Meta title không khác tiêu đề thì không cần điền. Thẻ tiêu đề được hiển thị trên các trang kết quả của công cụ tìm kiếm dưới dạng tiêu đề có thể nhấp cho một kết quả nhất định và rất quan trọng đối với khả năng sử dụng, SEO và chia sẻ mạng xã hội
+Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
 
-**Meta Description** Tự động lấy từ Sapo, khi Meta Description không khác sapo thì không cần điền. Meta description là thẻ mô tả tóm tắt nội dung của trang web, giúp công cụ tìm kiếm và người đọc có thể hiểu rõ hơn được về chủ đề trang web của bạn
-
-**Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề nhóm dịch vụ (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, Slug không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“)
-
-**Bước 4** Nhấp chuột vào nút **Lưu** để hoàn tất
+Nhấp chuột vào nút **Lưu** để hoàn tất
 
 ## Xóa nhóm dịch vụ
 
