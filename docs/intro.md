@@ -22,4 +22,4 @@ Chiến lược phát triển của Mkmate hướng tới nhữmg ngành nghề 
 5. Kiểm soát lỗi chặt chẽ
 7. Tăng tính nhất quán về cấu trúc thông tin
 
-Bên phát triển sản phẩm, OSD.VN còn thực hiện viết hướng dẫn trên website [F1.edu.vn](https://f1.edu.vn) nhằm giúp team nhỏ, mức độ cạnh tranh không cao có thể tự thực hiện SEO mà không cần đến OSD.VN team.
+Song song với việc phát triển sản phẩm, OSD.VN còn duy trì cộng đồng nghiệp vụ SEO chuyên sâu tại [F1.edu.vn](https://f1.edu.vn) nhằm giúp những team nhỏ, mức độ cạnh tranh sản phẩm không cao có thể tự thực hiện SEO mà không cần đến hiểu biết và tiêu tốn nguồn lực vào SEO.

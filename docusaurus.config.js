@@ -95,7 +95,7 @@ const config = {
                 to: '/blog/changelog',
               },
               {
-                label: 'Lộ trình phát triển',
+                label: 'Roadmap',
                 to: '/blog/roadmap',
               }
             ],
