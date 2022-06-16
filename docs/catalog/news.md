@@ -28,7 +28,7 @@ Những thông tin cụ thể cần điền như sau:
 
 Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) viết bài chuẩn SEO đạt kết quả cao](https://osd.vn/huong-dan-tu-van-ky-thuat-viet-bai-chuan-seo-dat-ket-qua-cao.html).
 
-**Câu hỏi thường gặp** Xem tại đây
+**Câu hỏi thường gặp** Xem [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 **Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
 
@@ -46,7 +46,7 @@ Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) vi�
 
 **Tin bài liên quan** Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
-Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
+_Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
 Xem [tại đây](https://mkmate.osd.vn/docs/common/seo/)
 
@@ -54,7 +54,7 @@ Sau khi hoàn tất các thao tác để thêm mới tin bài, đừng quên ấ
 
 ## Xóa một tin bài
 
-**Cách 1:** Xóa tin bài tại menu thả danh sách xuống bên trái
+**Cách 1:** Xóa tin bài tại danh sách các tin bài
 
 Nhấn tích vào tin bài đó và chọn **Xóa**.
 
