@@ -15,15 +15,15 @@ _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm dịch vụ._
 
 _Những thông tin cụ thể cần điền như sau:_
 
-**Tên nhóm dịch vụ** Mỗi nhóm dịch vụ được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những dịch vụ mà bạn đã thêm vào.
+**Tên nhóm dịch vụ** Mỗi nhóm dịch vụ được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài dịch vụ mà bạn đã thêm vào.
 
-**Mô tả phía trên** Là phần nội dung mở đầu của một nhóm dịch vụ, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài dịch vụ. Được hiển thị phía trên danh sách các bài dịch vụ
+**Mô tả phía trên** Là phần nội dung mở đầu của một nhóm dịch vụ, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài dịch vụ. Được hiển thị phía trên danh sách các bài dịch vụ.
 
-**Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm dịch vụ, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài dịch vụ. Được hiển thị phía dưới danh sách các bài dịch vụ
+**Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm dịch vụ, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài dịch vụ. Được hiển thị phía dưới danh sách các bài dịch vụ.
 
-**Ảnh đại diện** Để upload được ảnh, bạn cần chọn Duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. _(Ví dụ: ảnh nhóm dịch vụ sẽ upload lên thư mục nhom-dich-vu có sẵn tại trình quản lý file hoặc bạn có thể tạo mới bằng cách nhấn chọn vào thư mục data (thư mục gốc) rồi chọn New folder, tiếp theo bạn nhập tên thư mục là nhom-dich-vu và tải ảnh dịch vụ hoặc nhóm dịch vụ lên thư mục này)_ Xem chi tiết cách upload ảnh [tại đây](../common/finder)
+**Ảnh đại diện** Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](../common/finder)
 
-**Cấp danh mục cha** Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục dịch vụ, hệ thống gợi ý tên danh mục để bạn lựa chọn _(ví dụ: Phẫu thuật thẩm mỹ)_. Hình minh họa:
+**Cấp danh mục cha** Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục dịch vụ, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
 **Thứ tự** Đánh thứ tự hiển thị của danh mục nhóm dịch vụ (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
@@ -33,17 +33,15 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất
+Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa nhóm dịch vụ
 
-**Cách 1**:
-
-Xóa tại nhóm dịch vụ chi tiết
+**Cách 1**: Xóa tại nhóm dịch vụ chi tiết
 
 Truy cập nhóm dịch vụ chi tiết, bên góc phải màn hình nhấn chọn tab **Xóa nhóm dịch vụ**
 
-**Cách 2**:
+**Cách 2**: Xóa tại danh sách nhóm các bài dịch vụ
 
 Nhấn chọn tích tại nhóm dịch vụ muốn xóa và chọn **Xóa**
 
