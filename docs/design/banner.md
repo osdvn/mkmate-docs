@@ -22,31 +22,21 @@ Với banner muốn trình bày nhiều kiểu bố cục khác nhau, bạn có 
 
 _Tại đây bạn có thể quản lý các banner đã tạo._
 
-**Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện -> Banner**
+1. Tại màn hình quản trị, bạn chọn mục **Giao diện -> Banner -> Thêm**
 
-**Bước 2** Nhấp chuột vào nút **Thêm**. 
+2. Trang tạo banner mới được mở ra, điền các thông tin chi tiết của nhóm banner đó.
 
-**Bước 3** Trang tạo banner mới được mở ra, điền các thông tin chi tiết của nhóm banner đó.
+**Tên nhóm banner** Nhập tên banner tương ứng để quản lý nhóm banner theo logic, phân loại nhóm banner đuợc cấu hình vị trí bố cục khác nhau trên website (ví dụ: Banner giới thiệu, banner trang chủ, banner các trang thương hiệu, banner trang sản phẩm, banner trang tin tức)
+**Trạng thái** Lựa chọn trạng thái hiển thị banner (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Tiêu đề** Đây là yếu tố quan trọng để khách hàng ấn tượng với nhãn hiệu của bạn. Thông điệp ngắn gọn, xúc tích, mạnh mẽ và truyền cảm hứng nhất tới khách hàng
+**Link** Dán liên kết tại đây. Khi xem ngoài website và click vào ảnh hệ thống sẽ chuyển hướng tới liên kết này.
+**Mô tả** Nội dung mô tả ngắn gọn, cung cấp đầy đủ thông tin hữu ích, tạo niềm tin cho người đọc.
+**Desktop** Upload ảnh banner theo kích thước desktop
+**Mobile** Upload ảnh banner theo kích thước mobile
+**Thứ tự** Đánh số thứ tự cho banner (với số 0 là số lớn nhất được hiển thị đầu tiên)
+**Thêm banner** Nhấn chọn để thêm nhiều banner khác nhau.
 
-- **Tên nhóm banner** Nhập tên banner tương ứng để quản lý nhóm banner theo logic, phân loại nhóm banner đuợc cấu hình vị trí bố cục khác nhau trên website (ví dụ: Banner giới thiệu, banner trang chủ, banner các trang thương hiệu, banner trang sản phẩm, banner trang tin tức)
-- **Trạng thái** Lựa chọn trạng thái hiển thị banner (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-- **Tiêu đề** Đây là yếu tố quan trọng để khách hàng ấn tượng với nhãn hiệu của bạn. Thông điệp ngắn gọn, xúc tích, mạnh mẽ và truyền cảm hứng nhất tới khách hàng
-- **Link** Dán liên kết tại đây. Khi xem ngoài website và click vào ảnh hệ thống sẽ chuyển hướng tới liên kết này.
-- **Mô tả** Nội dung mô tả ngắn gọn, cung cấp đầy đủ thông tin hữu ích, tạo niềm tin cho người đọc.
-- **Desktop** Upload ảnh banner theo kích thước desktop
-- **Mobile** Upload ảnh banner theo kích thước mobile
-- **Thứ tự** Đánh số thứ tự cho banner (với số 0 là số lớn nhất được hiển thị đầu tiên)
-- **Thêm banner** Nhấn chọn để thêm nhiều banner khác nhau.
-
-**Bước 4** Sau đó nhấn **Lưu** để hoàn tất
-
-### Sửa một nhóm banner
-
-Để thay đổi thông tin các trường trong nhóm banner, bạn chọn nhấn chọn trực tiếp tại nhóm banner.
-
-Để sửa một ảnh trong nhóm banner, nhấn **Chọn ảnh** để tải lại ảnh tại nhóm banner đó
-
-Sau khi thay đổi các thông tin - thiết lập của banner bạn cần chọn **Lưu** để hoàn tất.
+Sau đó nhấn **Lưu** để hoàn tất
 
 ### Xóa một nhóm banner
 
@@ -57,6 +47,14 @@ Sau khi thay đổi các thông tin - thiết lập của banner bạn cần ch�
 Hoặc Để xóa một nhóm banner, nhấp chuột vào nút 3 chấm cuối nhóm banner và chọn nút **Xóa**.
 
 Hệ thống hiển thị popup **Xóa** bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?. Chọn **Ok**
+
+### Sửa một nhóm banner
+
+Để thay đổi thông tin các trường trong nhóm banner, bạn chọn nhấn chọn trực tiếp tại nhóm banner.
+
+Để sửa một ảnh trong nhóm banner, nhấn **Chọn ảnh** để tải lại ảnh tại nhóm banner đó
+
+Sau khi thay đổi các thông tin - thiết lập của banner bạn cần chọn **Lưu** để hoàn tất.
 
 ## Cấu hình banner ngoài trang chủ website
 
