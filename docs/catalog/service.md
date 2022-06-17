@@ -28,47 +28,47 @@ Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) vi�
 
 **Ảnh đại diện** Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh dịch vụ từ máy tính và tải lên
 
-**Thư viện ảnh** Nhấp chọn nút Thêm ảnh để chọn tải nhiều ảnh cùng một dịch vụ lên trình quản lý ảnh
-
-**Giá bán** Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một dịch vụ.
+**Nhóm dịch vụ** Bạn có thể thêm dịch vụ vào nhiều danh mục khác nhau.
 
 **Mã dịch vụ** Là một dạng quy ước giúp phân loại dịch vụ.
 
+**Giá** Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một dịch vụ.
+
+**Mục lục tự động** Xem [tại đây](https://mkmate.osd.vn/docs/common/toc)
+
+**Nổi bật** Xem [tại đây](https://mkmate.osd.vn/docs/common/hightlight)
+
 **Ngày xuất bản** Lựa chọn ngày xuất bản cho bài dịch vụ
 
-Trạng thái Lựa chọn trạng thái hiển thị cho bài dịch vụ (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái** Lựa chọn trạng thái hiển thị cho bài dịch vụ (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự** Đánh thứ tự hiển thị của dịch vụ (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
-**Nhóm dịch vụ** Bạn có thể thêm dịch vụ vào nhiều danh mục khác nhau.
+**Thư viện ảnh** Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài dịch vụ.
 
 **Dịch vụ liên quan** Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
-**Tin bài liên quan**
+**Tin bài liên quan** Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
-Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
-
-**FAQs** xem chi tiết tại đây
+**FAQs** xem chi tiết [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
 Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
 
-**Bước 4** Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấp chuột vào nút **Lưu** để hoàn tất.
 
-Có 2 lựa chọn cho bạn là **Lưu, Lưu và thêm**
+### Có 2 lựa chọn lưu bài dịch vụ
 
 Khi bạn nhấn chọn **Lưu**, hệ thống thông báo lưu thành công và ở tại cùng 1 cửa sổ màn hình bài dịch vụ vừa thêm mới đó.
 
 Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lưu dữ liệu và mở một trang dịch vụ mới để bạn tiếp tục thêm.
 
-_Chú ý: cần nhập nội dung English và nội dung tiếng Việt nếu có_
-
 ## Xóa một bài dịch vụ
 
-**Cách 1**: Xóa bài dịch vụ tại menu thả danh sách xuống bên trái
+**Cách 1**: Xóa tại danh sách các bài dịch vụ
 
-Nhấn tích vào tin bài đó và chọn **Xóa**.
+Nhấn tích vào tin dịch vụ đó và chọn **Xóa**.
 
 Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
 

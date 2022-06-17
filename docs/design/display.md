@@ -4,9 +4,9 @@ Logo sẽ giúp khách hàng nhớ đến thương hiệu của bạn dễ dàng
 
 Logo website sẽ được hiển thị góc trái hoặc giữa màn hình. Để cấu hình logo website bạn cần:
 
-**Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện -> Nhận diện**
+1. Tại màn hình quản trị, bạn chọn mục **Giao diện -> Nhận diện**
 
-**Bước 2** Trang tạo logo mới được mở ra, cập nhật logo website tại đây
+2. Trang tạo logo mới được mở ra, cập nhật logo website tại đây
 
 ![nhandien.jpg (122 KB)](img/nhandien.jpg)
 
