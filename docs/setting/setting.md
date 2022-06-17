@@ -8,11 +8,9 @@ published: true
 ---
 # Thiết lập hệ thống
 
-Khu vực cấu hình các tham số chung liên quan đến website và doanh nghiệp của bạn.
+Khu vực cấu hình các tham số chung liên quan đến website và doanh nghiệp của bạn. Những thông tin cần điền như sau:
 
-Những thông tin cụ thể cần điền như sau:
-
-**Thông tin chung**
+## Thông tin chung
 
 1. **Tên website** Nhập tên thường gọi của website. Được hiển thị tại các trang trên website _(ví dụ: OSD.VN)_
 2. **Chủ sở hữu** Nhập tên cá nhân/ công ty chủ sở hữu website, trường này sẽ hiển thị cuối trang website như hình đính kèm bên dưới _(ví dụ: Công ty TNHH OSD.VN)_
@@ -23,7 +21,7 @@ Những thông tin cụ thể cần điền như sau:
 7. **Hotline bán hàng** Được hiển thị số hotline bán hàng của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ _(ví dụ: 0932 224 911)_
 8. **Hotline hỗ trợ** Được hiển thị số hotline hỗ trợ của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ _(ví dụ: 0932 224 911)_
 
-**Địa phương**
+## Địa phương
 
 **Ngôn ngữ chính**
 
@@ -36,7 +34,7 @@ Khi chọn là English, tại trang admin sẽ hiển thị toàn bộ nội dun
 
 Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ nội dung quản trị viên nhìn thấy là ngôn ngữ tiếng Việt
 
-**Bảo mật hệ thống**
+## Bảo mật hệ thống
 
 **Chế độ bảo trì** Khi chọn là **Bật** hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
 
