@@ -13,7 +13,7 @@ Hoạt động SEO là một tổng hợp gồm quá nhiều kỹ năng khiến 
 
 Mặt khác, nội tại OSD.VN cũng là 1 team chuyên về dịch vụ SEO, Mkmate sẽ liên tục cải tiến với định hướng tiết kiệm nguồn lực tối đa cho các dự án dịch vụ SEO đang có hiệu quả cao. 
 
-Chiến lược phát triển của Mkmate hướng tới nhữmg ngành nghề kinh doanh dịch vụ và chuyên giải pháp "may đo", được song hành cùng sản phẩm chiến lược khác là Pisale, định hướng tới mô hình kinh doanh bán lẻ. Cả 2 sản phẩm có lộ trình phát triển mạch lạc, cải tiến không ngừng với những mục tiêu rõ ràng:
+Chiến lược phát triển của Mkmate hướng tới ngành nghề kinh doanh dịch vụ và giáo dục, được song hành cùng sản phẩm chiến lược khác là Pisale, định hướng tới mô hình kinh doanh bán lẻ. Cả 2 sản phẩm có lộ trình phát triển mạch lạc, cải tiến không ngừng với những mục tiêu rõ ràng:
 
 1. Đơn giản, dễ sử dụng
 2. Tốc độ tải trang siêu nhanh, sử dụng hầu hết các tiêu chuẩn do Google Pagespeed Team tư vấn
