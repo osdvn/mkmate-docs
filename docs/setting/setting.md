@@ -17,9 +17,9 @@ Khu vực cấu hình các tham số chung liên quan đến website và doanh n
 3. **Khẩu hiệu** Là một câu văn ngắn chứa đựng thông điệp mô tả tính chất của một thương hiệu. Thường diễn tả một lời hứa, giá trị cốt lõi, hướng phát triển sản phẩm của công ty hay chính là “khẩu hiệu tiếp thị” của các doanh nghiệp.
 4. **Địa chỉ** Thông tin này thường xuất hiện tại chân trang, trang thông tin liên hệ và 1 số email gửi cho khách hàng. 
 5. **E-mail** Địa chỉ email dùng để nhận thông tin giao tiếp với người sử dụng.
-6. **Điện thoại** Thường được hiển thị tại chân trang và trang liên hệ.
-7. **Hotline bán hàng** Được hiển thị số hotline bán hàng của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ _(ví dụ: 0932 224 911)_
-8. **Hotline hỗ trợ** Được hiển thị số hotline hỗ trợ của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ _(ví dụ: 0932 224 911)_
+6. **Điện thoại** Sẽ hiển thị tại chân trang và trang liên hệ.
+7. **Hotline bán hàng** Hiển thị số hotline bán hàng của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ
+8. **Hotline hỗ trợ** Hiển thị số hotline hỗ trợ của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ
 
 ## Địa phương
 
@@ -30,9 +30,9 @@ Khi chọn là English, website sẽ hiển thị toàn bộ nội dung người
 Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ nội dung người dùng nhìn thấy là ngôn ngữ tiếng Việt
 **Ngôn ngữ quản trị**
 
-Khi chọn là English, tại trang admin sẽ hiển thị toàn bộ nội dung quản trị viên nhìn thấy là ngôn ngữ tiếng Anh
+Khi chọn là English, tại trang admin sẽ hiển thị toàn bộ giao diện quản trị viên nhìn thấy là ngôn ngữ tiếng Anh
 
-Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ nội dung quản trị viên nhìn thấy là ngôn ngữ tiếng Việt
+Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ giao diện và nội dung quản trị viên nhìn thấy là ngôn ngữ tiếng Việt
 
 ## Bảo mật hệ thống
 
