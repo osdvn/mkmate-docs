@@ -24,7 +24,7 @@ tags: [roadmap, mkmate]
 2. - [ ] Layout manager
 3. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
 4. - [ ] Dynamic build theme by each site
-5. - [ ] Task queue for sending email
+5. - [x] Task queue for sending email
 6. - [ ] Task queue for optimize image
 7. - [ ] CTA builder
 8. - [ ] Popup builder
