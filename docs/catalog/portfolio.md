@@ -15,38 +15,43 @@ published: true
 
 Tại đây bạn có thể quản lý các bài dự án tiêu biểu. 
 
-1. Tại màn hình quản trị, bạn chọn mục **Nội dung -> Dự án tiêu biểu -> Thêm**
-
-2. Trang tạo dự án tiêu biểu mới được mở ra, điền các thông tin chi tiết của bài dự án tiêu biểu đó
+Tại màn hình quản trị, bạn chọn mục **Nội dung -> Dự án tiêu biểu -> Thêm**
 
 Những thông tin cụ thể cần điền như sau:
 
-**Tiêu đề** Tiêu đề là một phần quan trọng hàng đầu của bài viết. Tiêu đề quyết định đến số lượng người truy cập bài viết của bạn bởi nó là phần đầu tiên trong bài viết tiếp cận đến người đọc, nó mang sứ mệnh thu hút và kích thích sự tò mò, ý muốn khám phá bài viết ở người đọc
+**Tiêu đề**
+Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
 
-**Mô tả ngắn** Mô tả tóm tắt bài dự án tiêu biểu
+**Mô tả ngắn**
+Mô tả tóm tắt bài viết
 
-**Mô tả** Mô tả chi tiết bài dự án tiêu biểu để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh
+**Mô tả**
+Trình bày thông tin có mục đích hướng tới độc giả
 
-**Thư viện ảnh** Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
+**Thư viện ảnh**
+Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
 
-**Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có)
+**Ảnh đại diện**
+Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có)
 
-**Trạng thái** Lựa chọn trạng thái hiển thị bài dự án tiêu biểu (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**
+Lựa chọn trạng thái hiển thị bài dự án tiêu biểu (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự** Đánh thứ tự hiển thị của bài dự án tiêu biểu (với số 0 là số lớn nhất được hiển thị đầu tiên)
+**Thứ tự**
+Đánh thứ tự hiển thị của bài dự án tiêu biểu (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
 Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
 
-Sau khi hoàn tất các thao tác để thêm mới bài dự án tiêu biểu, đừng quên ấn nút **Lưu** nhé.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa bài dự án tiêu biểu
 
-Để xóa một bài dự án tiêu biểu, tích vào bài dự án tiêu biểu đó và chọn **Xóa**
+Để xóa một bài dự án tiêu biểu, tích vào bài đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click trường **Xóa bài** trong mỗi bài dự án chi tiết.
 
 ## Sửa bài dự án tiêu biểu
 
 Để sửa một bài dự án tiêu biểu, nhấn chọn vào bài dự án tiêu biểu đó để sửa
 
-Sau khi thay đổi các thông tin - thiết lập của bài viết tin cần chọn **Lưu** để lưu lại những thay đổi.
+Sau khi thay đổi các thông tin - thiết lập của bài viết tin cần chọn **Lưu** để cập nhật những thay đổi.
