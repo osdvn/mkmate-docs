@@ -26,11 +26,14 @@ Trình bày thông tin có mục đích hướng tới độc giả
 **Thư viện ảnh**
 
 Upload các bộ ảnh trình bày kiểu gallery:
-*   **Tên album (Tiếng Việt)**
+
+**Tên album (Tiếng Việt)**
 Nhập tên cho mỗi ảnh trong bộ sưu tập
-*   **Mô tả hình ảnh (Tiếng Việt)**
+
+**Mô tả hình ảnh (Tiếng Việt)**
 Mô tả ảnh trong bộ sưu tập
-*   **Hình ảnh**
+
+**Hình ảnh**
 Nhấp chọn nút **Thêm ảnh -> Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
 **Ảnh đại diện**
