@@ -49,4 +49,6 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 ## Sửa bài thông tin
 
-Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa, sau khi thay đổi các thông tin - thiết lập của bài viết tin cần chọn **Lưu** để lưu lại những thay đổi.
+Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa.
+
+Sau khi thay đổi các thông tin - thiết lập của bài viết tin cần chọn **Lưu** để cập nhật những thay đổi.
