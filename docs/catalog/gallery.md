@@ -52,7 +52,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa thư viện ảnh
 
