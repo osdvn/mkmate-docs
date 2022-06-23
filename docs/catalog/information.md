@@ -15,40 +15,42 @@ Cho phép quản lý các bài thông tin như bài giới thiệu, các bài vi
 
 ## Thêm mới bài thông tin
 
-Tại đây bạn có thể quản lý các bài thông tin.
-
-1. Tại màn hình quản trị, bạn chọn mục **Nội dung -> Thông tin -> Thêm**
-
-2. Trang tạo thông tin mới được mở ra, điền các thông tin chi tiết của bài thông tin đó.
-
-![thong-tin-1.jpg](img/thong-tin-1.jpg)
-
-Bạn thêm các bài thông tin như Giới thiệu, các chính sách của công ty,...
+Tại màn hình quản trị, bạn chọn mục **Nội dung -> Thông tin -> Thêm**
 
 Những thông tin cụ thể cần điền như sau:
 
-**Tiêu đề** Là một phần quan trọng hàng đầu của bài viết. Tiêu đề quyết định đến số lượng người truy cập bài viết của bạn bởi nó là phần đầu tiên trong bài viết tiếp cận đến người đọc, nó mang sứ mệnh thu hút và kích thích sự tò mò, muốn khám phá bài viết ở người đọc.
+**Tiêu đề**
+Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
 
-**Phụ đề** Được hiển thị dưới tên tiêu đề bài thông tin.
+**Phụ đề**
+Được hiển thị dưới tên tiêu đề bài thông tin. Phụ thuộc vào từng giao diện sẽ có phụ đề hay không có
 
-**Mô tả** Mô tả chi tiết bài thông tin để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh.
+**Mô tả**
+Trình bày thông tin có mục đích hướng tới độc giả
 
-**Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
+**Ảnh đại diện**
+Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
 Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
 
-**Trạng thái** Lựa chọn trạng thái hiển thị bài thông tin (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**
+Lựa chọn trạng thái hiển thị bài thông tin (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự** Đánh thứ tự hiển thị của bài thông tin (với số 0 là số lớn nhất được hiển thị đầu tiên)
+**Thứ tự**
+Đánh thứ tự hiển thị của bài thông tin (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa bài thông tin
 
-Để xóa một bài viết thông tin, tích vào bài viết thông tin đó và chọn **Xóa** từ danh sách bên trái hoặc click trường **Xóa bài** trong mỗi bài thông tin chi tiết.
+Để xóa một bài viết thông tin, tích vào bài viết thông tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click trường **Xóa bài** trong mỗi bài thông tin chi tiết.
+
+Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
 
 ## Sửa bài thông tin
 
-Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa, sau khi thay đổi các thông tin - thiết lập của bài viết tin cần chọn **Lưu** để lưu lại những thay đổi.
+Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa.
+
+Sau khi thay đổi các thông tin - thiết lập của bài viết tin cần chọn **Lưu** để cập nhật những thay đổi.
