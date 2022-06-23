@@ -47,6 +47,8 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 Để xóa một bài viết thông tin, tích vào bài viết thông tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click trường **Xóa bài** trong mỗi bài thông tin chi tiết.
 
+Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
+
 ## Sửa bài thông tin
 
 Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa.
