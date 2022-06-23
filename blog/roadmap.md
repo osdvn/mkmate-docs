@@ -13,11 +13,12 @@ tags: [roadmap, mkmate]
 2. - [ ] Email template
 3. - [ ] Cookie-less domain
 4. - [ ] Hoàn thành dịch tiếng Anh
-5. - [ ] Content template cho trình soạn thảo
-6. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
-7. - [ ] AMP cơ bản
-8. - [ ] Admin notify
-9. - [ ] ...
+5. - [ ] Mẫu nội dung cho trình soạn thảo
+6. - [ ] Lưu thông tin vùng quản trị bằng AJAX
+7. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
+8. - [ ] AMP cơ bản
+9. - [ ] Admin notify
+10. - [ ] ...
 
 ## Q3-2022
 1. - [ ] Form builder
