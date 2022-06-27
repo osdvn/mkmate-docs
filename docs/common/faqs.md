@@ -3,25 +3,23 @@ title: Câu hỏi thường gặp
 tags: [faqs, câu hỏi thường gặp, SEO]
 ---
 # Quản lý câu hỏi thường gặp
-
-Câu hỏi thường gặp là các câu hỏi và trả lời thường theo cùng một chủ đề nhất định. Tập hợp những câu hỏi phổ biến thường có xu hướng được hỏi đi hỏi lại, giúp người đọc hiểu rõ hơn về dịch vụ của bạn.
+Tính năng này được biết đến nhiều vì lợi ích SEO, được xuất hiện trong tin bài, nhóm sản phẩm, bài dịch vụ,...
 
 ## Thêm mới câu hỏi thường gặp
-
+Tại box "Câu hỏi thường gặp" trong từng trang, bạn có thể bấm nút **Thêm**
 ![faqs.jpg](img/faqs.jpg)
 
 **Tiêu đề**
-- Dựa vào mục đích của dịch vụ để đặt câu hỏi, bạn có thể sử dụng các cách thức sau:
-- Hỏi thẳng vào vấn đề Những câu hỏi này chủ yếu áp dụng trong những trường hợp bạn cần câu trả lời dứt khoát hoặc cần khẳng định lại câu trả lời.
-- Đưa những câu hỏi mở thăm dò Những câu hỏi này nhằm thăm dò ý kiến, khiến cho người được hỏi có thể đưa ra thêm các thông tin giải đáp những điều người đọc thường thắc mắc.
+Điền tiêu đề của câu hỏi vào ô textbox
 
 **Nội dung**
-- Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề.
+Điền nội dung câu trả lời cần ngắn gọn, xúc tích vì 
 
 ## Xóa câu hỏi thường gặp
-
-Để xóa 1 tab câu hỏi thường gặp, nhấn chọn nút **Xóa** tại tab câu hỏi thường gặp đó
+Để xóa 1 câu hỏi thường gặp, nhấn chọn nút **Xóa** tại câu hỏi tương ứng
 
 ## Sửa câu hỏi thường gặp
+Để sửa câu hỏi thường gặp, bạn thay đổi trực tiếp nội dung vào vùng nhập văn bản
 
-Để sửa câu hỏi thường gặp, bạn thay đổi trực tiếp nội dung vào tab câu hỏi thường gặp đó và chọn **Lưu**
+## Sắp xếp lại vị trí
+Cần điền số từ lớn đến bé để sắp xếp thứ tự câu hỏi thường gặp
