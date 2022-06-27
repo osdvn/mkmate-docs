@@ -1,11 +1,11 @@
 ---
-title: Tiêu chuẩn SEO
+title: Khai báo thông tin SEO cho từng trang
 tags:
   - serp
   - seo
 published: true
 ---
-# Hướng dẫn cách điền SEO trong một bài viết
+# Hướng dẫn cách điền SEO trong từng trang
 
 Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
