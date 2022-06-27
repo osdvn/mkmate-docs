@@ -4,25 +4,31 @@ tags:
   - seo
 published: true
 ---
-# Cấu hình SEO
+# Cấu hình SEO cho toàn bộ website
 
-Công cụ quản lý mô tả trang của website
+Khu vực này cho phép bạn khai báo thông tin chung liên quan đến SEO của toàn bộ website.
 
-Nhấn chọn **SEO -> Cấu hình chung**
+**Meta title** 
+Tiêu đề của trang chủ, được hiển thị trên trình duyệt web của người dùng _(ví dụ: OSD.VN | Online Service Development)_. Độ dài tối đa là 70 ký tự.
 
-Thông tin này sẽ hiển thị trên công cụ tìm kiếm Google khi người dùng tìm kiếm.
+**Meta description** 
+Thông tin mô tả của trang chủ. Độ dài tối đa là 160 ký tự.
 
-**Meta title** Tiêu đề của trang web, được hiển thị trên trình duyệt web của người dùng _(ví dụ: OSD.VN | Online Service Development)_
+**Meta keywords**
+Nhập thông tin Meta keywords dành cho trang chủ.
 
+**Ảnh đại diện chia sẻ mạng xã hội** 
+Hiển thị cover khi chia sẻ mạng xã hội dành cho trang chủ và những trang không có ảnh đại diện. Kích thước ảnh chiều rộng x cao: 1200px x 630px.
 
-**Meta description** Nhập một đoạn nội dung miêu tả cho trang (sẽ hiển thị trên google khi tìm kiếm www.osd.vn).
+**XML Sitemap**
+Đường dẫn của file sitemap.xml, dùng để submit lên tài khoản Google Search Console.
 
-Ví dụ minh họa như hình dưới đây:
+**Google Search Console** 
+Nhập mã của Google Search Console yêu cầu bạn nhập thông qua hình thức xác thực bằng thẻ meta.
 
-**Ảnh đại diện chia sẻ mạng xã hội** Hiển thị cover khi chia sẻ mạng xã hội dành cho trang chủ và những trang không có ảnh đại diện. Kích thước ảnh chiều rộng x cao: 1200px x 630px
+**Giá trị robots mặc định** 
+Thông tin này sẽ dùng để khai báo thẻ meta robots cho website.
 
-**Hiển thị ngày cho sản phẩm chuẩn Open Graph** Lựa chọn trạng thái hiển thị (Bật: cho phép hoạt động/Tắt: không cho phép hoạt động)
-
-**Google Search Console** Là một dịch vụ miễn phí mà Google cung cấp để giúp bạn theo dõi, duy trì và khắc phục sự cố liên quan đến sự hiện diện của trang web của bạn trong kết quả tìm kiếm của Google. Cung cấp dữ liệu trên website như: tỷ lệ click, thứ hạng trung bình, các từ khóa truy cập vào trang,….Đồng thời, công cụ này cũng gửi thông báo đến bạn khi website gặp phải các vấn đề về lặp chỉ mục, nội dung spam, URL bị lỗi,… Bạn cần thêm website tại **Google Search Console** để quản lý, kiểm soát vị trí, sự uy tín của website đối với công cụ tìm kiếm.
+Ví dụ, bạn muốn Google không index website của bạn thì có thể điền vào giá trị như sau: `noindex, nofollow`
 
 Nhấn chọn **Lưu** để hoàn tất.

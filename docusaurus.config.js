@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hướng dẫn sử dụng',
-  tagline: 'Tài liệu hướng dẫn mkmate, phiên bản 6.0, triển khai tập trung SAAS',
+  tagline: 'Tài liệu hướng dẫn Mkmate, triển khai tập trung SAAS',
   url: 'https://mkmate.osd.vn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Mkmate',
+        title: '',
         logo: {
           alt: 'Mkmate',
           src: '//asset.osd.vn/mkmate.png',
