@@ -2,7 +2,7 @@
 title: Logic sử dụng
 tags: [logic, common, cần lưu ý]
 ---
-# Những lưu ý về logic sử dụng Mkmate
+# Logic sử dụng Mkmate
 ##  Xóa các mục, các thành phần, thông tin
 Khi xóa hệ thống sẽ yêu cầu xác nhận do Mkmate không có chức năng Thùng rác. Đây là 1 trong những định hướng giúp website không phải lưu trữ nhiều thông tin để website hoạt động nhanh hơn.
 
