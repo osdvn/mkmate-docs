@@ -27,7 +27,12 @@ const config = {
     locales: ['vi'],
   },
   plugins: [
+    [
     require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        language: "vi",
+      }
+    ],
     require.resolve('docusaurus-plugin-image-zoom')
   ],
   presets: [
@@ -60,7 +65,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Mkmate',
+        title: '',
         logo: {
           alt: 'Mkmate',
           src: '//asset.osd.vn/mkmate.png',
