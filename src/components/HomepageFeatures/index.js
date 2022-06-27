@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Bạn là người dùng mới?',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    svg: require('@site/static/img/nguoi-dung-moi.png').default,
     description: (
       <>
         Hãy tìm hiểu cách dùng sản phẩm <a href="/docs/intro">tại đây</a>.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Phát hiện lỗi sản phẩm?',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    png: require('@site/static/img/loi-san-pham-bug.png').default,
     description: (
       <>
         Đừng gần ngại <a href="https://my.osd.vn/issue/new">tạo phiếu yêu cầu hỗ trợ</a> để thông báo với chúng tôi.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Đề xuất tính năng',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    png: require('@site/static/img/de-xuat-tinh-nang.png').default,
     description: (
       <>
         Kế hoạch cải tiến sản phẩm liên tục cập nhật <a href="https://my.osd.vn/issue/new">issue mới</a> do bạn đề xuất.
@@ -36,7 +36,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <png className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
