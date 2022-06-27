@@ -3,11 +3,6 @@ slug: gallery
 title: Quản lý Thư viện ảnh
 sidebar_position: 1
 sidebar_label: Thư viện ảnh
-tags:
-  - gallery
-  - photo
-  - thư viện ảnh
-published: true
 ---
 # Quản lý Thư viện ảnh
 

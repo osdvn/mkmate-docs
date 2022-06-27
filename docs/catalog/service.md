@@ -3,10 +3,6 @@ slug: service
 title: Quản lý sản phẩm/dịch vụ
 sidebar_position: 1
 sidebar_label: Sản phẩm/Dịch vụ
-tags:
-  - service
-  - dịch vụ
-published: true
 ---
 # Quản lý bài sản phẩm/ dịch vụ
  
