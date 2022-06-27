@@ -8,10 +8,10 @@ authors:
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
 ---
-## Q2-2022
+## 2022-07-15
 1. - [ ] Cộng tác nhóm khi soạn thảo bài viết
-2. - [ ] Email template
-3. - [ ] Cookie-less domain
+2. - [x] Email template
+3. - [x] Cookie-less domain
 4. - [ ] Hoàn thành dịch tiếng Anh
 5. - [ ] Mẫu nội dung cho trình soạn thảo
 6. - [ ] Lưu thông tin vùng quản trị bằng AJAX
@@ -20,7 +20,7 @@ tags: [roadmap, mkmate]
 9. - [ ] Admin notify
 10. - [ ] ...
 
-## Q3-2022
+## 2022-09-30
 1. - [ ] Form builder
 2. - [ ] Layout manager
 3. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
