@@ -162,13 +162,3 @@ Người dùng quản trị hệ thống sẽ nhìn thấy và thao tác đượ
 Chức năng này chỉ được hiển thị với nhóm quản trị hệ thống, đề phòng sai sót trong quá trình vận hành. Ở phía cuối của bộ quản lý file có thư mục **Trash**. Tạm hiểu, đây là thư mục đệm để giảm rủi ro trong quá trình vận hành. Khi ảnh bị xóa bởi bất kỳ nhóm người dùng nào cũng sẽ được đưa vào **Trash**.
 
 Người dùng có quyền quản trị có thể xóa vĩnh viễn hoặc khôi phục lại hình ảnh trong thùng rác, tương tự như cơ chế quản lý file với công cụ **Windows Explorer** hoặc **Finder** của **MacOS** **X**.
-
-## Một số lưu ý với hình ảnh sử dụng trên website
-
-Ảnh đưa lên website tốt nhất là ở định dạng JPG, nếu được nén theo chuẩn losslessly là tốt nhất, kích thước chiều rộng tối đa là 1920 pixel, độ phân giải 72 dpi, quality = 80-85%. Khi bạn không chắc chắn về định dạng ảnh thì tuyệt đối không nên dùng định dạng ảnh PNG.
-
-Do đặc thù người đọc chỉ xem website được trên các thiết bị công nghệ và điện tử nên vì thế chúng tôi chưa tìm thấy lý do nào để phải đăng 1 hình ảnh lên website với dung lượng quá 1 Mb.
-
-Thực tế của chính sách này là nhằm giúp người dùng truy cập website được nhanh nhất. Với người đọc trả tiền internet theo lưu lượng (3G, 4G, 5G,... là phổ biến) thì sẽ giúp tiết kiệm chi phí cho người đọc.
-
-Dung lượng của file ảnh khi không được chú ý sẽ dễ làm tăng nhanh tổng lưu lượng của website gây cho chủ sở hữu website phải tăng chi phí thuê host website (một cách không xứng đáng).
