@@ -14,10 +14,14 @@ Trình soạn thảo TinyMCE 5 với nhiều tích hợp sâu giúp bạn soạn
 
 Các chức năng được phân thành nhóm chính như sau:
 
+![trinh-soan-thao.jpg](img/trinh-soan-thao.jpg)
+
 ## Chức năng định dạng văn bản
 ### (1) Trình bày đoạn văn
 
 Tính năng này hữu dụng khi bạn muốn điều khiển hiển thị theo tiêu chuẩn HTML, đặc biệt được nhóm chuyên gia SEO thường xuyên sử dụng khi muốn có bài viết theo heading, paragraph.
+
+![trinh-soan-thao-2.jpg](img/trinh-soan-thao-2.jpg)
 
 Cách thực hiện đơn giản là chọn đoạn văn bản (bôi đen) hoặc đặt con trỏ vào vị trí cần định dạng. Tiếp đến, bạn chọn 1 định dạng cụ thể (Paragraph = đoạn văn, heading (đề mục) từ 1 đến 6, Code = mã nguồn) từ danh sách thả xuống. Xin vui lòng xem hình minh họa bên dưới.
 
@@ -27,25 +31,25 @@ Xem thêm tư vấn của OSD.VN về cách định dạng bài viết chuẩn S
 
 Phím tắt: Ctrl + B (Comand + B trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ đậm.
 
-Kết quả
+![trinh-soan-thao-3.jpg](img/trinh-soan-thao-3.jpg)
 
 ### (3) Định dạng kiểu chữ in nghiêng
 
 Phím tắt: Ctrl + I (Comand + I trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ in nghiêng.
 
-Kết quả
+![trinh-soan-thao-6.jpg](img/trinh-soan-thao-6.jpg)
 
 ### (4) Định dạng kiểu chữ gạch chân
 
 Phím tắt: Ctrl + U (Comand + U trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là trình bày văn bản với kiểu định dạng chữ được gạch chân.
 
-Kết quả
+![trinh-soan-thao-8.jpg](img/trinh-soan-thao-8.jpg)
 
 ### (5) Định dạng chữ gạch ngang
 
 Trình bày đoạn văn bản dạng gạch ngang, bạn cũng có thể sử dụng tổ hợp phím Ctrl + S hoặc Command + S trên MacOS X.
 
-Kết quả
+![trinh-soan-thao-10.jpg](img/trinh-soan-thao-10.jpg)
 
 ### (7) Thay đổi màu chữ
 
@@ -59,22 +63,9 @@ Tương tự chức năng số (7) được nêu trên, chức năng này cho ph
 
 ### (9) Thay đổi cỡ chữ
 
-Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ đến lớn theo danh sách tương ứng như sau:
+![trinh-soan-thao-11.jpg](img/trinh-soan-thao-11.jpg)
 
-- 8pt
-- 9pt
-- 10pt
-- 11pt
-- 12pt
-- 14pt
-- 18pt
-- 24pt
-- 30pt
-- 36pt
-- 48pt
-- 60pt
-- 72pt
-- 96pt
+Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ đến lớn theo danh sách.
 
 !> Trong 1 văn bản bạn không nên có nhiều cỡ chữ nhằm giảm sự điều tiết của mắt người đọc.
 
@@ -122,7 +113,7 @@ Bạn cũng có thể dùng tổ hợp phím tắt để căn lề cho nội dun
 
 Number list (danh sách đánh số thứ tự) giúp thể hiện các mục rõ ràng và cụ thể hơn. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (14).
 
-Kết quả
+![trinh-soan-thao-13.jpg](img/trinh-soan-thao-13.jpg)
 
 ### (15) Định dạng danh sách không theo thứ tự
 
@@ -134,13 +125,13 @@ Kết quả
 
 Tính năng này sẽ dịch chuyển khối đoạn văn bản thụt vào bên trái 1 tab.
 
-Kết quả
+![trinh-soan-thao-15.jpg](img/trinh-soan-thao-15.jpg)
 
 ### (17) Dịch chuyển sang phải 1 khối văn bản
 
 Tính năng này sẽ dịch chuyển khối văn bản thụt vào bên phải 1 tab, chỉ có tác dụng sau khi bạn đã dùng tính năng số (17).
 
-Kết quả
+![trinh-soan-thao-17.jpg](img/trinh-soan-thao-17.jpg)
 
 ### (18) Trích dẫn văn bản
 
@@ -150,7 +141,7 @@ Thẻ blockquote là thẻ tag dùng để trích dẫn phần văn bản từ m
 
 Chức năng này được dùng khi các bạn thực hiện copy nội dung từ file MS Word, Google Docs, trực tiếp từ các website khác... khiến định dạng của bài viết không hiển thị theo phong cách chung của website.
 
-Kết quả
+![trinh-soan-thao-18.jpg](img/trinh-soan-thao-18.jpg)
 
 ### (24) Fullscreen
 
