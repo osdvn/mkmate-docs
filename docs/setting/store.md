@@ -1,21 +1,31 @@
-
-# Quản lý Hệ thống cửa hàng
+---
+title: Quản lý chi nhánh
+tags:
+  - toc
+  - seo
+published: true
+---
+# Quản lý chi nhánh, cơ sở kinh doanh
 
 Cấu hình một hệ thống kinh doanh theo chuỗi gồm từ hai hay nhiều hơn cửa hàng được sở hữu và quản lí tập trung
 
-Để cấu hình mô đun hệ thống cửa hàng, bạn cần:
+Để cấu hình mô đun hệ thống chi nhánh, bạn cần:
 
-**Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện => Mô đun => Hệ thống cửa hàng**
+**Bước 1** 
+Tại màn hình quản trị, bạn chọn mục **Giao diện => Mô đun => Hệ thống cửa hàng**
 
-**Bước 2** Nhấp chuột vào nút **Cấu hình**
+**Bước 2** 
+Nhấp chuột vào nút **Cấu hình**
 
-**Bước 3** Trang tạo cấu hình mô đun hệ thống cửa hàng được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
+**Bước 3** 
+Trang tạo cấu hình mô đun hệ thống cửa hàng được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
 ![he-thong-cua-hang-1.jpg (69 KB)](img/he-thong-cua-hang-1.jpg)
 
 Những nội dung cần điền như sau:
 
-**Bố cục** Lựa chọn bố cục hiển thị **Liên hệ** cho danh mục hoặc chọn bố cục tại danh sách thả xuống có sẵn trong box
+**Bố cục** 
+Lựa chọn bố cục hiển thị **Liên hệ** cho danh mục hoặc chọn bố cục tại danh sách thả xuống có sẵn trong box
 
 **Vị trí** hiển thị Lựa chọn vị trí hiển thị **Cuối nội dung** cho danh mục hoặc chọn vị trí tại danh sách thả xuống có sẵn trong box
 
