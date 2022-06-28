@@ -17,7 +17,7 @@ Chức năng này sử dụng để thay thế tự động thông tin trong tư
 
 **Bước 3** Điền các thông tin chi tiết của danh mục đó.
 
-**Tên mẫu** Nhập tên ký hiệu biến ngắn gọn _(ví dụ: `{{ diachi }}` )_
+**Tên mẫu** Nhập tên ký hiệu biến ngắn gọn _(ví dụ: `{{diachi}}` )_
 
 **Nội dung cần thay thế** Nhập tiêu đề và nội dung hiển thị trên website
 
