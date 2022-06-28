@@ -5,7 +5,7 @@ tags:
   - seo
 published: true
 ---
-# Hướng dẫn cách điền SEO trong từng trang
+# Hướng dẫn cách điền thông tin SEO trong từng trang
 
 Toàn bộ các trang của Mkmate đều có thể khai báo được thông tin SEO theo quy chuẩn nhất quán. Cách khai báo chi tiết như sau:
 
