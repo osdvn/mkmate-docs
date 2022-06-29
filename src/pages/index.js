@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Content-centric, CMS - 2min ⏱️
+            Content-centric CMS - 3min ⏱️
           </Link>
         </div>
       </div>
