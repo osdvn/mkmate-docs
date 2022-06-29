@@ -113,7 +113,7 @@ Bạn cũng có thể dùng tổ hợp phím tắt để căn lề cho nội dun
 
 Number list (danh sách đánh số thứ tự) giúp thể hiện các mục rõ ràng và cụ thể hơn. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (14).
 
-![trinh-soan-thao-13.jpg](img/trinh-soan-thao-13.jpg)
+![trinh-soan-thao-14.jpg](img/trinh-soan-thao-14.jpg)
 
 ### (15) Định dạng danh sách không theo thứ tự
 
@@ -125,7 +125,7 @@ Kết quả
 
 Tính năng này sẽ dịch chuyển khối đoạn văn bản thụt vào bên trái 1 tab.
 
-![trinh-soan-thao-15.jpg](img/trinh-soan-thao-15.jpg)
+![trinh-soan-thao-16.jpg](img/trinh-soan-thao-16.jpg)
 
 ### (17) Dịch chuyển sang phải 1 khối văn bản
 
@@ -137,25 +137,33 @@ Tính năng này sẽ dịch chuyển khối văn bản thụt vào bên phải 
 
 Thẻ blockquote là thẻ tag dùng để trích dẫn phần văn bản từ một nguồn khác trong html. Tag Blockquote thường được sử dụng trong trích dẫn câu nói của một tác giả nào đó. Hay nhấn mạnh một nội dung nào đó trên bài viết của mình.
 
+![trinh-soan-thao-18.jpg](img/trinh-soan-thao-18.jpg)
+
 ### (19) Xóa định dạng văn bản mặc định
 
 Chức năng này được dùng khi các bạn thực hiện copy nội dung từ file MS Word, Google Docs, trực tiếp từ các website khác... khiến định dạng của bài viết không hiển thị theo phong cách chung của website.
 
-![trinh-soan-thao-20.jpg](img/trinh-soan-thao-20.jpg)
-
-![trinh-soan-thao-21.jpg](img/trinh-soan-thao-21.jpg)
+![trinh-soan-thao-19.jpg](img/trinh-soan-thao-19.jpg)
 
 ### (24) Fullscreen
 
 Tính năng xem toàn màn hình của trình soạn thảo. Để bật chế độ duyệt web toàn màn hình Full Screen bạn chỉ cần nhấn phím tính năng số (24) trên thanh công cụ, nếu muốn tắt chế độ full toàn màn hình bạn chỉ cần ấn lại phím số (24) một lần nữa
 
+![trinh-soan-thao-24.jpg](img/trinh-soan-thao-24.jpg)
+
 ### (25) Insert/edit code sample
+
+![trinh-soan-thao-25.jpg](img/trinh-soan-thao-25.jpg)
 
 ### (26) Tabs content
 
+![trinh-soan-thao-26.jpg](img/trinh-soan-thao-26.jpg)
+
 ### (27) fontawesomepicker
 
-Cách chèn liên kết (hyperlink)
+![trinh-soan-thao-27.jpg](img/trinh-soan-thao-27.jpg)
+
+## Cách chèn liên kết (hyperlink)
 
 Nút số (23) trên thanh công cụ dùng để chèn liên kết cho đoạn văn bản. Khi bạn không chọn đoạn văn bản thì hệ thống tự nhận dạng liên kết dạng URL. Xin vui lòng xem hình dưới.
 
