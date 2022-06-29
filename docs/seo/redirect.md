@@ -21,9 +21,9 @@ Trang tạo 301 Redirect URL được mở ra, điền các thông tin chi tiế
 Những thông tin cần cập nhật như sau:
 
 **URL cũ**
-Nhập tên URL cũ vào button, URL được xác định bị xóa khỏi website
+Nhập tên URL cũ vào button, URL được xác định bị xóa khỏi website _(ví dụ: https://osd.vn/news/all)_
 
 **URL đích**
-Nhập địa chỉ URL trang đích mà bạn muốn chuyển hướng đến, thao tác này thực hiện chuyển hướng người dùng lẫn bộ máy tìm kiếm từ một đường dẫn URL qua một đường dẫn URL khác
+Nhập địa chỉ URL trang đích mà bạn muốn chuyển hướng đến, thao tác này thực hiện chuyển hướng người dùng lẫn bộ máy tìm kiếm từ một đường dẫn URL qua một đường dẫn URL khác _(ví dụ: https://osd.vn/news/blog)_
 
 Sau đó chọn **Lưu**
