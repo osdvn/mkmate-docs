@@ -37,13 +37,13 @@ Phím tắt: Ctrl + B (Comand + B trên MacOS X), áp dụng cho đoạn văn b�
 
 Phím tắt: Ctrl + I (Comand + I trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ in nghiêng.
 
-![trinh-soan-thao-6.jpg](img/trinh-soan-thao-6.jpg)
+![trinh-soan-thao-4.jpg](img/trinh-soan-thao-4.jpg)
 
 ### (4) Định dạng kiểu chữ gạch chân
 
 Phím tắt: Ctrl + U (Comand + U trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là trình bày văn bản với kiểu định dạng chữ được gạch chân.
 
-![trinh-soan-thao-8.jpg](img/trinh-soan-thao-8.jpg)
+![trinh-soan-thao-5.jpg](img/trinh-soan-thao-5.jpg)
 
 ### (5) Định dạng chữ gạch ngang
 
@@ -141,7 +141,9 @@ Thẻ blockquote là thẻ tag dùng để trích dẫn phần văn bản từ m
 
 Chức năng này được dùng khi các bạn thực hiện copy nội dung từ file MS Word, Google Docs, trực tiếp từ các website khác... khiến định dạng của bài viết không hiển thị theo phong cách chung của website.
 
-![trinh-soan-thao-18.jpg](img/trinh-soan-thao-18.jpg)
+![trinh-soan-thao-20.jpg](img/trinh-soan-thao-20.jpg)
+
+![trinh-soan-thao-21.jpg](img/trinh-soan-thao-21.jpg)
 
 ### (24) Fullscreen
 
