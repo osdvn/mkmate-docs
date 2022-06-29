@@ -71,7 +71,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '',
+        title: 'Docs',
         logo: {
           alt: 'Mkmate',
           src: '//asset.osd.vn/mkmate.png',

@@ -7,11 +7,17 @@ dzungdo:
 thanhnn:
   name: Thanh NN
   title: Front End Engineer @ OSD.VN
-  url: https://github.com/thanhnn
+  url: https://osd.vn
   image_url: https://github.com/thanhnn.png
 
 honghanh:
   name: Hong Hanh
-  title: Customer support
-  url: https://osd.vn.com
+  title: Customer Support @ OSD.VN
+  url: https://osd.vn
   image_url: https://github.com/honghanh.png
+
+Trang:
+  name: Hong Hanh
+  title: Marketer @ OSD.VN
+  url: https://osd.vn
+  image_url: https://github.com/trang.png
