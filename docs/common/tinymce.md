@@ -21,7 +21,7 @@ Các chức năng được phân thành nhóm chính như sau:
 
 Tính năng này hữu dụng khi bạn muốn điều khiển hiển thị theo tiêu chuẩn HTML, đặc biệt được nhóm chuyên gia SEO thường xuyên sử dụng khi muốn có bài viết theo heading, paragraph.
 
-![trinh-soan-thao-2.jpg](img/trinh-soan-thao-2.jpg)
+![trinh-soan-thao-1.jpg](img/trinh-soan-thao-1.jpg)
 
 Cách thực hiện đơn giản là chọn đoạn văn bản (bôi đen) hoặc đặt con trỏ vào vị trí cần định dạng. Tiếp đến, bạn chọn 1 định dạng cụ thể (Paragraph = đoạn văn, heading (đề mục) từ 1 đến 6, Code = mã nguồn) từ danh sách thả xuống. Xin vui lòng xem hình minh họa bên dưới.
 
@@ -31,25 +31,25 @@ Xem thêm tư vấn của OSD.VN về cách định dạng bài viết chuẩn S
 
 Phím tắt: Ctrl + B (Comand + B trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ đậm.
 
-![trinh-soan-thao-3.jpg](img/trinh-soan-thao-3.jpg)
+![trinh-soan-thao-2.jpg](img/trinh-soan-thao-2.jpg)
 
 ### (3) Định dạng kiểu chữ in nghiêng
 
 Phím tắt: Ctrl + I (Comand + I trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ in nghiêng.
 
-![trinh-soan-thao-4.jpg](img/trinh-soan-thao-4.jpg)
+![trinh-soan-thao-3.jpg](img/trinh-soan-thao-3.jpg)
 
 ### (4) Định dạng kiểu chữ gạch chân
 
 Phím tắt: Ctrl + U (Comand + U trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là trình bày văn bản với kiểu định dạng chữ được gạch chân.
 
-![trinh-soan-thao-5.jpg](img/trinh-soan-thao-5.jpg)
+![trinh-soan-thao-4.jpg](img/trinh-soan-thao-4.jpg)
 
 ### (5) Định dạng chữ gạch ngang
 
 Trình bày đoạn văn bản dạng gạch ngang, bạn cũng có thể sử dụng tổ hợp phím Ctrl + S hoặc Command + S trên MacOS X.
 
-![trinh-soan-thao-10.jpg](img/trinh-soan-thao-10.jpg)
+![trinh-soan-thao-5.jpg](img/trinh-soan-thao-5.jpg)
 
 ### (7) Thay đổi màu chữ
 
@@ -63,7 +63,7 @@ Tương tự chức năng số (7) được nêu trên, chức năng này cho ph
 
 ### (9) Thay đổi cỡ chữ
 
-![trinh-soan-thao-11.jpg](img/trinh-soan-thao-11.jpg)
+![trinh-soan-thao-9.jpg](img/trinh-soan-thao-9.jpg)
 
 Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ đến lớn theo danh sách.
 
@@ -188,6 +188,8 @@ WIP: tham khảo thêm cách tạo kênh và upload video lên youtube
 ## Thác tác với bảng biểu (6)
 
 !> 70% người dùng truy cập website từ điện thoại với kích thước màn hình nhỏ, khi nội dung được trình bày trong bảng biểu quá nhiều cột dễ gây các trình bày không được như mong muốn. Bạn hết sức cân nhắc tìm cách trình bày phù hợp để nội dung không bị xô lệch trên thiết bị bi động.
+
+![trinh-soan-thao-6.jpg](img/trinh-soan-thao-6.jpg)
 
 Bạn có thể sử dụng nhấn nút Table trong trình soạn thảo để chèn bảng biểu vào nội dung trình soạn thảo.
 
