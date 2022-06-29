@@ -30,7 +30,7 @@ Lựa chọn tỉnh thành phố của chi nhánh
 **Tọa độ**
 Trên trình duyệt người dùng, tọa độ nằm sau @
 
-![](https://i.imgur.com/DFJra52.jpg)
+![chi-nhanh.jpg](img/chi-nhanh.jpg)
 
 Tại hình trên tọa độ sẽ là:
 **Vĩ độ**: 20.995861
