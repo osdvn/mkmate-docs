@@ -4,16 +4,16 @@ sidebar_position: 0
 tags: [mkmate, content-centric]
 ---
 
-# Giới thiệu Mkmate - Content-centric
+# Giới thiệu Mkmate, Content-centric CMS
 Content centric là khái niệm tương đối mới mẻ với người dùng Việt Nam, được OSD.VN phát hiện sau một thời gian dài thiết kế website dành cho nhóm khách hàng có nhu cầu tiếp thị bằng phương pháp SEO.
 
-Content centric được Maica marketing team của OSD.VN chuyển ngữ thành "Nội dung tốt là trọng tâm". Chính vì vậy, các tính năng của Mkmate sẽ có mục tiêu lớn nhất và nhất quán là tập trung vào quản lý, biên tập và quảng bá nội dung thông tin cho website.
+"Nội dung tốt là trọng tâm" là định hướng cho những tính năng đã và sẽ được trang bị trong Mkmate. Mục tiêu lớn nhất và nhất quán của Mkmate là giúp webmaster quản lý sâu và chặt chẽ nội dung hơn, giúp tiết kiệm thời gian biên tập và quảng bá nội dung thông tin cho website.
 
-Hoạt động SEO là một tổng hợp gồm quá nhiều kỹ năng khiến các webmaster mất nhiều thời gian cho hoạt động kỹ thuật web nhiều quá và vì thế thời gian dự án SEO hay bị kéo dài và thất bại.
+SEO được biết đến là tổng hợp của nhiều kỹ năng khiến các webmaster mất nhiều thời gian cho hoạt động kỹ thuật web và vì thế thời gian dự án SEO thường xuyên quá hạn, tiêu hao nhiều nguồn lực và dẫn đến kết quả thất bại.
 
-Mặt khác, nội tại OSD.VN cũng là 1 team chuyên về dịch vụ SEO, Mkmate sẽ liên tục cải tiến với định hướng tiết kiệm nguồn lực tối đa cho các dự án dịch vụ SEO đang có hiệu quả cao. 
+OSD.VN cung cấp dịch vụ SEO có hơn 10 năm hoạt động, vì vậy, Mkmate sẽ liên tục cải tiến với định hướng tiết kiệm nguồn lực tối đa cho các dự án dịch vụ SEO đang có hiệu quả cao. 
 
-Chiến lược phát triển của Mkmate hướng tới ngành nghề kinh doanh dịch vụ và giáo dục, được song hành cùng sản phẩm chiến lược khác là Pisale, định hướng tới mô hình kinh doanh bán lẻ. Cả 2 sản phẩm có lộ trình phát triển mạch lạc, cải tiến không ngừng với những mục tiêu rõ ràng:
+Chiến lược phát triển của Mkmate hướng tới ngành nghề kinh doanh dịch vụ và giáo dục, được song hành cùng sản phẩm chiến lược khác là Pisale, hướng tới mô hình bán lẻ. Cả 2 sản phẩm có lộ trình phát triển mạch lạc, thừa kế các ưu điểm của nhau, cải tiến không ngừng với những mục tiêu rõ ràng:
 
 1. Đơn giản, dễ sử dụng
 2. Tốc độ tải trang siêu nhanh, sử dụng hầu hết các tiêu chuẩn do Google Pagespeed Team tư vấn
