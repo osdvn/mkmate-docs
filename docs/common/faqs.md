@@ -7,7 +7,7 @@ Tính năng này được biết đến nhiều vì lợi ích SEO, được xu�
 
 ## Thêm mới câu hỏi thường gặp
 Tại box "Câu hỏi thường gặp" trong từng trang, bạn có thể bấm nút **Thêm**
-![faqs.jpg](img/faqs.jpg)
+![faq.jpg](img/faq.jpg)
 
 **Tiêu đề**
 Điền tiêu đề của câu hỏi vào ô textbox
@@ -21,5 +21,9 @@ Tại box "Câu hỏi thường gặp" trong từng trang, bạn có thể bấm
 ## Sửa câu hỏi thường gặp
 Để sửa câu hỏi thường gặp, bạn thay đổi trực tiếp nội dung vào vùng nhập văn bản
 
+![faq-1.jpg](img/faq-1.jpg)
+
 ## Sắp xếp lại vị trí
 Cần điền số từ lớn đến bé để sắp xếp thứ tự câu hỏi thường gặp
+
+![faq-2.jpg](img/faq-2.jpg)

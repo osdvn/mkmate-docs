@@ -14,10 +14,14 @@ Trình soạn thảo TinyMCE 5 với nhiều tích hợp sâu giúp bạn soạn
 
 Các chức năng được phân thành nhóm chính như sau:
 
+![trinh-soan-thao.jpg](img/trinh-soan-thao.jpg)
+
 ## Chức năng định dạng văn bản
 ### (1) Trình bày đoạn văn
 
 Tính năng này hữu dụng khi bạn muốn điều khiển hiển thị theo tiêu chuẩn HTML, đặc biệt được nhóm chuyên gia SEO thường xuyên sử dụng khi muốn có bài viết theo heading, paragraph.
+
+![trinh-soan-thao-1.jpg](img/trinh-soan-thao-1.jpg)
 
 Cách thực hiện đơn giản là chọn đoạn văn bản (bôi đen) hoặc đặt con trỏ vào vị trí cần định dạng. Tiếp đến, bạn chọn 1 định dạng cụ thể (Paragraph = đoạn văn, heading (đề mục) từ 1 đến 6, Code = mã nguồn) từ danh sách thả xuống. Xin vui lòng xem hình minh họa bên dưới.
 
@@ -27,25 +31,25 @@ Xem thêm tư vấn của OSD.VN về cách định dạng bài viết chuẩn S
 
 Phím tắt: Ctrl + B (Comand + B trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ đậm.
 
-Kết quả
+![trinh-soan-thao-2.jpg](img/trinh-soan-thao-2.jpg)
 
 ### (3) Định dạng kiểu chữ in nghiêng
 
 Phím tắt: Ctrl + I (Comand + I trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ in nghiêng.
 
-Kết quả
+![trinh-soan-thao-3.jpg](img/trinh-soan-thao-3.jpg)
 
 ### (4) Định dạng kiểu chữ gạch chân
 
 Phím tắt: Ctrl + U (Comand + U trên MacOS X), áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là trình bày văn bản với kiểu định dạng chữ được gạch chân.
 
-Kết quả
+![trinh-soan-thao-4.jpg](img/trinh-soan-thao-4.jpg)
 
 ### (5) Định dạng chữ gạch ngang
 
 Trình bày đoạn văn bản dạng gạch ngang, bạn cũng có thể sử dụng tổ hợp phím Ctrl + S hoặc Command + S trên MacOS X.
 
-Kết quả
+![trinh-soan-thao-5.jpg](img/trinh-soan-thao-5.jpg)
 
 ### (7) Thay đổi màu chữ
 
@@ -59,22 +63,9 @@ Tương tự chức năng số (7) được nêu trên, chức năng này cho ph
 
 ### (9) Thay đổi cỡ chữ
 
-Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ đến lớn theo danh sách tương ứng như sau:
+![trinh-soan-thao-9.jpg](img/trinh-soan-thao-9.jpg)
 
-- 8pt
-- 9pt
-- 10pt
-- 11pt
-- 12pt
-- 14pt
-- 18pt
-- 24pt
-- 30pt
-- 36pt
-- 48pt
-- 60pt
-- 72pt
-- 96pt
+Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ đến lớn theo danh sách.
 
 !> Trong 1 văn bản bạn không nên có nhiều cỡ chữ nhằm giảm sự điều tiết của mắt người đọc.
 
@@ -122,7 +113,7 @@ Bạn cũng có thể dùng tổ hợp phím tắt để căn lề cho nội dun
 
 Number list (danh sách đánh số thứ tự) giúp thể hiện các mục rõ ràng và cụ thể hơn. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (14).
 
-Kết quả
+![trinh-soan-thao-14.jpg](img/trinh-soan-thao-14.jpg)
 
 ### (15) Định dạng danh sách không theo thứ tự
 
@@ -134,35 +125,45 @@ Kết quả
 
 Tính năng này sẽ dịch chuyển khối đoạn văn bản thụt vào bên trái 1 tab.
 
-Kết quả
+![trinh-soan-thao-16.jpg](img/trinh-soan-thao-16.jpg)
 
 ### (17) Dịch chuyển sang phải 1 khối văn bản
 
 Tính năng này sẽ dịch chuyển khối văn bản thụt vào bên phải 1 tab, chỉ có tác dụng sau khi bạn đã dùng tính năng số (17).
 
-Kết quả
+![trinh-soan-thao-17.jpg](img/trinh-soan-thao-17.jpg)
 
 ### (18) Trích dẫn văn bản
 
 Thẻ blockquote là thẻ tag dùng để trích dẫn phần văn bản từ một nguồn khác trong html. Tag Blockquote thường được sử dụng trong trích dẫn câu nói của một tác giả nào đó. Hay nhấn mạnh một nội dung nào đó trên bài viết của mình.
 
+![trinh-soan-thao-18.jpg](img/trinh-soan-thao-18.jpg)
+
 ### (19) Xóa định dạng văn bản mặc định
 
 Chức năng này được dùng khi các bạn thực hiện copy nội dung từ file MS Word, Google Docs, trực tiếp từ các website khác... khiến định dạng của bài viết không hiển thị theo phong cách chung của website.
 
-Kết quả
+![trinh-soan-thao-19.jpg](img/trinh-soan-thao-19.jpg)
 
 ### (24) Fullscreen
 
 Tính năng xem toàn màn hình của trình soạn thảo. Để bật chế độ duyệt web toàn màn hình Full Screen bạn chỉ cần nhấn phím tính năng số (24) trên thanh công cụ, nếu muốn tắt chế độ full toàn màn hình bạn chỉ cần ấn lại phím số (24) một lần nữa
 
+![trinh-soan-thao-24.jpg](img/trinh-soan-thao-24.jpg)
+
 ### (25) Insert/edit code sample
+
+![trinh-soan-thao-25.jpg](img/trinh-soan-thao-25.jpg)
 
 ### (26) Tabs content
 
+![trinh-soan-thao-26.jpg](img/trinh-soan-thao-26.jpg)
+
 ### (27) fontawesomepicker
 
-Cách chèn liên kết (hyperlink)
+![trinh-soan-thao-27.jpg](img/trinh-soan-thao-27.jpg)
+
+## Cách chèn liên kết (hyperlink)
 
 Nút số (23) trên thanh công cụ dùng để chèn liên kết cho đoạn văn bản. Khi bạn không chọn đoạn văn bản thì hệ thống tự nhận dạng liên kết dạng URL. Xin vui lòng xem hình dưới.
 
@@ -195,6 +196,8 @@ WIP: tham khảo thêm cách tạo kênh và upload video lên youtube
 ## Thác tác với bảng biểu (6)
 
 !> 70% người dùng truy cập website từ điện thoại với kích thước màn hình nhỏ, khi nội dung được trình bày trong bảng biểu quá nhiều cột dễ gây các trình bày không được như mong muốn. Bạn hết sức cân nhắc tìm cách trình bày phù hợp để nội dung không bị xô lệch trên thiết bị bi động.
+
+![trinh-soan-thao-6.jpg](img/trinh-soan-thao-6.jpg)
 
 Bạn có thể sử dụng nhấn nút Table trong trình soạn thảo để chèn bảng biểu vào nội dung trình soạn thảo.
 
