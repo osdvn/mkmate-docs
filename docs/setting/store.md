@@ -28,6 +28,13 @@ Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải 
 Lựa chọn tỉnh thành phố của chi nhánh
 
 **Tọa độ**
+Trên trình duyệt người dùng, tọa độ nằm sau @
+
+![](https://i.imgur.com/DFJra52.jpg)
+
+Tại hình trên tọa độ sẽ là:
+**Vĩ độ**: 20.995861
+**Kinh độ**: 105.7462443
 
 **Điện thoại**
 Nhập số điện thoại của chi nhánh
