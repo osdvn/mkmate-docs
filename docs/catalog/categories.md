@@ -4,7 +4,7 @@ sidebar_position: 10
 title: Quản lý Nhóm và danh mục
 sidebar_label: Quản lý nhóm
 ---
-# Quản lý nhóm tin bài
+# Quản lý chuyên mục tin bài
 
 ## Thêm chuyên mục tin bài
 
