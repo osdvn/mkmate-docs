@@ -6,7 +6,7 @@ tags:
   - thiết lập
 published: true
 ---
-# Thiết lập hệ thống
+# Quản lý Thiết lập hệ thống
 
 Khu vực cấu hình các tham số chung liên quan đến website và doanh nghiệp của bạn. Những thông tin cần điền như sau:
 
