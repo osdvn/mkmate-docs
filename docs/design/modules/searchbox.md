@@ -1,4 +1,4 @@
-# Quản lý Hộp tìm kiếm
+# Quản lý mô đun Hộp tìm kiếm
 
 Là khi người dùng thực hiện tìm kiếm trên thanh tìm kiếm, công cụ tìm kiếm có nhiệm vụ trả kết quả có liên quan nhất với truy vấn của người dùng. Quản lý thay đổi công cụ tìm kiếm phù hợp với nhu cầu sử dụng. Trải nghiệm các công cụ tìm kiếm đa dạng hơn.
 
