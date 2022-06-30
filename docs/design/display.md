@@ -1,4 +1,4 @@
-# Quản lý logo website
+# Quản lý nhận diện (logo)
 
 Logo sẽ giúp khách hàng nhớ đến thương hiệu của bạn dễ dàng hơn.
 
