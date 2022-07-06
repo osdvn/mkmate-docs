@@ -23,7 +23,7 @@ Tính năng này hữu dụng khi bạn muốn điều khiển hiển thị theo
 
 ![trinh-soan-thao-1.jpg](img/trinh-soan-thao-1.jpg)
 
-Cách thực hiện đơn giản là chọn đoạn văn bản (bôi đen) hoặc đặt con trỏ vào vị trí cần định dạng. Tiếp đến, bạn chọn 1 định dạng cụ thể (Paragraph = đoạn văn, heading (đề mục) từ 1 đến 6, Code = mã nguồn) từ danh sách thả xuống. Xin vui lòng xem hình minh họa bên dưới.
+Cách thực hiện đơn giản là chọn đoạn văn bản (bôi đen) hoặc đặt con trỏ vào vị trí cần định dạng. Tiếp đến, bạn chọn 1 định dạng cụ thể (Paragraph = đoạn văn, heading (đề mục) từ 1 đến 6, Code = mã nguồn) từ danh sách thả xuống.
 
 Xem thêm tư vấn của OSD.VN về cách định dạng bài viết chuẩn SEO.(WIP)
 
@@ -119,8 +119,6 @@ Number list (danh sách đánh số thứ tự) giúp thể hiện các mục r�
 
 Unordered list (danh sách không theo thứ tự) giúp văn bản sạch và dễ nhìn và bớt đơn điệu. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (15).
 
-Kết quả
-
 ### (16) Dịch chuyển sang trái 1 khối văn bản
 
 Tính năng này sẽ dịch chuyển khối đoạn văn bản thụt vào bên trái 1 tab.
@@ -179,7 +177,7 @@ Tùy chọn Open link in New window sẽ giúp điều khiển mở liên kết 
 
 Bấm vào nơi bạn muốn chèn ảnh
 
-Tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 20, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn https://de-obelly.pisale.cloud/media/data/uploads/2022/03/17/132309_top-size.jpg)
+Tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 20, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn https://osdvn.vn/media/data/uploads/2022/07/06/162821_ky-thuat-huong-dan-viet-bai-chuan-seo-dat-ket-qua-cao.jpeg)
 
 Để chèn hình ảnh vào bài viết, bạn đặt con trỏ vào vị trí cần chèn, sau đó chọn nút số (21) trên thanh công cụ soạn thảo. Tiếp theo, hệ thống sẽ mở trình quản lý file của hệ thống để bạn có thể chọn 1 hoặc nhiều ảnh => Click phải chuột và bấm Select Files => Ảnh sẽ được chèn vào trong nội dung bài viết.
 
