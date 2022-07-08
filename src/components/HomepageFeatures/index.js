@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Bạn là người dùng mới?',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/nguoi-dung-moi.svg').default,
     description: (
       <>
         Hãy tìm hiểu cách dùng sản phẩm <a href="/docs/intro">tại đây</a>.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Phát hiện lỗi sản phẩm?',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/loi-san-pham-bug.svg').default,
     description: (
       <>
         Vui lòng <a href="https://my.osd.vn/issue/new">tạo phiếu yêu cầu hỗ trợ</a> để thông báo với chúng tôi.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Đề xuất tính năng',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/de-xuat-tinh-nang.svg').default,
     description: (
       <>
         Kế hoạch cải tiến sản phẩm liên tục cập nhật <a href="https://my.osd.vn/issue/new">issue mới</a> do bạn đề xuất.

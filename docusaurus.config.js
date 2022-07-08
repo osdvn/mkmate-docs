@@ -35,7 +35,7 @@ const config = {
         hashed: true,
         // For Docs using Chinese, The `language` is recommended to set to:
         // ```
-        language: ["en", "vi"],
+        language: ["vi"],
         // ```
       },
     ],
@@ -143,7 +143,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2012 - ${new Date().getFullYear()} OSD.VN.`,
+        copyright: `Copyright © 2012 - ${new Date().getFullYear()}, made with 🌶 by OSD.VN.`,
       },
       prism: {
         theme: lightCodeTheme,
