@@ -23,7 +23,7 @@ Tính năng này hữu dụng khi bạn muốn điều khiển hiển thị theo
 
 ![trinh-soan-thao-1.jpg](img/trinh-soan-thao-1.jpg)
 
-Cách thực hiện đơn giản là chọn đoạn văn bản (bôi đen) hoặc đặt con trỏ vào vị trí cần định dạng. Tiếp đến, bạn chọn 1 định dạng cụ thể (Paragraph = đoạn văn, heading (đề mục) từ 1 đến 6, Code = mã nguồn) từ danh sách thả xuống. Xin vui lòng xem hình minh họa bên dưới.
+Cách thực hiện đơn giản là chọn đoạn văn bản (bôi đen) hoặc đặt con trỏ vào vị trí cần định dạng. Tiếp đến, bạn chọn 1 định dạng cụ thể (Paragraph = đoạn văn, heading (đề mục) từ 1 đến 6, Code = mã nguồn) từ danh sách thả xuống.
 
 Xem thêm tư vấn của OSD.VN về cách định dạng bài viết chuẩn SEO.(WIP)
 
@@ -55,11 +55,15 @@ Trình bày đoạn văn bản dạng gạch ngang, bạn cũng có thể sử d
 
 Bạn cần chọn đoạn văn bản cần thay đổi màu chữ, sau đó bấm vào nút số (7) => Thực hiện chọn màu mong muốn từ bảng màu hiển thị ra.
 
+![trinh-soan-thao-7.jpg](img/trinh-soan-thao-7.jpg)
+
 Để xóa màu chữ của văn bản, bạn cần bôi đen đoạn văn bản cần xóa màu và chọn nút Remove Color.
 
 ### (8) Thay đổi màu nền của văn bản
 
 Tương tự chức năng số (7) được nêu trên, chức năng này cho phép định dạng màu nền của chữ.
+
+![trinh-soan-thao-8.jpg](img/trinh-soan-thao-8.jpg)
 
 ### (9) Thay đổi cỡ chữ
 
@@ -73,6 +77,8 @@ Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ �
 
 Tính năng lựa chọn kí tự, kí hiệu đặc biệt. Hệ thống chỉ cho phép bạn lựa chọn 7 tùy chọn tương ứng kí tự, kí hiệu theo danh sách tương ứng như sau:
 
+![trinh-soan-thao-10.jpg](img/trinh-soan-thao-10.jpg)
+
 - **Currency** Tiền tệ
 - **Text** Chữ
 - **Quotations** Báo giá
@@ -84,6 +90,8 @@ Tính năng lựa chọn kí tự, kí hiệu đặc biệt. Hệ thống chỉ 
 ### (11) Emoticons
 
 Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phép bạn lựa chọn 8 tùy chọn tương ứng biểu tượng cảm xúc theo danh sách tương ứng như sau:
+
+![trinh-soan-thao-11.jpg](img/trinh-soan-thao-11.jpg)
 
 - **Symbols** Ký hiệu
 - **People** Mọi người
@@ -97,6 +105,8 @@ Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phé
 ### (12) Source code
 
 Tính năng xem mã nguồn của trang web. Để xem chế độ Source code bạn chỉ cần nhấn phím tính năng số (12) trên thanh công cụ, nếu muốn tắt chế độ Source code bạn chỉ cần ấn lại phím số (12) một lần nữa.
+
+![trinh-soan-thao-12.jpg](img/trinh-soan-thao-12.jpg)
 
 ### (13) Căn lề đoạn văn bản
 
@@ -119,7 +129,7 @@ Number list (danh sách đánh số thứ tự) giúp thể hiện các mục r�
 
 Unordered list (danh sách không theo thứ tự) giúp văn bản sạch và dễ nhìn và bớt đơn điệu. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (15).
 
-Kết quả
+![trinh-soan-thao-15.jpg](img/trinh-soan-thao-15.jpg)
 
 ### (16) Dịch chuyển sang trái 1 khối văn bản
 
@@ -167,6 +177,10 @@ Tính năng xem toàn màn hình của trình soạn thảo. Để bật chế �
 
 Nút số (23) trên thanh công cụ dùng để chèn liên kết cho đoạn văn bản. Khi bạn không chọn đoạn văn bản thì hệ thống tự nhận dạng liên kết dạng URL. Xin vui lòng xem hình dưới.
 
+![trinh-soan-thao-23.jpg](img/trinh-soan-thao-23.jpg)
+
+![trinh-soan-thao-23-1.jpg](img/trinh-soan-thao-23-1.jpg)
+
 Tùy chọn Open link in Current window sẽ giúp điều khiển mở liên kết trong cùng 1 cửa sổ hiện tại. Tùy chọn này thường được áp dụng khi bạn thực hiện chèn 1 liên kết cùng trang website.
 
 Tùy chọn Open link in New window sẽ giúp điều khiển mở liên kết đó trong 1 cửa sổ mới. Tùy chọn này thường được áp dụng khi bạn thực hiện chèn 1 URL là website bên ngoài. Khi bạn quan tâm tới SEO, việc này sẽ giúp giảm tỉ lệ thoát trang của website.
@@ -177,17 +191,27 @@ Tùy chọn Open link in New window sẽ giúp điều khiển mở liên kết 
 
 (20) Chèn trực tiếp ảnh từ máy tính lên trình soạn thảo nội dung
 
+![trinh-soan-thao-20.jpg](img/trinh-soan-thao-20.jpg)
+
 Bấm vào nơi bạn muốn chèn ảnh
 
-Tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 20, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn https://de-obelly.pisale.cloud/media/data/uploads/2022/03/17/132309_top-size.jpg)
+Tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 20, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn https://osdvn.vn/media/data/uploads/2022/07/06/162821_ky-thuat-huong-dan-viet-bai-chuan-seo-dat-ket-qua-cao.jpeg)
 
 Để chèn hình ảnh vào bài viết, bạn đặt con trỏ vào vị trí cần chèn, sau đó chọn nút số (21) trên thanh công cụ soạn thảo. Tiếp theo, hệ thống sẽ mở trình quản lý file của hệ thống để bạn có thể chọn 1 hoặc nhiều ảnh => Click phải chuột và bấm Select Files => Ảnh sẽ được chèn vào trong nội dung bài viết.
+
+![trinh-soan-thao-21.jpg](img/trinh-soan-thao-21.jpg)
+
+![trinh-soan-thao-21-1.jpg](img/trinh-soan-thao-21-1.jpg)
 
 Bạn click chuột phải tại hình ảnh để thay đổi kích thước như mong muốn.
 
 ## Nhúng video (youtube, vimeo, iframe) (22)
 
 Ảnh chụp chức năng chèn video và video hiển thị sau khi được nhúng vào trình soạn thảo.
+
+![trinh-soan-thao-22.jpg](img/trinh-soan-thao-22.jpg)
+
+![trinh-soan-thao-22-1.jpg](img/trinh-soan-thao-22-1.jpg)
 
 Cách đơn giản là bạn copy URL trên thanh địa chỉ của youtube, vimeo... vào hộp văn bản. Sau khi thực hiện xong, hệ thống sẽ nhúng video, iframe vào nội dung với chế độ hiển thị chiều rộng vừa khung của trình soạn thảo.
 
