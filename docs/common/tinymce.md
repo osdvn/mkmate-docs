@@ -201,6 +201,8 @@ Tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 20, n
 
 ![trinh-soan-thao-21.jpg](img/trinh-soan-thao-21.jpg)
 
+![trinh-soan-thao-21-1.jpg](img/trinh-soan-thao-21-1.jpg)
+
 Bạn click chuột phải tại hình ảnh để thay đổi kích thước như mong muốn.
 
 ## Nhúng video (youtube, vimeo, iframe) (22)
