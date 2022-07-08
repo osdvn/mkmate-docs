@@ -55,11 +55,15 @@ Trình bày đoạn văn bản dạng gạch ngang, bạn cũng có thể sử d
 
 Bạn cần chọn đoạn văn bản cần thay đổi màu chữ, sau đó bấm vào nút số (7) => Thực hiện chọn màu mong muốn từ bảng màu hiển thị ra.
 
+![trinh-soan-thao-7.jpg](img/trinh-soan-thao-7.jpg)
+
 Để xóa màu chữ của văn bản, bạn cần bôi đen đoạn văn bản cần xóa màu và chọn nút Remove Color.
 
 ### (8) Thay đổi màu nền của văn bản
 
 Tương tự chức năng số (7) được nêu trên, chức năng này cho phép định dạng màu nền của chữ.
+
+![trinh-soan-thao-9.jpg](img/trinh-soan-thao-9.jpg)
 
 ### (9) Thay đổi cỡ chữ
 
@@ -93,6 +97,8 @@ Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phé
 - **Travel and Places** Du lịch và địa điểm
 - **Objects** Các đối tượng
 - **Flags** Cờ
+
+![trinh-soan-thao-11.jpg](img/trinh-soan-thao-11.jpg)
 
 ### (12) Source code
 
