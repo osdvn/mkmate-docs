@@ -171,6 +171,10 @@ Tính năng xem toàn màn hình của trình soạn thảo. Để bật chế �
 
 Nút số (23) trên thanh công cụ dùng để chèn liên kết cho đoạn văn bản. Khi bạn không chọn đoạn văn bản thì hệ thống tự nhận dạng liên kết dạng URL. Xin vui lòng xem hình dưới.
 
+![trinh-soan-thao-23.jpg](img/trinh-soan-thao-23.jpg)
+
+![trinh-soan-thao-23-1.jpg](img/trinh-soan-thao-23-1.jpg)
+
 Tùy chọn Open link in Current window sẽ giúp điều khiển mở liên kết trong cùng 1 cửa sổ hiện tại. Tùy chọn này thường được áp dụng khi bạn thực hiện chèn 1 liên kết cùng trang website.
 
 Tùy chọn Open link in New window sẽ giúp điều khiển mở liên kết đó trong 1 cửa sổ mới. Tùy chọn này thường được áp dụng khi bạn thực hiện chèn 1 URL là website bên ngoài. Khi bạn quan tâm tới SEO, việc này sẽ giúp giảm tỉ lệ thoát trang của website.
