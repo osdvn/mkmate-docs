@@ -102,10 +102,11 @@ Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phé
 - **Objects** Các đối tượng
 - **Flags** Cờ
 
-
 ### (12) Source code
 
 Tính năng xem mã nguồn của trang web. Để xem chế độ Source code bạn chỉ cần nhấn phím tính năng số (12) trên thanh công cụ, nếu muốn tắt chế độ Source code bạn chỉ cần ấn lại phím số (12) một lần nữa.
+
+![trinh-soan-thao-12.jpg](img/trinh-soan-thao-12.jpg)
 
 ### (13) Căn lề đoạn văn bản
 
