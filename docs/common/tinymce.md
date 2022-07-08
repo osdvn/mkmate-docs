@@ -63,7 +63,7 @@ Bạn cần chọn đoạn văn bản cần thay đổi màu chữ, sau đó b�
 
 Tương tự chức năng số (7) được nêu trên, chức năng này cho phép định dạng màu nền của chữ.
 
-![trinh-soan-thao-9.jpg](img/trinh-soan-thao-9.jpg)
+![trinh-soan-thao-8.jpg](img/trinh-soan-thao-8.jpg)
 
 ### (9) Thay đổi cỡ chữ
 
