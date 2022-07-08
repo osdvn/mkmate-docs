@@ -77,6 +77,8 @@ Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ �
 
 Tính năng lựa chọn kí tự, kí hiệu đặc biệt. Hệ thống chỉ cho phép bạn lựa chọn 7 tùy chọn tương ứng kí tự, kí hiệu theo danh sách tương ứng như sau:
 
+![trinh-soan-thao-10.jpg](img/trinh-soan-thao-10.jpg)
+
 - **Currency** Tiền tệ
 - **Text** Chữ
 - **Quotations** Báo giá
@@ -89,6 +91,8 @@ Tính năng lựa chọn kí tự, kí hiệu đặc biệt. Hệ thống chỉ 
 
 Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phép bạn lựa chọn 8 tùy chọn tương ứng biểu tượng cảm xúc theo danh sách tương ứng như sau:
 
+![trinh-soan-thao-11.jpg](img/trinh-soan-thao-11.jpg)
+
 - **Symbols** Ký hiệu
 - **People** Mọi người
 - **Animals** and Nature Động vật và thiên nhiên
@@ -98,7 +102,6 @@ Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phé
 - **Objects** Các đối tượng
 - **Flags** Cờ
 
-![trinh-soan-thao-11.jpg](img/trinh-soan-thao-11.jpg)
 
 ### (12) Source code
 
@@ -124,6 +127,8 @@ Number list (danh sách đánh số thứ tự) giúp thể hiện các mục r�
 ### (15) Định dạng danh sách không theo thứ tự
 
 Unordered list (danh sách không theo thứ tự) giúp văn bản sạch và dễ nhìn và bớt đơn điệu. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (15).
+
+![trinh-soan-thao-15.jpg](img/trinh-soan-thao-15.jpg)
 
 ### (16) Dịch chuyển sang trái 1 khối văn bản
 
