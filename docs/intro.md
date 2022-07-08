@@ -4,8 +4,8 @@ sidebar_position: 0
 tags: [mkmate, content-centric]
 ---
 
-# Giới thiệu Mkmate, Content-centric CMS
-Content centric là khái niệm tương đối mới mẻ với người dùng Việt Nam, được OSD.VN phát hiện sau một thời gian dài thiết kế website dành cho nhóm khách hàng có nhu cầu tiếp thị bằng phương pháp SEO.
+# Giới thiệu Mkmate
+**Content centric** là khái niệm tương đối mới mẻ với người dùng Việt Nam, được OSD.VN phát hiện sau một thời gian dài thiết kế website dành cho nhóm khách hàng có nhu cầu tiếp thị bằng phương pháp SEO.
 
 "Nội dung tốt là trọng tâm" là định hướng cho những tính năng đã và sẽ được trang bị trong Mkmate. Mục tiêu lớn nhất và nhất quán của Mkmate là giúp webmaster quản lý sâu và chặt chẽ nội dung hơn, giúp tiết kiệm thời gian biên tập và quảng bá nội dung thông tin cho website.
 
