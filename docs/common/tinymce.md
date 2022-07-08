@@ -193,6 +193,10 @@ Bạn click chuột phải tại hình ảnh để thay đổi kích thước nh
 
 Ảnh chụp chức năng chèn video và video hiển thị sau khi được nhúng vào trình soạn thảo.
 
+![trinh-soan-thao-22.jpg](img/trinh-soan-thao-22.jpg)
+
+![trinh-soan-thao-22-1.jpg](img/trinh-soan-thao-22-1.jpg)
+
 Cách đơn giản là bạn copy URL trên thanh địa chỉ của youtube, vimeo... vào hộp văn bản. Sau khi thực hiện xong, hệ thống sẽ nhúng video, iframe vào nội dung với chế độ hiển thị chiều rộng vừa khung của trình soạn thảo.
 
 WIP: tham khảo thêm cách tạo kênh và upload video lên youtube
