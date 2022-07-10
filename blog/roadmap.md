@@ -8,7 +8,7 @@ authors:
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
 ---
-## 2022-07-15
+## 2022-07-30
 1. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 2. - [x] Email template
 3. - [x] Cookie-less domain
