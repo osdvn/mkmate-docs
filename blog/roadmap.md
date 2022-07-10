@@ -18,7 +18,8 @@ tags: [roadmap, mkmate]
 7. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
 8. - [ ] AMP cơ bản
 9. - [ ] Admin notify
-10. - [ ] ...
+10. - [ ] Form tư vấn
+11. - [ ] Form chia sẻ tài nguyên
 
 ## 2022-09-30
 1. - [ ] Form builder
@@ -31,3 +32,4 @@ tags: [roadmap, mkmate]
 8. - [ ] Popup builder
 9. - [x] Protect spam email
 10. - [ ] Search and replace massive content
+11. - [ ] Email template
