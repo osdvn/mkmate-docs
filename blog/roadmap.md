@@ -32,4 +32,4 @@ tags: [roadmap, mkmate]
 8. - [ ] Popup builder
 9. - [x] Protect spam email
 10. - [ ] Search and replace massive content
-11. - [ ] Email template
+11. - [x] Email template
