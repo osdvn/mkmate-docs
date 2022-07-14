@@ -16,7 +16,7 @@ OSD.VN cung cấp dịch vụ SEO có hơn 10 năm hoạt động, vì vậy, Mk
 Chiến lược phát triển của Mkmate hướng tới ngành nghề kinh doanh dịch vụ và giáo dục, được song hành cùng sản phẩm chiến lược khác là Pisale, hướng tới mô hình bán lẻ. Cả 2 sản phẩm có lộ trình phát triển mạch lạc, thừa kế các ưu điểm của nhau, cải tiến không ngừng với những mục tiêu rõ ràng:
 
 1. Đơn giản, dễ sử dụng
-2. Tốc độ tải trang siêu nhanh, sử dụng hầu hết các tiêu chuẩn do Google Pagespeed Team tư vấn
+2. Tốc độ tải trang siêu nhanh, áp dụng hầu hết các tiêu chuẩn do Google Pagespeed Team tư vấn
 3. Chuẩn hóa và thống nhất khái quát nghiệp vụ
 4. Tăng cường tự động hóa hoạt động SEO
 5. Kiểm soát lỗi chặt chẽ
