@@ -20,4 +20,4 @@ Tạo mục lục tự động giúp tiết kiệm thời gian và tăng tính t
 
 Trong mỗi bài viết, bạn nhấn tích vào trường **Mục lục tự động**. Mục lục tự động sẽ hiển thị ngay đầu nội dung của bài viết.
 
-Sau khi hoàn tất các thao tác thay dổi thông tin, bạn cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi hoàn tất các thao tác thay đổi thông tin, bạn cần chọn **Lưu** để cập nhật những thay đổi.
