@@ -34,7 +34,7 @@ tags: [roadmap, mkmate]
 12. - [x] Hiển thị tỉnh/thành theo thứ tự sắp xếp, chữ cái
 13. - [ ] Hiển thị Quận/huyện theo thứ tự sắp xếp, chữ cái
 14. - [ ] Lưu thông tin vùng quản trị bằng AJAX
-15. - [ ] Hỗ trợ redirect 302
+15. - [x] Hỗ trợ đồng thời redirect 302 & 301
 16. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 17. - [ ] Admin tasks
 18. - [ ] Hỗ trợ ảnh webp
