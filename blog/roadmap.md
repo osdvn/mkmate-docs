@@ -37,3 +37,4 @@ tags: [roadmap, mkmate]
 15. - [ ] Hỗ trợ redirect 302
 16. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 17. - [ ] Admin tasks
+18. - [ ] Hỗ trợ ảnh webp
