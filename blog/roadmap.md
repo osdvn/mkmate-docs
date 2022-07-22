@@ -18,8 +18,8 @@ tags: [roadmap, mkmate]
 7. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
 8. - [ ] AMP cơ bản
 9. - [ ] Admin notify
-10. - [ ] Form tư vấn
-11. - [ ] Form chia sẻ tài nguyên
+10. - [x] Form yêu cầu tư vấn
+11. - [x] Form chia sẻ tài nguyên
 
 ## 2022-09-30
 1. - [ ] Form builder
@@ -33,3 +33,5 @@ tags: [roadmap, mkmate]
 9. - [x] Protect spam email
 10. - [ ] Search and replace massive content
 11. - [x] Email template
+12. - [x] Hiển thị tỉnh/thành theo thứ tự sắp xếp, chữ cái
+13. - [ ] Hiển thị Quận/huyện theo thứ tự sắp xếp, chữ cái
