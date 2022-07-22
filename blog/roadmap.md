@@ -14,12 +14,11 @@ tags: [roadmap, mkmate]
 3. - [x] Cookie-less domain
 4. - [ ] Hoàn thành dịch tiếng Anh
 5. - [ ] Mẫu nội dung cho trình soạn thảo
-6. - [ ] Lưu thông tin vùng quản trị bằng AJAX
-7. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
-8. - [ ] AMP cơ bản
-9. - [ ] Admin notify
-10. - [x] Form yêu cầu tư vấn
-11. - [x] Form chia sẻ tài nguyên
+6. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
+7. - [ ] AMP cơ bản
+8. - [ ] Admin notify
+9. - [x] Form yêu cầu tư vấn
+10. - [x] Form chia sẻ tài nguyên
 
 ## 2022-09-30
 1. - [ ] Form builder
@@ -35,3 +34,5 @@ tags: [roadmap, mkmate]
 11. - [x] Email template
 12. - [x] Hiển thị tỉnh/thành theo thứ tự sắp xếp, chữ cái
 13. - [ ] Hiển thị Quận/huyện theo thứ tự sắp xếp, chữ cái
+14. - [ ] Lưu thông tin vùng quản trị bằng AJAX
+15. - [ ] Hỗ trợ redirect 302
