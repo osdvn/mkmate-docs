@@ -121,7 +121,7 @@ const config = {
               },
               {
                 label: 'Báo lỗi & đề xuất tính năng',
-                to: 'https://my.osd.vn/',
+                to: 'https://github.com/osdvn/mkmate-docs/issues',
               },
               {
                 label: 'Liên hệ',
@@ -140,6 +140,10 @@ const config = {
                 label: 'Cộng đồng F1',
                 href: 'https://f1.edu.vn',
               },
+              {
+                label: 'Bảng Tra',
+                href: 'https://bangtra.com',
+              }
             ],
           },
         ],
