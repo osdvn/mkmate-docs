@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/loi-san-pham-bug.svg').default,
     description: (
       <>
-        Vui lòng <a href="https://my.osd.vn/issue/new">tạo phiếu yêu cầu hỗ trợ</a> để thông báo với chúng tôi.
+        Vui lòng <a href="https://github.com/osdvn/mkmate-docs/issues">tạo phiếu yêu cầu hỗ trợ</a> để thông báo với chúng tôi.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/de-xuat-tinh-nang.svg').default,
     description: (
       <>
-        Kế hoạch cải tiến sản phẩm liên tục cập nhật <a href="https://my.osd.vn/issue/new">issue mới</a> do bạn đề xuất.
+        Kế hoạch cải tiến sản phẩm liên tục cập nhật <a href="https://github.com/osdvn/mkmate-docs/issues">issue mới</a> do bạn đề xuất.
       </>
     ),
   },
