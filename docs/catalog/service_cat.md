@@ -25,6 +25,8 @@ _Những thông tin cụ thể cần điền như sau:_
 
 **Cấp danh mục cha** Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
+**Nổi bật** Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
+
 **Thứ tự** Đánh thứ tự hiển thị của danh mục nhóm sản phẩm (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
 **Trạng thái** Lựa chọn trạng thái hiển thị cho nhóm sản phẩm trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
