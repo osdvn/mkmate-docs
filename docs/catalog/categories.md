@@ -27,7 +27,7 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**
-Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn
+Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên nhóm chuyên mục tin, hệ thống gợi ý tên danh mục để bạn lựa chọn
 
 **Hiển thị ngày đăng tin**
 Tích vào trường thông tin này, khi xem ngoài website hệ thống sẽ lấy thông tin ngày đăng tin bài hiển thị dưới tiêu đề tin bài
