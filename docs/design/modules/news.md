@@ -39,6 +39,29 @@ _Mẫu trình bày dạng Tạp chí_
 _Mẫu trình bày dạng Top list_
 _Mẫu trình bày dạng Mặc định_
 
+**Hiện ảnh**
+Tích chọn, để hiện ảnh tại nhóm tin này
+
+**Lượt xem**
+Tích chọn, để hiển thị lượt xem tại nhóm tin này
+
+**Sapo**
+Tích chọn, để hiển thị sapo tại nhóm tin này
+
+**Ngày đăng**
+Tích chọn, để hiển thị ngày đăng tại nhóm tin này
+
+**Giới hạn**
+Nhập giới hạn số bài hiển thị
+
+**Tin nhấn mạnh**
+Nhập số tin cần nhấn mạnh. Với 1 tin nhấn mạnh được hiển thị như sau:
+![trinh-bay-tin-bai-1.jpg (71 KB)](img/trinh-bay-tin-bai-1.jpg)
+
+**Khổ ảnh**
+
+**Tỷ lệ**
+
 **Sắp xếp theo**
 Lựa chọn sắp xếp theo danh sách có sẵn được hiển thị trong box như sau
 - **Lượt xem**: hiển thị sắp xếp theo lượt xem
