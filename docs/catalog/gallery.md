@@ -3,20 +3,23 @@ slug: gallery
 title: Quản lý Thư viện ảnh
 sidebar_position: 1
 sidebar_label: Thư viện ảnh
+published: true
 ---
 # Quản lý Thư viện ảnh
 
 ## Thêm thư viện ảnh
 
-Tại màn hình quản trị, bạn chọn menu **Nội dung -> Thư viện ảnh -> Thêm**
+Để thêm một nhóm sản phẩm, bạn cần:
 
-Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Thư viện ảnh -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề album**
 Tên bộ sưu tập. Được hiển thị tại menu Thư viện ảnh, đường dẫn thông thường của trang này là `domain/information/picture`
 
 **Mô tả**
 Trình bày thông tin có mục đích hướng tới độc giả
+
+Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Thư viện ảnh**
 
@@ -38,23 +41,23 @@ Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sư
 Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
 **Thứ tự**
-Đánh thứ tự hiển thị của mỗi bộ sưu tập (với số 0 là số lớn nhất được hiển thị đầu tiên)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị cho mỗi bộ sưu tập (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa thư viện ảnh
 
-Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và chọn **Xóa**.
+Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và nhấn chọn nút **Xóa**.
 
 ## Sửa thư viện ảnh
 
 Để sửa thư viện ảnh, nhấn chọn vào bài thư viện ảnh đó để sửa.
 
-Sau khi thay đổi các thông tin - thiết lập của bài viết tin cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
