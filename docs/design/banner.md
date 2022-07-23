@@ -10,7 +10,7 @@ published: true
 
 Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
-**Một số lưu ý về slideshow và banner:**
+**Một số lưu ý về slideshow và banner**
 
 Đối với website có slideshow, bạn cần cấu hình tại **Giao diện => Mô đun => Trình diễn => Cấu hình**, tại đây bạn có thể tùy chỉnh được _kích thước desktop, kích thước mobile, kiểu chuyển động, thời gian nghỉ (ms), tốc độ trình diễn (ms) (đơn vị tính là mili giây, 1000 mili giây = 1 giây)_
 
@@ -22,29 +22,54 @@ Với banner muốn trình bày nhiều kiểu bố cục khác nhau, bạn có 
 
 _Tại đây bạn có thể quản lý các banner đã tạo._
 
-1. Tại màn hình quản trị, bạn chọn mục **Giao diện -> Banner -> Thêm**
+Để thêm một nhóm sản phẩm, bạn cần:
 
-2. Trang tạo banner mới được mở ra, điền các thông tin chi tiết của nhóm banner đó.
+Nhấn chọn **Giao diện -> Banner -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-**Tên nhóm banner** Nhập tên banner tương ứng để quản lý nhóm banner theo logic, phân loại nhóm banner đuợc cấu hình vị trí bố cục khác nhau trên website (ví dụ: Banner giới thiệu, banner trang chủ, banner các trang thương hiệu, banner trang sản phẩm, banner trang tin tức)
-**Trạng thái** Lựa chọn trạng thái hiển thị banner (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-**Tiêu đề** Đây là yếu tố quan trọng để khách hàng ấn tượng với nhãn hiệu của bạn. Thông điệp ngắn gọn, xúc tích, mạnh mẽ và truyền cảm hứng nhất tới khách hàng
-**Link** Dán liên kết tại đây. Khi xem ngoài website và click vào ảnh hệ thống sẽ chuyển hướng tới liên kết này.
-**Mô tả** Nội dung mô tả ngắn gọn, cung cấp đầy đủ thông tin hữu ích, tạo niềm tin cho người đọc.
-**Desktop** Upload ảnh banner theo kích thước desktop
-**Mobile** Upload ảnh banner theo kích thước mobile
-**Thứ tự** Đánh số thứ tự cho banner (với số 0 là số lớn nhất được hiển thị đầu tiên)
-**Thêm banner** Nhấn chọn để thêm nhiều banner khác nhau.
+**Tên nhóm banner**
+Nhập tên banner tương ứng để quản lý nhóm banner theo logic
 
-Sau đó nhấn **Lưu** để hoàn tất
+**Trạng thái**
+Lựa chọn trạng thái hiển thị banner (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+
+**Tiêu đề**
+Nhập tên tiêu đề mỗi banner muốn hiển thị trên ảnh banner đó
+
+**Link**
+Dán liên kết tại đây. Khi xem ngoài website và click vào ảnh hệ thống sẽ chuyển hướng tới liên kết này.
+
+**Mô tả**
+Nội dung mô tả ngắn gọn, cung cấp đầy đủ thông tin hữu ích, tạo niềm tin cho người đọc.
+
+**Desktop**
+Upload ảnh banner theo kích thước desktop
+
+**Mobile**
+Upload ảnh banner theo kích thước mobile
+
+Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+
+**Thứ tự**
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Thêm banner**
+Nhấn chọn để thêm nhiều banner khác nhau
+
+Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ### Xóa một nhóm banner
 
 Để xóa một ảnh trong nhóm banner, nhấn nút **Xóa** ảnh tại ảnh banner đó.
 
+![banner-2.jpg](img/banner-2.jpg)
+
 Để xóa toàn bộ một ảnh, nội dung và liên kết của banner trong nhóm banner, nhấn nút icon dấu trừ **(-Xóa)** tại ảnh banner đó.
 
+![banner-3.jpg](img/banner-3.jpg)
+
 Hoặc Để xóa một nhóm banner, nhấp chuột vào nút 3 chấm cuối nhóm banner và chọn nút **Xóa**.
+
+![banner-4.jpg](img/banner-4.jpg)
 
 Hệ thống hiển thị popup **Xóa** bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?. Chọn **Ok**
 
@@ -54,7 +79,7 @@ Hệ thống hiển thị popup **Xóa** bỏ là hành động sẽ không ph�
 
 Để sửa một ảnh trong nhóm banner, nhấn **Chọn ảnh** để tải lại ảnh tại nhóm banner đó
 
-Sau khi thay đổi các thông tin - thiết lập của banner bạn cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin nội dung của banner bạn cần chọn **Lưu** để hoàn tất.
 
 ## Cấu hình banner ngoài trang chủ website
 
@@ -64,27 +89,38 @@ Tại màn hình quản trị bạn chọn **Giao diện -> Mô đun -> Trình d
 
 Tại đây bạn có thể thiết lập cấu hình mô đun. Những thông tin cụ thể cần điền như sau:
 
-**Bố cục** Lựa chọn bố cục hiển thị **Trang chủ** cho danh mục hoặc chọn vị trí có sẵn trong box
+**Bố cục**
+Lựa chọn bố cục hiển thị **Trang chủ** cho danh mục hoặc chọn vị trí có sẵn trong box
 
-**Vị trí** Lựa chọn vị trí hiển thị **Slideshow** cho danh mục hoặc chọn vị trí có sẵn trong box
+**Vị trí**
+Lựa chọn vị trí hiển thị **Slideshow** cho danh mục hoặc chọn vị trí có sẵn trong box
 
-**Thứ tự** Đánh thứ tự hiển thị cho mô đun (với số 0 là số lớn nhất được hiển thị đầu tiên)
+**Thứ tự**
+Đánh thứ tự hiển thị cho mô đun (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
-**Trạng thái** Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**
+Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Banner** Lựa chọn danh mục banner hiển thị trên bố cục của website
+**Banner**
+Lựa chọn danh mục banner hiển thị trên bố cục của website
 
-**Kích thước desktop** Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản desktop
+**Kích thước desktop**
+Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản desktop
 
-**Kích thước mobile** Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản mobile
+**Kích thước mobile**
+Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản mobile
 
-**Kiểu chuyển động** Có 3 kiểu chuyển động là Fade, Slide, Loop
+**Kiểu chuyển động**
+Có 3 kiểu chuyển động là Fade, Slide, Loop
 
-**Thời gian nghỉ (ms)** Nhập thời gian nghỉ cho mỗi slide (đơn vị tính là mili giây, 1000 mili giây = 1 giây)
+**Thời gian nghỉ (ms)**
+Nhập thời gian nghỉ cho mỗi slide (đơn vị tính là mili giây, 1000 mili giây = 1 giây)
 
-**Tốc độ trình diễn (ms)** Nhập tốc độ trình diễn chuyển động mỗi slide (_đơn vị tính là mili giây, 1000 mili giây = 1 giây_)
+**Tốc độ trình diễn (ms)**
+Nhập tốc độ trình diễn chuyển động mỗi slide (_đơn vị tính là mili giây, 1000 mili giây = 1 giây_)
 
-**Thêm mô-đun** Chọn thêm để hiển thị giao diện bố cục khác nhau
+**Thêm mô-đun**
+Chọn thêm để hiển thị giao diện bố cục khác nhau
 
 Nhấn chọn Xóa để xóa mô đun này, hệ thống sẽ xác nhận bạn có chắc chắn muốn xóa mô đun không? **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."** Bạn chọn **Ok**
 
@@ -94,17 +130,23 @@ Tại màn hình quản trị bạn chọn **Giao diện -> Mô đun -> Banner -
 
 Tại đây bạn có thể thiết lập cấu hình mô đun. Những thông tin cụ thể cần điền như sau:
 
-**Bố cục** Lựa chọn bố cục hiển thị **Trang chủ** cho danh mục hoặc chọn vị trí có sẵn trong box
+**Bố cục**
+Lựa chọn bố cục hiển thị **Trang chủ** cho danh mục hoặc chọn vị trí có sẵn trong box
 
-**Vị trí** Lựa chọn vị trí hiển thị **Slideshow** cho danh mục hoặc chọn vị trí có sẵn trong box
+**Vị trí**
+Lựa chọn vị trí hiển thị **Slideshow** cho danh mục hoặc chọn vị trí có sẵn trong box
 
-**Thứ tự** Đánh thứ tự hiển thị cho mô đun (với số 0 là số lớn nhất được hiển thị đầu tiên)
+**Thứ tự**
+Đánh thứ tự hiển thị cho mô đun (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
-**Trạng thái** Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**
+Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Banner** Lựa chọn danh mục banner hiển thị trên bố cục của website
+**Banner**
+Lựa chọn danh mục banner hiển thị trên bố cục của website
 
-**Template** các mẫu **Before & After** và **Masonry** được hiển thị như sau:
+**Template**
+các mẫu **Before & After** và **Masonry** được hiển thị như sau:
 
 - Cấu hình Template Before & After
 
