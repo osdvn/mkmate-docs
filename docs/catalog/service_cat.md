@@ -33,7 +33,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
-Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
