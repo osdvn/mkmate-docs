@@ -3,7 +3,7 @@
 - Nhóm sản phẩm: cho phép tạo nhiều nhóm những sản phẩm cùng loại với nhau tùy theo mục đích.
 - Một nhóm sản phẩm có liên kết mật thiết chặt chẽ với các sản phẩm cùng loại.
 
-## Thêm một nhóm sản phẩm bạn cần:
+## Thêm một nhóm sản phẩm
 
 Để thêm một nhóm sản phẩm, bạn cần:
 
