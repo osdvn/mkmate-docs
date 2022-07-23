@@ -11,25 +11,32 @@ Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm -> Thê
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
 
-**Tên nhóm sản phẩm** Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài sản phẩm mà bạn đã thêm vào.
+**Tên nhóm sản phẩm**
+Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài sản phẩm mà bạn đã thêm vào.
 
-**Mô tả phía trên** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
+**Mô tả phía trên**
+Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
 
-**Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
+**Mô tả phía dưới**
+Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
-**Ảnh đại diện** Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+**Ảnh đại diện**
+Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Cấp danh mục cha** Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
+**Cấp danh mục cha**
+Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
-**Nổi bật** Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
+**Nổi bật**
+Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Thứ tự** 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Trạng thái** Lựa chọn trạng thái hiển thị cho nhóm sản phẩm trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**
+Lựa chọn trạng thái hiển thị cho nhóm sản phẩm trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
