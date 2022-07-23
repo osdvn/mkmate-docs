@@ -39,15 +39,9 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa nhóm sản phẩm
 
-**Cách 1**: Xóa tại nhóm sản phẩm chi tiết
+Để xóa một nhóm sản phẩm, tích vào nhóm sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa nhóm sản phẩm** trong mỗi nhóm sản phẩm chi tiết.
 
-Truy cập nhóm sản phẩm chi tiết, bên góc phải màn hình nhấn chọn tab **Xóa nhóm sản phẩm**
-
-**Cách 2**: Xóa tại danh sách nhóm các bài sản phẩm
-
-Nhấn chọn tích tại nhóm sản phẩm muốn xóa và chọn **Xóa**
-
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
+Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa nhóm sản phẩm đó.
 
 ## Sửa nhóm sản phẩm
 
