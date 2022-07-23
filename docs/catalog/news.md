@@ -45,6 +45,11 @@ Nhập từ khóa cho tin bài và ngăn cách nhau bằng dấu phẩy
 **Mục lục tự động**
 Xem [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
+**Nổi bật**
+Tích chọn nếu muốn hiển thị trên trang chủ website khi cấu hình mô đun trình bày tin bài với sắp xếp theo nhãn Nổi bật
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/design/modules/news)
+
 **Ngày hiển thị**
 Lựa chọn ngày hiển thị cho tin bài
 
