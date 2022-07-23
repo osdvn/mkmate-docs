@@ -5,7 +5,7 @@ sidebar_label: Bài thông tin
 title: Quản lý Bài Thông tin
 published: true
 ---
-# Quản lý Thông tin
+# Thông tin
 
 Cho phép quản lý các bài thông tin như bài giới thiệu, các bài viết về chính sách công ty.
 
