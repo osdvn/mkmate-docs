@@ -15,9 +15,9 @@ _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
 
 **Tên nhóm sản phẩm** Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài sản phẩm mà bạn đã thêm vào.
 
-**Mô tả phía trên** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
+**Mô tả phía trên** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
 
-**Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
+**Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
 **Ảnh đại diện** Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
