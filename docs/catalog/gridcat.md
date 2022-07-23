@@ -7,13 +7,13 @@
 
 Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm Longform -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-_Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
+_Chú ý: Bạn bắt buộc phải nhập tên cho nhóm longform._
 
 **Tiêu đề**
-Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
+Nhập tên longform bạn muốn hiển thị trên wesbite
 
 **Nội dung**
-Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
+Là phần nội dung mở đầu của một nhóm longform, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm longform.
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
@@ -21,11 +21,7 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Nhóm cha**
-Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
-
-**Nổi bật**
-Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục longform, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
 **Thứ tự** 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
