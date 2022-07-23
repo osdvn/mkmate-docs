@@ -1,6 +1,6 @@
-# Quản lý Mã nhúng
+# Mã nhúng
 
-Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tương ứng tại **Script header** và **Script footer**
+Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tương ứng tại **Script header** và **Script footer**. Mục đích là
 
 ## Thêm mới mã nhúng
 
