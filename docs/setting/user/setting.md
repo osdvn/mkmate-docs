@@ -1,6 +1,6 @@
 ---
-slug: user
-title: Quản lý thành viên
-tags: [user, thành viên, người dùng]
+slug: user_permission
+title: Vai trò
+tags: [user_permission, vai trò]
 ---
-# Quản lý thành viên
+# Vai trò
