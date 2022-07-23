@@ -21,6 +21,8 @@ Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa c
 **Mô tả**
 Là phần nội dung mở đầu của một nhóm chuyên mục, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề tin bài.
 
+Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+
 **Hình ảnh**
 Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
