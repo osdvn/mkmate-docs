@@ -9,8 +9,6 @@
 
 Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-![nhom-dich-vu.jpg](img/nhom-dich-vu.jpg)
-
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
 
 **Tên nhóm sản phẩm** Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài sản phẩm mà bạn đã thêm vào.
