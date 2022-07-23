@@ -26,6 +26,7 @@ Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính nă
 
 **Ảnh đại diện** 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
+Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Nhóm sản phẩm** 
 Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
