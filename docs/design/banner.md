@@ -63,11 +63,11 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ![banner-2.jpg](img/banner-2.jpg)
 
-Để xóa toàn bộ một ảnh, nội dung và liên kết của banner trong nhóm banner, nhấn nút icon dấu trừ **(-Xóa)** tại ảnh banner đó.
+Để xóa toàn bộ một ảnh, nội dung và liên kết của banner trong nhóm banner, nhấn nút **Xóa** tại ảnh banner đó.
 
 ![banner-3.jpg](img/banner-3.jpg)
 
-Hoặc Để xóa một nhóm banner, nhấp chuột vào nút 3 chấm cuối nhóm banner và chọn nút **Xóa**.
+Hoặc ddể xóa một nhóm banner, nhấp chuột vào nút 3 chấm cuối nhóm banner và chọn nút **Xóa**.
 
 ![banner-4.jpg](img/banner-4.jpg)
 
