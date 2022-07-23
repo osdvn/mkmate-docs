@@ -1,6 +1,9 @@
 ---
 title: Trình quản lý file
-tags: [finder, image manager]
+tags:
+  - finder
+  - image manager
+published: true
 ---
 # Trình quản lý file (Finder)
 Trình quản lý file (chủ yếu là hình ảnh) trên hệ thống được mô phỏng theo giao diện của Finder (trên MacOS X) và Windows Explorer với mong muốn giúp người đọc tổ chức hình ảnh hiệu quả hơn.
@@ -39,16 +42,13 @@ Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cả
 *   (26) Xem chi tiết kích thước file ảnh
 *   (27)
 *   (28) Tạo khi lưu trữ file ảnh
-*   (34) Tìm kiếm ảnh
 *   (29) Đổi danh sách kiểu xem thư mục ảnh hoặc file ảnh
-
 ![trinh-quan-ly-file-3.jpg (83 KB)](img/trinh-quan-ly-file-3.jpg)
-
 ![trinh-quan-ly-file-4.jpg (65 KB)](img/trinh-quan-ly-file-4.jpg)
-
 *   (30) Sắp xếp theo thứ tự theo tên ảnh, kích thước ảnh, ngày upload ảnh
-
 ![trinh-quan-ly-file-5.jpg (16 KB)](img/trinh-quan-ly-file-5.jpg)
+
+*   (34) Tìm kiếm ảnh
 
 ## Trình đơn ngữ cảnh
 
@@ -105,10 +105,12 @@ Cách thao tác tương tự như với file, đặc thù của thư mục sẽ 
 
 ## Chỉnh sửa và thay đổi kích thước hình ảnh
 
-![ql-file-2.jpeg (82 KB)](img/ql-file-2.jpeg)
+![ql-file-2.jpg (82 KB)](img/ql-file-2.jpg)
 
 **Các chức năng chỉ hỗ trợ mức đơn giản như dưới đây**
 
+*   **Width** thay đổi chiều rộng ảnh
+*   **Height** thay đổi chiều cao ảnh
 *   **Aspect Ratio** giữ tỉ lệ ảnh, điều chỉnh kích thước chiều rộng của ảnh sau đó click nút Aspect ratio thì chiều cao tự động resize theo kích thước tương ứng. Nên dùng chức năng này để ảnh theo tỉ lệ chuẩn
 *   **Reset** trở về trạng thái ban đầu của ảnh
 *   **Quality** dung lượng ảnh
@@ -133,7 +135,7 @@ Hệ thống của OSD.VN theo logic tinh gọn và giảm chi phí xử lý v�
 
 ### Dễ phối hợp nhóm hơn
 
-Điều đáng nói nhất trong việc tổ chức thư mục khoa học sẽ làm cho website của bạn truy cập nhanh hơn với người dùng. Đây là vấn đề tương đối giải thích về kỹ thuật máy tính, thậm chí cả với những chuyên gia về tin học, I/O tốc độ quay của ổ cứng máy chủ,
+Điều đáng nói nhất trong việc tổ chức thư mục khoa học sẽ làm cho website của bạn truy cập nhanh hơn với người dùng. Đây là vấn đề tương đối giải thích về kỹ thuật máy tính, thậm chí cả với những chuyên gia về tin học, I/O tốc độ quay của ổ cứng máy chủ.
 
 Trong quy mô website, người đọc quan tâm nhất đến thông tin, cách sử dụng phải đơn giản và tốc độ truy cập phải nhanh.
 
