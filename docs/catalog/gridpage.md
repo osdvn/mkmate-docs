@@ -26,7 +26,7 @@ Tùy chỉnh màn hình Mobile:
 
 Taị đây bạn có thể thêm, sửa, xóa bài longform:
 
-**Tên landing page** Nhập tên bài viết bạn muốn hiển thị trên wesbite
+**Tiêu đề** Nhập tên bài viết bạn muốn hiển thị trên wesbite
 
 **Nội dung** Mô tả chi tiết bài thông tin để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
@@ -43,17 +43,22 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 ![long-form-4.jpg](img/long-form-4.jpg)
 
+**Câu hỏi thường gặp** 
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
+
 **Ảnh đại diện**
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
+
+**Nhóm long form** Chọn nhóm longform đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm Longform**. Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
+
+**Thứ tự**
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Trạng thái** Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
-
-**Trạng thái** Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-
-**Thứ tự**
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 Nhấn chọn **Lưu** để hoàn tất.
 
