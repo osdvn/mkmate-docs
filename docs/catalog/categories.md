@@ -80,4 +80,4 @@ Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc ch�
 
 Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa hoặc nhấn vào icon bút chì.
 
-Sau khi thay đổi các thông tin của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
