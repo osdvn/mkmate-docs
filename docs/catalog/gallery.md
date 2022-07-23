@@ -40,6 +40,8 @@ Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sư
 **Banner**
 Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
+Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+
 **Thứ tự**
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
