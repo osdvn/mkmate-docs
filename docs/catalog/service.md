@@ -26,7 +26,7 @@ Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính nă
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
 
 **Nhóm sản phẩm** 
-Bạn có thể thêm sản phẩm vào nhiều nhóm sản phẩm khác nhau. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
+Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
 **Mã sản phẩm** 
 Là một dạng quy ước giúp phân loại sản phẩm.
@@ -47,12 +47,12 @@ Lựa chọn ngày xuất bản cho bài sản phẩm
 Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự** 
-Đánh thứ tự hiển thị của sản phẩm (với số 0 là số lớn nhất được hiển thị đầu tiên)
+Xem [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Thư viện ảnh** 
 Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
 
-**sản phẩm liên quan** 
+**Sản phẩm liên quan** 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
 **Tin bài liên quan**
@@ -63,7 +63,7 @@ xem chi tiết [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
+Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
@@ -93,4 +93,4 @@ Nhấn chọn trực tiếp vào bài sản phẩm để **Sửa**, sau khi thay
 
 ## Nhân bản bài sản phẩm
 
-Chọn sản phẩm/sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.
+Chọn sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.
