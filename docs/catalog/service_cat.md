@@ -19,6 +19,8 @@ _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
 
 **Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
+Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+
 **Ảnh đại diện** Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha** Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
