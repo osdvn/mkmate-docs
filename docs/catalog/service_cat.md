@@ -5,9 +5,9 @@
 
 ## Thêm một nhóm sản phẩm bạn cần:
 
-1. Tại màn hình quản trị, bạn chọn menu **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm -> Thêm**
+Để thêm một nhóm sản phẩm, bạn cần:
 
-2. Trang tạo nhóm sản phẩm mới được mở ra, điền các thông tin chi tiết của nhóm sản phẩm đó.
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
 ![nhom-dich-vu.jpg](img/nhom-dich-vu.jpg)
 
