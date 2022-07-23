@@ -8,7 +8,7 @@ authors:
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
 ---
-## 2022-07-30
+## 2022-07-31
 1. - [x] Email template
 2. - [x] Cookie-less domain
 3. - [ ] Hoàn thành dịch tiếng Anh
