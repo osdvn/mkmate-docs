@@ -5,7 +5,7 @@ sidebar_position: 2
 sidebar_label: Tin bài
 published: true
 ---
-# Quản lý tin bài
+# Tin bài
 
 ## Thêm tin bài mới
 
