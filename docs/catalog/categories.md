@@ -24,7 +24,7 @@ Là phần nội dung mở đầu của một nhóm chuyên mục, nhằm giới
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Hình ảnh**
-Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**
 Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn
