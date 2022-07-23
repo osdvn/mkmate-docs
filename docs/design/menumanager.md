@@ -1,6 +1,6 @@
 # Quản lý trình đơn
 
-Top Menu là các mục trình đơn - Menu Item thường nằm ở phần đầu của trang web. Top Menu sẽ giúp mọi người thuận thiện trong việc truy cập nhanh vào các chuyên mục khác nhau trên trang web của bạn.
+Top Menu là các mục trình đơn thường nằm ở phần đầu của trang web. Top Menu sẽ giúp mọi người thuận thiện trong việc truy cập nhanh vào các chuyên mục khác nhau trên trang web của bạn.
 
 ## Quản lý trình đơn
 
@@ -28,23 +28,26 @@ Nhấn nút **Lưu** để hoàn tất
 
 Những thông tin cụ thể cần điền như sau
 
-1. **Tiêu đề Tiếng Việt** Nhập tiêu đề trình đơn bằng tiếng Việt
+**Tiêu đề Tiếng Việt**
+Nhập tiêu đề trình đơn bằng tiếng Việt
 
-2. **URL** Khi tạo trình đơn bạn nên tạo thêm liên kết trên các trình đơn của trang để người dùng có thể xem những nội dung của bạn. Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
+**URL**
+Khi tạo trình đơn bạn nên tạo thêm liên kết trên các trình đơn của trang để người dùng có thể xem những nội dung của bạn. Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
 
 Khi hoàn thành nhấn chọn **Thêm vào menu** để hoàn tất
 
 ### Thêm mục điều hướng
+Thêm nhanh trình đơn bằng thao tác thêm mục điều hướng như sau:
 
 Tại trường **Thêm mục điều hướng**, bạn nhấn chọn danh sách thả xuống để chọn loại nội dung tương ứng cần thêm trình đơn trên wesbite
 
 ![trinh-don-3.jpg](img/trinh-don-3.jpg)
 
-Ví dụ: nhấn chọn **nhóm dịch vụ** hoặc nhóm bất kỳ => Gõ tên nhóm dịch vụ, hệ thống sẽ gợi ý cho bạn chọn
+Ví dụ: nhấn chọn **nhóm Long Form** hoặc nhóm bất kỳ => Gõ tên nhóm longform, hệ thống sẽ gợi ý cho bạn chọn
 
 ![trinh-don-4.jpg](img/trinh-don-4.jpg)
 
-Sau khi chọn xong nhóm dịch vụ, các nhóm trình đơn sẽ được hiển thị như sau
+Sau khi chọn xong nhóm longform, các trình đơn sẽ được hiển thị như sau
 
 ![trinh-don-5.jpg](img/trinh-don-5.jpg)
 
@@ -58,7 +61,7 @@ Tiếp theo, bạn cần nhấn chọn **Thêm vào menu**, các trình đơn s�
 
 Làm tương tự đối với các cấp trình đơn nhỏ hơn
 
-Nhóm Footermenu hoặc các nhóm khác làm tương tự Topmenu. Có thể tạo nhiều nhóm menu để cấu hình tại nhiều bố cục vị trí khác nhau.
+Nhóm Footermenu hoặc các nhóm khác làm tương tự Topmenu. Có thể tạo nhiều nhóm menu để cấu hình tại nhiều bố cục/vị trí khác nhau.
 
 ### Xóa trình đơn
 
@@ -97,7 +100,7 @@ Lựa chọn trạng thái hiển thị cho mô đun (Bật: cho phép hiển th
 
 Tích vào ô check box để hiển thị tên nhóm menu trên bố cục/vị trí của website
 
-Hình minh họa cấu hình như dưới đây
+Hình minh họa cấu hình như dưới đây:
 
 ![trinh-don-8.jpg](img/trinh-don-8.jpg)	
 
