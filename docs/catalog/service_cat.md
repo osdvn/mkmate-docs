@@ -52,4 +52,4 @@ Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc ch�
 
 ## Sửa nhóm sản phẩm
 
-Nhấn chọn nhóm sản phẩm muốn sửa, trang nhóm sản phẩm được mở ra, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
+Nhấn chọn nhóm sản phẩm muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
