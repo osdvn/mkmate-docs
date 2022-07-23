@@ -59,7 +59,7 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa một tin bài
 
-Để xóa một bài tin, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click trường **Xóa bài** trong mỗi bài thông tin chi tiết.
+Để xóa một bài tin, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
 
 Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
 
