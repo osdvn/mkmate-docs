@@ -50,4 +50,4 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 Để sửa một bài dự án tiêu biểu, nhấn chọn vào bài dự án tiêu biểu đó để sửa.
 
-Sau khi thay đổi các thông tin của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
