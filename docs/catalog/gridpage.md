@@ -4,7 +4,7 @@ Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đ�
 
 ## Thêm mới longform
 
-Để thêm một nhóm sản phẩm, bạn cần:
+Để thêm một nhóm longform, bạn cần:
 
 Nhấn chọn **Nội dung -> Longform -> Thêm**
 
