@@ -9,7 +9,7 @@ published: true
 
 ## Thêm tin bài mới
 
-Để thêm một nhóm chuyên mục tin bài, bạn cần:
+Để thêm một tin bài, bạn cần:
 
 Nhấn chọn **Nội dung -> Tin bài -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
@@ -32,7 +32,7 @@ Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải 
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Chuyên mục**
-Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm bài tin vào nhiều nhóm chuyên mục tin có cùng cấp.
+Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
 
 **Tag**
 Nhập từ khóa cho tin bài và ngăn cách nhau bằng dấu phẩy
