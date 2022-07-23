@@ -130,6 +130,6 @@ Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận b
 
 ### Sửa cấu hình trình diễn
 
-Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**
+Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**.
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
