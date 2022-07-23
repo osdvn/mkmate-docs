@@ -5,7 +5,7 @@ sidebar_position: 1
 sidebar_label: Thư viện ảnh
 published: true
 ---
-# Quản lý Thư viện ảnh
+# Thư viện ảnh
 
 ## Thêm thư viện ảnh
 
