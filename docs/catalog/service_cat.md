@@ -13,27 +13,27 @@
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
 
-_Những thông tin cụ thể cần điền như sau:_
-
 **Tên nhóm sản phẩm** Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài sản phẩm mà bạn đã thêm vào.
 
 **Mô tả phía trên** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
 
 **Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
-**Ảnh đại diện** Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](../common/finder)
+**Ảnh đại diện** Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha** Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
 **Nổi bật** Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Thứ tự** Đánh thứ tự hiển thị của danh mục nhóm sản phẩm (với số 0 là số lớn nhất được hiển thị đầu tiên)
+**Thứ tự** 
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Trạng thái** Lựa chọn trạng thái hiển thị cho nhóm sản phẩm trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
+Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
