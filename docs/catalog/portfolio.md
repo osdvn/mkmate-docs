@@ -5,7 +5,7 @@ sidebar_position: 1
 sidebar_label: Dự án tiêu biểu
 published: true
 ---
-# Quản lý Dự án tiêu biểu
+# Dự án tiêu biểu
 
 ## Thêm bài dự án tiêu biểu
 
