@@ -1,4 +1,4 @@
-# Quản lý Longform
+# Longform
 
 Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đẹp, hình ảnh chất lượng cao. Độc giả có thể tìm thấy chân dung nhân vật, các vấn đề thời sự, một cuộc điều tra hay các trải nghiệm cá nhân.
 
