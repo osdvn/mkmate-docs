@@ -29,15 +29,15 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 **Ảnh đại diện**
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
 
-_Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
-
-Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
-
 **Trạng thái**
 Lựa chọn trạng thái hiển thị bài thông tin (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự**
 Xem [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+_Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
+
+Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
 Nhấn chọn **Lưu** để hoàn tất.
 
