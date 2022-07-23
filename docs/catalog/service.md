@@ -60,7 +60,7 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc l
 **Tin bài liên quan**
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
-**FAQs** 
+**Câu hỏi thường gặp** 
 xem chi tiết [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
