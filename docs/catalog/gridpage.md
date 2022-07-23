@@ -8,7 +8,7 @@ Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đ�
 
 Nhấn chọn **Nội dung -> Longform -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile,** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
+Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
 ![long-form.jpg](img/long-form.jpg)
 
@@ -42,6 +42,15 @@ Taị đây bạn có thể thêm, sửa, xóa bài longform:
 Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 ![long-form-4.jpg](img/long-form-4.jpg)
+
+**Edit Source Code**
+Chỉnh sửa nội dung bằng source code
+
+**Preview**
+Xem trước
+
+**Tùy chỉnh 3 phiên bản**
+Desktop, Tablet, Mobile
 
 **Câu hỏi thường gặp** 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
