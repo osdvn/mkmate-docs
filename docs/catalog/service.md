@@ -75,19 +75,11 @@ Khi bạn nhấn chọn **Lưu**, hệ thống thông báo lưu thành công và
 
 Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lưu dữ liệu và mở một trang sản phẩm mới để bạn tiếp tục thêm.
 
-## Xóa bài sản phẩm/sản phẩm
+## Xóa bài sản phẩm
 
-**Cách 1**: 
-Xóa tại danh sách các bài sản phẩm
+Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
 
-Nhấn tích vào tin sản phẩm đó và chọn **Xóa**.
-
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
-
-**Cách 2**: 
-Xóa tại bài sản phẩm chi tiết
-
-Truy cập sản phẩm chi tiết, bên góc phải màn hình nhấn chọn tab **Xóa sản phẩm**. Tương tự cách xóa 1, hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
+Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa bài sản phẩm đó.
 
 ## Sửa một bài viết sản phẩm
 
