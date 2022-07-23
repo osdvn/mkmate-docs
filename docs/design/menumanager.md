@@ -110,7 +110,9 @@ Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn 
 ### Xóa cấu hình trình đơn
 Để xóa cấu hình trình đơn, nhấn chọn nút **Xóa** tại mô đun trình đơn đó.
 
-Hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được.** Bạn chọn **Ok** nếu xác nhận xóa.
+Hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được.**
+
+Bạn chọn **Ok** nếu xác nhận xóa.
 
 ### Sửa cấu hình trình đơn
 Để sửa cấu hình trình đơn, nhấn chọn **Giao diện -> Mô-đun -> Trình đơn**
