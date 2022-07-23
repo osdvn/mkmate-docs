@@ -83,7 +83,9 @@ Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc ch�
 
 ## Sửa một bài viết sản phẩm
 
-Nhấn chọn trực tiếp vào bài sản phẩm để **Sửa**, sau khi thay đổi các thông tin - thiết lập của bài sản phẩm cần chọn **Lưu** để hoàn tất.
+Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
+
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
 
 ## Nhân bản bài sản phẩm
 
