@@ -3,6 +3,7 @@ slug: categories
 sidebar_position: 10
 title: Quản lý Nhóm và danh mục
 sidebar_label: Quản lý nhóm
+published: true
 ---
 # Quản lý chuyên mục tin bài
 
@@ -10,14 +11,11 @@ sidebar_label: Quản lý nhóm
 
 Để thêm một nhóm chuyên mục tin bài, bạn cần:
 
-Tại màn hình quản trị, bạn chọn mục **Nội dung 
--> Nhóm và dịch vụ -> Chuyên mục tin -> Thêm**
+Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
 *Chú ý: Bạn bắt buộc phải nhập tên nhóm tin bài trước khi có thể lưu lại thông tin.*
 
-Những thông tin cụ thể cần điền như sau:
-
-**Nhóm chuyên mục**
+**Tên chuyên mục**
 Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những tin bài mà bạn đã thêm vào
 
 **Mô tả**
@@ -41,6 +39,12 @@ Tích vào trường thông tin này, khi xem ngoài website hệ thống sẽ t
 **Hiển thị chapeau**
 Tích vào trường thông tin này, khi xem ngoài website hệ thống sẽ lấy thông tin mô tả ngắn (sapo) của tin bài và được hiển thị dưới tiêu đề tin bài
 
+**Kích thước ảnh**
+Có 5 loại kích thước có sẵn để lựa chọn
+
+**Tỷ lệ**
+Có 4 loại kích thước có sẵn để lựa chọn
+
 **Mẫu trình bày**
 Tại đây có 5 kiểu trình bày cho bạn lựa chọn
 **Mặc định**
@@ -52,7 +56,7 @@ Hiển thị giống tạp chí và các bài được nổi bật theo khối
 **Thư viện video**: Hiển thị
 
 **Thứ tự**
-Nhập số thứ tự hiển thị của chuyên mục tin bài (với số 0 là số lớn nhất được hiển thị đầu tiên)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị cho chuyên mục tin bài (Bật_màu xanh: cho phép hiển thị/Tắt_màu xám: không cho phép hiển thị)
@@ -60,7 +64,7 @@ Lựa chọn trạng thái hiển thị cho chuyên mục tin bài (Bật_màu x
 *Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 Meta title*
 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
+Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấn chọn **Lưu** để hoàn tất.
 
