@@ -20,6 +20,9 @@ Nhập kích thước chiều rộng logo
 **Chiều cao logo**
 Nhập kích thước chiều cao logo
 
+**Mobile menu**
+Chọn là Topmenu. Đây là cấu hình mang tính chất kỹ thuật, không được sửa phần này.
+
 **Template**
 Đây là cấu hình mang tính chất kỹ thuật, không được sửa phần này.
 
