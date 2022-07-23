@@ -3,25 +3,26 @@ slug: news
 title: Quản lý tin bài
 sidebar_position: 2
 sidebar_label: Tin bài
+published: true
 ---
 # Quản lý tin bài
 
 ## Thêm tin bài mới
 
-Tại màn hình quản trị, bạn chọn **Nội dung -> Tin bài -> Thêm**
+Để thêm một nhóm chuyên mục tin bài, bạn cần:
 
-Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Tin bài -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề**
 Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
 
 **Mô tả ngắn (Chapeau)**
-Là phần nội dung mở đầu của một tin bài, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề tin bài.
+Là phần nội dung mở đầu của một tin bài, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề tin bài. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung**
-Trình bày thông tin có mục đích hướng tới độc giả
+Trình bày thông tin có mục đích hướng tới độc giả.
 
-Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) viết bài chuẩn SEO đạt kết quả cao](https://osd.vn/huong-dan-tu-van-ky-thuat-viet-bai-chuan-seo-dat-ket-qua-cao.html).
+Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Câu hỏi thường gặp**
 Xem [tại đây](https://mkmate.osd.vn/docs/common/faqs)
@@ -30,7 +31,7 @@ Xem [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
 
 **Chuyên mục**
-Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó
+Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm bài tin vào nhiều nhóm chuyên mục tin có cùng cấp.
 
 **Tag**
 Nhập từ khóa cho tin bài và ngăn cách nhau bằng dấu phẩy
@@ -45,14 +46,14 @@ Lựa chọn ngày hiển thị cho tin bài
 Lựa chọn trạng thái hiển thị tin bài (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự**
-Đánh thứ tự hiển thị của tin bài(với số 0 là số lớn nhất được hiển thị đầu tiên)
+Xem [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Tin bài liên quan**
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp. Được hiển thị phía đầu nội dung bài tin, trình bày dạng bullet
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/seo/)
+Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
 Nhấn chọn **Lưu** để hoàn tất.
 
