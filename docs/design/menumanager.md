@@ -1,4 +1,4 @@
-# Quản lý trình đơn và cấu hình trình đơn
+# Trình đơn và cấu hình trình đơn
 
 Top Menu là các mục trình đơn thường nằm ở phần đầu của trang web. Top Menu sẽ giúp mọi người thuận thiện trong việc truy cập nhanh vào các chuyên mục khác nhau trên trang web của bạn.
 
