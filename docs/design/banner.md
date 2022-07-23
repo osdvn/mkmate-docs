@@ -6,7 +6,7 @@ tags:
   - automate
 published: true
 ---
-# Quản lý banner và trình diễn banner
+# Banner và trình diễn banner
 
 Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
