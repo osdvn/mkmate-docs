@@ -1,5 +1,5 @@
 
-# Quản lý nhóm longform
+# Nhóm longform
 
 ## Thêm một nhóm long form
 
