@@ -62,7 +62,7 @@ Nhóm Footermenu hoặc các nhóm khác làm tương tự Topmenu. Có thể t�
 
 ### Xóa trình đơn
 
-Bạn nhấn chọn nút Delete (icon hình thùng rác) bên cạnh **Sửa**. Chọn **OK**.
+Bạn nhấn chọn nút **Delete** (icon hình thùng rác) bên cạnh **Sửa**. Chọn **OK**.
 
 Hệ thống cảnh báo bạn chắc chắn muốn xóa với nội dung như sau: "Xóa mục trình đơn Bạn có chắc chắn muốn xóa mục trình đơn này? **ten_trinh_don**. Việc này đồng thời cũng sẽ xóa các mục cấp dưới nếu có." Chọn **Đồng ý** nếu chắc chắn xóa.
 
@@ -72,9 +72,11 @@ Sau khi thay đổi các thông tin - thiết lập của trình đơn, cần ch
 
 Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi thông tin trình đơn, bạn cần chọn **Lưu** để cập nhật.
 
-### Cấu hình trình đơn
+## Cấu hình trình đơn
 
-Đầu tiên bạn truy cập vào **Giao diện -> Mô-đun -> Trình đơn**
+### Thêm mới cấu hình trình đơn
+
+Nhấn chọn **Giao diện -> Mô-đun -> Trình đơn**
 
 Những thông tin cụ thể cần điền như sau
 
@@ -102,5 +104,15 @@ Hình minh họa cấu hình như dưới đây
 Hiển thị bên ngoài website như dưới đây
 
 ![trinh-don-9.jpg](img/trinh-don-9.jpg)
+
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+
+### Xóa cấu hình trình đơn
+Để xóa cấu hình trình đơn, nhấn chọn nút **Xóa** tại mô đun trình đơn đó.
+
+Hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được.** Bạn chọn **Ok** nếu xác nhận xóa.
+
+### Sửa cấu hình trình đơn
+Để sửa cấu hình trình đơn, nhấn chọn **Giao diện -> Mô-đun -> Trình đơn**
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
