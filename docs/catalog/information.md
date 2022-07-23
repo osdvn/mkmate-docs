@@ -51,4 +51,4 @@ Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc ch�
 
 Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa.
 
-Sau khi thay đổi các thông tin - thiết lập của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
