@@ -29,6 +29,7 @@ Xem [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 **Ảnh đại diện**
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
+Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Chuyên mục**
 Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm bài tin vào nhiều nhóm chuyên mục tin có cùng cấp.
