@@ -29,6 +29,7 @@ Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình
 
 **Ảnh đại diện**
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có)
+Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị bài dự án tiêu biểu (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
