@@ -1,16 +1,14 @@
-# Quản lý Longform
+# Longform
 
 Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đẹp, hình ảnh chất lượng cao. Độc giả có thể tìm thấy chân dung nhân vật, các vấn đề thời sự, một cuộc điều tra hay các trải nghiệm cá nhân.
 
 ## Thêm mới longform
 
-Tại đây bạn có thể quản lý các bài longform.
+Để thêm một nhóm longform, bạn cần:
 
-1. Tại màn hình quản trị, bạn chọn mục **Nội dung -> Longform -> Thêm**
+Nhấn chọn **Nội dung -> Longform -> Thêm**
 
-2. Trang tạo landingpage mới được mở ra, điền các thông tin chi tiết của bài thông tin đó.
-
-Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile,** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
+Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
 ![long-form.jpg](img/long-form.jpg)
 
@@ -26,9 +24,9 @@ Tùy chỉnh màn hình Mobile:
 
 ![long-form-3.jpg](img/long-form-3.jpg)
 
-Taị đây bạn có thể thêm, sửa, xóa bài longform:
+Những thông tin cụ thể cần điền như sau:
 
-**Tên landing page** Tiêu đề là một phần quan trọng hàng đầu của bài viết. Tiêu đề quyết định đến số lượng người truy cập bài viết của bạn bởi nó là phần đầu tiên trong bài viết tiếp cận đến người đọc, nó mang sứ mệnh thu hút và kích thích sự tò mò, ý muốn khám phá bài viết ở người đọc.
+**Tiêu đề** Nhập tên bài viết bạn muốn hiển thị trên wesbite
 
 **Nội dung** Mô tả chi tiết bài thông tin để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
@@ -45,19 +43,33 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 ![long-form-4.jpg](img/long-form-4.jpg)
 
-**Ảnh đại diện** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
+**Edit Source Code**
+Chỉnh sửa nội dung bằng source code
 
-**Meta title** Tự động lấy từ Tiêu đề, khi Meta title không khác tiêu đề thì bạn không cần điền
+**Preview**
+Xem trước
 
-**Meta Description** Tự động lấy từ Sapo, khi Meta Description không khác sapo thì bạn không cần điền
+**Tùy chỉnh 3 phiên bản**
+Desktop, Tablet, Mobile
 
-**Slug** Giá trị này tự động được sinh ra trùng với tên tiêu đề bài longform (không cần thay đổi nếu không bị trùng lặp nếu đã có một giá trị trước đó, Slug không chứa kí tự đặc biệt, không viết cách, không có khoảng trống và các chữ được phân cách nhau bởi dấu “-“)
+**Câu hỏi thường gặp** 
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
+
+**Ảnh đại diện**
+Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
+
+**Nhóm long form** Chọn nhóm longform đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm Longform**. Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
+
+**Thứ tự**
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Trạng thái** Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự** Đánh thứ tự hiển thị của bài thông tin (với số 0 là số lớn nhất được hiển thị đầu tiên)
+Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
-Sau khi hoàn tất các thao tác để thêm mới bài thông tin, đừng quên ấn nút **Lưu** nhé.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+
+Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa longform
 
@@ -71,4 +83,4 @@ Nhấn chọn icon thùng rác tại mỗi cột nội dung. Hệ thống xác n
 
 ## Sửa bài longform
 
-Nhấn chọn bài longform cần sửa, sau khi thay đổi thông tin tại các trường trong bài, bạn cần nhấn **Lưu** để cập nhật.
+Nhấn chọn bài longform cần sửa, sau khi thay đổi thông tin nội dung bài viết, bạn cần nhấn **Lưu** để cập nhật.

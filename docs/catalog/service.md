@@ -5,32 +5,33 @@ sidebar_position: 1
 sidebar_label: Sản phẩm/Dịch vụ
 published: true
 ---
-# Quản lý bài sản phẩm
+# Sản phẩm
  
 # Thêm bài sản phẩm mới
 
-1.  Tại màn hình quản trị, bạn chọn **Nội dung -> sản phẩm -> Thêm**
+Để thêm một bài sản phẩm, bạn cần:
 
-2.  Trang tạo bài sản phẩm mới được mở ra, nhập thông tin các trường trong sản phẩm bao gồm:
+Nhấn chọn **Nội dung -> Sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-Những thông tin cụ thể cần điền như sau:
+_Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
 
 **Tên sản phẩm** 
 Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn** 
-Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160 ký tự.
+Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung** 
-Nội dung bài sản phẩm cần phải chất lượng, cung cấp đầy đủ thông tin hữu ích, tạo niềm tin cho người đọc. Đặc biệt bạn chú ý tối ưu đầy đủ các yếu tố kỹ thuật SEO (nếu website bạn quan tâm đến SEO)
-
-Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) viết bài chuẩn SEO đạt kết quả cao](https://osd.vn/huong-dan-tu-van-ky-thuat-viet-bai-chuan-seo-dat-ket-qua-cao.html)
+Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện** 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
+Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Nhóm sản phẩm** 
-Bạn có thể thêm sản phẩm vào nhiều danh mục khác nhau.
+Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
+
+Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
 
 **Mã sản phẩm** 
 Là một dạng quy ước giúp phân loại sản phẩm.
@@ -51,23 +52,23 @@ Lựa chọn ngày xuất bản cho bài sản phẩm
 Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự** 
-Đánh thứ tự hiển thị của sản phẩm (với số 0 là số lớn nhất được hiển thị đầu tiên)
+Xem [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Thư viện ảnh** 
 Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
 
-**sản phẩm liên quan** 
+**Sản phẩm liên quan** 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
 **Tin bài liên quan**
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
-**FAQs** 
-xem chi tiết [tại đây](https://mkmate.osd.vn/docs/common/faqs)
+**Câu hỏi thường gặp** 
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
+Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
@@ -77,24 +78,18 @@ Khi bạn nhấn chọn **Lưu**, hệ thống thông báo lưu thành công và
 
 Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lưu dữ liệu và mở một trang sản phẩm mới để bạn tiếp tục thêm.
 
-## Xóa bài sản phẩm/sản phẩm
+## Xóa bài sản phẩm
 
-**Cách 1**: 
-Xóa tại danh sách các bài sản phẩm
+Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
 
-Nhấn tích vào tin sản phẩm đó và chọn **Xóa**.
-
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
-
-**Cách 2**: 
-Xóa tại bài sản phẩm chi tiết
-
-Truy cập sản phẩm chi tiết, bên góc phải màn hình nhấn chọn tab **Xóa sản phẩm**. Tương tự cách xóa 1, hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
+Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa bài sản phẩm đó.
 
 ## Sửa một bài viết sản phẩm
 
-Nhấn chọn trực tiếp vào bài sản phẩm để **Sửa**, sau khi thay đổi các thông tin - thiết lập của bài sản phẩm cần chọn **Lưu** để hoàn tất.
+Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
+
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
 
 ## Nhân bản bài sản phẩm
 
-Chọn sản phẩm/sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.
+Chọn sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.

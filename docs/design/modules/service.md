@@ -1,5 +1,5 @@
 
-# Quản lý mô đun trình bày dịch vụ
+# Mô đun trình bày dịch vụ
 
 Cho phép cấu hình mô đun trình bày nhóm dịch vụ tại nhiều bố cục và vị trí khác nhau trên website.
 

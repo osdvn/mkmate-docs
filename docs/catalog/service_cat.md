@@ -1,54 +1,55 @@
-# Quản lý nhóm sản phẩm
+# Nhóm sản phẩm
 
 - Nhóm sản phẩm: cho phép tạo nhiều nhóm những sản phẩm cùng loại với nhau tùy theo mục đích.
 - Một nhóm sản phẩm có liên kết mật thiết chặt chẽ với các sản phẩm cùng loại.
 
-## Thêm một nhóm sản phẩm bạn cần:
+## Thêm một nhóm sản phẩm
 
-1. Tại màn hình quản trị, bạn chọn menu **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm -> Thêm**
+Để thêm một nhóm sản phẩm, bạn cần:
 
-2. Trang tạo nhóm sản phẩm mới được mở ra, điền các thông tin chi tiết của nhóm sản phẩm đó.
-
-![nhom-dich-vu.jpg](img/nhom-dich-vu.jpg)
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
 
-_Những thông tin cụ thể cần điền như sau:_
+**Tên nhóm sản phẩm**
+Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài sản phẩm mà bạn đã thêm vào.
 
-**Tên nhóm sản phẩm** Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài sản phẩm mà bạn đã thêm vào.
+**Mô tả phía trên**
+Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
 
-**Mô tả phía trên** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
+**Mô tả phía dưới**
+Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
-**Mô tả phía dưới** Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề bài sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
+Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
-**Ảnh đại diện** Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](../common/finder)
+**Ảnh đại diện**
+Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Cấp danh mục cha** Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
+**Cấp danh mục cha**
+Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
-**Nổi bật** Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
+**Nổi bật**
+Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Thứ tự** Đánh thứ tự hiển thị của danh mục nhóm sản phẩm (với số 0 là số lớn nhất được hiển thị đầu tiên)
+**Thứ tự** 
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Trạng thái** Lựa chọn trạng thái hiển thị cho nhóm sản phẩm trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**
+Lựa chọn trạng thái hiển thị cho nhóm sản phẩm trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/seo)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa nhóm sản phẩm
 
-**Cách 1**: Xóa tại nhóm sản phẩm chi tiết
+Để xóa một nhóm sản phẩm, tích vào nhóm sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa nhóm sản phẩm** trong mỗi nhóm sản phẩm chi tiết.
 
-Truy cập nhóm sản phẩm chi tiết, bên góc phải màn hình nhấn chọn tab **Xóa nhóm sản phẩm**
-
-**Cách 2**: Xóa tại danh sách nhóm các bài sản phẩm
-
-Nhấn chọn tích tại nhóm sản phẩm muốn xóa và chọn **Xóa**
-
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
+Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa nhóm sản phẩm đó.
 
 ## Sửa nhóm sản phẩm
 
-Nhấn chọn nhóm sản phẩm muốn sửa, trang nhóm sản phẩm được mở ra, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
+Nhấn chọn nhóm sản phẩm muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
