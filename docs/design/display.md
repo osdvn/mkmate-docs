@@ -1,4 +1,4 @@
-# Quản lý nhận diện
+# Nhận diện
 
 Logo sẽ giúp khách hàng nhớ đến thương hiệu của bạn dễ dàng hơn.
 
