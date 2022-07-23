@@ -5,7 +5,7 @@ sidebar_position: 1
 sidebar_label: Sản phẩm/Dịch vụ
 published: true
 ---
-# Quản lý bài sản phẩm
+# Sản phẩm
  
 # Thêm bài sản phẩm mới
 
