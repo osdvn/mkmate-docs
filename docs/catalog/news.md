@@ -27,12 +27,17 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 **Câu hỏi thường gặp**
 Xem [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
+**URL download tài nguyên**
+Dán đường dẫn URL (liên kết) phù hợp với thông tin bài tin, để người dùng download về máy tính cá nhân
+
 **Ảnh đại diện**
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Chuyên mục**
 Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
+
+Xem thêm cách tạo [chuyên mục tin](https://mkmate.osd.vn/docs/catalog/categories/)
 
 **Tag**
 Nhập từ khóa cho tin bài và ngăn cách nhau bằng dấu phẩy
