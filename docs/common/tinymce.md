@@ -79,13 +79,13 @@ Tính năng lựa chọn kí tự, kí hiệu đặc biệt. Hệ thống chỉ 
 
 ![trinh-soan-thao-10.jpg](img/trinh-soan-thao-10.jpg)
 
-- **Currency** Tiền tệ
-- **Text** Chữ
-- **Quotations** Báo giá
-- **Mathematical** Toán học
-- **Extended Latin** Tiếng Lating mở rộng
-- **Symbols** Ký hiệu
-- **Arrows** Mũi tên
+- **Currency** tiền tệ
+- **Text** chữ
+- **Quotations** báo giá
+- **Mathematical** toán học
+- **Extended Latin** tiếng Lating mở rộng
+- **Symbols** ký hiệu
+- **Arrows** mũi tên
 
 ### (11) Emoticons
 
@@ -93,14 +93,14 @@ Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phé
 
 ![trinh-soan-thao-11.jpg](img/trinh-soan-thao-11.jpg)
 
-- **Symbols** Ký hiệu
-- **People** Mọi người
+- **Symbols** ký hiệu
+- **People** mọi người
 - **Animals** and Nature Động vật và thiên nhiên
-- F**ood and Drink** Đồ ăn và đồ uống
-- **Activity** Hoạt động
-- **Travel and Places** Du lịch và địa điểm
-- **Objects** Các đối tượng
-- **Flags** Cờ
+- F**ood and Drink** đồ ăn và đồ uống
+- **Activity** hoạt động
+- **Travel and Places** du lịch và địa điểm
+- **Objects** các đối tượng
+- **Flags** cờ
 
 ### (12) Source code
 
