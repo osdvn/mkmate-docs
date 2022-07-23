@@ -31,6 +31,8 @@ Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/fin
 **Nhóm sản phẩm** 
 Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
+Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
+
 **Mã sản phẩm** 
 Là một dạng quy ước giúp phân loại sản phẩm.
 
