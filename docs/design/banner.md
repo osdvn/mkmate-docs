@@ -126,7 +126,9 @@ _Chú ý: cần nhập thông tin tất cả các trường tại mô đun_
 
 ### Xóa cấu hình trình diễn
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."** Bạn chọn **Ok**
+Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+
+Bạn chọn **Ok** nếu xác nhận xóa.
 
 ### Sửa cấu hình trình diễn
 
