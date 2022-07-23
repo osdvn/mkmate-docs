@@ -9,7 +9,7 @@ published: true
 
 ## Thêm thư viện ảnh
 
-Để thêm một nhóm sản phẩm, bạn cần:
+Để thêm một thư viện ảnh, bạn cần:
 
 Nhấn chọn **Nội dung -> Thư viện ảnh -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
