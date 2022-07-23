@@ -9,28 +9,24 @@ published: true
  
 # Thêm bài sản phẩm mới
 
-1.  Tại màn hình quản trị, bạn chọn **Nội dung -> sản phẩm -> Thêm**
+1.  Tại màn hình quản trị, bạn chọn **Nội dung -> Sản phẩm -> Thêm**
 
 2.  Trang tạo bài sản phẩm mới được mở ra, nhập thông tin các trường trong sản phẩm bao gồm:
-
-Những thông tin cụ thể cần điền như sau:
 
 **Tên sản phẩm** 
 Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn** 
-Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160 ký tự.
+Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung** 
-Nội dung bài sản phẩm cần phải chất lượng, cung cấp đầy đủ thông tin hữu ích, tạo niềm tin cho người đọc. Đặc biệt bạn chú ý tối ưu đầy đủ các yếu tố kỹ thuật SEO (nếu website bạn quan tâm đến SEO)
-
-Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) viết bài chuẩn SEO đạt kết quả cao](https://osd.vn/huong-dan-tu-van-ky-thuat-viet-bai-chuan-seo-dat-ket-qua-cao.html)
+Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện** 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
 
 **Nhóm sản phẩm** 
-Bạn có thể thêm sản phẩm vào nhiều danh mục khác nhau.
+Bạn có thể thêm sản phẩm vào nhiều nhóm sản phẩm khác nhau. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
 **Mã sản phẩm** 
 Là một dạng quy ước giúp phân loại sản phẩm.
