@@ -6,7 +6,7 @@ Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đ�
 
 Để thêm một nhóm sản phẩm, bạn cần:
 
-Nhấn chọn **Nội dung -> Longform -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Longform -> Thêm**
 
 Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
@@ -24,7 +24,7 @@ Tùy chỉnh màn hình Mobile:
 
 ![long-form-3.jpg](img/long-form-3.jpg)
 
-Taị đây bạn có thể thêm, sửa, xóa bài longform:
+Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề** Nhập tên bài viết bạn muốn hiển thị trên wesbite
 
