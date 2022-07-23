@@ -9,9 +9,11 @@ published: true
  
 # Thêm bài sản phẩm mới
 
-1.  Tại màn hình quản trị, bạn chọn **Nội dung -> Sản phẩm -> Thêm**
+Để thêm một bài sản phẩm, bạn cần:
 
-2.  Trang tạo bài sản phẩm mới được mở ra, nhập thông tin các trường trong sản phẩm bao gồm:
+Nhấn chọn **Nội dung -> Sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
+
+_Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
 
 **Tên sản phẩm** 
 Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
