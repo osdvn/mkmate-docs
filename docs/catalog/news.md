@@ -65,4 +65,4 @@ Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc ch�
 
 ## Sửa một tin bài
 
-Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin - thiết lập của bài viết cần chọn **Lưu** để hoàn tất.
+Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để hoàn tất.
