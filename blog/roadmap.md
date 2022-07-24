@@ -14,7 +14,7 @@ tags: [roadmap, mkmate]
 3. - [ ] Hoàn thành dịch tiếng Anh
 4. - [ ] Mẫu nội dung cho trình soạn thảo
 5. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
-6. - [ ] AMP cơ bản
+6. - [x] AMP cơ bản
 7. - [ ] Admin notify
 8. - [x] Form yêu cầu tư vấn
 9. - [x] Form chia sẻ tài nguyên
