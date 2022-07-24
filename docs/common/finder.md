@@ -8,7 +8,7 @@ published: true
 # Trình quản lý file (Finder)
 Trình quản lý file (chủ yếu là hình ảnh) trên hệ thống được mô phỏng theo giao diện của Finder (trên MacOS X) và Windows Explorer với mong muốn giúp người đọc tổ chức hình ảnh hiệu quả hơn.
 
-Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cảm tình của người xem. Việc tạo thói quen quản lý hình ảnh khoa học sẽ đồng thời giúp bạn tiết kiệm thời gian đưa thông tin lên website và quan trọng hơn là nhận thức của bạn về giá trị của hình ảnh trong tin bài được đưa lên website.
+Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cảm tình của người xem. Thói quen quản lý hình ảnh khoa học sẽ đồng thời giúp bạn tiết kiệm thời gian đưa thông tin lên website và quan trọng hơn là nhận thức của bạn về giá trị của hình ảnh trong tin bài được đưa lên website.
 
 ## Những tính năng cơ bản
 
@@ -124,8 +124,9 @@ Cách thao tác tương tự như với file, đặc thù của thư mục sẽ 
 
 ## Tư vấn tổ chức thư mục khoa học
 
-Có 2 lý do chính mà bạn cần tổ chức thư mục khoa học theo nhu cầu sử dụng đặc thù của từng doanh nghiệp/ tổ chức.
-
+:::caution
+Có 2 lý do chính mà bạn cần tổ chức thư mục khoa học theo nhu cầu sử dụng đặc thù của từng doanh nghiệp/tổ chức.
+:::
 ### Vì thói quen tổ chức thư mục tốt sẽ giúp bạn xử lý công việc nhanh hơn.
 
 Hệ thống của OSD.VN theo logic tinh gọn và giảm chi phí xử lý về phần cứng máy chủ nên sẽ lưu trực tiếp thư mục và file của bạn trên ổ cứng máy chủ tương tự như cách bạn lưu thư mục và file trên Windows **Explorer** hay MacOS X **Finder**
