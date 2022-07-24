@@ -18,6 +18,7 @@ tags: [roadmap, mkmate]
 7. - [ ] Admin notify
 8. - [x] Form yêu cầu tư vấn
 9. - [x] Form chia sẻ tài nguyên
+10. - [ ] Tối ưu hóa thumbnail để tăng I/O read
 
 ## 2022-09-30
 1. - [ ] Form builder
