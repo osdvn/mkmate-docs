@@ -12,8 +12,6 @@ Trình soạn thảo TinyMCE 5 với nhiều tích hợp sâu giúp bạn soạn
 
 **Sơ đồ các tính năng trên thanh công cụ của trình soạn thảo**
 
-Các chức năng được phân thành nhóm chính như sau:
-
 ![trinh-soan-thao.jpg](img/trinh-soan-thao.jpg)
 
 ## Chức năng định dạng văn bản
