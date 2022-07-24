@@ -4,7 +4,9 @@ title: Tích hợp zalo
 tags: [zalo, chia sẻ]
 ---
 # Hướng dẫn tích hợp Zalo
-Để tích hợp được Zalo bạn cần có Zalo Offical Account (ZOA). Bạn có thể tìm hiểu chi tiết về Zalo Offical Account https://developers.zalo.me/docs/api/official-account-api-147.
+Tích hợp Zalo, hệ thống đang hỗ trợ ở mức hiện nút chia sẻ bài viết qua Zalo tại cuối các tin bài, sản phẩm, bài viết Longform.
+
+Để tích hợp Zalo, bạn cần có Zalo Offical Account (ZOA). Bạn có thể tìm hiểu chi tiết về Zalo Offical Account https://developers.zalo.me/docs/api/official-account-api-147.
 
 ## Đăng ký tài khoản Zalo Offical
 ### Bước 1

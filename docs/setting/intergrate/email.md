@@ -15,7 +15,7 @@ Tên người gửi: Mkmate
 Email người gửi: mkmate@due...
 ## 2. SMTP do bạn tự chuẩn bị
 Tình huống này bạn sẽ đảm bảo được tính nhất quán về thương hiệu, thông tin gửi email sẽ không bị lộ với người sử dụng.
-![Cấu hình email với giao thức SMPT](img/email-smtp.jpg)
+![Cấu hình email với giao thức SMPT](img/email-smtp.png)
 Thông tin chi tiết cần điền như sau:
 
 ### 2.1. From (email)
