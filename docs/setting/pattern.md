@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 # Quản lý Mẫu nội dung
-Chức năng này sử dụng để thay thế tự động thông tin trong tương lai dễ bị thay đổi trong tin bài.
+Chức năng này sử dụng để thay thế tự động thông tin trong tương lai dễ bị thay đổi trong phần nội dung tin bài. Với nhiều giao diện khác nhau, mẫu nội dung còn được ứng dụng vào các tình huống popup, tab,...
 
 ## Thêm mẫu nội dung
 
