@@ -32,8 +32,8 @@ tags: [roadmap, mkmate]
 10. - [ ] Search and replace massive content
 11. - [x] Email template
 12. - [x] Hiển thị tỉnh/thành theo thứ tự sắp xếp, chữ cái
-13. - [ ] Hiển thị quận/huyện theo thứ tự sắp xếp, chữ cái
-14. - [ ] Lưu thông tin vùng quản trị bằng AJAX
+13. - [x] Hiển thị quận/huyện theo thứ tự sắp xếp, chữ cái
+14. - [ ] Big Update: Lưu thông tin vùng quản trị bằng AJAX
 15. - [x] Hỗ trợ đồng thời redirect 302 & 301
 16. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 17. - [ ] Admin tasks
