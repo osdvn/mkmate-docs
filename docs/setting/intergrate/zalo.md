@@ -1,6 +1,6 @@
 ---
 slug: zalo
-title: Tích hợp zalo
+title: Tích hợp Zalo
 tags: [zalo, chia sẻ]
 ---
 # Hướng dẫn tích hợp Zalo

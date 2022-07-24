@@ -1,6 +1,6 @@
 ---
 slug: email
-title: Tích hợp zalo
+title: Tích hợp Email
 tags: [email, smtp]
 ---
 # Hướng dẫn tích hợp giao thức gửi email
