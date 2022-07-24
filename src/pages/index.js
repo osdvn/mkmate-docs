@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Tài liệu hướng dẫn sử dụng mkmate<head />">
+      description="Tài liệu hướng dẫn sử dụng Mkmate.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
