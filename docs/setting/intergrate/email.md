@@ -13,9 +13,12 @@ OSD.VN trang bị hệ thống gửi email có sẵn cho toàn bộ khách hàng
 Những thông tin trong phần người gửi sẽ có:
 Tên người gửi: Mkmate
 Email người gửi: mkmate@due...
-## 2. SMTP do bạn tự chuẩn bị
+
+## 2. Giao thức SMTP
 Tình huống này bạn sẽ đảm bảo được tính nhất quán về thương hiệu, thông tin gửi email sẽ không bị lộ với người sử dụng.
+
 ![Cấu hình email với giao thức SMPT](img/email-smtp.png)
+
 Thông tin chi tiết cần điền như sau:
 
 ### 2.1. From (email)
