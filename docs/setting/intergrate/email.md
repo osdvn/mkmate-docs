@@ -4,7 +4,7 @@ title: Tích hợp zalo
 tags: [email, smtp]
 ---
 # Hướng dẫn tích hợp giao thức gửi email
-Các phần mềm vốn không hỗ trợ sẵn dịch vụ gửi email, để gửi email bạn có các lựa chọn: Mặc định (sử dụng dịch vụ gửi email của OSD.VN và smtp là dịch vụ email của bạn).
+Để Mkmate gửi được những email cho người dùng, các website có những lựa chọn như sau: **Mặc định** (sử dụng dịch vụ gửi email của OSD.VN và **SMTP** là dịch vụ email của chính bạn).
 
 Để thực hiện tích hợp, bạn cần vào **Hệ thống** -> **Tích hợp** -> Tab **Dịch vụ giao tiếp** -> **Giao thức email** -> Chọn **Mặc định** hoặc **SMTP**. Những lựa chọn này sẽ có ý nghĩa như sau:
 
