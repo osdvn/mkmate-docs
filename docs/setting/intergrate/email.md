@@ -1,6 +1,6 @@
 ---
 slug: email
-title: Tích hợp giao thức gửi email từ Mkmate
+title: Tích hợp zalo
 tags: [email, smtp]
 ---
 # Hướng dẫn tích hợp giao thức gửi email
