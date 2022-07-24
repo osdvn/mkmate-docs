@@ -38,3 +38,4 @@ tags: [roadmap, mkmate]
 16. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 17. - [ ] Admin tasks
 18. - [ ] Hỗ trợ ảnh webp
+19. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
