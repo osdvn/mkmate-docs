@@ -41,4 +41,4 @@ tags: [roadmap, mkmate]
 17. - [ ] Admin tasks
 18. - [ ] Hỗ trợ ảnh webp
 19. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
-20. - [ ] Tích hợp với tiktok
+20. - [ ] Tích hợp tiktok
