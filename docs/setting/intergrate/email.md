@@ -4,9 +4,10 @@ title: Tích hợp Email
 tags: [email, smtp]
 ---
 # Hướng dẫn tích hợp giao thức gửi email
-Để Mkmate gửi được những email cho người dùng, các website có những lựa chọn như sau: 
-1) **Mặc định**: sử dụng dịch vụ gửi email của OSD.VN
-2) **SMTP**: dịch vụ SMTP do bạn khai báo vào
+Để Mkmate có thể gửi email cho người dùng, chúng ta có 2 lựa chọn như sau:
+
+1. **Mặc định**: sử dụng dịch vụ gửi email của OSD.VN
+2. **SMTP**: dịch vụ SMTP do bạn khai báo
 
 Để thực hiện tích hợp, bạn cần vào **Hệ thống** -> **Tích hợp** -> Tab **Dịch vụ giao tiếp** -> **Giao thức email** -> Chọn **Mặc định** hoặc **SMTP**. Những lựa chọn này sẽ có ý nghĩa như sau:
 
