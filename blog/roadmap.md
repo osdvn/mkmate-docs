@@ -19,6 +19,7 @@ tags: [roadmap, mkmate]
 8. - [x] Form yêu cầu tư vấn
 9. - [x] Form chia sẻ tài nguyên
 10. - [ ] Tối ưu hóa thumbnail để tăng I/O disk (TTFB)
+11. - [ ] Hỗ trợ Sitemap XSL
 
 ## 2022-09-30
 1. - [ ] Form builder
