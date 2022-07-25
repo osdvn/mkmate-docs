@@ -11,9 +11,9 @@ Chức năng này sử dụng để thay thế tự động thông tin trong tư
 
 ## Thêm mẫu nội dung
 
-Tại màn hình quản trị, bạn chọn mục **Hệ thống -> Mẫu nội dung** hoặc **Hệ thống -> Quản lý mẫu -> Mẫu nội dung -> Thêm mẫu**
+Tại màn hình quản trị, bạn chọn **Hệ thống -> Quản lý mẫu -> Mẫu nội dung -> Thêm mẫu**
 
-Điền các thông tin chi tiết của danh mục đó.
+Thông tin chi tiết có ý nghĩa như sau:
 
 **Tên mẫu**
 Nhập tên ký hiệu biến ngắn gọn _(ví dụ: `{{diachi}}` )_
