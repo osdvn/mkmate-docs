@@ -19,6 +19,7 @@ tags: [roadmap, mkmate]
 8. - [x] Form yêu cầu tư vấn
 9. - [x] Form chia sẻ tài nguyên
 10. - [ ] Tối ưu hóa thumbnail để tăng I/O disk (TTFB)
+11. - [ ] Hỗ trợ Sitemap XSL
 
 ## 2022-09-30
 1. - [ ] Form builder
@@ -40,4 +41,4 @@ tags: [roadmap, mkmate]
 17. - [ ] Admin tasks
 18. - [ ] Hỗ trợ ảnh webp
 19. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
-20. - [ ] Tích hợp với tiktok
+20. - [ ] Tích hợp tiktok
