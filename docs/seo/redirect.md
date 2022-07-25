@@ -8,13 +8,13 @@ tags:
   - redirect
 ---
 
-# Chuyển hướng URL (301 redirect)
+# Chuyển hướng URL (301,302 redirect)
 
-Redirect 301 hay còn gọi là chuyển hướng URL là phương pháp chuyển hướng nhằm thông báo rằng các URL hoặc các trang web đã được chuyển hướng vĩnh viễn sang một URL hoặc một trang web khác. Điều này có nghĩa là tất cả các giá trị của trang web hoặc URL gốc như hình ảnh, nội dung… sẽ được chuyển hết sang URL mới.
+Chuyển hướng URL là phương pháp chuyển hướng nhằm thông báo rằng các URL hoặc các trang web đã được chuyển hướng vĩnh viễn sang một URL hoặc một trang web khác. Điều này có nghĩa là tất cả các giá trị của trang web hoặc URL gốc như hình ảnh, nội dung… sẽ được chuyển hết sang URL mới.
 
 Nhấn chọn **SEO -> Chuyển hướng URL -> Thêm**
 
-Trang tạo 301 Redirect URL được mở ra, điền các thông tin chi tiết như sau.
+Trang tạo Redirect URL được mở ra, điền các thông tin chi tiết như sau.
 
 ![301-redirect.jpg](img/301-redirect.jpg)
 
