@@ -27,12 +27,14 @@ Có 5 mẫu hiển thị: Masonry, Caro, Before & After, Scroll, Liệt kê, Lư
 
 - Mẫu Template Masonry
 
-![mo-dun-banner-Masonry.jpg](img/mo-dun-banner-Masonry.jpg)
-
-Ảnh đầu tiên: W x H = 584pixel x 591 pixel
+Ảnh đầu tiên: W x H = 584 pixel x 591 pixel
 2 ảnh còn lại: 282 pixel x 591 pixel
 
+![mo-dun-banner-Masonry.jpg](img/mo-dun-banner-Masonry.jpg)
+
 - Mẫu Template Caro
+
+Kích thước W x H = 195 pixel x 253 pixel
 
 ![mo-dun-banner-caro.jpg](img/mo-dun-banner-caro.jpg)
 
