@@ -18,8 +18,8 @@ Khu vực cấu hình các tham số chung liên quan đến website và doanh n
 4. **Địa chỉ** Thông tin này thường xuất hiện tại chân trang, trang thông tin liên hệ.
 5. **E-mail** Địa chỉ email dùng để nhận thông tin giao tiếp với người sử dụng. Khi có nhiều email, cần ngăn cách bằng dấu phẩy
 6. **Điện thoại** Sẽ hiển thị tại chân trang và trang liên hệ.
-7. **Hotline bán hàng** Hiển thị số hotline bán hàng của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ
-8. **Hotline hỗ trợ** Hiển thị số hotline hỗ trợ của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ
+7. **Hotline bán hàng** Hiển thị số hotline bán hàng của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ.
+8. **Hotline hỗ trợ** Hiển thị số hotline hỗ trợ của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ.
 
 ## Địa phương
 
