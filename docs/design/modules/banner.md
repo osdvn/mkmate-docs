@@ -46,14 +46,8 @@ Kích thước W x H = 500 pixel x 621 pixel
 
 - Mẫu Template Scroll
 
-![mo-dun-banner-before-scroll.jpg](img/mo-dun-banner-before-scroll.jpg)
-
 - Mẫu Template Liệt kê
 
-![mo-dun-banner-liet-ke.jpg](img/mo-dun-banner-liet-ke.jpg)
-
 - Mẫu Template Lưới
-
-![mo-dun-banner-luoi.jpg](img/mo-dun-banner-luoi.jpg)
 
 **Thêm mô-đun** Chọn thêm để hiển thị giao diện bố cục khác nhau
