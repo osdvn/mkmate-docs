@@ -42,3 +42,5 @@ tags: [roadmap, mkmate]
 18. - [ ] Hỗ trợ ảnh webp
 19. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 20. - [ ] Tích hợp tiktok
+21. - [ ] Tích hợp Google Ads, Facebook Ads
+22. - [ ] MySQL Console
