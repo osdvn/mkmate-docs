@@ -20,7 +20,13 @@ tags: [roadmap, mkmate]
 9. - [x] System: Tối ưu hóa thumbnail để tăng I/O disk (TTFB)
 10. - [x] SEO onpage: Hỗ trợ Sitemap XSL
 11. - [x] Security: Hỗ trợ Google recatpcha cho trang liên hệ
+12. - [x] Task queue for sending email
+13. - [x] Email template
+14. - [x] Hiển thị tỉnh/thành theo thứ tự sắp xếp, chữ cái
+15. - [x] Hiển thị quận/huyện theo thứ tự sắp xếp, chữ cái
+16. - [x] Hỗ trợ đồng thời redirect 302 & 301
+
 
 ## 2202-03-20, phát hành v6.0.0
-- Triển khai tập trung SAAS
-- Nâng cấp toàn bộ dự án đã triển khai
+1. [x] Triển khai tập trung SAAS
+2. [x]Nâng cấp toàn bộ dự án đã triển khai
