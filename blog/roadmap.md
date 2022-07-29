@@ -12,14 +12,13 @@ tags: [roadmap, mkmate]
 1. - [x] Email template
 2. - [x] Cookie-less domain
 3. - [ ] Hoàn thành dịch tiếng Anh
-4. - [ ] Mẫu nội dung cho trình soạn thảo
-5. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
-6. - [x] AMP cơ bản
-7. - [x] Admin notify
-8. - [x] Form yêu cầu tư vấn
-9. - [x] Form chia sẻ tài nguyên
-10. - [ ] Tối ưu hóa thumbnail để tăng I/O disk (TTFB)
-11. - [x] Hỗ trợ Sitemap XSL
+4. - [x] Chèn bài liên quan tự động theo phân đoạn nội dung
+5. - [x] AMP cơ bản
+6. - [x] Admin notify
+7. - [x] Form yêu cầu tư vấn
+8. - [x] Form chia sẻ tài nguyên
+9. - [x] Tối ưu hóa thumbnail để tăng I/O disk (TTFB)
+10. - [x] Hỗ trợ Sitemap XSL
 
 ## 2022-09-30
 1. - [ ] Form builder
@@ -44,3 +43,4 @@ tags: [roadmap, mkmate]
 20. - [ ] Tích hợp tiktok
 21. - [ ] Tích hợp Google Ads, Facebook Ads
 22. - [ ] MySQL Console
+23. - [ ] Mẫu nội dung cho trình soạn thảo
