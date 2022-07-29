@@ -9,16 +9,17 @@ authors:
 tags: [roadmap, mkmate]
 ---
 ## 2022-07-31, phát hành v6.5.0
-1. - [x] Email template
-2. - [x] Cookie-less domain
+1. - [x] Anti spam: Email template
+2. - [x] SEO onpage: Cookie-less domain
 3. - [x] Hoàn thành dịch tiếng Anh
-4. - [x] Chèn bài liên quan tự động theo phân đoạn nội dung
-5. - [x] AMP cơ bản
-6. - [x] Admin notify
-7. - [x] Form yêu cầu tư vấn
-8. - [x] Form chia sẻ tài nguyên
-9. - [x] Tối ưu hóa thumbnail để tăng I/O disk (TTFB)
-10. - [x] Hỗ trợ Sitemap XSL
+4. - [x] Long tail: Chèn bài liên quan tự động theo phân đoạn nội dung
+5. - [x] SEO onpage: AMP cơ bản
+6. - [x] System: Admin notify
+7. - [x] Sale: Form yêu cầu tư vấn
+8. - [x] Marketing: Form chia sẻ tài nguyên
+9. - [x] System: Tối ưu hóa thumbnail để tăng I/O disk (TTFB)
+10. - [x] SEO onpage: Hỗ trợ Sitemap XSL
+11. - [x] Security: Hỗ trợ Google recatpcha cho trang liên hệ
 
 ## 2202-03-20, phát hành v6.0.0
 - Triển khai tập trung SAAS
