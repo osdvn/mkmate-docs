@@ -9,7 +9,7 @@ authors:
 tags: [roadmap, mkmate]
 ---
 ## 2022-07-31, phát hành v6.5.0
-1. - [x] Anti spam: Email template
+1. - [x] Branding: Email template
 2. - [x] SEO onpage: Cookie-less domain
 3. - [x] Hoàn thành dịch tiếng Anh
 4. - [x] Long tail: Chèn bài liên quan tự động theo phân đoạn nội dung
