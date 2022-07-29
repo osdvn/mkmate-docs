@@ -29,4 +29,4 @@ tags: [roadmap, mkmate]
 
 ## 2202-03-20, phát hành v6.0.0
 1. [x] Triển khai tập trung SAAS
-2. [x]Nâng cấp toàn bộ dự án đã triển khai
+2. [x] Nâng cấp toàn bộ dự án đã triển khai
