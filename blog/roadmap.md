@@ -15,7 +15,7 @@ tags: [roadmap, mkmate]
 4. - [ ] Mẫu nội dung cho trình soạn thảo
 5. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
 6. - [x] AMP cơ bản
-7. - [ ] Admin notify
+7. - [x] Admin notify
 8. - [x] Form yêu cầu tư vấn
 9. - [x] Form chia sẻ tài nguyên
 10. - [ ] Tối ưu hóa thumbnail để tăng I/O disk (TTFB)
