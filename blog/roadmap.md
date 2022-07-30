@@ -32,6 +32,7 @@ tags: [roadmap, mkmate]
 21. - [ ] Hỗ trợ AMP-HTML fullsite
 22. - [ ] 🐱‍💻Tracking code
 23. - [ ] Customize những trang đặc biệt
+24. - [ ] Cookie Consent 
 
 ## 2022-12-31. V6.5.2
 1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
