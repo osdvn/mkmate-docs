@@ -28,3 +28,4 @@ tags: [roadmap, mkmate]
 17. - [ ] Mẫu nội dung cho trình soạn thảo
 18. - [ ] Quản lý broken link
 19. - [ ] Bổ sung tìm kiếm cho 1 số danh sách dài
+20. - [ ] Tắt các chức năng không dùng của dự án để không bị rối khi sử dụng
