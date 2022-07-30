@@ -1,6 +1,6 @@
 ---
 slug: roadmap
-title: Kế hoạch triển sản phẩm
+title: Kế hoạch cải tiến sản phẩm
 authors:
   name: Dzung Do
   title: OSD.VN Core Team
