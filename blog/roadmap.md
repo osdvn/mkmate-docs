@@ -26,3 +26,5 @@ tags: [roadmap, mkmate]
 15. - [ ] Tích hợp Google Ads, Facebook Ads
 16. - [ ] MySQL Console
 17. - [ ] Mẫu nội dung cho trình soạn thảo
+18. - [ ] Quản lý broken link
+19. - [ ] Bổ sung tìm kiếm cho 1 số danh sách dài
