@@ -29,6 +29,7 @@ tags: [roadmap, mkmate]
 18. - [ ] 🐱‍ 💻Quản lý broken link: doing
 19. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
 20. - [ ] 🐱‍💻 Tắt các chức năng không dùng của dự án để không bị rối khi sử dụng
+21. - [ ] Hỗ trợ AMP-HTML fullsite
 
 ## 2022-12-31. V6.5.2
 21. - [ ] SEO: Kiểm tra URL trùng trong redirect 
