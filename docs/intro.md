@@ -9,7 +9,7 @@ tags: [mkmate, content-centric]
 
 **"Nội dung tốt là trọng tâm"** là định hướng cho những tính năng đã và sẽ được trang bị trong Mkmate. Mục tiêu lớn nhất và nhất quán của Mkmate là giúp webmaster quản lý nội dung chặt chẽ hơn, giúp tiết kiệm thời gian biên tập và quảng bá nội dung thông tin cho website.
 
-SEO được biết đến là tổng hợp của nhiều kỹ năng khiến các webmaster mất nhiều thời gian cho hoạt động kỹ thuật và vận hành website và vì thế thời gian dự án SEO thường xuyên quá hạn, tiêu hao nhiều nguồn lực và dẫn đến kết quả thất bại.
+SEO được biết đến là tổng hợp của nhiều kỹ năng khiến các webmaster mất nhiều thời gian cho hoạt động kỹ thuật và vận hành website. Do đó, thời gian dự án SEO thường xuyên bị quá hạn, tiêu hao nhiều nguồn lực và dẫn đến kết quả thất bại.
 
 OSD.VN cung cấp dịch vụ SEO với hơn 10 năm hoạt động thực tiễn, điều này khiến Mkmate liên tục được cải tiến với định hướng tiết kiệm nguồn lực tối đa cho các dự án dịch vụ SEO đang có hiệu quả cao. 
 
