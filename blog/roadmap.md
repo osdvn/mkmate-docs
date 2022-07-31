@@ -1,11 +1,7 @@
 ---
 slug: roadmap
 title: Kế hoạch cải tiến sản phẩm
-authors:
-  name: Dzung Do
-  title: OSD.VN Core Team
-  url: https://github.com/saosangmo
-  image_url: https://github.com/saosangmo.png
+authors: saosangmo
 tags: [roadmap, mkmate]
 ---
 ## 2022-09-30. V6.5.1
