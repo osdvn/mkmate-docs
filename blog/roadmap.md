@@ -27,7 +27,7 @@ tags: [roadmap, mkmate]
 20. - [x] Tắt các chức năng không dùng của dự án để không bị rối khi sử dụng
 21. - [ ] Hỗ trợ AMP-HTML fullsite
 22. - [x] Tracking code
-23. - [ ] Customize những trang đặc biệt
+23. - [ ] Customize những trang đặc biệt: SEO, title, description
 24. - [ ] Cookie Consent 
 25. - [x] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn
 26. - [ ] Cho phép đặt số lượng vote => chống tấn công
