@@ -5,14 +5,15 @@ tags: [mkmate, content-centric]
 ---
 
 # Giới thiệu Mkmate
-**Content centric**, khái niệm tương đối mới mẻ với người dùng Việt Nam, được OSD.VN phát hiện sau một thời gian dài thiết kế website dành cho nhóm khách hàng có nhu cầu tiếp thị bằng phương pháp SEO.
+**Content centric** (Nội dung là trung tâm), khái niệm mới theo quan điểm bán hàng trực tuyến truyền thống, khách hàng là trung tâm (customer centric). 
 
-**"Nội dung tốt là trọng tâm"** là định hướng cho những tính năng đã và sẽ được trang bị trong Mkmate. Mục tiêu lớn nhất và nhất quán của Mkmate là giúp webmaster quản lý nội dung chặt chẽ hơn, giúp tiết kiệm thời gian biên tập và quảng bá nội dung thông tin cho website.
+Để tiếp cận và cung cấp giải pháp tổng thể cho quan điểm lấy nội dung làm trung tâm, OSD.VN đã có quá trình dài thiết kế và theo dõi đa số sự thất bại trong marketing trực tuyến là quảng cáo thực dụng, rao bán trực tiếp sản phẩm trên Facebook, Google,... làm cho người dùng ác cảm.
 
-SEO được biết đến là tổng hợp của nhiều kỹ năng khiến các webmaster mất nhiều thời gian cho hoạt động kỹ thuật và vận hành website. Do đó, thời gian dự án SEO thường xuyên bị quá hạn, tiêu hao nhiều nguồn lực và dẫn đến kết quả thất bại.
+Mục tiêu lớn nhất và nhất quán của Mkmate là giúp webmaster quản lý nội dung chặt chẽ hơn, giúp tiết kiệm thời gian biên tập và dành nhiều thời gian hơn cho việc xuất bản nội dung thông tin mang lại giá trị cho khách hàng để từ đó tạo ra thiện cảm và niềm tin vào sản phẩm, dịch vụ của bạn cung cấp.
 
-OSD.VN cung cấp dịch vụ SEO với hơn 10 năm hoạt động thực tiễn, điều này khiến Mkmate liên tục được cải tiến với định hướng tiết kiệm nguồn lực tối đa cho các dự án dịch vụ SEO đang có hiệu quả cao. 
-
+:::info
+Cách tiết kiệm chi phí nhất trong tiếp thị trực tuyến là SEO. Sau hơn 10 năm hoạt động SEO, OSD.VN tích hợp những kinh nghiệm và sự từng trải vào sản phẩm MK Mate để phân phối đến nhóm người dùng làm marketing. Điều này cũng đồng nghĩa sản phẩm MK Mate sẽ liên tục được cải tiến với định hướng tăng hiệu quả của marketing online.
+:::
 Chiến lược phát triển của Mkmate hướng tới ngành nghề kinh doanh dịch vụ và giáo dục, được song hành cùng sản phẩm chiến lược khác là Pisale (hướng tới mô hình bán lẻ). Cả 2 sản phẩm có lộ trình phát triển mạch lạc, thừa kế các ưu điểm của nhau, cải tiến không ngừng với những mục tiêu rõ ràng:
 
 1. Đơn giản, dễ sử dụng
