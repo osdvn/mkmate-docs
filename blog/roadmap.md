@@ -30,6 +30,7 @@ tags: [roadmap, mkmate]
 23. - [ ] Customize những trang đặc biệt
 24. - [ ] Cookie Consent 
 25. - [x] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn
+26. - [ ] Cho phép đặt số lượng vote => chống tấn công
 
 ## 2022-12-31. V6.5.2
 1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
