@@ -7,7 +7,7 @@ tags: [roadmap, mkmate]
 ## 2022-09-30. V6.5.1
 1. - [ ] Form builder
 2. - [ ] Layout manager
-3. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
+3. - [ ] 🐱‍💻 Customer portal, self service to manage issue & ticket. Public ticket
 4. - [ ] Build theme by each site (Dynamically)
 5. - [ ] 🐱‍💻 Task queue for optimizing lossless image
 6. - [ ] CTA builder
@@ -29,6 +29,7 @@ tags: [roadmap, mkmate]
 22. - [ ] 🐱‍💻Tracking code
 23. - [ ] Customize những trang đặc biệt
 24. - [ ] Cookie Consent 
+25. - [ ] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn 🐱‍💻
 
 ## 2022-12-31. V6.5.2
 1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
