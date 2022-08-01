@@ -29,7 +29,7 @@ tags: [roadmap, mkmate]
 22. - [ ] 🐱‍💻Tracking code
 23. - [ ] Customize những trang đặc biệt
 24. - [ ] Cookie Consent 
-25. - [ ] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn 🐱‍💻
+25. - [x] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn
 
 ## 2022-12-31. V6.5.2
 1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
