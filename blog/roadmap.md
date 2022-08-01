@@ -32,7 +32,7 @@ tags: [roadmap, mkmate]
 25. - [x] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn
 26. - [x] Cho phép đặt số lượng vote => chống tấn công
 27. - [ ] 🐞 Lỗi tạo menu cấp 2
-28. - [ ] 🐞 Lỗi không ẩn ngày, tác giả, lượt xem của tin bài.
+28. - [x] 🐞 Lỗi không ẩn ngày, tác giả, lượt xem của tin bài.
 29. - [x] Public issue: sử dụng github
 
 ## 2022-12-31. V6.5.2
