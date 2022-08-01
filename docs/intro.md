@@ -16,11 +16,11 @@ Cách tiết kiệm chi phí nhất trong tiếp thị trực tuyến là SEO. S
 :::
 Chiến lược phát triển của Mkmate hướng tới ngành nghề kinh doanh dịch vụ và giáo dục, được song hành cùng sản phẩm chiến lược khác là Pisale (hướng tới mô hình bán lẻ). Cả 2 sản phẩm có lộ trình phát triển mạch lạc, thừa kế các ưu điểm của nhau, cải tiến không ngừng với những mục tiêu rõ ràng:
 
-⭕ Đơn giản, dễ sử dụng
-⭕ Tốc độ tải trang siêu nhanh, áp dụng hầu hết các tiêu chuẩn do Google Pagespeed tư vấn
-⭕ Chuẩn hóa và thống nhất khái quát nghiệp vụ
-⭕ Tăng cường tự động hóa hoạt động SEO
-⭕ Kiểm soát lỗi chặt chẽ
-⭕ Tăng tính nhất quán về cấu trúc thông tin
+- ⭕ Đơn giản, dễ sử dụng
+- ⭕ Tốc độ tải trang siêu nhanh, áp dụng hầu hết các tiêu chuẩn do Google Pagespeed tư vấn
+- ⭕ Chuẩn hóa và thống nhất khái quát nghiệp vụ
+- ⭕ Tăng cường tự động hóa hoạt động SEO
+- ⭕ Kiểm soát lỗi chặt chẽ
+- ⭕ Tăng tính nhất quán về cấu trúc thông tin
 
 Song hành cùng sản phẩm Mkmate, cộng đồng SEO và marketing chuyên sâu [F1.edu.vn](https://f1.edu.vn) sẽ giúp bạn trang bị kiến thức trải nghiệm để vận hành website hiệu quả hơn.
