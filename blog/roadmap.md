@@ -34,7 +34,7 @@ tags: [roadmap, mkmate]
 27. - [ ] 🐞 Lỗi tạo menu cấp 2
 28. - [x] 🐞 Lỗi không ẩn ngày, tác giả, lượt xem của tin bài.
 29. - [x] Public issue: sử dụng github
-30. - [x] 🐱‍💻 Lỗi gửi email định dạng HTML
+30. - [x] Lỗi gửi email định dạng HTML
 
 ## 2022-12-31. V6.5.2
 1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
