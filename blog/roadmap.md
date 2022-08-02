@@ -8,7 +8,7 @@ tags: [roadmap, mkmate]
 1. - [ ] Form builder
 2. - ~Layout manager~
 3. - [ ] 🐱‍💻 Customer portal, self service to manage issue & ticket
-4. - [ ] Build theme by each site (Dynamically)
+4. - ~[ ] Build giao diện tự động theo từng website~
 5. - [ ] 🐱‍💻 Task queue for optimizing lossless image
 6. - [ ] CTA builder
 7. - [ ] Popup builder
@@ -40,3 +40,4 @@ tags: [roadmap, mkmate]
 1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
 2. - [ ] Tối ưu lại phần backup dữ liệu
 3. - [ ] Layout manager
+4. - [ ] Build giao diện tự động theo từng website
