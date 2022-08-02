@@ -6,7 +6,7 @@ tags: [roadmap, mkmate]
 ---
 ## 2022-09-30. V6.5.1
 1. - [ ] Form builder
-2. - [ ] Layout manager
+2. - ~Layout manager~
 3. - [ ] 🐱‍💻 Customer portal, self service to manage issue & ticket
 4. - [ ] Build theme by each site (Dynamically)
 5. - [ ] 🐱‍💻 Task queue for optimizing lossless image
@@ -39,3 +39,4 @@ tags: [roadmap, mkmate]
 ## 2022-12-31. V6.5.2
 1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
 2. - [ ] Tối ưu lại phần backup dữ liệu
+3. - [ ] Layout manager
