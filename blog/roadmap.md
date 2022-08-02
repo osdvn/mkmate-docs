@@ -11,7 +11,7 @@ tags: [roadmap, mkmate]
 4. - ~[ ] Build giao diện tự động theo từng website~
 5. - [ ] 🐱‍💻 Task queue for optimizing lossless image
 6. - [ ] CTA builder
-7. - [ ] Popup builder
+7. ~ [ ] Popup builder ~
 8. - [ ] Search and replace massive content
 9. - [ ] 🐱‍💻 Big Update: Lưu thông tin vùng quản trị bằng AJAX
 10. - [ ] Cộng tác nhóm khi soạn thảo bài viết
@@ -41,3 +41,4 @@ tags: [roadmap, mkmate]
 2. - [ ] Tối ưu lại phần backup dữ liệu
 3. - [ ] Layout manager
 4. - [ ] Build giao diện tự động theo từng website
+5. - [ ] Popup builder
