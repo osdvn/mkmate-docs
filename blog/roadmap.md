@@ -37,3 +37,4 @@ tags: [roadmap, mkmate]
 
 ## 2022-12-31. V6.5.2
 1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
+2. - [ ] Tối ưu lại phần backup dữ liệu
