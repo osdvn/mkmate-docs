@@ -40,7 +40,7 @@ Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cả
 *   (24) Đảo chọn toàn bộ các file trong 1 thư mục so với những file đang ở trạng thái chọn
 *   (25) Tính năng xem trước hình ảnh
 *   (26) Xem chi tiết kích thước file ảnh
-*   (27)
+*   (27) Giải nén tệp từ kho lưu trữ
 *   (28) Tạo khi lưu trữ file ảnh
 *   (29) Đổi danh sách kiểu xem thư mục ảnh hoặc file ảnh
 ![trinh-quan-ly-file-3.jpg (83 KB)](img/trinh-quan-ly-file-3.jpg)
