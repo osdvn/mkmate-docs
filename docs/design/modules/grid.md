@@ -1,21 +1,20 @@
-# Quản lý mô đun Grid Content
+# Mô đun Grid Content
 
 Chức năng này dùng để trình bày những loại nội dung có nhiều cột phức tạp và quan trọng là trên mobile và desktop được trình bày khác nhau
 
+## Thêm mới mô đun Grid Content
+
 Để cấu hình mô đun Grid Content, bạn cần:
 
-**Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Grid Content**
+Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Grid Content -> Cấu hình**
 
-**Bước 2** Nhấp chuột vào nút **Cấu hình**
-
-**Bước 3** Trang tạo cấu hình mô đun **Grid Content** được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
+Trang tạo cấu hình mô đun **Grid Content** được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
 
 Màn hình Desktop
 
 Màn hình Tablet
 
 Màn hình Mobile
-
 
 **Nội dung** Mô tả chi tiết bài thông tin muốn hiển thị để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
@@ -40,15 +39,28 @@ _Tùy chỉnh phiên bản mobile_
 
 _Tùy chỉnh phiên bản Tablet_
 
-**Bố cục** Lựa chọn bố cục hiển thị All Pages cho danh mục hoặc chọn bố cục có sẵn trong box
+**Bố cục**
+Lựa chọn bố cục hiển thị All Pages cho danh mục hoặc chọn bố cục có sẵn trong box
 
-**Vị trí** Lựa chọn vị trí hiển thị Trước chân trang cho danh mục hoặc chọn vị trí có sẵn trong box
+**Vị trí**
+Lựa chọn vị trí hiển thị Trước chân trang cho danh mục hoặc chọn vị trí có sẵn trong box
 
-**Trạng thái** Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**
+Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự** Đánh thứ tự hiển thị cho mô đun (với số 0 là số lớn nhất được hiển thị đầu tiên)
-
-**Chú ý**: cần nhập nội dung tiếng Anh và nội dung tiếng Việt (nếu có)
+**Thứ tự**
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
+### Xóa mô đun Grid Content
+
+Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+
+Bạn chọn **Ok** nếu xác nhận xóa.
+
+### Sửa mô đun Grid Content
+
+Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Grid Content -> Cấu hình**.
+
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
