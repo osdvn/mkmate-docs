@@ -63,4 +63,3 @@ Bạn chọn **Ok** nếu xác nhận xóa.
 Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> banner -> Cấu hình**.
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
-
