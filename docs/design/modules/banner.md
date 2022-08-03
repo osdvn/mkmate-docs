@@ -51,3 +51,15 @@ Kích thước W x H = 500 pixel x 621 pixel
 - Mẫu Template Lưới
 
 **Thêm mô-đun** Chọn thêm để hiển thị giao diện bố cục khác nhau
+
+### Xóa mô đun banner
+
+Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+
+Bạn chọn **Ok** nếu xác nhận xóa.
+
+### Sửa mô đun banner
+
+Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> banner -> Cấu hình**.
+
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
