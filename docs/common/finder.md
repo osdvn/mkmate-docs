@@ -29,7 +29,7 @@ Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cả
 *   (13) Cắt file ảnh hiện tại vào khay nhớ để di chuyển sang thư mục ảnh khác
 *   (14) Dán ảnh vừa cắt hoặc copy vào thư mục ảnh
 *   (15) Chọn ảnh cần xóa và click biểu tượng thùng rác, nút 15
-*   (16) Empty the folder
+*   (16) Làm trống thư mục
 *   (17) Tính năng xem trước hình ảnh
 *   (18) Nhân bản file ảnh hoặc thư mục ảnh
 *   (19) Đổi tên ảnh hoặc thư mục ảnh
@@ -43,11 +43,7 @@ Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cả
 *   (27) Giải nén tệp từ kho lưu trữ
 *   (28) Tạo khi lưu trữ file ảnh
 *   (29) Đổi danh sách kiểu xem thư mục ảnh hoặc file ảnh
-![trinh-quan-ly-file-3.jpg (83 KB)](img/trinh-quan-ly-file-3.jpg)
-![trinh-quan-ly-file-4.jpg (65 KB)](img/trinh-quan-ly-file-4.jpg)
 *   (30) Sắp xếp theo thứ tự theo tên ảnh, kích thước ảnh, ngày upload ảnh
-![trinh-quan-ly-file-5.jpg (16 KB)](img/trinh-quan-ly-file-5.jpg)
-
 *   (34) Tìm kiếm ảnh
 
 ## Trình đơn ngữ cảnh
