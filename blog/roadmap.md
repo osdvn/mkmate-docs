@@ -35,6 +35,7 @@ tags: [roadmap, mkmate]
 28. - [x] 🐞 Lỗi không ẩn ngày, tác giả, lượt xem của tin bài.
 29. - [x] Public issue: sử dụng github
 30. - [x] 🐞 Lỗi: Gửi email định dạng HTML thành plaintext khi download tài liệu
+31. - [ ] Cải thiện chỉ số CLS cho mobile
 
 ## 2022-12-31. V6.5.2
 1. - [x] SEO: Kiểm tra URL trùng khi thêm redirect URL
@@ -43,3 +44,5 @@ tags: [roadmap, mkmate]
 4. - [ ] Build giao diện tự động theo từng website
 5. - [ ] Popup builder
 6. - [ ] CTA builder
+7. - [ ] Đếm số lượng reach của link 404
+8. - [ ] Cho phép customize URL đặc biệt

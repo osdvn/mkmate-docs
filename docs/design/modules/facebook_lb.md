@@ -1,8 +1,6 @@
 ---
-title: Quản lý Facebook Like Box
-tags:
-  - facebook
-published: true
+title: Facebook Business Page
+tags: [facebook]
 ---
 # Facebook Business Page
 
