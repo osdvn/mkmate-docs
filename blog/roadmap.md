@@ -26,9 +26,9 @@ tags: [roadmap, mkmate]
 19. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
 20. - [x] Tắt các chức năng không dùng của dự án để không bị rối khi sử dụng
 21. - [ ] Hỗ trợ AMP-HTML fullsite
-22. - [ ] 🐱‍💻 Tracking code, đo lường chiến dịch quảng cáo. Chèn vào lead, inquiries
+22. - [ ] 🥷🏽 Tracking code, đo lường chiến dịch quảng cáo. Chèn vào lead, inquiries
 23. - [ ] Customize những trang đặc biệt: SEO, title, description
-24. - [ ] 🐱‍💻 Cookie Consent 
+24. - [ ] 🥷🏽 💻 Cookie Consent 
 25. - [x] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn
 26. - [x] Cho phép đặt số lượng vote => chống tấn công
 27. - [ ] 🐞 Lỗi tạo menu cấp 2
@@ -37,7 +37,7 @@ tags: [roadmap, mkmate]
 30. - [x] 🐞 Lỗi: Gửi email định dạng HTML thành plaintext khi download tài liệu
 
 ## 2022-12-31. V6.5.2
-1. - [ ] SEO: Kiểm tra URL trùng trong redirect 
+1. - [x] SEO: Kiểm tra URL trùng khi thêm redirect URL
 2. - [ ] Tối ưu lại phần backup dữ liệu
 3. - [ ] Layout manager
 4. - [ ] Build giao diện tự động theo từng website
