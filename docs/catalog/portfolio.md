@@ -6,7 +6,6 @@ sidebar_label: Dự án tiêu biểu
 published: true
 ---
 # Dự án tiêu biểu
-
 ## Thêm bài dự án tiêu biểu
 
 Để thêm một bài dự án tiêu biểu, bạn cần:
@@ -14,13 +13,13 @@ published: true
 Nhấn chọn **Nội dung -> Dự án tiêu biểu -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề**
-Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
+Tên bài dự án tiêu biểu
 
 **Mô tả ngắn**
 Mô tả tóm tắt bài viết
 
 **Mô tả**
-Trình bày thông tin có mục đích hướng tới độc giả
+Nội dung chi tiết bài dự án tiêu biểu
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
