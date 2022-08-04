@@ -1,6 +1,8 @@
 ---
 title: Facebook Business Page
-tags: [facebook]
+tags:
+  - facebook
+published: true
 ---
 # Facebook Business Page
 
@@ -17,10 +19,10 @@ Trang cấu hình mô đun Facebook Business Page được mở ra, điền và 
 Nhập địa chỉ URL fanpage facebook | Nhập tên hiển thị cho fanpage facebook
 
 **Bố cục**
-Lựa chọn bố cục hiển thị **All page** cho danh mục hoặc chọn bố cục có sẵn trong box
+Lựa chọn bố cục hiển thị tại Drop List
 
 **Vị trí**
-Hiển thị Lựa chọn vị trí hiển thị **Trình đơn chân trang** cho danh mục hoặc chọn vị trí có sẵn trong box
+Lựa chọn vị trí hiển thị tại Drop List
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
