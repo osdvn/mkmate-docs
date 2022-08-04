@@ -19,10 +19,10 @@ Trang cấu hình mô đun Facebook Business Page được mở ra, điền và 
 Nhập địa chỉ URL fanpage facebook | Nhập tên hiển thị cho fanpage facebook
 
 **Bố cục**
-Lựa chọn bố cục hiển thị tại Drop List
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
-Lựa chọn vị trí hiển thị tại Drop List
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
