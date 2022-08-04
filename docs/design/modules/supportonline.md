@@ -30,13 +30,13 @@ Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Bố cục**
-Lựa chọn bố cục hiển thị tại Drop List
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
-Lựa chọn vị trí hiển thị tại Drop List
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Vị trí hiển thị**
-Lựa chọn vị trí hiển thị tại Drop List
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Cỡ icon**
 Lựa chọn cỡ icon tại Drop List
