@@ -10,11 +10,17 @@ Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> G
 
 Trang tạo cấu hình mô đun **Grid Content** được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
 
-Màn hình Desktop
+Tùy chỉnh màn hình Desktop:
 
-Màn hình Tablet
+![long-form-1.jpg](img/long-form-1.jpg)
 
-Màn hình Mobile
+Tùy chỉnh màn hình Tablet:
+
+![long-form-2.jpg](img/long-form-2.jpg)
+
+Tùy chỉnh màn hình Mobile:
+
+![long-form-3.jpg](img/long-form-3.jpg)
 
 **Nội dung** Mô tả chi tiết bài thông tin muốn hiển thị để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
@@ -28,6 +34,8 @@ Màn hình Mobile
 - Add row 8-4
 
 Hình minh họa mỗi tab được hiển thị lần lượt như sau:
+
+![long-form-4.jpg](img/long-form-4.jpg)
 
 **Preview** Xem trước khi xuất bản nội dung
 
