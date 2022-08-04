@@ -43,10 +43,6 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 **Desktop, Tablet, Mobile** Tùy chỉnh theo 3 phiên bản. Bạn cần nhấn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
-_Tùy chỉnh phiên bản mobile_
-
-_Tùy chỉnh phiên bản Tablet_
-
 **Bố cục**
 Lựa chọn bố cục hiển thị All Pages cho danh mục hoặc chọn bố cục có sẵn trong box
 
