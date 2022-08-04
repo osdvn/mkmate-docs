@@ -44,10 +44,10 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 **Desktop, Tablet, Mobile** Tùy chỉnh theo 3 phiên bản. Bạn cần nhấn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
 **Bố cục**
-Lựa chọn bố cục hiển thị All Pages cho danh mục hoặc chọn bố cục có sẵn trong box
+Lựa chọn bố cục hiển thị tại Drop List
 
 **Vị trí**
-Lựa chọn vị trí hiển thị Trước chân trang cho danh mục hoặc chọn vị trí có sẵn trong box
+Lựa chọn vị trí hiển thị tại Drop List
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
