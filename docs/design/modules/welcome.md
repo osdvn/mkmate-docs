@@ -17,10 +17,10 @@ Những thông tin cần cấu hình như sau:
 **Nội dung** Nhập thông tin cần hiển thị ví dụ như địa chỉ website, thông điệp muốn hiển thị trên website
 
 **Bố cục**
-Lựa chọn bố cục hiển thị tại Drop List
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
-Lựa chọn vị trí hiển thị tại Drop List
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Trạng thái** Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
