@@ -36,11 +36,11 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Sắp xếp theo**
 Lựa chọn sắp xếp theo danh sách có sẵn được hiển thị trong box 
-_Tên sản phẩm_
-_Giá_
-_Thứ tự_
-_Ngày đăng_
-_Nổi bật_
+- _Tên sản phẩm_
+- _Giá_
+- _Thứ tự_
+- _Ngày đăng_
+- _Nổi bật_
 
 **Chiều sắp xếp**
 Lựa chọn sắp xếp theo kiểu giảm dần hoặc tăng dần cho mô đun danh mục
@@ -48,12 +48,12 @@ Lựa chọn sắp xếp theo kiểu giảm dần hoặc tăng dần cho mô đu
 **Mẫu trình bày**
 Lựa chọn sắp xếp theo danh sách có sẵn được hiển thị trong box
 
-_Mẫu trình bày dạng Đơn giản_
-_Mẫu trình bày dạng Autoplay_
-_Mẫu trình bày danh sách dọc_
-_Mẫu trình bày Bullet_
-_Mẫu trình bày Numbered Bullet_
-_Mẫu trình bày Mặc định_
+- _Mẫu trình bày dạng Đơn giản_
+- _Mẫu trình bày dạng Autoplay_
+- _Mẫu trình bày danh sách dọc_
+- _Mẫu trình bày Bullet_
+- _Mẫu trình bày Numbered Bullet_
+- _Mẫu trình bày Mặc định_
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
