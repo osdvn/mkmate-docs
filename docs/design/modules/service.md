@@ -22,11 +22,10 @@ Nhập giới hạn số bài cho phép hiển thị tại mô đun này
 Nhập kích thước tương ứng cho phép hiển thị ảnh bài tin
 
 **Bố cục**
-
-Lựa chọn bố cục hiển thị **Trang chủ** cho danh mục hoặc chọn bố cục có sẵn trong box
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí hiển thị**
-Lựa chọn vị trí hiển thị **Đầu nội dung** cho danh mục hoặc chọn vị trí có sẵn trong box
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
@@ -35,7 +34,7 @@ Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Sắp xếp theo**
-Lựa chọn sắp xếp theo danh sách có sẵn được hiển thị trong box 
+Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 - _Tên sản phẩm_
 - _Giá_
 - _Thứ tự_
@@ -43,10 +42,10 @@ Lựa chọn sắp xếp theo danh sách có sẵn được hiển thị trong b
 - _Nổi bật_
 
 **Chiều sắp xếp**
-Lựa chọn sắp xếp theo kiểu giảm dần hoặc tăng dần cho mô đun danh mục
+Lựa chọn chiều sắp xếp tại danh sách thả xuống
 
 **Mẫu trình bày**
-Lựa chọn sắp xếp theo danh sách có sẵn được hiển thị trong box
+Lựa chọn mẫu trình bày tại danh sách thả xuống
 
 - _Mẫu trình bày dạng Đơn giản_
 - _Mẫu trình bày dạng Autoplay_
