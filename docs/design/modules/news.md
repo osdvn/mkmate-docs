@@ -10,10 +10,10 @@ Cho phép cấu hình mô đun trình bày tin bài tại nhiều bố cục và
 Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hình**. Những thông tin cụ thể cần điền như sau:
 
 **Bố cục**
-Lựa chọn bố cục hiển thị **Trang chủ** cho danh mục hoặc chọn bố cục có sẵn trong box
+Lựa chọn bố cục hiển thị tại Drop List
 
 **Vị trí**
-Lựa chọn vị trí hiển thị **Đầu nội dung** cho danh mục hoặc chọn vị trí có sẵn trong box
+Lựa chọn vị trí hiển thị tại Drop List
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
