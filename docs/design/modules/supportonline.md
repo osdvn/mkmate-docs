@@ -8,7 +8,7 @@ Nhấn chọn **Giao diện -> Mô đun -> Hỗ trợ trực tuyến -> Cấu h�
 
 Trang tạo cấu hình mô đun hỗ trợ trực tuyến được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-**Kênh liên lạc**
+**Chọn kênh liên lạc**
 Lựa chọn kênh muốn hiển thị có sẵn trong khung box. Cho phép lựa chọn 6 kênh liên lạc: 
 - _Viber_
 - _Zalo_
@@ -23,20 +23,23 @@ Nhập tên hiển thị tương ứng với kênh hỗ trợ
 **Tài khoản/URL**
 Nhập số điện thoại, địa chỉ email hoặc liên kết messenger
 
-**Bố cục**
-Lựa chọn bố cục hiển thị **All page** cho danh mục hoặc chọn bố cục có sẵn trong box
-
-**Vị trí**
-Hiển thị Lựa chọn vị trí hiển thị **Chân trang** cho danh mục hoặc chọn vị trí có sẵn trong box
-
-**Nơi hiển thị**
-Lựa chọn danh sách nơi hiển thị có sẵn trong box 
-
 **Trạng thái**
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự**
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Bố cục**
+Lựa chọn bố cục hiển thị tại Drop List
+
+**Vị trí**
+Lựa chọn vị trí hiển thị tại Drop List
+
+**Vị trí hiển thị**
+Lựa chọn vị trí hiển thị tại Drop List
+
+**Cỡ icon**
+Lựa chọn cỡ icon tại Drop List
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
