@@ -12,15 +12,15 @@ Trang tạo cấu hình mô đun **Grid Content** được mở ra, điền và 
 
 Tùy chỉnh màn hình Desktop:
 
-![long-form-1.jpg](img/long-form-1.jpg)
+![gridcontent.jpg](img/gridcontent.jpg)
 
 Tùy chỉnh màn hình Tablet:
 
-![long-form-2.jpg](img/long-form-2.jpg)
+![gridcontent-1.jpg](img/gridcontent-1.jpg)
 
 Tùy chỉnh màn hình Mobile:
 
-![long-form-3.jpg](img/long-form-3.jpg)
+![gridcontent-2.jpg](img/gridcontent-2.jpg)
 
 **Nội dung** Mô tả chi tiết bài thông tin muốn hiển thị để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
