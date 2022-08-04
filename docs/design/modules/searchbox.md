@@ -13,10 +13,10 @@ Trang tạo cấu hình mô đun hộp tìm kiếm được mở ra, điền và
 Những thông tin cần cấu hình như sau:
 
 **Bố cục**
-Lựa chọn bố cục hiển thị **All page** cho danh mục hoặc chọn bố cục có sẵn trong box
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
-Hiển thị Lựa chọn vị trí hiển thị **Đầu trang** cho danh mục hoặc chọn vị trí có sẵn trong box
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
