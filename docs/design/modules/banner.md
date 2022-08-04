@@ -8,10 +8,10 @@ Trình bày nhiều mẫu khác nhau với 5 tùy chọn mẫu
 Nhấn chọn **Giao diện -> Mô đun -> Banner -> Cấu hình**. Những thông tin cấu hình như sau:
 
 **Bố cục**
-Lựa chọn bố cục hiển thị tại Drop List
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
-Lựa chọn vị trí hiển thị tại Drop List
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Thứ tự**
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
