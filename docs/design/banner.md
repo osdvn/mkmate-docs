@@ -90,10 +90,10 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**
 Tại đây bạn có thể thiết lập cấu hình mô đun. Những thông tin cụ thể cần điền như sau:
 
 **Bố cục**
-Lựa chọn bố cục hiển thị tại **Trang chủ** cho mô đun hoặc chọn bố cục có sẵn trong box
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
-Lựa chọn vị trí hiển thị tại **Slideshow** cho mô đun hoặc chọn vị trí có sẵn trong box
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Thứ tự**
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)

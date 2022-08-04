@@ -10,11 +10,17 @@ Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> G
 
 Trang tạo cấu hình mô đun **Grid Content** được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
 
-Màn hình Desktop
+Tùy chỉnh màn hình Desktop:
 
-Màn hình Tablet
+![gridcontent.jpg](img/gridcontent.jpg)
 
-Màn hình Mobile
+Tùy chỉnh màn hình Tablet:
+
+![gridcontent-1.jpg](img/gridcontent-1.jpg)
+
+Tùy chỉnh màn hình Mobile:
+
+![gridcontent-2.jpg](img/gridcontent-2.jpg)
 
 **Nội dung** Mô tả chi tiết bài thông tin muốn hiển thị để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
@@ -29,21 +35,19 @@ Màn hình Mobile
 
 Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
+![long-form-4.jpg](img/long-form-4.jpg)
+
 **Preview** Xem trước khi xuất bản nội dung
 
 **Edit Source Code** Nhấn chọn để chỉnh sửa mã HTML của bài viết
 
 **Desktop, Tablet, Mobile** Tùy chỉnh theo 3 phiên bản. Bạn cần nhấn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
-_Tùy chỉnh phiên bản mobile_
-
-_Tùy chỉnh phiên bản Tablet_
-
 **Bố cục**
-Lựa chọn bố cục hiển thị All Pages cho danh mục hoặc chọn bố cục có sẵn trong box
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
-Lựa chọn vị trí hiển thị Trước chân trang cho danh mục hoặc chọn vị trí có sẵn trong box
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Trạng thái**
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)

@@ -1,18 +1,14 @@
-# Quản lý mô đun Nội dung
+# Mô đun Nội dung
 
 Cho phép hiển thị các thông điệp tùy chỉnh trên website.
 
-Hình minh họa được hiển thị như sau:
-
-![mo-dun-noi-dung.jpg (37 KB)](img/mo-dun-noi-dung.jpg)
+## Thêm mới mô đun Nội dung
 
 Để cấu hình mô đun Nội dung, bạn cần:
 
-**Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện => Mô đun => Nội dung**
+Nhấn chọn **Giao diện -> Mô đun -> Nội dung -> Cấu hình**
 
-**Bước 2** Nhấp chuột vào nút **Cấu hình**
-
-**Bước 3** Trang tạo cấu hình mô đun Nội dung được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
+Trang tạo cấu hình mô đun Nội dung được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
 ![mo-dun-noi-dung-2.jpg (77 KB)](img/mo-dun-noi-dung-2.jpg)
 
@@ -20,12 +16,27 @@ Những thông tin cần cấu hình như sau:
 
 **Nội dung** Nhập thông tin cần hiển thị ví dụ như địa chỉ website, thông điệp muốn hiển thị trên website
 
-**Bố cục** Lựa chọn bố cục hiển thị **All pages** cho danh mục hoặc chọn bố cục có sẵn trong box
+**Bố cục**
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Vị trí** hiển thị Lựa chọn vị trí hiển thị **Trình đơn chân trang** cho danh mục hoặc chọn vị trí có sẵn trong box
+**Vị trí**
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Trạng thái** Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự** Đánh thứ tự hiển thị cho mô đun (với số 0 là số lớn nhất được hiển thị đầu tiên)
+**Thứ tự**
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+
+### Xóa mô đun nội dung
+
+Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+
+Bạn chọn **Ok** nếu xác nhận xóa.
+
+### Sửa mô đun nội dung
+
+Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Nội dung -> Cấu hình**.
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
