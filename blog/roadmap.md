@@ -36,7 +36,7 @@ tags: [roadmap, mkmate]
 29. - [x] Public issue: sử dụng github
 30. - [x] 🐞 Lỗi: Gửi email định dạng HTML thành plaintext khi download tài liệu
 31. - [ ] Cải thiện chỉ số CLS cho mobile
-32. - [x] 🐞 Lỗi: Gửi email thông báo khi cho nhiều admin cùng 1 lúc
+32. - [x] 🐞 Lỗi: Gửi email thông báo cho nhiều admin cùng 1 lúc
 
 ## 2022-12-31. V6.5.2
 1. - [x] SEO: Kiểm tra URL trùng khi thêm redirect URL
