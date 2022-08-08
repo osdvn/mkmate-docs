@@ -16,7 +16,7 @@ Tích hợp Google Recaptcha, hệ thống đang hỗ trợ ở mức hiện h�
 #### Bước 2
 Bạn sẽ nhận được một yêu cầu đăng kí cho trang web. Tại màn hình khai báo thông tin, bạn cần điền thông tin, sau khi điền thông tin xong tiếp đến bạn cần chọn `SUBMIT`.
 
-![](https://cdn.osd.vn/image/data/ho_tro/khac/2019/recapcha-1.jpg)
+![Khai báo recaptcha](img/recapcha-1.jpeg)
 
 > **Trong đó:** 
 > **Label:** tên của reCaptcha để phân biết với những reCaptcha khác.
@@ -34,7 +34,7 @@ Khi đăng kí thành công có 2 giá trị chúng ta cần quan tâm đó là:
 * **Site key:** sử dụng reCaptcha nào trong danh sách reCaptcha của bạn.
 * **Secret key:** key bảo mật để bạn kết nối với google đảm bảo cho kết nối không bị giả mạo, bạn hãy chắc chắn rằng nó sẽ không bao giờ lộ ra ngoài.
 
-![](https://cdn.osd.vn/image/data/ho_tro/khac/2019/re-capcha-2.jpg)
+![Mã khóa secret key và site key](img/recapcha-2.jpeg)
 
 Sau đó chọn **Go to Analytics** để hoàn thành cấu hình reCapcha.
 
@@ -48,11 +48,4 @@ Truy cập với quyền quản trị của website, nhấn chọn **Hệ thốn
 
 Sau khi tích hợp, trong form liên hệ sẽ xuất hiện 1 hộp checkbox để sau khi người dùng điền đầy đủ thông tin sẽ phải xác nhận Google Recaptcha.
 
-![](https://i.imgur.com/fX8j8jw.png)
-
-
-
-
-
-
-
+![](img/recapcha-3.jpeg)
