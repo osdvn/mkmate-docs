@@ -15,20 +15,32 @@ Cho phép quản lý các bài thông tin như bài giới thiệu, các bài vi
 
 Nhấn chọn **Nội dung -> Thông tin -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-**Tiêu đề**: tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
+**Tiêu đề**
 
-**Phụ đề**: được hiển thị dưới tên tiêu đề bài thông tin. Phụ thuộc vào từng giao diện sẽ có phụ đề hay không có phụ đề.
+Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
 
-**Mô tả**: trình bày thông tin có mục đích hướng tới độc giả
+**Phụ đề**
+
+Được hiển thị dưới tên tiêu đề bài thông tin. Phụ thuộc vào từng giao diện sẽ có phụ đề hay không có phụ đề.
+
+**Mô tả**
+
+Trình bày thông tin có mục đích hướng tới độc giả
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
-**Ảnh đại diện**: nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
+**Ảnh đại diện**
+
+Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Trạng thái**: lựa chọn trạng thái hiển thị bài thông tin (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**
 
-**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Lựa chọn trạng thái hiển thị bài thông tin (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+
+**Thứ tự**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
