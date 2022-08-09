@@ -48,7 +48,7 @@ Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn 
 
 ### Xóa mô đun trình bày sản phẩm
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**
 
 Bạn chọn **Ok** nếu xác nhận xóa.
 
