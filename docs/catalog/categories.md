@@ -1,8 +1,8 @@
 ---
 slug: categories
 sidebar_position: 10
-title: Quản lý Nhóm và danh mục
-sidebar_label: Quản lý nhóm
+title: Chuyên mục tin bài
+sidebar_label: Chuyên mục tin bài
 published: true
 ---
 # Chuyên mục tin bài
