@@ -8,23 +8,15 @@ Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> H
 
 Trang tạo cấu hình mô đun hộp tìm kiếm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-![hop-tim-kiem.jpg](img/hop-tim-kiem.jpg)
+**Bố cục**: Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-Những thông tin cần cấu hình như sau:
+**Vị trí**: Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
-**Bố cục**
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
+**Trạng thái**: Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Vị trí**
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
+**Thứ tự**: Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Trạng thái**
-Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-
-**Thứ tự**
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
-**Kiểu trình bày** Có 3 kiểu trình bày
+**Kiểu trình bày**: Có 3 kiểu trình bày
 
 - Thu gọn: hiển thị icon tìm kiếm, khi click vào icon hệ thống sẽ hiển thị khung box điền nội dung tìm kiếm từ khóa
 
