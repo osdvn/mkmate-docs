@@ -117,7 +117,7 @@ const config = {
             items: [
               {
                 label: 'Zalo',
-                href: 'https://zalo.me/osd.vn',
+                href: 'https://zalo.me/537453414190253419',
               },
               {
                 label: 'Báo lỗi & đề xuất tính năng',
