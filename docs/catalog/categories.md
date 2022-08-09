@@ -15,9 +15,13 @@ Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin -> Thê
 
 *Chú ý: Bạn bắt buộc phải nhập tên nhóm tin bài trước khi có thể lưu lại thông tin.*
 
-**Tên chuyên mục**: mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những tin bài mà bạn đã thêm vào
+**Tên chuyên mục**
 
-**Mô tả**: là phần nội dung mở đầu của một nhóm chuyên mục, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề tin bài.
+Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những tin bài mà bạn đã thêm vào
+
+**Mô tả**
+
+Là phần nội dung mở đầu của một nhóm chuyên mục, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề tin bài.
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
