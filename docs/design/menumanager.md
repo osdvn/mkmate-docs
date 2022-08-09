@@ -81,15 +81,15 @@ Nhấn chọn **Giao diện -> Mô-đun -> Trình đơn**
 
 Những thông tin cụ thể cần điền như sau
 
-**Bố cục**: Lựa chọn bố cục hiển thị tại danh sách thả xuống
+**Bố cục**: lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Vị trí**: Lựa chọn vị trí hiển thị tại danh sách thả xuống
+**Vị trí**: lựa chọn vị trí hiển thị tại danh sách thả xuống
 
-**Thứ tự**: Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Trình đơn**: Lựa chọn nhóm menu được cấu hình tại **Giao diện -> Trình đơn** trước đó
+**Trình đơn**: lựa chọn nhóm menu được cấu hình tại **Giao diện -> Trình đơn** trước đó
 
-**Trạng thái**: Lựa chọn trạng thái hiển thị cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**: lựa chọn trạng thái hiển thị cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 Tích vào ô check box để hiển thị tên nhóm menu trên bố cục/vị trí của website
 
