@@ -10,31 +10,41 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình bày sản phẩm -> **Cấu h
 Trang tạo cấu hình mô đun trình bày sản phẩm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
 **Tiêu đề**
+
 Nhập tiêu đề cho danh mục muốn hiển thị
 
 **Nhóm sản phẩm**
+
 Lựa chọn danh mục nhóm sản phẩm có sẵn trong box
 
 **Số sản phẩm**
+
 Nhập giới hạn số bài cho phép hiển thị tại mô đun này
 
 **Kích thước hình ảnh**
+
 Nhập kích thước tương ứng cho phép hiển thị ảnh bài tin
 
 **Bố cục**
+
 Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí hiển thị**
+
 Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Trạng thái**
+
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự**
+
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Sắp xếp theo**
+
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
+
 - _Tên sản phẩm_
 - _Giá_
 - _Thứ tự_
@@ -42,9 +52,11 @@ Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 - _Nổi bật_
 
 **Chiều sắp xếp**
+
 Lựa chọn chiều sắp xếp tại danh sách thả xuống
 
 **Mẫu trình bày**
+
 Lựa chọn mẫu trình bày tại danh sách thả xuống
 
 - _Mẫu trình bày dạng Đơn giản_
@@ -58,7 +70,7 @@ Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn 
 
 ### Xóa mô đun trình bày sản phẩm
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**
 
 Bạn chọn **Ok** nếu xác nhận xóa.
 

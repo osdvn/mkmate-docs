@@ -16,12 +16,15 @@ Tại màn hình quản trị, bạn chọn **Hệ thống -> Quản lý mẫu -
 Thông tin chi tiết có ý nghĩa như sau:
 
 **Tên mẫu**
+
 Nhập tên ký hiệu biến ngắn gọn _(ví dụ: `{{diachi}}` )_
 
 **Nội dung cần thay thế**
+
 Nhập tiêu đề và nội dung hiển thị trên website
 
 **Phạm vi**
+
 Phạm vi bố cục hiển thị mẫu nội dung này. Tại đây hệ thống cho phép lựa chọn 4 tab hiển thị 4 bố cục khác nhau: **_Nội dung chi tiết, Tab dịch vụ_**
 
 ## Hướng dẫn nhanh điền mẫu nội dung trong thông tin bài viết

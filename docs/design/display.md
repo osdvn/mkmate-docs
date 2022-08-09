@@ -9,21 +9,27 @@ Nhấn chọn **Giao diện -> Nhận diện**. Những thông tin - thiết l�
 ![nhandien.jpg (122 KB)](img/nhandien.jpg)
 
 **Logo**
+
 Nhấn chọn **Chọn** để tải logo từ máy tính của bạn lên trình quản lý file
 
 **Favicon**
+
 Nhấn chọn **Chọn** để tải favicon từ máy tính của bạn lên trình quản lý file
 
 **Chiều rộng logo**
+
 Nhập kích thước chiều rộng logo
 
 **Chiều cao logo**
+
 Nhập kích thước chiều cao logo
 
 **Mobile menu**
+
 Đây là cấu hình mang tính chất kỹ thuật, không được sửa phần này.
 
 **Template**
+
 Đây là cấu hình mang tính chất kỹ thuật, không được sửa phần này.
 
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)

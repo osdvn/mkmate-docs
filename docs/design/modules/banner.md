@@ -8,21 +8,27 @@ Trình bày nhiều mẫu khác nhau với 5 tùy chọn mẫu
 Nhấn chọn **Giao diện -> Mô đun -> Banner -> Cấu hình**. Những thông tin cấu hình như sau:
 
 **Bố cục**
+
 Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
+
 Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Thứ tự**
+
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Trạng thái**
+
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Banner**
+
 Lựa chọn danh mục banner hiển thị trên bố cục của website
 
 **Template**
+
 Có 5 mẫu hiển thị: Masonry, Caro, Before & After, Scroll, Liệt kê, Lưới
 
 - Mẫu Template Masonry
@@ -50,7 +56,7 @@ Kích thước W x H = 500 pixel x 621 pixel
 
 - Mẫu Template Lưới
 
-**Thêm mô-đun** Chọn thêm để hiển thị giao diện bố cục khác nhau
+**Thêm mô-đun**: Chọn thêm mô đun để hiển thị giao diện bố cục khác nhau
 
 ### Xóa mô đun banner
 

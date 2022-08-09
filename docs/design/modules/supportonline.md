@@ -9,6 +9,7 @@ Nhấn chọn **Giao diện -> Mô đun -> Hỗ trợ trực tuyến -> Cấu h�
 Trang tạo cấu hình mô đun hỗ trợ trực tuyến được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
 **Chọn kênh liên lạc**
+
 Lựa chọn kênh muốn hiển thị có sẵn trong khung box. Cho phép lựa chọn 6 kênh liên lạc: 
 - _Viber_
 - _Zalo_
@@ -18,34 +19,42 @@ Lựa chọn kênh muốn hiển thị có sẵn trong khung box. Cho phép lự
 - _Email_
 
 **Tên hiển thị**
+
 Nhập tên hiển thị tương ứng với kênh hỗ trợ
 
 **Tài khoản/URL**
+
 Nhập số điện thoại, địa chỉ email hoặc liên kết messenger
 
-**Trạng thái**
+**Trạng thái**:
+
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự**
+
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Bố cục**
+
 Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
+
 Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Vị trí hiển thị**
+
 Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Cỡ icon**
+
 Lựa chọn cỡ icon tại Drop List
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
 ### Xóa mô đun hỗ trợ trực tuyến
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."** 
 
 Bạn chọn **Ok** nếu xác nhận xóa.
 

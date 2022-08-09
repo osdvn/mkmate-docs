@@ -22,7 +22,9 @@ Tùy chỉnh màn hình Mobile:
 
 ![gridcontent-2.jpg](img/gridcontent-2.jpg)
 
-**Nội dung** Mô tả chi tiết bài thông tin muốn hiển thị để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
+**Nội dung**
+
+Mô tả chi tiết bài thông tin muốn hiển thị để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
 - Add row 12
 - Add row 6-6
@@ -37,29 +39,39 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 ![long-form-4.jpg](img/long-form-4.jpg)
 
-**Preview** Xem trước khi xuất bản nội dung
+**Preview**
 
-**Edit Source Code** Nhấn chọn để chỉnh sửa mã HTML của bài viết
+Xem trước khi xuất bản nội dung
 
-**Desktop, Tablet, Mobile** Tùy chỉnh theo 3 phiên bản. Bạn cần nhấn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
+**Edit Source Code**
+
+Nhấn chọn để chỉnh sửa mã HTML của bài viết
+
+**Desktop, Tablet, Mobile**
+
+Tùy chỉnh theo 3 phiên bản. Bạn cần nhấn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
 **Bố cục**
+
 Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
 **Vị trí**
+
 Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 **Trạng thái**
+
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự**
+
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
 ### Xóa mô đun Grid Content
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."** 
 
 Bạn chọn **Ok** nếu xác nhận xóa.
 

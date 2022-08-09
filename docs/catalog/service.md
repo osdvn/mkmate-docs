@@ -15,55 +15,71 @@ Nhấn chọn **Nội dung -> Sản phẩm -> Thêm**. Những thông tin cụ t
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
 
-**Tên sản phẩm** 
+**Tên sản phẩm**
+
 Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
-**Mô tả ngắn** 
+**Mô tả ngắn**
+
 Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
 
-**Nội dung** 
+**Nội dung**
+
 Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
-**Ảnh đại diện** 
+**Ảnh đại diện**
+
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Nhóm sản phẩm** 
+**Nhóm sản phẩm**
+
 Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
 Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
 
-**Mã sản phẩm** 
+**Mã sản phẩm**
+
 Là một dạng quy ước giúp phân loại sản phẩm.
 
-**Giá** 
+**Giá**
+
 Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
 
-**Mục lục tự động** 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/toc)
+**Mục lục tự động**
 
-**Nổi bật** 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
-**Ngày xuất bản** 
+**Nổi bật**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Ngày xuất bản**
+
 Lựa chọn ngày xuất bản cho bài sản phẩm
 
-**Trạng thái** 
+**Trạng thái**
+
 Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự** 
-Xem [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**
 
-**Thư viện ảnh** 
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Thư viện ảnh**
+
 Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
 
-**Sản phẩm liên quan** 
+**Sản phẩm liên quan**
+
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
 **Tin bài liên quan**
+
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
-**Câu hỏi thường gặp** 
+**Câu hỏi thường gặp**
+
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
