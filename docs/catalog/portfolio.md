@@ -12,29 +12,22 @@ published: true
 
 Nhấn chọn **Nội dung -> Dự án tiêu biểu -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-**Tiêu đề**
-Tên bài dự án tiêu biểu
+**Tiêu đề**: tên bài dự án tiêu biểu
 
-**Mô tả ngắn**
-Mô tả tóm tắt bài viết
+**Mô tả ngắn**: mô tả tóm tắt bài viết
 
-**Mô tả**
-Nội dung chi tiết bài dự án tiêu biểu
+**Mô tả**: nội dung chi tiết bài dự án tiêu biểu
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
-**Thư viện ảnh**
-Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
+**Thư viện ảnh**: nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
 
-**Ảnh đại diện**
-Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có)
+**Ảnh đại diện**: nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có)
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Trạng thái**
-Lựa chọn trạng thái hiển thị bài dự án tiêu biểu (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**: lựa chọn trạng thái hiển thị bài dự án tiêu biểu (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự**
-Xem [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
