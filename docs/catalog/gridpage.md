@@ -26,9 +26,9 @@ Tùy chỉnh màn hình Mobile:
 
 Những thông tin cụ thể cần điền như sau:
 
-**Tiêu đề** Nhập tên bài viết bạn muốn hiển thị trên wesbite
+**Tiêu đề**: nhập tên bài viết bạn muốn hiển thị trên wesbite
 
-**Nội dung** Mô tả chi tiết bài thông tin để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
+**Nội dung**: mô tả chi tiết bài thông tin để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
 - Add row 12
 - Add row 6-6
@@ -43,27 +43,21 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 ![long-form-4.jpg](img/long-form-4.jpg)
 
-**Edit Source Code**
-Chỉnh sửa nội dung bằng source code
+**Edit Source Code**: chỉnh sửa nội dung bằng source code
 
-**Preview**
-Xem trước
+**Preview**: xem trước
 
-**Tùy chỉnh 3 phiên bản**
-Desktop, Tablet, Mobile
+**Tùy chỉnh 3 phiên bản**: Desktop, Tablet, Mobile
 
-**Câu hỏi thường gặp** 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
+**Câu hỏi thường gặp**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
-**Ảnh đại diện**
-Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
+**Ảnh đại diện**: nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
 
-**Nhóm long form** Chọn nhóm longform đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm Longform**. Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
+**Nhóm long form** chọn nhóm longform đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm Longform**. Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
 
-**Thứ tự**
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Trạng thái** Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái** lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
