@@ -1,8 +1,8 @@
 ---
 slug: service
-title: Quản lý sản phẩm/dịch vụ
+title: Quản lý sản phẩm
 sidebar_position: 1
-sidebar_label: Sản phẩm/Dịch vụ
+sidebar_label: Sản phẩm
 published: true
 ---
 # Sản phẩm
