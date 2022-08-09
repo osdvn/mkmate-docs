@@ -14,15 +14,25 @@ Trang tạo cấu hình mô đun Nội dung được mở ra, điền và cấu 
 
 Những thông tin cần cấu hình như sau:
 
-**Nội dung**: nhập thông tin cần hiển thị ví dụ như địa chỉ website, thông điệp muốn hiển thị trên website
+**Nội dung**
 
-**Bố cục**: lựa chọn bố cục hiển thị tại danh sách thả xuống
+Nhập thông tin cần hiển thị ví dụ như địa chỉ website, thông điệp muốn hiển thị trên website
 
-**Vị trí**: lựa chọn vị trí hiển thị tại danh sách thả xuống
+**Bố cục**
 
-**Trạng thái**: lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Vị trí**
+
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
+
+**Trạng thái**
+
+Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+
+**Thứ tự**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
