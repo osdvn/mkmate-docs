@@ -19,7 +19,7 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hìn
 
 **Hiện tiêu đề**: lựa chọn các tùy chọn tại danh sách thả xuống
 
-**Chuyên mục**: lựa chọn danh mục nhóm dịch vụ tại danh sách thả xuống
+**Chuyên mục**: lựa chọn danh mục nhóm tin bài tại danh sách thả xuống
 
 **Mẫu trình bày**: lựa chọn mẫu trình bày tại danh sách thả xuống
 
