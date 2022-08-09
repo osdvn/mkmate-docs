@@ -7,17 +7,29 @@ Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> D
 
 Trang tạo cấu hình mô đun hộp tìm kiếm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-**Bố cục**: lựa chọn bố cục hiển thị tại danh sách thả xuống
+**Bố cục**:
 
-**Vị trí**: lựa chọn vị trí hiển thị tại danh sách thả xuống
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Trạng thái**: lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Vị trí**
 
-**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
-**Giới hạn**: nhập số lượng giới hạn bài viết hiển thị
+**Trạng thái**
 
-**Kích thước**: nhập kích thước hình ảnh muốn hiển thị bao gồm chiều rộng và chiều cao
+Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+
+**Thứ tự**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Giới hạn**
+
+Nhập số lượng giới hạn bài viết hiển thị
+
+**Kích thước**
+
+Nhập kích thước hình ảnh muốn hiển thị bao gồm chiều rộng và chiều cao
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
