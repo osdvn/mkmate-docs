@@ -77,7 +77,7 @@ Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi th
 
 ### Thêm mới cấu hình trình đơn
 
-Nhấn chọn **Giao diện -> Mô-đun -> Trình đơn**
+Nhấn chọn **Giao diện -> Mô-đun -> Trình đơn -> Cấu hình**
 
 Những thông tin cụ thể cần điền như sau
 
@@ -111,6 +111,6 @@ Hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc ch�
 Bạn chọn **Ok** nếu xác nhận xóa.
 
 ### Sửa cấu hình trình đơn
-Để sửa cấu hình trình đơn, nhấn chọn **Giao diện -> Mô-đun -> Trình đơn**
+Để sửa cấu hình trình đơn, nhấn chọn **Giao diện -> Mô-đun -> Trình đơn -> Cấu hình**.
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
