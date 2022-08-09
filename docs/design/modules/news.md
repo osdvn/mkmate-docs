@@ -17,7 +17,7 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hìn
 
 **Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-Hiện tiêu đề
+**Hiện tiêu đề**: lựa chọn các tùy chọn tại danh sách thả xuống
 
 **Chuyên mục**: lựa chọn danh mục nhóm dịch vụ tại danh sách thả xuống
 
