@@ -9,43 +9,33 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình bày sản phẩm -> **Cấu h
 
 Trang tạo cấu hình mô đun trình bày sản phẩm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-**Tiêu đề**
-Nhập tiêu đề cho danh mục muốn hiển thị
+**Tiêu đề**: nhập tiêu đề cho danh mục muốn hiển thị
 
-**Nhóm sản phẩm**
-Lựa chọn danh mục nhóm sản phẩm có sẵn trong box
+**Nhóm sản phẩm**: lựa chọn danh mục nhóm sản phẩm có sẵn trong box
 
-**Số sản phẩm**
-Nhập giới hạn số bài cho phép hiển thị tại mô đun này
+**Số sản phẩm**: nhập giới hạn số bài cho phép hiển thị tại mô đun này
 
-**Kích thước hình ảnh**
-Nhập kích thước tương ứng cho phép hiển thị ảnh bài tin
+**Kích thước hình ảnh**: nhập kích thước tương ứng cho phép hiển thị ảnh bài tin
 
-**Bố cục**
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
+**Bố cục**: lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Vị trí hiển thị**
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
+**Vị trí hiển thị**: lựa chọn vị trí hiển thị tại danh sách thả xuống
 
-**Trạng thái**
-Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**: lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự**
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Sắp xếp theo**
-Lựa chọn kiểu sắp xếp tại danh sách thả xuống
+**Sắp xếp theo**: lựa chọn kiểu sắp xếp tại danh sách thả xuống
+
 - _Tên sản phẩm_
 - _Giá_
 - _Thứ tự_
 - _Ngày đăng_
 - _Nổi bật_
 
-**Chiều sắp xếp**
-Lựa chọn chiều sắp xếp tại danh sách thả xuống
+**Chiều sắp xếp**: lựa chọn chiều sắp xếp tại danh sách thả xuống
 
-**Mẫu trình bày**
-Lựa chọn mẫu trình bày tại danh sách thả xuống
+**Mẫu trình bày**: lựa chọn mẫu trình bày tại danh sách thả xuống
 
 - _Mẫu trình bày dạng Đơn giản_
 - _Mẫu trình bày dạng Autoplay_
