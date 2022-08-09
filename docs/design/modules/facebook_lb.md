@@ -15,31 +15,23 @@ Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> F
 
 Trang cấu hình mô đun Facebook Business Page được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-**Facebook URL/Tên**
-Nhập địa chỉ URL fanpage facebook | Nhập tên hiển thị cho fanpage facebook
+**Facebook URL/Tên**: nhập địa chỉ URL fanpage facebook | Nhập tên hiển thị cho fanpage facebook
 
-**Bố cục**
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
+**Bố cục**: lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Vị trí**
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
+**Vị trí**: lựa chọn vị trí hiển thị tại danh sách thả xuống
 
-**Trạng thái**
-Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**: lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự**
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Kích thước mô đun** Nhập kích thước tùy chỉnh hiển thị mô đun này
+**Kích thước mô đun**: nhập kích thước tùy chỉnh hiển thị mô đun này
 
-**Hiển thị cover**
-Lựa chọn trạng thái hiển thị cover cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Hiển thị cover**: lựa chọn trạng thái hiển thị cover cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Hiển thị stream**
-Lựa chọn trạng thái hiển thị stream cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Hiển thị stream**: lựa chọn trạng thái hiển thị stream cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Hiển thị tiêu đề**
-Lựa chọn trạng thái hiển thị tiêu đề của mô đun (Có: cho phép hiển thị/Không: không cho phép hiển thị)
+**Hiển thị tiêu đề**: lựa chọn trạng thái hiển thị tiêu đề của mô đun (Có: cho phép hiển thị/Không: không cho phép hiển thị)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
