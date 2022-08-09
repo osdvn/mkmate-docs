@@ -8,15 +8,15 @@ Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> H
 
 Trang tạo cấu hình mô đun hộp tìm kiếm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-**Bố cục**: Lựa chọn bố cục hiển thị tại danh sách thả xuống
+**Bố cục**: lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Vị trí**: Lựa chọn vị trí hiển thị tại danh sách thả xuống
+**Vị trí**: lựa chọn vị trí hiển thị tại danh sách thả xuống
 
-**Trạng thái**: Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**: lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thứ tự**: Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Kiểu trình bày**: Có 3 kiểu trình bày
+**Kiểu trình bày**: có 3 kiểu trình bày
 
 - Thu gọn: hiển thị icon tìm kiếm, khi click vào icon hệ thống sẽ hiển thị khung box điền nội dung tìm kiếm từ khóa
 
@@ -26,7 +26,7 @@ Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn 
 
 ### Xóa mô đun hộp tìm kiếm
 
-Nhấn chọn nút **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+Nhấn chọn nút **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**
 
 Bạn chọn **Ok** nếu xác nhận xóa.
 
