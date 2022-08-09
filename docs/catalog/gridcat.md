@@ -9,19 +9,31 @@ Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm Longform -> Thêm**.
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm longform._
 
-**Tiêu đề**: nhập tên longform bạn muốn hiển thị trên wesbite
+**Tiêu đề**
 
-**Nội dung**: là phần nội dung mở đầu của một nhóm longform, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm longform.
+Nhập tên longform bạn muốn hiển thị trên wesbite
+
+**Nội dung**
+
+Là phần nội dung mở đầu của một nhóm longform, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm longform.
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
-**Ảnh đại diện**: để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+**Ảnh đại diện**
 
-**Nhóm cha**: chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục longform, hệ thống gợi ý tên danh mục để bạn lựa chọn.
+Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Nhóm cha**
 
-**Trạng thái**: lựa chọn trạng thái hiển thị cho nhóm longform trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục longform, hệ thống gợi ý tên danh mục để bạn lựa chọn.
+
+**Thứ tự**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Trạng thái**
+
+Lựa chọn trạng thái hiển thị cho nhóm longform trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
