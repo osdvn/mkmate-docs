@@ -14,7 +14,7 @@ Nhấn chọn **Giao diện -> Trình đơn**
 
 Những thông tin cụ thể cần điền như sau
 
-**Tên nhóm Tiếng Việt** Nhập tên nhóm trình đơn bằng tiếng Việt
+**Tên nhóm Tiếng Việt**: nhập tên nhóm trình đơn bằng tiếng Việt
 
 ![trinh-don-1.jpg](img/trinh-don-1.jpg)
 
@@ -28,11 +28,9 @@ Nhấn nút **Lưu** để hoàn tất
 
 Những thông tin cụ thể cần điền như sau
 
-**Tiêu đề Tiếng Việt**
-Nhập tiêu đề trình đơn bằng tiếng Việt
+**Tiêu đề Tiếng Việt**: nhập tiêu đề trình đơn bằng tiếng Việt
 
-**URL**
-Khi tạo trình đơn bạn nên tạo thêm liên kết trên các trình đơn của trang để người dùng có thể xem những nội dung của bạn. Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
+**URL**: khi tạo trình đơn bạn nên tạo thêm liên kết trên các trình đơn của trang để người dùng có thể xem những nội dung của bạn. Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
 
 Khi hoàn thành nhấn chọn **Thêm vào menu** để hoàn tất
 
@@ -83,20 +81,15 @@ Nhấn chọn **Giao diện -> Mô-đun -> Trình đơn**
 
 Những thông tin cụ thể cần điền như sau
 
-**Bố cục**
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
+**Bố cục**: Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Vị trí**
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
+**Vị trí**: Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
-**Thứ tự**
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**: Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Trình đơn**
-Lựa chọn nhóm menu được cấu hình tại **Giao diện -> Trình đơn** trước đó
+**Trình đơn**: Lựa chọn nhóm menu được cấu hình tại **Giao diện -> Trình đơn** trước đó
 
-**Trạng thái**
-Lựa chọn trạng thái hiển thị cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+**Trạng thái**: Lựa chọn trạng thái hiển thị cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 Tích vào ô check box để hiển thị tên nhóm menu trên bố cục/vị trí của website
 
