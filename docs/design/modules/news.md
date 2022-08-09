@@ -53,7 +53,7 @@ _Mẫu trình bày dạng Mặc định_
 
 - **Lượt xem**: hiển thị sắp xếp theo lượt xem bài tin
 - **Thứ tự**: hiển thị sắp xếp theo thứ tự của mỗi bài tin
-- **Nổi bật**: hiển thị các bài tin được tích vào trường Nổi bật
+- **Nổi bật**: hiển thị các bài tin được tích vào trường Nổi bật. (Trong mỗi bài tin bạn cần tích vào trường nổi bật để hiển thị theo sắp xếp này)
 ![trinh-bay-tin-bai.jpg (71 KB)](img/trinh-bay-tin-bai.jpg)
 - **Ngày đăng**: hiển thị theo ngày đăng của bài tin
 
