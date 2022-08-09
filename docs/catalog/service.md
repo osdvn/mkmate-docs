@@ -15,40 +15,72 @@ Nhấn chọn **Nội dung -> Sản phẩm -> Thêm**. Những thông tin cụ t
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
 
-**Tên sản phẩm**: nhập tên sản phẩm bạn muốn hiển thị trên wesbite
+**Tên sản phẩm**
 
-**Mô tả ngắn**: mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
+Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
-**Nội dung**: nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+**Mô tả ngắn**
 
-**Ảnh đại diện**: nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
+Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
+
+**Nội dung**
+
+Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+
+**Ảnh đại diện**
+
+Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Nhóm sản phẩm**: chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
+**Nhóm sản phẩm**
+
+Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
 Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
 
-**Mã sản phẩm**: là một dạng quy ước giúp phân loại sản phẩm.
+**Mã sản phẩm**
 
-**Giá**: là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
+Là một dạng quy ước giúp phân loại sản phẩm.
 
-**Mục lục tự động**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
+**Giá**
 
-**Nổi bật**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
 
-**Ngày xuất bản**: lựa chọn ngày xuất bản cho bài sản phẩm
+**Mục lục tự động**
 
-**Trạng thái**: lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
-**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Nổi bật**
 
-**Thư viện ảnh**: nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Sản phẩm liên quan**: bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+**Ngày xuất bản**
 
-**Tin bài liên quan**: bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+Lựa chọn ngày xuất bản cho bài sản phẩm
 
-**Câu hỏi thường gặp**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
+**Trạng thái**
+
+Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+
+**Thứ tự**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Thư viện ảnh**
+
+Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
+
+**Sản phẩm liên quan**
+
+Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+
+**Tin bài liên quan**
+
+Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+
+**Câu hỏi thường gặp**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
