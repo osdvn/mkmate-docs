@@ -4,7 +4,7 @@ Là khi người dùng thực hiện tìm kiếm trên thanh tìm kiếm, công 
 
 Để cấu hình mô đun hộp tìm kiếm, bạn cần:
 
-Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Hộp tìm kiếm -> **Cấu hình**
+Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Hộp tìm kiếm -> Cấu hình**
 
 Trang tạo cấu hình mô đun hộp tìm kiếm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
