@@ -26,25 +26,43 @@ _Tại đây bạn có thể quản lý các banner đã tạo._
 
 Nhấn chọn **Giao diện -> Banner -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-**Tên nhóm banner**: nhập tên banner tương ứng để quản lý nhóm banner theo logic
+**Tên nhóm banner**
 
-**Trạng thái**: lựa chọn trạng thái hiển thị banner (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Nhập tên banner tương ứng để quản lý nhóm banner theo logic
 
-**Tiêu đề**: nhập tên tiêu đề mỗi banner muốn hiển thị trên ảnh banner đó
+**Trạng thái**
 
-**Link**: dán liên kết tại đây. Khi xem ngoài website và click vào ảnh hệ thống sẽ chuyển hướng tới liên kết này.
+Lựa chọn trạng thái hiển thị banner (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Mô tả**: nội dung mô tả ngắn gọn, cung cấp đầy đủ thông tin hữu ích, tạo niềm tin cho người đọc.
+**Tiêu đề**
 
-**Desktop**: upload ảnh banner theo kích thước desktop
+Nhập tên tiêu đề mỗi banner muốn hiển thị trên ảnh banner đó
 
-**Mobile**: upload ảnh banner theo kích thước mobile
+**Link**
+
+Dán liên kết tại đây. Khi xem ngoài website và click vào ảnh hệ thống sẽ chuyển hướng tới liên kết này.
+
+**Mô tả**
+
+Nội dung mô tả ngắn gọn, cung cấp đầy đủ thông tin hữu ích, tạo niềm tin cho người đọc.
+
+**Desktop**
+
+Upload ảnh banner theo kích thước desktop
+
+**Mobile**
+
+Upload ảnh banner theo kích thước mobile
 
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Thứ tự**
 
-**Thêm banner**: nhấn chọn để thêm nhiều banner khác nhau
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Thêm banner**
+
+Nhấn chọn để thêm nhiều banner khác nhau
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
@@ -80,27 +98,49 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**
 
 Tại đây bạn có thể thiết lập cấu hình mô đun. Những thông tin cụ thể cần điền như sau:
 
-**Bố cục**: lựa chọn bố cục hiển thị tại danh sách thả xuống
+**Bố cục**
 
-**Vị trí**: lựa chọn vị trí hiển thị tại danh sách thả xuống
+Lựa chọn bố cục hiển thị tại danh sách thả xuống
 
-**Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+**Vị trí**
 
-**Trạng thái**: lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
-**Banner**: lựa chọn nhóm banner hiển thị trên bố cục/vị trí của website. Nhóm banner bạn đã tạo tại **Giao diện => Banner**
+**Thứ tự**
 
-**Kích thước desktop**: nhập kích thước chiều rộng và chiều cao cho slideshow trên bản desktop
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Kích thước mobile**: nhập kích thước chiều rộng và chiều cao cho slideshow trên bản mobile
+**Trạng thái**
 
-**Kiểu chuyển động**: có 3 kiểu chuyển động là Fade, Slide, Loop
+Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-**Thời gian nghỉ (ms)**: nhập thời gian nghỉ cho mỗi slide (đơn vị tính là mili giây, 1000 mili giây = 1 giây)
+**Banner**
 
-**Tốc độ trình diễn (ms)**: nhập tốc độ trình diễn chuyển động mỗi slide (_đơn vị tính là mili giây, 1000 mili giây = 1 giây_)
+Lựa chọn nhóm banner hiển thị trên bố cục/vị trí của website. Nhóm banner bạn đã tạo tại **Giao diện => Banner**
 
-**Thêm mô-đun**: chọn thêm mô đun để hiển thị giao diện bố cục khác nhau.
+**Kích thước desktop**
+
+Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản desktop
+
+**Kích thước mobile**
+
+Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản mobile
+
+**Kiểu chuyển động**
+
+Có 3 kiểu chuyển động là Fade, Slide, Loop
+
+**Thời gian nghỉ (ms)**
+
+Nhập thời gian nghỉ cho mỗi slide (đơn vị tính là mili giây, 1000 mili giây = 1 giây)
+
+**Tốc độ trình diễn (ms)**
+
+Nhập tốc độ trình diễn chuyển động mỗi slide (_đơn vị tính là mili giây, 1000 mili giây = 1 giây_)
+
+**Thêm mô-đun**
+
+Chọn thêm mô đun để hiển thị giao diện bố cục khác nhau.
 
 _Chú ý: cần nhập thông tin tất cả các trường tại mô đun_
 
