@@ -117,7 +117,7 @@ const config = {
             items: [
               {
                 label: 'Zalo',
-                href: 'https://zalo.me/537453414190253419',
+                href: 'https://zalo.me/0932224911',
               },
               {
                 label: 'Báo lỗi & đề xuất tính năng',
