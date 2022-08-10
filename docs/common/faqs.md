@@ -1,8 +1,12 @@
 ---
 title: Câu hỏi thường gặp
-tags: [faqs, câu hỏi thường gặp, SEO]
+tags:
+  - faqs
+  - câu hỏi thường gặp
+  - SEO
+published: true
 ---
-# Quản lý câu hỏi thường gặp
+# Câu hỏi thường gặp
 Tính năng này được biết đến nhiều vì lợi ích SEO, được xuất hiện trong tin bài, nhóm sản phẩm, bài dịch vụ,...
 
 ## Thêm mới câu hỏi thường gặp
