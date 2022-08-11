@@ -12,7 +12,7 @@ tags: [email, smtp]
 Để thực hiện tích hợp, bạn cần vào **Hệ thống** -> **Tích hợp** -> Tab **Dịch vụ giao tiếp** -> **Giao thức email** -> Chọn **Mặc định** hoặc **SMTP**. Những lựa chọn này sẽ có ý nghĩa như sau:
 
 ## 1. Mặc định
-OSD.VN trang bị hệ thống gửi email có sẵn cho toàn bộ khách hàng, tuy nhiên, với 1 số website cần gửi thông tin xác nhận với người dùng thì phần thông tin người gửi sẽ không đảm bảo tính nhận diện thương hiệu của bạn. 
+OSD.VN trang bị hệ thống gửi email có sẵn cho toàn bộ khách hàng, tuy nhiên, với 1 số website cần gửi thông tin xác nhận với người dùng thì phần thông tin người gửi sẽ không đảm bảo thương hiệu của bạn. 
 Những thông tin trong phần người gửi sẽ có:
 Tên người gửi: Mkmate
 Email người gửi: mkmate@due...
