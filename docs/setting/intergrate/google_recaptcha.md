@@ -48,4 +48,4 @@ Truy cập với quyền quản trị của website, nhấn chọn **Hệ thốn
 
 Sau khi tích hợp, trong form liên hệ sẽ xuất hiện 1 hộp checkbox để sau khi người dùng điền đầy đủ thông tin sẽ phải xác nhận Google Recaptcha.
 
-![](img/recapcha-3.jpeg)
+![Xác nhận Google Recaptcha](img/re-capcha-3.jpg)
