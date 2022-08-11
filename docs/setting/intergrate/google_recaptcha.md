@@ -1,3 +1,6 @@
+---
+sidebar_label: Google Recaptcha
+---
 # Tích hợp Google Recaptcha
 
 Việc tích hợp này giúp cho website tránh:
