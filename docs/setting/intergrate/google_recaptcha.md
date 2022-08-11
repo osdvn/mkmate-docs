@@ -34,7 +34,7 @@ Khi đăng kí thành công có 2 giá trị chúng ta cần quan tâm đó là:
 * **Site key:** sử dụng reCaptcha nào trong danh sách reCaptcha của bạn.
 * **Secret key:** key bảo mật để bạn kết nối với google đảm bảo cho kết nối không bị giả mạo, bạn hãy chắc chắn rằng nó sẽ không bao giờ lộ ra ngoài.
 
-![Mã khóa secret key và site key](img/recapcha-2.jpeg)
+![Mã khóa secret key và site key](img/re-capcha-2.jpeg)
 
 Sau đó chọn **Go to Analytics** để hoàn thành cấu hình reCapcha.
 
