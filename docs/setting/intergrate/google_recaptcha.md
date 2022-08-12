@@ -1,5 +1,6 @@
 ---
 sidebar_label: Google Recaptcha
+published: true
 ---
 # Tích hợp Google Recaptcha
 
@@ -19,7 +20,7 @@ Tích hợp Google Recaptcha, hệ thống đang hỗ trợ ở mức hiện h�
 ### Bước 2
 Bạn sẽ nhận được một yêu cầu đăng kí cho trang web. Tại màn hình khai báo thông tin, bạn cần điền thông tin, sau khi điền thông tin xong tiếp đến bạn cần chọn `SUBMIT`.
 
-![Khai báo recaptcha](img/recapcha-1.jpeg)
+![Khai báo recaptcha](img/recapcha-1.jpg)
 
 > **Trong đó:** 
 > **Label:** tên của reCaptcha để phân biết với những reCaptcha khác.
