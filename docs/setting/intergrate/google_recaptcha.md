@@ -26,8 +26,7 @@ Bạn sẽ nhận được một yêu cầu đăng kí cho trang web. Tại màn
 **Domains:** những domain nào được phép sử dụng reCaptcha này. Ví dụ: tên miền osd.vn
 
 ***Lưu ý:***
-* Ở phần Recaptcha type bạn sẽ chọn `reCAPTCHA v2` => Chọn `"I'm not a robot"Checkbox` 
-> Giải thích: "I'm not a robot"Checkbox nghĩa là Hộp kiểm "Tôi không phải là rô bốt".
+* Ở phần Recaptcha type bạn sẽ chọn `reCAPTCHA v2` => Chọn `"I'm not a robot"Checkbox`.
 
 ### Bước 3
 Sau đó đồng ý các điều khoản và chọn `Submit.`
