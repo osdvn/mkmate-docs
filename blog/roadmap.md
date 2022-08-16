@@ -45,5 +45,5 @@ tags: [roadmap, mkmate]
 4. - [ ] Build giao diện tự động theo từng website
 5. - [ ] Popup builder
 6. - [ ] CTA builder
-7. - [ ] Đếm số lượng reach của link 404
+7. - [x] Đếm số lượng reach của link 404
 8. - [ ] Cho phép customize URL đặc biệt
