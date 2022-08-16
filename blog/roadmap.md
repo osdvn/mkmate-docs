@@ -20,7 +20,7 @@ tags: [roadmap, mkmate]
 13. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 14. - [ ] Tích hợp tiktok
 15. - [ ] Tích hợp Google Ads, Facebook Ads
-16. - [ ] 🐱‍💻 MySQL Console: doing
+16. - [x] MySQL Console
 17. - [ ] Mẫu nội dung cho trình soạn thảo
 18. - [x] Quản lý broken link
 19. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
