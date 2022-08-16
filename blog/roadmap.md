@@ -5,7 +5,7 @@ authors: saosangmo
 tags: [roadmap, mkmate]
 ---
 ## 2022-09-30. V6.5.1
-1. - [ ] Form builder
+1. - ~ Form builder ~
 2. - ~Layout manager~
 3. - [ ] 🐱‍💻 Customer portal, self service to manage issue & ticket
 4. - ~Build giao diện tự động theo từng website~
@@ -47,3 +47,4 @@ tags: [roadmap, mkmate]
 6. - [ ] CTA builder
 7. - [x] Đếm số lượng reach của link 404
 8. - [ ] Cho phép customize URL đặc biệt
+9. - [ ] Form builder
