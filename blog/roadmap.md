@@ -48,3 +48,4 @@ tags: [roadmap, mkmate]
 7. - [x] Đếm số lượng reach của link 404
 8. - [ ] Cho phép customize URL đặc biệt
 9. - [ ] Form builder
+10. - [ ] Cho phép cấu hình sản phẩm liên quan
