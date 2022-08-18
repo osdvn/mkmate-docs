@@ -69,7 +69,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Trạng thái**:
 
-Lựa chọn trạng thái hiển thị cho chuyên mục tin bài (Bật_màu xanh: cho phép hiển thị/Tắt_màu xám: không cho phép hiển thị)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 *Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 Meta title*
