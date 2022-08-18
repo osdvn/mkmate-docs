@@ -34,7 +34,7 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Trạng thái/Thứ tự**
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
