@@ -47,7 +47,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị cho mỗi bộ sưu tập (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
