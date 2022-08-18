@@ -58,11 +58,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 Lựa chọn ngày xuất bản cho bài sản phẩm
 
-**Trạng thái**
-
-Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-
-**Thứ tự**
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
