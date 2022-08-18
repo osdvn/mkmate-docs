@@ -64,11 +64,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/design/modules/news)
 
 Lựa chọn ngày hiển thị cho tin bài
 
-**Trạng thái**
-
-Lựa chọn trạng thái hiển thị tin bài (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-
-**Thứ tự**
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 

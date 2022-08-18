@@ -38,13 +38,9 @@ Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có
 Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Thứ tự**
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
-**Trạng thái**
-
-Lựa chọn trạng thái hiển thị cho nhóm sản phẩm trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 

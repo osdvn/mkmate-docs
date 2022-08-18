@@ -27,13 +27,9 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 
 Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục longform, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
-**Thứ tự**
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
-**Trạng thái**
-
-Lựa chọn trạng thái hiển thị cho nhóm longform trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 

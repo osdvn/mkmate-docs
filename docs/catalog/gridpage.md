@@ -14,15 +14,15 @@ Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạ
 
 Tùy chỉnh màn hình Desktop:
 
-![long-form-1.jpg](img/long-form-1.jpg)
+![longform-1.jpg](img/longform-1.jpg)
 
 Tùy chỉnh màn hình Tablet:
 
-![long-form-2.jpg](img/long-form-2.jpg)
+![longform-2.jpg](img/longform-2.jpg)
 
 Tùy chỉnh màn hình Mobile:
 
-![long-form-3.jpg](img/long-form-3.jpg)
+![longform-3.jpg](img/longform-3.jpg)
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -71,13 +71,9 @@ Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và
 
 Chọn nhóm longform đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm Longform**. Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
 
-**Thứ tự**
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
-**Trạng thái**
-
-Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 

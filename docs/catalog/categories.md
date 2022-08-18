@@ -63,13 +63,9 @@ Có 4 loại kích thước có sẵn để lựa chọn
 **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
 **Thư viện video**:
 
-**Thứ tự**
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
-**Trạng thái**:
-
-Lựa chọn trạng thái hiển thị cho chuyên mục tin bài (Bật_màu xanh: cho phép hiển thị/Tắt_màu xám: không cho phép hiển thị)
 
 *Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 Meta title*
