@@ -63,11 +63,7 @@ Có 4 loại kích thước có sẵn để lựa chọn
 **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
 **Thư viện video**:
 
-**Thứ tự**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
-**Trạng thái**:
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
