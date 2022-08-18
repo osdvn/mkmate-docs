@@ -14,15 +14,15 @@ Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạ
 
 Tùy chỉnh màn hình Desktop:
 
-![long-form-1.jpg](img/long-form-1.jpg)
+![longform-1.jpg](img/longform-1.jpg)
 
 Tùy chỉnh màn hình Tablet:
 
-![long-form-2.jpg](img/long-form-2.jpg)
+![longform-2.jpg](img/longform-2.jpg)
 
 Tùy chỉnh màn hình Mobile:
 
-![long-form-3.jpg](img/long-form-3.jpg)
+![longform-3.jpg](img/longform-3.jpg)
 
 Những thông tin cụ thể cần điền như sau:
 
