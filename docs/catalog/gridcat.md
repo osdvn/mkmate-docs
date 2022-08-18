@@ -27,11 +27,7 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 
 Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục longform, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
-**Thứ tự**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
-**Trạng thái**
+**Thứ tự/Trạng thái**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
