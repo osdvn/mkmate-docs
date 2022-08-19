@@ -61,8 +61,6 @@ Sau khi chọn xong nhóm longform, các trình đơn sẽ được hiển thị
 
 Tiếp theo, bạn cần nhấn chọn **Thêm vào menu**, các trình đơn sẽ được chuyển sang màn hình bên phải, hình minh họa dưới đây, sau đó nhấn chọn **Cập nhật menu**
 
-![trinh-don-6.jpg](img/trinh-don-6.jpg)
-
 **Cấu hình trình đơn cấp con** Nhấn và giữ menu cần tùy chỉnh cấp con và kéo, thả khoảng 1cm sau đó click **Cập nhật menu** để lưu lại vị trí thứ tự của trình đơn. Xem chi tiết hình bên dưới.
 
 ![trinh-don-7.jpg](img/trinh-don-7.jpg)
@@ -89,27 +87,19 @@ Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi th
 
 Nhấn chọn **Giao diện -> Mô-đun -> Trình đơn -> Cấu hình**
 
-Những thông tin cụ thể cần điền như sau
+Những thông tin cụ thể cần điền như sau:
 
-**Bố cục**
+**Bố cục/Vị trí**
 
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
-
-**Vị trí**
-
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
-
-**Thứ tự**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
 
 **Trình đơn**
 
 Lựa chọn nhóm menu được cấu hình tại **Giao diện -> Trình đơn** trước đó
 
-**Trạng thái**
+**Thứ tự/Trạng thái**
 
-Lựa chọn trạng thái hiển thị cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 Tích vào ô check box để hiển thị tên nhóm menu trên bố cục/vị trí của website
 
@@ -124,13 +114,13 @@ Hiển thị bên ngoài website như dưới đây
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
 ### Xóa cấu hình trình đơn
+
 Để xóa cấu hình trình đơn, nhấn chọn nút **Xóa** tại mô đun trình đơn đó.
 
-Hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được.**
-
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa cấu hình trình đơn
+
 Để sửa cấu hình trình đơn, nhấn chọn **Giao diện -> Mô-đun -> Trình đơn -> Cấu hình**.
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
