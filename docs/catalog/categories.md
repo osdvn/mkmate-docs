@@ -27,7 +27,7 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 
 **Hình ảnh**:
 
-Nhấn chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Nhấn chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Cấp danh mục cha**:
 
