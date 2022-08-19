@@ -30,7 +30,7 @@ Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính nă
 **Ảnh đại diện**
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Nhóm sản phẩm**
 
@@ -52,7 +52,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
 **Nổi bật**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Ngày xuất bản**
 
@@ -60,7 +60,7 @@ Lựa chọn ngày xuất bản cho bài sản phẩm
 
 **Thứ tự/Trạng thái**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Thư viện ảnh**
 
@@ -94,7 +94,7 @@ Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lư
 
 Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa bài sản phẩm đó.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa một bài viết sản phẩm
 
