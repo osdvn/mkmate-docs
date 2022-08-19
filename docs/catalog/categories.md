@@ -21,13 +21,13 @@ Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa c
 
 **Mô tả**
 
-Là phần nội dung mở đầu của một nhóm chuyên mục, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề tin bài.
+Nhập nội dung mô tả chuyên mục tin bài
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Hình ảnh**:
 
-Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Nhấn chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**:
 
@@ -76,9 +76,9 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa nhóm chuyên mục tin bài
 
-Để xóa một chuyên mục tin, tích vào chuyên mục tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc nhấn chọn nút **Xóa chuyên mục** trong mỗi chuyên mục tin bài chi tiết.
+Chọn **Xóa** từ danh sách checkbox bên trái hoặc nhấn chọn nút **Xóa chuyên mục** trong mỗi chuyên mục tin bài chi tiết.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
+Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa chuyên mục tin bài đó.
 
 ## Sửa nhóm chuyên mục tin bài
 
