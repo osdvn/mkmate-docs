@@ -12,17 +12,13 @@ Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
 **Một số lưu ý về slideshow và banner**
 
-Đối với website có slideshow, bạn cần cấu hình tại **Giao diện => Mô đun => Trình diễn => Cấu hình**, tại đây bạn có thể tùy chỉnh được _kích thước desktop, kích thước mobile, kiểu chuyển động, thời gian nghỉ (ms), tốc độ trình diễn (ms) (đơn vị tính là mili giây, 1000 mili giây = 1 giây)_
-
-Với banner muốn trình bày nhiều kiểu bố cục khác nhau, bạn có thể cấu hình tại **Giao diện => Mô đun => Trình diễn => Banner**
+Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình tại **Giao diện => Mô đun => Trình diễn => Cấu hình**, để hiển thị ngoài trang chủ website
 
 ## Quản lý Banner
 
 ### Thêm mới banner
 
-_Tại đây bạn có thể quản lý các banner đã tạo._
-
-Để thêm một nhóm sản phẩm, bạn cần:
+Tại đây bạn có thể quản lý các banner đã tạo. Để thêm một nhóm sản phẩm, bạn cần:
 
 Nhấn chọn **Giao diện -> Banner -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
@@ -85,6 +81,8 @@ Sau khi thay đổi các thông tin nội dung của banner bạn cần chọn *
 Nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**
 
 Tại đây bạn có thể thiết lập cấu hình mô đun. Những thông tin cụ thể cần điền như sau:
+
+_Chú ý: Các trường đều cần điền thông tin_
 
 **Bố cục/Vị trí**
 
