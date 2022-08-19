@@ -15,13 +15,13 @@ Nhập tên longform bạn muốn hiển thị trên wesbite
 
 **Nội dung**
 
-Là phần nội dung mở đầu của một nhóm longform, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm longform.
+Nhập nội dung cho nhóm longform.
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**
 
-Để upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem chi tiết cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Nhấn chọn **Chọn ảnh đại diện** để upload ảnh. Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Nhóm cha**
 
