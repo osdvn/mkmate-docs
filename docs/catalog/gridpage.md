@@ -85,11 +85,13 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa 1 bài longform
 
-Tích chọn bài bạn muốn xóa tại danh sách bài longform và chọn Xóa. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
+Tích chọn bài bạn muốn xóa tại danh sách bài longform và chọn Xóa
 
 ### Xóa 1 cột nội dung trong bài longform
 
-Nhấn chọn icon thùng rác tại mỗi cột nội dung. Hệ thống xác nhận bạn có chắc chắn muốn xóa với nội dung như sau **Delete column?** Bạn chọn **Ok**
+Nhấn chọn icon thùng rác tại mỗi cột nội dung.
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa bài longform
 
