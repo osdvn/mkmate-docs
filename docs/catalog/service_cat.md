@@ -17,11 +17,11 @@ Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ 
 
 **Mô tả phía trên**
 
-Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
+Độ dài khoảng 160-320 ký tự. Được hiển thị phía trên danh sách các bài sản phẩm.
 
 **Mô tả phía dưới**
 
-Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
+Độ dài khoảng 160-320 ký tự. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
