@@ -17,7 +17,7 @@ Nhấn chọn **Nội dung -> Thông tin -> Thêm**. Những thông tin cụ th�
 
 **Tiêu đề**
 
-Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
+Nhập tiêu đề cho bài thông tin
 
 **Phụ đề**
 
@@ -25,13 +25,13 @@ Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiê
 
 **Mô tả**
 
-Trình bày thông tin có mục đích hướng tới độc giả
+Nhập mô tả thông tin có mục đích hướng tới độc giả
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**
 
-Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
+Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Thứ tự/Trạng thái**
