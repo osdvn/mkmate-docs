@@ -78,7 +78,7 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 Chọn **Xóa** từ danh sách checkbox bên trái hoặc nhấn chọn nút **Xóa chuyên mục** trong mỗi chuyên mục tin bài chi tiết.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa chuyên mục tin bài đó.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa nhóm chuyên mục tin bài
 
