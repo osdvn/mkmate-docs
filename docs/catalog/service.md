@@ -21,7 +21,7 @@ Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn**
 
-Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
+Nhập mô tả ngắn cho bài sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung**
 
@@ -35,8 +35,6 @@ Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/fin
 **Nhóm sản phẩm**
 
 Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
-
-Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
 
 **Mã sản phẩm**
 
@@ -66,11 +64,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
 
-**Sản phẩm liên quan**
-
-Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
-
-**Tin bài liên quan**
+**Sản phẩm liên quan/Tin bài liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
