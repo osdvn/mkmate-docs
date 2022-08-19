@@ -2,7 +2,11 @@
 
 Top Menu là các mục trình đơn thường nằm ở phần đầu của trang web. Top Menu sẽ giúp mọi người thuận thiện trong việc truy cập nhanh vào các chuyên mục khác nhau trên trang web của bạn.
 
-## Quản lý trình đơn
+**Một số lưu ý về slideshow và banner**
+
+Đối với thiết lập trình đơn, bạn cần cấu hình tại **Giao diện => Mô đun => Trình đơn => Cấu hình**, để hiển thị ngoài trang chủ website
+
+## Trình đơn
 
 ### Thêm trình đơn
 
