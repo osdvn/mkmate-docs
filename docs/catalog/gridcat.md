@@ -21,7 +21,7 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 
 **Ảnh đại diện**
 
-Nhấn chọn **Chọn ảnh đại diện** để upload ảnh. Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Nhấn chọn **Chọn ảnh đại diện** để upload ảnh. Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Nhóm cha**
 
