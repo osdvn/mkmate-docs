@@ -55,6 +55,8 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và nhấn chọn nút **Xóa**.
 
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
+
 ## Sửa thư viện ảnh
 
 Để sửa thư viện ảnh, nhấn chọn vào bài thư viện ảnh đó để sửa.
