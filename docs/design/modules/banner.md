@@ -5,7 +5,9 @@ Trình bày nhiều mẫu khác nhau với 5 tùy chọn mẫu
 ## Thêm mô đun banner
 Để thêm mô đun banner, bạn cần:
 
-Nhấn chọn **Giao diện -> Mô đun -> Banner -> Cấu hình**. Những thông tin cấu hình như sau:
+Nhấn chọn **Giao diện -> Mô đun -> Banner -> Cấu hình**.
+
+Những thông tin cấu hình như sau:
 
 **Bố cục/Vị trí**
 
