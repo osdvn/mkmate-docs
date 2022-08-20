@@ -104,6 +104,10 @@ Lựa chọn nhóm banner hiển thị trên bố cục/vị trí của website.
 
 Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản desktop/mobile
 
+**Mẫu trình bày**
+
+Lựa chọn mẫu trình bày tại danh sách thả xuống
+
 **Kiểu chuyển động**
 
 Có 3 kiểu chuyển động là Fade, Slide, Loop
