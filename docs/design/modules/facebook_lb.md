@@ -24,7 +24,7 @@ Nhập địa chỉ URL fanpage facebook | Nhập tên hiển thị cho fanpage 
 
 Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
 
-**Thứ tự/Trạng thái**
+**Thứ tự**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
@@ -32,17 +32,9 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Nhập kích thước tùy chỉnh hiển thị mô đun này
 
-**Hiển thị cover**
+**Trạng thái/Hiển thị cover/Hiển thị stream/Hiển thị tiêu đề**
 
-Lựa chọn trạng thái hiển thị cover cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-
-**Hiển thị stream**
-
-Lựa chọn trạng thái hiển thị stream cho mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-
-**Hiển thị tiêu đề**
-
-Lựa chọn trạng thái hiển thị tiêu đề của mô đun (Có: cho phép hiển thị/Không: không cho phép hiển thị)
+Xem thêm tại đây
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
