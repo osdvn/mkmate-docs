@@ -19,6 +19,10 @@ Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin -> Thê
 
 Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những tin bài mà bạn đã thêm vào
 
+**Phụ đề**
+
+Nhập phụ đề cho chuyên mục tin bài. Được hiển thị dưới tiêu đề chuyên mục tin bài tùy từng giao diện.
+
 **Mô tả**
 
 Nhập nội dung mô tả chuyên mục tin bài
