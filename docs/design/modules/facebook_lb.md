@@ -9,6 +9,7 @@ published: true
 Facebook Business Page nhằm tiếp cận khách hàng bằng cách kết nối mạng xã hội vào website, giúp mang lại thêm nhiều lượng truy cập, tương tác với khách hàng và dễ dàng lan truyền thông tin từ người dùng hơn.
 
 ## Thêm cấu hình Facebook Business Page
+
 Để cấu hình mô đun Facebook Business Page, bạn cần:
 
 Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Facebook Business Page -> Cấu hình**
@@ -19,21 +20,13 @@ Trang cấu hình mô đun Facebook Business Page được mở ra, điền và 
 
 Nhập địa chỉ URL fanpage facebook | Nhập tên hiển thị cho fanpage facebook
 
-**Bố cục**
+**Bố cục/Vị trí**
 
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
+Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
 
-**Vị trí**
+**Thứ tự/Trạng thái**
 
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
-
-**Trạng thái**
-
-Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
-
-**Thứ tự**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Kích thước mô đun**
 
@@ -55,9 +48,9 @@ Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn 
 
 ### Xóa cấu hình Facebook Business Page
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**
+Nhấn chọn **Xóa** để xóa mô đun này.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa cấu hình Facebook Business Page
 
