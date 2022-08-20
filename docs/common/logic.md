@@ -1,6 +1,10 @@
 ---
 title: Logic sử dụng
-tags: [logic, common, cần lưu ý]
+tags:
+  - logic
+  - common
+  - cần lưu ý
+published: true
 ---
 # Logic sử dụng Mkmate
 ##  Xóa các mục, các thành phần, thông tin
@@ -15,6 +19,11 @@ Khi bài viết được chọn là nổi bật (hot), thì sẽ được ưu ti
 Quy tắc sắp xếp theo số chỉ định từ lớn đến bé.
 
 Thông thường việc sắp xếp ở nhiều phần mềm theo quy tắc từ số nhỏ đến số lớn. Tuy nhiên, việc này có bất cập khi mục nào đó trong tương lai muốn xếp lên trước thì bạn cần phải sửa toàn bộ các số đã thực hiện trước đó.
+
+## Trạng thái
+
+- Bật/Có: cho phép hiển thị
+- Tắt/Không: không cho phép hiển thị
 
 ## Một số lưu ý với hình ảnh sử dụng trên website
 Ảnh đưa lên website tốt nhất là ở định dạng JPG, nếu được nén theo chuẩn losslessly là tốt nhất, kích thước chiều rộng tối đa là 1920 pixel, độ phân giải 72 dpi, quality = 80-85%. Khi bạn không chắc chắn về định dạng ảnh thì tuyệt đối không nên dùng định dạng ảnh PNG.

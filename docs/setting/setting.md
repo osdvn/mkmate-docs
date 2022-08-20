@@ -35,13 +35,9 @@ Thông tin này thường xuất hiện tại chân trang, trang thông tin liê
 
 Sẽ hiển thị tại chân trang và trang liên hệ.
 
-**Hotline bán hàng**
+**Hotline bán hàng/Hotline hỗ trợ**
 
 Hiển thị số hotline bán hàng của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ.
-
-**Hotline hỗ trợ**
-
-Hiển thị số hotline hỗ trợ của công ty/văn phòng trên trang liên hệ của website, nhằm người dùng có thể liên hệ với công ty/văn phòng để được tư vấn và sử dụng dịch vụ.
 
 ## Địa phương
 
@@ -61,4 +57,3 @@ Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ giao diện 
 **Chế độ bảo trì** Khi chọn là **Bật** hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
 
 Nhấn chọn **Lưu** để hoàn tất.
-

@@ -8,7 +8,7 @@ Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đ�
 
 Nhấn chọn **Nội dung -> Longform -> Thêm**
 
-Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
+Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi hàng ngang tương ứng hiển thị trên màn hình.
 
 ![long-form.jpg](img/long-form.jpg)
 
@@ -71,9 +71,13 @@ Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và
 
 Chọn nhóm longform đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm Longform**. Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
 
-**Thứ tự/Trạng thái**
+**Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
+
+**Trạng thái**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
 Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
@@ -85,11 +89,13 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa 1 bài longform
 
-Tích chọn bài bạn muốn xóa tại danh sách bài longform và chọn Xóa. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
+Tích chọn bài bạn muốn xóa tại danh sách bài longform và chọn Xóa
 
 ### Xóa 1 cột nội dung trong bài longform
 
-Nhấn chọn icon thùng rác tại mỗi cột nội dung. Hệ thống xác nhận bạn có chắc chắn muốn xóa với nội dung như sau **Delete column?** Bạn chọn **Ok**
+Nhấn chọn icon thùng rác tại mỗi cột nội dung.
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa bài longform
 

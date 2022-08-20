@@ -15,15 +15,15 @@ Nhấn chọn **Nội dung -> Tin bài -> Thêm**. Những thông tin cụ thể
 
 **Tiêu đề**
 
-Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
+Nhập tiêu đề cho bài tin
 
 **Mô tả ngắn (Chapeau)**
 
-Là phần nội dung mở đầu của một tin bài, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề tin bài. Độ dài khoảng 160-320 ký tự.
+Nhập mô tả cho bài tin. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung**
 
-Trình bày thông tin có mục đích hướng tới độc giả.
+Nhập nội dung thông tin có mục đích hướng tới độc giả.
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
@@ -31,14 +31,14 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
-**URL download tài nguyên**
+**URL chia sẻ tài nguyên**
 
-Dán đường dẫn URL (liên kết) phù hợp với thông tin bài tin, để người dùng download về máy tính cá nhân
+Dán đường dẫn URL (liên kết) phù hợp với thông tin bài tin, để người dùng download về máy tính cá nhân người dùng
 
 **Ảnh đại diện**
 
-Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
+Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Chuyên mục**
 
@@ -56,17 +56,19 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
 **Nổi bật**
 
-Tích chọn nếu muốn hiển thị trên trang chủ website khi cấu hình mô đun trình bày tin bài với sắp xếp theo nhãn Nổi bật
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/design/modules/news)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Ngày hiển thị**
 
 Lựa chọn ngày hiển thị cho tin bài
 
-**Thứ tự/Trạng thái**
+**Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
+
+**Trạng thái**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
 **Tin bài liên quan**
 
@@ -82,7 +84,7 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 Để xóa một bài tin, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa một tin bài
 

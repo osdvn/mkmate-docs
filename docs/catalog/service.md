@@ -21,7 +21,7 @@ Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn**
 
-Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
+Nhập mô tả ngắn cho bài sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung**
 
@@ -30,13 +30,11 @@ Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính nă
 **Ảnh đại diện**
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Nhóm sản phẩm**
 
 Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
-
-Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
 
 **Mã sản phẩm**
 
@@ -52,25 +50,25 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
 **Nổi bật**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Ngày xuất bản**
 
 Lựa chọn ngày xuất bản cho bài sản phẩm
 
-**Thứ tự/Trạng thái**
+**Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
+
+**Trạng thái**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
 **Thư viện ảnh**
 
 Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
 
-**Sản phẩm liên quan**
-
-Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
-
-**Tin bài liên quan**
+**Sản phẩm liên quan/Tin bài liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
@@ -94,7 +92,7 @@ Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lư
 
 Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa bài sản phẩm đó.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa một bài viết sản phẩm
 
