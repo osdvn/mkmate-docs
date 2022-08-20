@@ -22,8 +22,8 @@ Thông thường việc sắp xếp ở nhiều phần mềm theo quy tắc từ
 
 ## Trạng thái
 
-- Bật: cho phép hiển thị
-- Tắt: không cho phép hiển thị
+- Bật/Có: cho phép hiển thị
+- Tắt/Không: không cho phép hiển thị
 
 ## Một số lưu ý với hình ảnh sử dụng trên website
 Ảnh đưa lên website tốt nhất là ở định dạng JPG, nếu được nén theo chuẩn losslessly là tốt nhất, kích thước chiều rộng tối đa là 1920 pixel, độ phân giải 72 dpi, quality = 80-85%. Khi bạn không chắc chắn về định dạng ảnh thì tuyệt đối không nên dùng định dạng ảnh PNG.
