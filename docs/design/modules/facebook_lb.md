@@ -34,7 +34,7 @@ Nhập kích thước tùy chỉnh hiển thị mô đun này
 
 **Trạng thái/Hiển thị cover/Hiển thị stream/Hiển thị tiêu đề**
 
-Xem thêm tại đây
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
