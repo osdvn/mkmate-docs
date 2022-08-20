@@ -43,6 +43,7 @@ Trên trình duyệt người dùng, tọa độ nằm sau @
 Tại hình trên tọa độ sẽ là:
 
 **Vĩ độ**: 20.9958346
+
 **Kinh độ**: 105.7441532
 
 **Điện thoại**
@@ -53,13 +54,9 @@ Nhập số điện thoại của chi nhánh
 
 Lựa chọn trạng thái có hoặc không cho phép nhận hàng
 
-**Thứ tự**
+**Thứ tự/Trạng thái**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
-**Trạng thái**
-
-Lựa chọn trạng thái hiển thị chi nhánh (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Giờ mở cửa**
 
