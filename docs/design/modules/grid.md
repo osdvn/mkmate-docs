@@ -37,7 +37,7 @@ Mô tả chi tiết bài thông tin muốn hiển thị để người dùng hi�
 
 Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
-![long-form-4.jpg](img/long-form-4.jpg)
+![](img/gridcontent-3.jpg)
 
 **Preview**
 
