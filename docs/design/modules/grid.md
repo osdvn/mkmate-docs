@@ -51,21 +51,17 @@ Nhấn chọn để chỉnh sửa mã HTML của bài viết
 
 Tùy chỉnh theo 3 phiên bản. Bạn cần nhấn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
-**Bố cục**
+**Bố cục/Vị trí**
 
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
-
-**Vị trí**
-
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
-
-**Trạng thái**
-
-Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
+
+**Trạng thái**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
