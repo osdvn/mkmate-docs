@@ -1,6 +1,6 @@
 # Trình đơn & trình bày trình đơn
 
-Top Menu là các mục trình đơn thường nằm ở phần đầu của trang web. Top Menu sẽ giúp mọi người thuận thiện trong việc truy cập nhanh vào các chuyên mục khác nhau trên trang web của bạn.
+Trình đơn là các mục menu thường nằm ở phần đầu của trang web. Top Menu sẽ giúp mọi người thuận thiện trong việc truy cập nhanh vào các chuyên mục khác nhau trên trang web của bạn.
 
 **Một số lưu ý về slideshow và banner**
 
