@@ -25,7 +25,7 @@ Mô tả tóm tắt bài viết
 
 Nội dung chi tiết bài dự án tiêu biểu
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Thư viện ảnh**
 
