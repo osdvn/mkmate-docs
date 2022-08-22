@@ -110,11 +110,9 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
+**Hiện tiêu đề**
+
 Tích vào ô check box để hiển thị tên nhóm menu trên bố cục/vị trí của website
-
-Hình minh họa cấu hình như dưới đây:
-
-![trinh-don-8.jpg](img/trinh-don-8.jpg)	
 
 Hiển thị bên ngoài website như dưới đây
 
