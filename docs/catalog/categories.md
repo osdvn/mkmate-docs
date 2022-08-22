@@ -27,7 +27,7 @@ Nhập phụ đề cho chuyên mục tin bài. Được hiển thị dưới ti�
 
 Nhập nội dung mô tả chuyên mục tin bài
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Hình ảnh**:
 
