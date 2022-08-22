@@ -4,7 +4,7 @@ Top Menu là các mục trình đơn thường nằm ở phần đầu của tra
 
 **Một số lưu ý về slideshow và banner**
 
-Đối với thiết lập trình đơn, bạn cần cấu hình tại **Giao diện => Mô đun => Trình đơn => Cấu hình**, để hiển thị ngoài trang chủ website
+Đối với thiết lập trình đơn, bạn cần cấu hình tại **Giao diện -> Mô đun -> Trình đơn -> Cấu hình**, để hiển thị ngoài trang chủ website
 
 ## Trình đơn
 
@@ -16,7 +16,7 @@ Nhấn chọn **Giao diện -> Trình đơn**
 
 ![trinh-don.jpg](img/trinh-don.jpg)
 
-Những thông tin cụ thể cần điền như sau
+Những thông tin cụ thể cần điền như sau:
 
 **Tên nhóm Tiếng Việt**
 
@@ -26,13 +26,13 @@ Nhập tên nhóm trình đơn bằng tiếng Việt
 
 Nhấn nút **Lưu** để hoàn tất
 
-### Thêm trình đơn tự do
+#### Thêm trình đơn tự do
 
 Để thêm trình đơn tự do, bạn điền thông tin tại trường **Thêm tự do**
 
 ![trinh-don-2.jpg](img/trinh-don-2.jpg)
 
-Những thông tin cụ thể cần điền như sau
+Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề Tiếng Việt**
 
@@ -40,11 +40,11 @@ Nhập tiêu đề trình đơn bằng tiếng Việt
 
 **URL**
 
-Khi tạo trình đơn bạn nên tạo thêm liên kết trên các trình đơn của trang để người dùng có thể xem những nội dung của bạn. Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
+Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
 
 Khi hoàn thành nhấn chọn **Thêm vào menu** để hoàn tất
 
-### Thêm mục điều hướng
+#### Thêm mục điều hướng
 Thêm nhanh trình đơn bằng thao tác thêm mục điều hướng như sau:
 
 Tại trường **Thêm mục điều hướng**, bạn nhấn chọn danh sách thả xuống để chọn loại nội dung tương ứng cần thêm trình đơn trên wesbite
@@ -59,7 +59,7 @@ Sau khi chọn xong nhóm longform, các trình đơn sẽ được hiển thị
 
 ![trinh-don-5.jpg](img/trinh-don-5.jpg)
 
-Tiếp theo, bạn cần nhấn chọn **Thêm vào menu**, các trình đơn sẽ được chuyển sang màn hình bên phải, hình minh họa dưới đây, sau đó nhấn chọn **Cập nhật menu**
+Tiếp theo, bạn cần nhấn chọn **Thêm vào menu**, các trình đơn sẽ được chuyển sang màn hình bên phải, sau đó nhấn chọn **Cập nhật menu**
 
 **Cấu hình trình đơn cấp con** Nhấn và giữ menu cần tùy chỉnh cấp con và kéo, thả khoảng 1cm sau đó click **Cập nhật menu** để lưu lại vị trí thứ tự của trình đơn. Xem chi tiết hình bên dưới.
 
@@ -73,7 +73,7 @@ Nhóm Footermenu hoặc các nhóm khác làm tương tự Topmenu. Có thể t�
 
 Bạn nhấn chọn nút **Delete** (icon hình thùng rác) bên cạnh **Sửa**. Chọn **OK**.
 
-Hệ thống cảnh báo bạn chắc chắn muốn xóa với nội dung như sau: "Xóa mục trình đơn Bạn có chắc chắn muốn xóa mục trình đơn này? **ten_trinh_don**. Việc này đồng thời cũng sẽ xóa các mục cấp dưới nếu có." Chọn **Đồng ý** nếu chắc chắn xóa.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 Sau khi thay đổi các thông tin - thiết lập của trình đơn, cần chọn **Lưu**, tiếp theo chọn **Cập nhật menu** để lưu lại những thay đổi.
 
