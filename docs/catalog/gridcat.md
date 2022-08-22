@@ -17,7 +17,7 @@ Nhập tên longform bạn muốn hiển thị trên wesbite
 
 Nhập nội dung cho nhóm longform.
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**
 
