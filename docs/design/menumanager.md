@@ -26,7 +26,9 @@ Nhập tên nhóm trình đơn bằng tiếng Việt
 
 Nhấn nút **Lưu** để hoàn tất
 
-#### Thêm trình đơn tự do
+Có 2 cách để thêm trình đơn
+
+#### 1. Thêm trình đơn tự do
 
 Để thêm trình đơn tự do, bạn điền thông tin tại trường **Thêm tự do**
 
@@ -42,24 +44,27 @@ Nhập tiêu đề trình đơn bằng tiếng Việt
 
 Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
 
-Khi hoàn thành nhấn chọn **Thêm vào menu** để hoàn tất
+Khi hoàn thành nhấn chọn **Thêm vào menu** để hoàn tất.
 
-#### Thêm mục điều hướng
-Thêm nhanh trình đơn bằng thao tác thêm mục điều hướng như sau:
+#### 2. Thêm mục điều hướng
+
+Thêm mục điều hướng, hệ thống sẽ lấy tự động URL theo loại nội dung bạn chọn. Thêm nhanh trình đơn bằng thao tác thêm mục điều hướng như sau:
 
 Tại trường **Thêm mục điều hướng**, bạn nhấn chọn danh sách thả xuống để chọn loại nội dung tương ứng cần thêm trình đơn trên wesbite
 
 ![trinh-don-3.jpg](img/trinh-don-3.jpg)
 
-Ví dụ: nhấn chọn **nhóm Long Form** hoặc nhóm bất kỳ => Gõ tên nhóm longform, hệ thống sẽ gợi ý cho bạn chọn
+Ví dụ: nhấn chọn **nhóm Long Form** hoặc nhóm bất kỳ -> Gõ tên nhóm Long Form, hệ thống sẽ gợi ý cho bạn chọn
 
 ![trinh-don-4.jpg](img/trinh-don-4.jpg)
 
-Sau khi chọn xong nhóm longform, các trình đơn sẽ được hiển thị như sau
+Sau khi chọn xong nhóm Long Form, các trình đơn sẽ được hiển thị như sau
 
 ![trinh-don-5.jpg](img/trinh-don-5.jpg)
 
 Tiếp theo, bạn cần nhấn chọn **Thêm vào menu**, các trình đơn sẽ được chuyển sang màn hình bên phải, sau đó nhấn chọn **Cập nhật menu**
+
+_Với các trình đơn đặc biệt như Trang chủ, liên hệ, ... sẽ cần tạo trình đơn tại trường **thêm tự do**_
 
 **Cấu hình trình đơn cấp con** Nhấn và giữ menu cần tùy chỉnh cấp con và kéo, thả khoảng 1cm sau đó click **Cập nhật menu** để lưu lại vị trí thứ tự của trình đơn. Xem chi tiết hình bên dưới.
 
@@ -71,15 +76,15 @@ _Chú ý: có thể tạo nhiều nhóm menu để cấu hình tại nhiều b�
 
 ### Xóa trình đơn
 
-Bạn nhấn chọn nút **Delete** (icon hình thùng rác) bên cạnh **Sửa**. Chọn **OK**.
+Bạn nhấn chọn nút **Delete** (icon hình thùng rác) bên cạnh nút **Sửa**. Chọn **OK**.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
-Sau khi thay đổi các thông tin - thiết lập của trình đơn, cần chọn **Lưu**, tiếp theo chọn **Cập nhật menu** để lưu lại những thay đổi.
+Sau khi thay đổi các thông tin - thiết lập của trình đơn, cần chọn **Cập nhật menu** để lưu lại những thay đổi.
 
 ### Sửa trình đơn
 
-Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi thông tin trình đơn, bạn cần chọn **Lưu** để cập nhật.
+Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi thông tin trình đơn, bạn cần chọn **Cập nhật menu** để lưu lại những thay đổi.
 
 ## Cấu hình trình đơn
 
