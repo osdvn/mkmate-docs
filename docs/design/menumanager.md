@@ -67,7 +67,7 @@ Tiếp theo, bạn cần nhấn chọn **Thêm vào menu**, các trình đơn s�
 
 Làm tương tự đối với các cấp trình đơn nhỏ hơn
 
-Nhóm Footermenu hoặc các nhóm khác làm tương tự Topmenu. Có thể tạo nhiều nhóm menu để cấu hình tại nhiều bố cục/vị trí khác nhau.
+_Chú ý: có thể tạo nhiều nhóm menu để cấu hình tại nhiều bố cục/vị trí khác nhau._
 
 ### Xóa trình đơn
 
