@@ -25,7 +25,7 @@ Nhập mô tả ngắn cho bài sản phẩm. Độ dài khoảng 160-320 ký t�
 
 **Nội dung**
 
-Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**
 
@@ -34,7 +34,7 @@ Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/fin
 
 **Nhóm sản phẩm**
 
-Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
+Chọn nhóm sản phẩm đã được tạo tại **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
 **Mã sản phẩm**
 
@@ -81,12 +81,6 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
-
-### Có 2 lựa chọn lưu bài sản phẩm
-
-Khi bạn nhấn chọn **Lưu**, hệ thống thông báo lưu thành công và ở tại cùng 1 cửa sổ màn hình bài sản phẩm vừa thêm mới đó.
-
-Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lưu dữ liệu và mở một trang sản phẩm mới để bạn tiếp tục thêm.
 
 ## Xóa bài sản phẩm
 

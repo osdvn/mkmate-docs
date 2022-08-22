@@ -23,7 +23,7 @@ Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ 
 
 Độ dài khoảng 160-320 ký tự. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**
 

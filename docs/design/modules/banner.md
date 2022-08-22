@@ -54,7 +54,11 @@ Kích thước W x H = 500 pixel x 621 pixel
 
 - Mẫu Template Lưới
 
-**Thêm mô-đun**: Chọn thêm mô đun để hiển thị giao diện bố cục khác nhau
+**Thêm mô-đun**
+
+Chọn thêm mô đun để hiển thị giao diện bố cục khác nhau
+
+Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa mô đun banner
 
