@@ -73,6 +73,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ### Sửa mô đun Grid Content
 
-Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Grid Content -> Cấu hình**.
+Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Grid Content -> Cấu hình**
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
