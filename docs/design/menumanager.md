@@ -4,7 +4,7 @@ Trình đơn là các mục menu thường nằm ở phần đầu của trang w
 
 **Một số lưu ý về slideshow và banner**
 
-Đối với thiết lập trình đơn, bạn cần cấu hình tại **Giao diện -> Mô đun -> Trình đơn -> Cấu hình**, để hiển thị ngoài trang chủ website
+Đối với thiết lập trình đơn, bạn cần thêm 1 bước cấu hình tại **Giao diện -> Mô đun -> Trình đơn -> Cấu hình**, để hiển thị ngoài trang chủ website
 
 ## Trình đơn
 
