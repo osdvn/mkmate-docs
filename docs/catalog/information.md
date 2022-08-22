@@ -27,7 +27,7 @@ Nhập tiêu đề cho bài thông tin
 
 Nhập mô tả thông tin có mục đích hướng tới độc giả
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**
 
