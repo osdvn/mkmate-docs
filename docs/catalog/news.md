@@ -25,7 +25,7 @@ Nhập mô tả cho bài tin. Độ dài khoảng 160-320 ký tự.
 
 Nhập nội dung thông tin có mục đích hướng tới độc giả.
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Câu hỏi thường gặp**
 
