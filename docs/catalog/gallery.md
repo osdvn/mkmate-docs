@@ -21,7 +21,7 @@ Nhập tên bộ sưu tập. Được hiển thị tại menu Thư viện ảnh,
 
 Trình bày thông tin có mục đích hướng tới độc giả
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Thư viện ảnh**
 
