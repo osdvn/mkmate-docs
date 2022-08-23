@@ -21,7 +21,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-**Hiện tiêu đề**
+**Hiện tiêu đề/Mẫu trình bày**
 
 Lựa chọn các tùy chọn tại danh sách thả xuống
 
@@ -29,25 +29,9 @@ Lựa chọn các tùy chọn tại danh sách thả xuống
 
 Lựa chọn danh mục nhóm tin bài tại danh sách thả xuống
 
-**Mẫu trình bày**
+**Hiện ảnh/Lượt xem/Sapo/Ngày đăng**
 
-Lựa chọn mẫu trình bày tại danh sách thả xuống
-
-**Hiện ảnh**
-
-Tích chọn, để hiện ảnh tại nhóm tin này
-
-**Lượt xem**
-
-Tích chọn, để hiển thị lượt xem tại nhóm tin này
-
-**Sapo**
-
-Tích chọn, để hiển thị sapo tại nhóm tin này
-
-**Ngày đăng**
-
-Tích chọn, để hiển thị ngày đăng tại nhóm tin này
+Tích chọn, để hiện các tùy chọn trên tại nhóm tin này
 
 **Giới hạn**
 
