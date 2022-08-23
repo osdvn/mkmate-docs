@@ -11,7 +11,7 @@ Trang tạo cấu hình mô đun nhóm sản phẩm được mở ra, điền v�
 
 **Bố cục/Vị trí hiển thị**
 
-Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
 **Thứ tự**
 
