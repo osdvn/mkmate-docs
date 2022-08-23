@@ -27,7 +27,7 @@ Nhập kích thước tương ứng cho phép hiển thị ảnh bài tin
 
 **Bố cục/Vị trí hiển thị**
 
-Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
 **Thứ tự**
 
@@ -37,7 +37,17 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-**Sắp xếp theo/Chiều sắp xếp/Mẫu trình bày**
+**Sắp xếp theo**
+
+Lựa chọn kiểu sắp xếp hiển thị trên website tại danh sách thả xuống
+
+**Tên sản phẩm**: hiển thị mô đun theo sắp xếp tên sản phẩm
+**Giá**: hiển thị theo giá sản phẩm
+**Thứ tự**: hiển thị sản phẩm theo thứ tự bạn nhập trong mỗi bài sản phẩm
+**Ngày đăng**: hiển thị theo ngày xuất bản của sản phẩm
+**Nổi bật**: hiển thị các bài sản phẩm bạn tích chọn trường nổi bật
+
+**Chiều sắp xếp/Mẫu trình bày**
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
