@@ -18,7 +18,7 @@ Nhập tên hiển thị tương ứng với kênh hỗ trợ
 
 **Tài khoản/URL**
 
-Nhập số điện thoại, địa chỉ email hoặc liên kết messenger
+Nhập số điện thoại, địa chỉ email hoặc liên kết messenger,..
 
 **Bố cục/Vị trí**
 
