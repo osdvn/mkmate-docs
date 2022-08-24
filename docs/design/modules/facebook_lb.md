@@ -46,6 +46,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ### Sửa cấu hình Facebook Business Page
 
-Nhấn chọn **Cấu hình** tại mô đun Facebook Business Page
+Nhấn chọn **Cấu hình** tại mô đun **Facebook Business Page**
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
