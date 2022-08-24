@@ -40,9 +40,9 @@ Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn 
 
 ### Xóa mô đun hỗ trợ trực tuyến
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."** 
+Nhấn chọn **Xóa** để xóa mô đun này.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa mô đun hỗ trợ trực tuyến
 
