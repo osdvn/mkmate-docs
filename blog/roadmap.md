@@ -27,7 +27,7 @@ tags: [roadmap, mkmate]
 20. - [x] Tắt các chức năng không dùng của dự án để không bị rối khi sử dụng
 21. - [ ] Hỗ trợ AMP-HTML fullsite
 22. - [ ] 🥷🏽 Tracking code, đo lường chiến dịch quảng cáo. Chèn vào lead, inquiries
-23. - [ ] Customize những trang đặc biệt: SEO, title, description
+23. - [x] Customize những trang đặc biệt: SEO, title, description
 24. - [ ] 🥷🏽 💻 Cookie Consent 
 25. - [x] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn
 26. - [x] Cho phép đặt số lượng vote => chống tấn công
@@ -46,7 +46,7 @@ tags: [roadmap, mkmate]
 5. - [ ] Popup builder
 6. - [ ] CTA builder
 7. - [x] Đếm số lượng reach của link 404
-8. - [ ] Cho phép customize URL đặc biệt
+8. - [x] Cho phép customize URL đặc biệt
 9. - [ ] Form builder
 10. - [ ] Cho phép cấu hình sản phẩm liên quan
 11. - [ ] Hỗ trợ giá khuyến mại mức đơn giản
