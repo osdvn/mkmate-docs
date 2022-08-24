@@ -10,13 +10,7 @@ Trang tạo cấu hình mô đun hỗ trợ trực tuyến được mở ra, đi
 
 **Chọn kênh liên lạc**
 
-Lựa chọn kênh muốn hiển thị có sẵn trong khung box. Cho phép lựa chọn 6 kênh liên lạc: 
-- _Viber_
-- _Zalo_
-- _Điện thoại_
-- _Messenger_
-- _Gmap_
-- _Email_
+Lựa chọn kênh muốn hiển thị có sẵn tại danh sách thả xuống
 
 **Tên hiển thị**
 
@@ -38,10 +32,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-**Vị trí hiển thị**
-
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
-
 **Cỡ icon**
 
 Lựa chọn cỡ icon tại Drop List
@@ -56,6 +46,6 @@ Bạn chọn **Ok** nếu xác nhận xóa.
 
 ### Sửa mô đun hỗ trợ trực tuyến
 
-Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Hỗ trợ trực tuyến -> Cấu hình**.
+Nhấn chọn **Cấu hình** tại mô đun **Hỗ trợ trực tuyến**
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
