@@ -6,12 +6,12 @@ tags: [roadmap, mkmate]
 ---
 ## 2022-09-30. V6.5.1
 1. - ~ Form builder ~
-2. - ~Layout manager~
-3. - [ ] 🐱‍💻 Customer portal, self service to manage issue & ticket
-4. - ~Build giao diện tự động theo từng website~
-5. - [ ] 🐱‍💻 Task queue for optimizing lossless image
-6. ~CTA builder~
-7. ~Popup builder~
+2. - ~ Layout manager ~
+3. - ~ Customer portal, self service to manage issue & ticket ~
+4. - ~ Build giao diện tự động theo từng website ~
+5. - ~ Task queue for optimizing lossless image ~
+6. ~ CTA builder ~
+7. ~ Popup builder ~
 8. - [ ] Search and replace massive content
 9. - [ ] 🏊‍♂️ Big Update: Lưu thông tin vùng quản trị bằng AJAX
 10. - [ ] Cộng tác nhóm khi soạn thảo bài viết
@@ -23,7 +23,7 @@ tags: [roadmap, mkmate]
 16. - [x] MySQL Console
 17. - [ ] Mẫu nội dung cho trình soạn thảo
 18. - [x] Quản lý broken link
-19. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
+19. ~ Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin ~
 20. - [x] Tắt các chức năng không dùng của dự án để không bị rối khi sử dụng
 21. - [ ] Hỗ trợ AMP-HTML fullsite
 22. - [ ] 🥷🏽 Tracking code, đo lường chiến dịch quảng cáo. Chèn vào lead, inquiries
@@ -53,3 +53,6 @@ tags: [roadmap, mkmate]
 12. - [ ] SERP Preview
 13. - [ ] Tích hợp tiktok
 14. - [ ] Tích hợp Google Ads, Facebook Ads
+15. - [ ] Customer portal, self service to manage issue & ticket
+16. - [ ] Task queue for optimizing lossless image
+17. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
