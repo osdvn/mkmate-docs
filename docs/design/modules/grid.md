@@ -53,7 +53,7 @@ Tùy chỉnh theo 3 phiên bản. Bạn cần nhấn vào danh sách thả xuố
 
 **Bố cục/Vị trí**
 
-Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
 **Thứ tự**
 
@@ -73,6 +73,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ### Sửa mô đun Grid Content
 
-Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Grid Content -> Cấu hình**
+Nhấn chọn **Cấu hình** tại mô đun Grid Content
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
