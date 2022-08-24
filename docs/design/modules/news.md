@@ -23,7 +23,8 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 **Hiện tiêu đề**
 
-Cho phép hoặc không cho phép hiển thị tên chuyên mục khi xem trên website
+- Hiện tiêu đề mô đun: cho phép hiển thị tiêu đề của chuyên mục
+- Ẩn tiêu đề mô đun: không cho phép hiển thị tiêu đề của chuyên mục
 
 **Chuyên mục**
 
