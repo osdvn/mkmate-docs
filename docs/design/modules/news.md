@@ -11,7 +11,7 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hìn
 
 **Bố cục/Vị trí**
 
-Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
 **Thứ tự**
 
@@ -31,7 +31,7 @@ Lựa chọn danh mục nhóm tin bài tại danh sách thả xuống
 
 **Hiện ảnh/Lượt xem/Sapo/Ngày đăng**
 
-Tích chọn, để hiện các tùy chọn trên tại nhóm tin này
+Tích chọn, để hiện các tùy chọn trên tại mỗi nhóm chuyên mục được chọn của mô đun này khi xem trên website
 
 **Giới hạn**
 
@@ -57,6 +57,10 @@ Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 **Kiểu sắp xếp**
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
+
+**Thêm mô đun**
+
+Có thể thêm nhiều mô đun tại bố cục và vị trí khác nhau trên website
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
