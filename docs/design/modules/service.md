@@ -41,10 +41,10 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 Lựa chọn kiểu sắp xếp hiển thị trên website tại danh sách thả xuống
 
-**Tên sản phẩm**: hiển thị mô đun theo sắp xếp tên sản phẩm
-**Giá**: hiển thị theo giá sản phẩm
-**Thứ tự**: hiển thị sản phẩm theo thứ tự bạn nhập trong mỗi bài sản phẩm
-**Ngày đăng**: hiển thị theo ngày xuất bản của sản phẩm
+**Tên sản phẩm**: hiển thị mô đun ưu tiên theo sắp xếp tên sản phẩm
+**Giá**: hiển thị ưu tiên theo giá sản phẩm
+**Thứ tự**: hiển thị ưu tiên sản phẩm theo thứ tự bạn nhập trong mỗi bài sản phẩm
+**Ngày đăng**: hiển thị ưu tiên theo ngày xuất bản của sản phẩm
 **Nổi bật**: hiển thị các bài sản phẩm bạn tích chọn trường nổi bật
 
 **Chiều sắp xếp/Mẫu trình bày**
