@@ -46,7 +46,7 @@ tags: [roadmap, mkmate]
 5. - [ ] Popup builder
 6. - [ ] CTA builder
 7. - [x] Đếm số lượng reach của link 404
-8. - [x] Cho phép customize URL đặc biệt
+8. - [ ] Cho phép customize URL đặc biệt
 9. - [ ] Form builder
 10. - [ ] Cho phép cấu hình sản phẩm liên quan
 11. - [ ] Hỗ trợ giá khuyến mại mức đơn giản
