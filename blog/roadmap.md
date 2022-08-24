@@ -18,8 +18,8 @@ tags: [roadmap, mkmate]
 11. - [ ] 🏊‍♂️ Admin tasks: doing
 12. - [x] Hỗ trợ ảnh webp
 13. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
-14. - [ ] Tích hợp tiktok
-15. - [ ] Tích hợp Google Ads, Facebook Ads
+14. - ~Tích hợp tiktok~
+15. - ~ Tích hợp Google Ads, Facebook Ads
 16. - [x] MySQL Console
 17. - [ ] Mẫu nội dung cho trình soạn thảo
 18. - [x] Quản lý broken link
@@ -51,3 +51,5 @@ tags: [roadmap, mkmate]
 10. - [ ] Cho phép cấu hình sản phẩm liên quan
 11. - [ ] Hỗ trợ giá khuyến mại mức đơn giản
 12. - [ ] SERP Preview
+13. - [ ] Tích hợp tiktok
+14. - [ ] Tích hợp Google Ads, Facebook Ads
