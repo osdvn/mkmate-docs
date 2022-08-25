@@ -7,6 +7,8 @@ published: true
 ---
 # Dự án tiêu biểu
 
+Cho phép quản lý các bài dự án tiêu biểu của cơ quan, công ty, doanh nghiệp.
+
 ## Thêm bài dự án tiêu biểu
 
 Để thêm một bài dự án tiêu biểu, bạn cần:
