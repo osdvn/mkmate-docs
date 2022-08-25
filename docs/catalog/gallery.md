@@ -7,6 +7,8 @@ published: true
 ---
 # Thư viện ảnh
 
+Là nơi lưu trữ các bộ sưu tập trên website.
+
 ## Thêm thư viện ảnh
 
 Để thêm một thư viện ảnh, bạn cần:
@@ -15,7 +17,7 @@ Nhấn chọn **Nội dung -> Thư viện ảnh -> Thêm**. Những thông tin c
 
 **Tiêu đề album**
 
-Nhập tên bộ sưu tập. Được hiển thị tại menu Thư viện ảnh, đường dẫn thông thường của trang này là `domain/information/picture`
+Nhập tên bộ sưu tập. Được hiển thị các bộ sưu tập tại trang Thư viện ảnh, đường dẫn thông thường của trang này là `domain/information/picture`
 
 **Mô tả**
 
