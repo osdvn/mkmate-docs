@@ -4,8 +4,6 @@
 
 Nhấn chọn **Giao diện -> Nhận diện**. Những thông tin - thiết lập cụ thể cần điền như sau:
 
-![nhandien.jpg (122 KB)](img/nhandien.jpg)
-
 **Logo**
 
 Nhấn chọn **Chọn** để tải logo từ máy tính của bạn lên trình quản lý file
