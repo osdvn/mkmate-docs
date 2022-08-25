@@ -1,7 +1,7 @@
 # Nhóm sản phẩm
 
 - Nhóm sản phẩm: cho phép tạo nhiều nhóm những sản phẩm cùng loại với nhau tùy theo mục đích.
-- Một nhóm sản phẩm có liên kết mật thiết chặt chẽ với các sản phẩm cùng loại.
+- Một nhóm sản phẩm có liên kết mật thiết chặt chẽ với các bài [sản phẩm](https://mkmate.osd.vn/docs/catalog/service) cùng loại.
 
 ## Thêm một nhóm sản phẩm
 
@@ -35,8 +35,7 @@ Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có
 
 **Nổi bật**
 
-Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
+Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website. Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Thứ tự**
 
