@@ -7,6 +7,9 @@ published: true
 ---
 # Chuyên mục tin bài
 
+- Chuyên mục tin bài: cho phép tạo nhiều nhóm những chuyên mục cùng loại với nhau tùy theo mục đích.
+- Một chuyên mục tin bài có liên kết mật thiết chặt chẽ với các tin bài cùng loại.
+
 ## Thêm chuyên mục tin bài
 
 Để thêm một nhóm chuyên mục tin bài, bạn cần:
