@@ -21,7 +21,7 @@ tags: [roadmap, mkmate]
 14. - ~Tích hợp tiktok~
 15. - ~ Tích hợp Google Ads, Facebook Ads
 16. - [x] MySQL Console
-17. - [ ] Mẫu nội dung cho trình soạn thảo
+17. - ~ Mẫu nội dung cho trình soạn thảo ~
 18. - [x] Quản lý broken link
 19. ~ Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin ~
 20. - [x] Tắt các chức năng không dùng của dự án để không bị rối khi sử dụng
@@ -58,3 +58,4 @@ tags: [roadmap, mkmate]
 17. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
 18. - [ ] Search and replace massive content
 19. - [ ] Cộng tác nhóm khi soạn thảo bài viết
+20. - [ ] Mẫu nội dung cho trình soạn thảo
