@@ -12,9 +12,9 @@ tags: [roadmap, mkmate]
 5. - ~ Task queue for optimizing lossless image ~
 6. ~ CTA builder ~
 7. ~ Popup builder ~
-8. - [ ] Search and replace massive content
+8. - ~ Search and replace massive content ~
 9. - [ ] 🏊‍♂️💻 Big Update: Lưu thông tin vùng quản trị bằng AJAX: ...10%
-10. - [ ] Cộng tác nhóm khi soạn thảo bài viết
+10. - ~ Cộng tác nhóm khi soạn thảo bài viết ~
 11. - [ ] 🏊‍♂️ Admin tasks: doing
 12. - [x] Hỗ trợ ảnh webp
 13. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
@@ -56,3 +56,5 @@ tags: [roadmap, mkmate]
 15. - [ ] Customer portal, self service to manage issue & ticket
 16. - [ ] Task queue for optimizing lossless image
 17. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
+18. - [ ] Search and replace massive content
+19. - [ ] Cộng tác nhóm khi soạn thảo bài viết
