@@ -11,7 +11,7 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hìn
 
 **Bố cục/Vị trí**
 
-Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
 **Thứ tự**
 
@@ -21,21 +21,26 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-**Hiện tiêu đề/Mẫu trình bày**
+**Hiện tiêu đề**
 
-Lựa chọn các tùy chọn tại danh sách thả xuống
+- Hiện tiêu đề mô đun: cho phép hiển thị tiêu đề của chuyên mục
+- Ẩn tiêu đề mô đun: không cho phép hiển thị tiêu đề của chuyên mục
 
 **Chuyên mục**
 
-Lựa chọn danh mục nhóm tin bài tại danh sách thả xuống
+Chọn chuyên mục muốn hiển thị trên website
+
+**Mẫu trình bày**
+
+Lựa chọn mẫu trình bày có sẵn tại danh sách thả xuống
 
 **Hiện ảnh/Lượt xem/Sapo/Ngày đăng**
 
-Tích chọn, để hiện các tùy chọn trên tại nhóm tin này
+Tích chọn, để hiện các tùy chọn trên tại mỗi nhóm chuyên mục được chọn của mô đun này khi xem trên website
 
 **Giới hạn**
 
-Nhập giới hạn số bài hiển thị
+Nhập giới hạn số bài hiển thị số tin bài trong nhóm chuyên mục khi xem trên website
 
 **Tin nhấn mạnh**: nhập số tin cần nhấn mạnh. Với 1 tin nhấn mạnh được hiển thị như sau:
 ![trinh-bay-tin-bai-1.jpg (71 KB)](img/trinh-bay-tin-bai-1.jpg)
@@ -48,15 +53,19 @@ Nhập giới hạn số bài hiển thị
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
-- **Lượt xem**: hiển thị sắp xếp theo lượt xem bài tin
-- **Thứ tự**: hiển thị sắp xếp theo thứ tự của mỗi bài tin
+- **Lượt xem**: hiển thị sắp xếp ưu tiên theo lượt xem của bài tin
+- **Thứ tự**: hiển thị sắp xếp ưu tiên theo thứ tự của mỗi bài tin
 - **Nổi bật**: hiển thị các bài tin được tích vào trường Nổi bật. (Trong mỗi bài tin bạn cần tích vào trường nổi bật để hiển thị theo sắp xếp này)
 ![trinh-bay-tin-bai.jpg (71 KB)](img/trinh-bay-tin-bai.jpg)
-- **Ngày đăng**: hiển thị theo ngày đăng của bài tin
+- **Ngày đăng**: hiển thị ưu tiên theo ngày đăng của bài tin
 
 **Kiểu sắp xếp**
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
+
+**Thêm mô đun**
+
+Có thể thêm nhiều mô đun tại bố cục và vị trí khác nhau trên website
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
@@ -68,6 +77,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa cấu hình trình bày tin bài
 
-Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Trình bày tin bài -> Cấu hình**
+Nhấn chọn **Cấu hình** tại mô đun **Trình bày tin bài**
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.

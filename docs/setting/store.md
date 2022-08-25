@@ -72,8 +72,10 @@ Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn 
 
 Để xóa một chi nhánh, tích vào chi nhánh đó và chọn **Xóa**
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa chi nhánh đó.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa chi nhánh
 
-Để sửa một chi nhánh, nhấn chọn sửa tại chi nhánh đó. Sau khi thay đổi các thông tin nội dung của chi nhánh cần chọn **Lưu** để cập nhật những thay đổi.
+Nhấn chọn sửa tại chi nhánh đó.
+
+Sau khi thay đổi các thông tin nội dung của chi nhánh cần chọn **Lưu** để cập nhật những thay đổi.

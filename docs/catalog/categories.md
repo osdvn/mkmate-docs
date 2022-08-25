@@ -7,6 +7,9 @@ published: true
 ---
 # Chuyên mục tin bài
 
+- Chuyên mục tin bài: cho phép tạo nhiều nhóm những chuyên mục cùng loại với nhau tùy theo mục đích.
+- Một chuyên mục tin bài có liên kết mật thiết chặt chẽ với các tin bài cùng loại.
+
 ## Thêm chuyên mục tin bài
 
 Để thêm một nhóm chuyên mục tin bài, bạn cần:
@@ -61,11 +64,11 @@ Có 5 loại kích thước có sẵn để lựa chọn
 
 Có 4 loại kích thước có sẵn để lựa chọn
 
-**Mẫu trình bày**: tại đây có 5 kiểu trình bày cho bạn lựa chọn
-**Mặc định**: hiển thị theo hàng dọc
-**Tạp chí**: hiển thị 3 bài trên 1 hàng ngang
-**Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
-**Thư viện video**:
+- **Mẫu trình bày**: tại đây có 5 kiểu trình bày cho bạn lựa chọn
+- **Mặc định**: hiển thị theo hàng dọc
+- **Tạp chí**: hiển thị 3 bài trên 1 hàng ngang
+- **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
+- **Thư viện video**:
 
 **Thứ tự**
 

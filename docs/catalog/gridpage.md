@@ -69,7 +69,7 @@ Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và
 
 **Nhóm long form**
 
-Chọn nhóm longform đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm Longform**. Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
+Chọn nhóm longform đã được tạo [tại đây](https://mkmate.osd.vn/docs/catalog/gridcat). Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
 
 **Thứ tự**
 

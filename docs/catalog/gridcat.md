@@ -1,6 +1,9 @@
 
 # Nhóm longform
 
+- Nhóm longform: cho phép tạo nhiều nhóm longform tùy theo mục đích.
+- Một nhóm longform có liên kết mật thiết chặt chẽ với các [bài longform](https://mkmate.osd.vn/docs/catalog/gridpage) cùng loại.
+
 ## Thêm một nhóm long form
 
 Để thêm một nhóm longform, bạn cần:

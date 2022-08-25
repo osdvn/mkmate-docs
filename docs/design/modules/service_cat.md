@@ -47,6 +47,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ### Sửa mô đun nhóm sản phẩm
 
-Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Nhóm sản phẩm -> Cấu hình**.
+Nhấn chọn **Cấu hình** tại mô đun **Nhóm sản phẩm**
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.

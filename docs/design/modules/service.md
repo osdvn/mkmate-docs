@@ -41,10 +41,10 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 Lựa chọn kiểu sắp xếp hiển thị trên website tại danh sách thả xuống
 
-**Tên sản phẩm**: hiển thị mô đun theo sắp xếp tên sản phẩm
-**Giá**: hiển thị theo giá sản phẩm
-**Thứ tự**: hiển thị sản phẩm theo thứ tự bạn nhập trong mỗi bài sản phẩm
-**Ngày đăng**: hiển thị theo ngày xuất bản của sản phẩm
+**Tên sản phẩm**: hiển thị mô đun ưu tiên theo sắp xếp tên sản phẩm
+**Giá**: hiển thị ưu tiên theo giá sản phẩm
+**Thứ tự**: hiển thị ưu tiên sản phẩm theo thứ tự bạn nhập trong mỗi bài sản phẩm
+**Ngày đăng**: hiển thị ưu tiên theo ngày xuất bản của sản phẩm
 **Nổi bật**: hiển thị các bài sản phẩm bạn tích chọn trường nổi bật
 
 **Chiều sắp xếp/Mẫu trình bày**
@@ -61,6 +61,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ### Sửa mô đun trình bày sản phẩm
 
-Để sửa cấu hình, bạn cần nhấn chọn **Giao diện -> Mô đun -> Trình bày sản phẩm -> Cấu hình**
+Nhấn chọn **Cấu hình** tại mô đun **Trình bày sản phẩm**
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
