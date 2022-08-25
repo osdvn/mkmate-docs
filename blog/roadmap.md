@@ -13,7 +13,7 @@ tags: [roadmap, mkmate]
 6. ~ CTA builder ~
 7. ~ Popup builder ~
 8. - [ ] Search and replace massive content
-9. - [ ] 🏊‍♂️ Big Update: Lưu thông tin vùng quản trị bằng AJAX
+9. - [ ] 🏊‍♂️💻 Big Update: Lưu thông tin vùng quản trị bằng AJAX: ...10%
 10. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 11. - [ ] 🏊‍♂️ Admin tasks: doing
 12. - [x] Hỗ trợ ảnh webp
@@ -50,7 +50,7 @@ tags: [roadmap, mkmate]
 9. - [ ] Form builder
 10. - [ ] Cho phép cấu hình sản phẩm liên quan
 11. - [ ] Hỗ trợ giá khuyến mại mức đơn giản
-12. - [ ] SERP Preview
+12. - [ ] SERP preview
 13. - [ ] Tích hợp tiktok
 14. - [ ] Tích hợp Google Ads, Facebook Ads
 15. - [ ] Customer portal, self service to manage issue & ticket
