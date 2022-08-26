@@ -38,7 +38,7 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 Tại chi tiết mỗi tài khoản, bạn nhấn chọn nút **Xóa** để xóa tài khoản người dùng.
 
-Khi hiện ra cảnh báo với nội dung **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**, bạn chọn **OK** để tiếp tục.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 Vì liên quan đến các hạng mục kỹ thuật, KHÔNG ĐƯỢC xóa thông tin người dùng, nếu người dùng đã nghỉ việc, chỉ ĐƯỢC PHÉP tắt người dùng đó.
 

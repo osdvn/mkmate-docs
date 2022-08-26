@@ -1,7 +1,7 @@
 
 # Mô đun trình bày tin bài
 
-Cho phép cấu hình mô đun trình bày tin bài tại nhiều bố cục và vị trí khác nhau trên website.
+Cho phép cấu hình chuyên mục tin bài tại nhiều bố cục và vị trí khác nhau trên website.
 
 ## Thêm cấu hình trình bày tin bài
 
@@ -56,7 +56,9 @@ Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 - **Lượt xem**: hiển thị sắp xếp ưu tiên theo lượt xem của bài tin
 - **Thứ tự**: hiển thị sắp xếp ưu tiên theo thứ tự của mỗi bài tin
 - **Nổi bật**: hiển thị các bài tin được tích vào trường Nổi bật. (Trong mỗi bài tin bạn cần tích vào trường nổi bật để hiển thị theo sắp xếp này)
+
 ![trinh-bay-tin-bai.jpg (71 KB)](img/trinh-bay-tin-bai.jpg)
+
 - **Ngày đăng**: hiển thị ưu tiên theo ngày đăng của bài tin
 
 **Kiểu sắp xếp**
