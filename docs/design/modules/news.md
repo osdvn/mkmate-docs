@@ -1,7 +1,7 @@
 
 # Mô đun trình bày tin bài
 
-Cho phép cấu hình mô đun trình bày tin bài tại nhiều bố cục và vị trí khác nhau trên website.
+Cho phép cấu hình chuyên mục tin bài tại nhiều bố cục và vị trí khác nhau trên website.
 
 ## Thêm cấu hình trình bày tin bài
 
