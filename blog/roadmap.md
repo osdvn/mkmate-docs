@@ -49,7 +49,7 @@ tags: [roadmap, mkmate]
 8. - [x] Cho phép customize URL đặc biệt
 9. - [ ] Form builder
 10. - [ ] Cho phép cấu hình sản phẩm liên quan
-11. - [ ] Hỗ trợ giá khuyến mại mức đơn giản
+11. - [x] Hỗ trợ giá khuyến mại mức đơn giản
 12. - [ ] SERP preview
 13. - [ ] Tích hợp tiktok
 14. - [ ] Tích hợp Google Ads, Facebook Ads
