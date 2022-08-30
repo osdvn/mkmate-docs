@@ -28,7 +28,7 @@ tags: [roadmap, mkmate]
 21. - [ ] Hỗ trợ AMP-HTML fullsite
 22. - [x] 🥷🏽 Tracking code, đo lường chiến dịch quảng cáo. Chèn vào lead, inquiries
 23. - [x] Customize những trang đặc biệt: SEO, title, description
-24. - [ ] 🥷🏽 💻 Cookie Consent 
+24. - ~ 🥷🏽 💻 Cookie Consent ~
 25. - [x] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn
 26. - [x] Cho phép đặt số lượng vote => chống tấn công
 27. - [x] 🐞 Lỗi tạo menu item cấp 2
@@ -59,3 +59,4 @@ tags: [roadmap, mkmate]
 18. - [ ] Search and replace massive content
 19. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 20. - [ ] Mẫu nội dung cho trình soạn thảo
+21. - [ ] 🥷🏽 💻 Cookie Consent 
