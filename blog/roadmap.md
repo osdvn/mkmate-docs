@@ -17,7 +17,7 @@ tags: [roadmap, mkmate]
 10. - ~ Cộng tác nhóm khi soạn thảo bài viết ~
 11. - [ ] 🏊‍♂️ Admin tasks: doing
 12. - [x] Hỗ trợ ảnh webp
-13. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
+13. - [x] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 14. - ~Tích hợp tiktok~
 15. - ~ Tích hợp Google Ads, Facebook Ads
 16. - [x] MySQL Console
