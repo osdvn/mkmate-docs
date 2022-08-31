@@ -3,7 +3,7 @@ slug: changelog
 title: Nhật ký đóng gói sản phẩm
 authors:
   name: Dzung Do
-  title: OSD.VN Core Team
+  title: Founder
   url: https://github.com/saosangmo
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
