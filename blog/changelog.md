@@ -8,6 +8,30 @@ authors:
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
 ---
+## 2022-08-31. V6.5.1
+1. - [x] Big Update: Lưu thông tin vùng quản trị bằng AJAX
+2. - [x] Hỗ trợ ảnh webp
+3. - [x] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
+4. - [x] MySQL Console
+5. - [x] Quản lý broken link
+6. - [x] Tắt các chức năng không dùng của dự án để không bị rối khi sử dụng
+7. - [x] Hỗ trợ AMP-HTML fullsite
+8. - [x] 🥷🏽 Tracking code, đo lường chiến dịch quảng cáo. Chèn vào lead, inquiries
+9. - [x] Customize những trang đặc biệt: SEO, title, description
+10. - [x] 🐞 Lỗi AMP-HTML với file hình ảnh không có đường dẫn
+11. - [x] Cho phép đặt số lượng vote => chống tấn công
+12. - [x] 🐞 Lỗi tạo menu item cấp 2
+13. - [x] 🐞 Lỗi không ẩn ngày, tác giả, lượt xem của tin bài.
+14. - [x] Public issue: sử dụng github
+15. - [x] 🐞 Lỗi: Gửi email định dạng HTML thành plaintext khi download tài liệu
+16. - [x] Cải thiện chỉ số CLS cho mobile
+17. - [x] 🐞 Lỗi: Gửi email thông báo cho nhiều admin cùng 1 lúc
+18. - [x] SEO: Kiểm tra URL trùng khi thêm redirect URL
+19. - [x] Đếm số lượng reach của link 404
+20. - [x] Cho phép customize URL đặc biệt
+21. - [x] Hỗ trợ giá khuyến mại mức đơn giản
+
+
 ## 2022-07-31, phát hành v6.5.0
 1. - [x] Branding: Email template
 2. - [x] SEO onpage: Cookie-less domain
