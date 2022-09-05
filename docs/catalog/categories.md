@@ -14,7 +14,9 @@ published: true
 
 Để thêm một nhóm chuyên mục tin bài, bạn cần:
 
-Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Để thêm chuyên mục tin bài xem [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
+
+Những thông tin cụ thể cần điền như sau:
 
 *Chú ý: Bạn bắt buộc phải nhập tên nhóm tin bài trước khi có thể lưu lại thông tin.*
 
