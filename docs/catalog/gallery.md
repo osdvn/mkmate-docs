@@ -11,7 +11,7 @@ Là nơi lưu trữ các bộ sưu tập trên website.
 
 ## Thêm thư viện ảnh
 
-Nhấn chọn **Nội dung -> Thư viện ảnh -> Thêm**. Để thêm một thư viện ảnh xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
+Nhấn chọn **Nội dung -> Thư viện ảnh**. Để thêm một thư viện ảnh xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
 
 Những thông tin cụ thể cần điền như sau:
 
