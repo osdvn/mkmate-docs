@@ -6,9 +6,9 @@
 
 ## Thêm một nhóm long form
 
-Để thêm một nhóm longform, bạn cần:
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm Longform**. Để thêm một bài longform, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm Longform -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm longform._
 
@@ -42,7 +42,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Để lưu bài longform, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#l%C6%B0u-m%E1%BB%99t-m%E1%BB%A5c)
 
 ## Xóa nhóm Longform
 
@@ -52,4 +52,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa nhóm Longform
 
-Nhấn chọn nhóm longform muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin nội dung của longform, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#l%C6%B0u-m%E1%BB%99t-m%E1%BB%A5c) để cập nhật những thay đổi.
