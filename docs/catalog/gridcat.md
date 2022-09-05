@@ -52,4 +52,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa nhóm Longform
 
-Sau khi thay đổi các thông tin nội dung của longform, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#l%C6%B0u-m%E1%BB%99t-m%E1%BB%A5c) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của nhóm longform, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#l%C6%B0u-m%E1%BB%99t-m%E1%BB%A5c) để cập nhật những thay đổi.
