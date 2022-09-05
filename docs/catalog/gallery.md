@@ -11,7 +11,7 @@ Là nơi lưu trữ các bộ sưu tập trên website.
 
 ## Thêm thư viện ảnh
 
-Nhấn chọn **Nội dung -> Thư viện ảnh**. Để thêm một thư viện ảnh xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
+Nhấn chọn **Nội dung -> Thư viện ảnh**. Để thêm một thư viện ảnh, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -55,7 +55,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Nhấn chọn **Lưu** để hoàn tất. Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#l%C6%B0u-m%E1%BB%99t-m%E1%BB%A5c)
+Để lưu thư viện ảnh, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#l%C6%B0u-m%E1%BB%99t-m%E1%BB%A5c)
 
 ## Xóa thư viện ảnh
 
@@ -67,4 +67,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa thư viện ảnh, nhấn chọn vào bài thư viện ảnh đó để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **(v)** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của thư viện ảnh, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#l%C6%B0u-m%E1%BB%99t-m%E1%BB%A5c) để cập nhật những thay đổi.
