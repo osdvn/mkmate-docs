@@ -12,7 +12,7 @@ published: true
 
 ## Thêm chuyên mục tin bài
 
-Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Để thêm một nhóm chuyên mục tin bài xem [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
+Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Để thêm một nhóm chuyên mục tin bài xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
 
 Những thông tin cụ thể cần điền như sau:
 
