@@ -21,7 +21,7 @@ Trường Meta title không khác tiêu đề của trang tương ứng thì h�
 Meta keywords còn có tác dụng với các máy tìm kiếm như Cốc Cốc, Yahoo, Bing,... Khi bạn chỉ làm SEO trên Google thì có thể để trống trường này.
 
 ## Slug (URL thân thiện)
-:::cause
+:::caution
 Giá trị này tự động được sinh ra dựa trên tiêu đề của trang tương ứng. Khi bạn có nhu cầu sửa slug thì cần lưu ý các điểm sau:
 - Không nên chứa kí tự đặc biệt trừ dấu (-)
 - Không dùng khoảng trống trong slug
