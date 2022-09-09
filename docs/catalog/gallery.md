@@ -11,7 +11,7 @@ Là nơi lưu trữ các bộ sưu tập trên website.
 
 ## Thêm thư viện ảnh
 
-Nhấn chọn **Nội dung -> Thư viện ảnh**. Để thêm một thư viện ảnh, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C3%AAm-m%E1%BB%99t-m%E1%BB%A5c)
+Nhấn chọn **Nội dung -> Thư viện ảnh**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -23,7 +23,7 @@ Nhập tên bộ sưu tập. Được hiển thị các bộ sưu tập tại tr
 
 Trình bày thông tin có mục đích hướng tới độc giả
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Thư viện ảnh**
 
@@ -55,7 +55,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Để lưu thư viện ảnh, xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#l%C6%B0u-m%E1%BB%99t-m%E1%BB%A5c)
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa thư viện ảnh
 
