@@ -12,9 +12,9 @@ published: true
 
 ## Thêm chuyên mục tin bài
 
-Để thêm một nhóm chuyên mục tin bài, bạn cần:
+Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
-Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Những thông tin cụ thể cần điền như sau:
 
 *Chú ý: Bạn bắt buộc phải nhập tên nhóm tin bài trước khi có thể lưu lại thông tin.*
 
@@ -30,11 +30,11 @@ Nhập phụ đề cho chuyên mục tin bài. Được hiển thị dưới ti�
 
 Nhập nội dung mô tả chuyên mục tin bài
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Hình ảnh**:
 
-Nhấn chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
+Nhấn chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Cấp danh mục cha**:
 
@@ -83,7 +83,7 @@ Meta title*
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa nhóm chuyên mục tin bài
 
@@ -95,4 +95,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa hoặc nhấn vào icon bút chì.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nuts (v) để cập nhật những thay đổi.

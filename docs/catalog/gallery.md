@@ -11,9 +11,9 @@ Là nơi lưu trữ các bộ sưu tập trên website.
 
 ## Thêm thư viện ảnh
 
-Để thêm một thư viện ảnh, bạn cần:
+Nhấn chọn **Nội dung -> Thư viện ảnh**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
-Nhấn chọn **Nội dung -> Thư viện ảnh -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề album**
 
@@ -23,21 +23,17 @@ Nhập tên bộ sưu tập. Được hiển thị các bộ sưu tập tại tr
 
 Trình bày thông tin có mục đích hướng tới độc giả
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Thư viện ảnh**
 
 Upload các bộ ảnh trình bày kiểu gallery
 
-- **Tên album (Tiếng Việt)**: nhập tên cho mỗi ảnh trong bộ sưu tập
+- **Tên ảnh (Tiếng Việt)**: nhập tên cho mỗi ảnh trong bộ sưu tập
 - **Mô tả hình ảnh (Tiếng Việt)**: mô tả ảnh trong bộ sưu tập
-- **Hình ảnh**: nhấp chọn nút **Thêm ảnh -> Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
+- **Hình ảnh**: nhấp chọn nút **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
-**Ảnh đại diện**
-
-Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
-
-**Banner**
+**Ảnh đại diện/Banner**
 
 Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
@@ -55,11 +51,11 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa thư viện ảnh
 
-Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và nhấn chọn nút **Xóa**.
+Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và nhấn chọn nút **Xóa** từ danh sách thả xuống.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
@@ -67,4 +63,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa thư viện ảnh, nhấn chọn vào bài thư viện ảnh đó để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của thư viện ảnh, nhấn chọn nút (v) để cập nhật những thay đổi.

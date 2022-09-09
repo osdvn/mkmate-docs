@@ -6,9 +6,9 @@
 
 ## Thêm một nhóm long form
 
-Để thêm một nhóm longform, bạn cần:
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm Longform**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm Longform -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm longform._
 
@@ -20,7 +20,7 @@ Nhập tên longform bạn muốn hiển thị trên wesbite
 
 Nhập nội dung cho nhóm longform.
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**
 
@@ -42,7 +42,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa nhóm Longform
 
@@ -52,4 +52,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa nhóm Longform
 
-Nhấn chọn nhóm longform muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin nội dung của nhóm longform, nhấn chọn nút (v) để cập nhật những thay đổi.

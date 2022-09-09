@@ -13,7 +13,9 @@ Cho phép quản lý các bài dự án tiêu biểu của cơ quan, công ty, d
 
 Để thêm một bài dự án tiêu biểu, bạn cần:
 
-Nhấn chọn **Nội dung -> Dự án tiêu biểu -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Dự án tiêu biểu**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề**
 
@@ -27,7 +29,7 @@ Mô tả tóm tắt bài viết
 
 Nội dung chi tiết bài dự án tiêu biểu
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Thư viện ảnh**
 
@@ -36,6 +38,7 @@ Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình
 **Ảnh đại diện**
 
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có). 
+
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Thứ tự**
@@ -50,7 +53,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa bài dự án tiêu biểu
 
@@ -62,4 +65,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa một bài dự án tiêu biểu, nhấn chọn vào bài dự án tiêu biểu đó để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để cập nhật những thay đổi.

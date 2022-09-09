@@ -11,7 +11,9 @@ published: true
 
 Để thêm một tin bài, bạn cần:
 
-Nhấn chọn **Nội dung -> Tin bài -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Tin bài**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề**
 
@@ -25,7 +27,7 @@ Nhập mô tả cho bài tin. Độ dài khoảng 160-320 ký tự.
 
 Nhập nội dung thông tin có mục đích hướng tới độc giả.
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 
 **Câu hỏi thường gặp**
 
@@ -38,6 +40,7 @@ Dán đường dẫn URL (liên kết) phù hợp với thông tin bài tin, đ�
 **Ảnh đại diện**
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
+
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Chuyên mục**
@@ -78,7 +81,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa một tin bài
 
@@ -88,4 +91,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa một tin bài
 
-Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để hoàn tất.
+Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để hoàn tất.
