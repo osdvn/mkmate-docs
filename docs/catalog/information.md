@@ -34,6 +34,7 @@ Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/do
 **Ảnh đại diện**
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
+
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Thứ tự**
