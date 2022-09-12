@@ -83,12 +83,12 @@ Kết quả hiển thị tự động theo theo công thức `Tổng điểm/S�
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
 **Khuyến mại**
-- **TT**
-- **Tên gói**
-- **Giá khuyến mại**
-- **Ngày bắt đầu**
-- **Ngày kết thúc**
-- **Thêm**
+- **TT**: Điền số thứ tự cho từng mốc khuyến mãi
+- **Tên gói**: Tên gói khuyến mại
+- **Giá khuyến mại**: Điền giá khuyến mãi
+- **Ngày bắt đầu**: Chọn ngày bắt đầu khuyến mãi
+- **Ngày kết thúc**: Chọn ngày kết thúc khuyến mãi
+- **Thêm**: Nhấn chọn để thêm nhiều khuyến mãi theo từng mốc thời gian
 
 **Câu hỏi thường gặp**
 
