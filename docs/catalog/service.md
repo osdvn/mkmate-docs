@@ -11,7 +11,9 @@ published: true
 
 Để thêm một bài sản phẩm, bạn cần:
 
-Nhấn chọn **Nội dung -> Sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Sản phẩm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
 
@@ -36,15 +38,19 @@ Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/fin
 
 Chọn nhóm sản phẩm đã được tạo [tại đây](https://mkmate.osd.vn/docs/catalog/service_cat). Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
+**Thư viện ảnh**
+
+Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
+
 **Mã sản phẩm**
 
 Là một dạng quy ước giúp phân loại sản phẩm.
 
-**Giá**
+**Giá bán**
 
 Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
 
-**Mục lục tự động**
+**Mục lục**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
@@ -64,13 +70,25 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-**Thư viện ảnh**
+**Số bầu chọn/Tổng điểm**
 
-Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
+Điền từ 1 đến 5
+
+**Kết quả** 
+
+Kết quả hiển thị tự động theo theo công thức `Tổng điểm/Số bầu chọn`. Sao cho kết quả bằng 5 là đẹp.
 
 **Sản phẩm liên quan/Tin bài liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+
+**Khuyến mại**
+- **TT**
+- **Tên gói**
+- **Giá khuyến mại**
+- **Ngày bắt đầu**
+- **Ngày kết thúc**
+- **Thêm**
 
 **Câu hỏi thường gặp**
 
@@ -80,7 +98,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa bài sản phẩm
 
@@ -92,7 +110,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để cập nhật những thay đổi.
 
 ## Nhân bản bài sản phẩm
 
