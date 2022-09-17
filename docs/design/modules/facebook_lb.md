@@ -36,7 +36,7 @@ Nhập kích thước tùy chỉnh hiển thị mô đun này
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa cấu hình Facebook Business Page
 
