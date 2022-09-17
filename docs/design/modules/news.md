@@ -69,7 +69,7 @@ Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
 Có thể thêm nhiều mô đun tại bố cục và vị trí khác nhau trên website
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn nút **v** để hoàn tất.
 
 ## Xóa cấu hình trình bày tin bài
 
@@ -81,4 +81,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn **Cấu hình** tại mô đun **Trình bày tin bài**
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
