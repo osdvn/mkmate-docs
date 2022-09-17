@@ -69,7 +69,7 @@ Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
 Có thể thêm nhiều mô đun tại bố cục và vị trí khác nhau trên website
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa cấu hình trình bày tin bài
 
