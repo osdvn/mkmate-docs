@@ -1,5 +1,6 @@
 ---
 sidebar_label: Trình đơn
+published: true
 ---
 # Trình đơn & trình bày trình đơn
 
@@ -27,7 +28,7 @@ Nhập tên nhóm trình đơn bằng tiếng Việt
 
 ![trinh-don-1.jpg](img/trinh-don-1.jpg)
 
-Nhấn nút **Lưu** để hoàn tất
+Nhấn nút **v** để hoàn tất
 
 Có 2 cách để thêm trình đơn
 
@@ -121,7 +122,7 @@ Hiển thị bên ngoài website như dưới đây
 
 ![trinh-don-9.jpg](img/trinh-don-9.jpg)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
 
 ### Xóa cấu hình trình đơn
 
@@ -133,4 +134,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn **Cấu hình** tại mô đun trình đơn
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
