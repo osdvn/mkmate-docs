@@ -27,6 +27,8 @@ Nhập tiêu đề và nội dung hiển thị trên website
 
 Phạm vi bố cục hiển thị mẫu nội dung này. Tại đây hệ thống cho phép lựa chọn 4 tab hiển thị 4 bố cục khác nhau: **_Nội dung chi tiết, Tab dịch vụ_**
 
+Nhấn chọn nút (v) để lưu lại thông tin.
+
 ## Hướng dẫn nhanh điền mẫu nội dung trong thông tin bài viết
 
 Truy cập vài bài viết muốn hiển thị mẫu nội dung tự động:
@@ -43,4 +45,4 @@ Bạn nhập tên biến ở vị trí nào sẽ hiển thị tên biến ở v�
 
 ![cn-mau-noi-dung-5.jpg](img/cn-mau-noi-dung-5.jpg)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.

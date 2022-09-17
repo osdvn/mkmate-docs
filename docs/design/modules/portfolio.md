@@ -27,7 +27,7 @@ Nhập số lượng giới hạn bài viết hiển thị
 
 Nhập kích thước hình ảnh muốn hiển thị bao gồm chiều rộng và chiều cao
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa mô đun dự án
 
@@ -39,4 +39,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn **Cấu hình** tại mô đun **Dự án**
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.

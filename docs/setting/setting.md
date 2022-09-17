@@ -20,6 +20,8 @@ Nhập tên thường gọi của website. Được hiển thị tại các tran
 
 Nhập tên cá nhân/ công ty chủ sở hữu website, trường này sẽ hiển thị cuối trang website như hình đính kèm bên dưới _(ví dụ: Công ty TNHH OSD.VN)_
 
+![thiet-lap-chung.jpg](img/thiet-lap-chung.jpg)
+
 **Khẩu hiệu**
 
 Là một câu văn ngắn chứa đựng thông điệp mô tả tính chất của một thương hiệu. Thường diễn tả một lời hứa, giá trị cốt lõi, hướng phát triển sản phẩm của công ty hay chính là "khẩu hiệu tiếp thị" của các doanh nghiệp.
@@ -56,4 +58,4 @@ Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ giao diện 
 
 **Chế độ bảo trì** Khi chọn là **Bật** hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút **v** để hoàn tất.

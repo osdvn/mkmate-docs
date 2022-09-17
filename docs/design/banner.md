@@ -12,7 +12,7 @@ Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
 **Một số lưu ý về slideshow và banner**
 
-Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình tại **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**, để hiển thị ngoài trang chủ website
+Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình tại **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**, để hiển thị ngoài trang chủ website.
 
 ## Quản lý Banner
 
@@ -20,7 +20,9 @@ Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
 Tại đây bạn có thể quản lý các banner đã tạo. Để thêm một nhóm sản phẩm, bạn cần:
 
-Nhấn chọn **Giao diện -> Banner -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Giao diện -> Banner**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 **Tên nhóm banner**
 
@@ -52,7 +54,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 Nhấn chọn để thêm nhiều banner khác nhau
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa một nhóm banner
 
@@ -76,7 +78,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa một ảnh trong nhóm banner, nhấn **Chọn ảnh** để tải lại ảnh tại nhóm banner đó
 
-Sau khi thay đổi các thông tin nội dung của banner bạn cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin nội dung của banner bạn cần chọn nút **v** để hoàn tất.
 
 ## Cấu hình trình diễn
 
@@ -140,4 +142,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn **Cấu hình** tại mô đun trình diễn
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.

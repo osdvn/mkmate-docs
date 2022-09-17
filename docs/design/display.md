@@ -41,4 +41,4 @@ Chọn nhóm menu muốn hiển thị trên mobile
 - **mục/Dự án**: giới hạn hiển thị số lượng bài dự án tiêu biểu (nếu có) trên 1 trang website
 - **Ảnh đại diện dự án/Ảnh bìa thư viện ảnh**: chọn kích thước ảnh có sẵn tại danh sách thả xuống
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấp chuột vào nút **v** để hoàn tất.
