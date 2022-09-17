@@ -36,7 +36,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 Lựa chọn cỡ icon tại Drop List
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa mô đun hỗ trợ trực tuyến
 
