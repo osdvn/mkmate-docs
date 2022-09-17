@@ -37,7 +37,7 @@ Lựa chọn kiểu dữ liệu có sẵn ảnh tại danh sách thả xuống
 
 Lựa chọn mẫu trình bày có sẵn ảnh tại danh sách thả xuống
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa mô đun nhóm sản phẩm
 
