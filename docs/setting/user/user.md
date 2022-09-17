@@ -3,7 +3,7 @@
 ## Thêm thành viên mới
 Để thêm một thành viên mới, bạn cần:
 
-Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên**. Những thông tin cần điền như sau:
+Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Những thông tin cần điền như sau:
 
 **Tên đăng nhập**
 Nhập vào tên đăng nhập của tài khoản. _(ví dụ: admin)_
