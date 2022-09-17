@@ -4,7 +4,7 @@ Là dịch vụ trực tuyến dành cho doanh nghiệp với khách hàng, thư
 
 ## Thêm mới mô đun hỗ trợ trực tuyến
 
-Nhấn chọn **Giao diện -> Mô đun -> Hỗ trợ trực tuyến -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Hỗ trợ trực tuyến -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun hỗ trợ trực tuyến được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
