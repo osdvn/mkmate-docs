@@ -7,7 +7,9 @@ published: true
 ---
 # Dự án tiêu biểu
 
-Cho phép quản lý các bài dự án tiêu biểu của cơ quan, công ty, doanh nghiệp.
+- Cho phép quản lý các bài dự án tiêu biểu của cơ quan, công ty, doanh nghiệp.
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
 ## Thêm bài dự án tiêu biểu
 
@@ -29,17 +31,13 @@ Mô tả tóm tắt bài viết
 
 Nội dung chi tiết bài dự án tiêu biểu
 
-Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-
 **Thư viện ảnh**
 
 Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
 
 **Ảnh đại diện**
 
-Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có). 
-
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
+Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có).
 
 **Thứ tự**
 
