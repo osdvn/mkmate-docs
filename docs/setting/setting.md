@@ -56,4 +56,4 @@ Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ giao diện 
 
 **Chế độ bảo trì** Khi chọn là **Bật** hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút **v** để hoàn tất.
