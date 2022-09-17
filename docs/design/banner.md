@@ -84,7 +84,7 @@ Sau khi thay đổi các thông tin nội dung của banner bạn cần chọn n
 
 ### Thêm mới cấu hình trình diễn
 
-Nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình -> Thêm mô đun**
 
 Tại đây bạn có thể thiết lập cấu hình mô đun. Những thông tin cụ thể cần điền như sau:
 
