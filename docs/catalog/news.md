@@ -44,9 +44,7 @@ Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình 
 
 **Chuyên mục**
 
-Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
-
-Chuyên mục tin bài đã được tạo  [tại đây](https://mkmate.osd.vn/docs/catalog/categories/)
+Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn [chuyên mục tin](https://mkmate.osd.vn/docs/catalog/categories/) bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
 
 **Tag**
 
