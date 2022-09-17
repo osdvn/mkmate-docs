@@ -13,7 +13,7 @@ Cấu hình một hệ thống kinh doanh theo chuỗi gồm từ hai hay nhiề
 
 Để cấu hình mô đun hệ thống chi nhánh, bạn cần:
 
-Nhấn chọn **Hệ thống -> Chi nhánh -> Thêm**
+Nhấn chọn **Hệ thống -> Chi nhánh**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
 Những nội dung cần điền như sau:
 
@@ -66,7 +66,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 Nhập thời gian mở cửa của chi nhánh
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
 
 ## Xóa chi nhánh
 
@@ -78,4 +78,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn sửa tại chi nhánh đó.
 
-Sau khi thay đổi các thông tin nội dung của chi nhánh cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của chi nhánh cần chọn nút **v** để cập nhật những thay đổi.
