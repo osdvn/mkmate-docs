@@ -27,7 +27,7 @@ Nhập số lượng giới hạn bài viết hiển thị
 
 Nhập kích thước hình ảnh muốn hiển thị bao gồm chiều rộng và chiều cao
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa mô đun dự án
 
