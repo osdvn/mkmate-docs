@@ -7,7 +7,7 @@ Cho phép cấu hình chuyên mục tin bài tại nhiều bố cục và vị t
 
 Để cấu hình mô đun trình bày tin bài, bạn cần:
 
-Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hình**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hình -> Thêm mô đun**. Những thông tin cụ thể cần điền như sau:
 
 **Bố cục/Vị trí**
 
