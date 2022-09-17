@@ -28,7 +28,7 @@ Nhập tên nhóm trình đơn bằng tiếng Việt
 
 ![trinh-don-1.jpg](img/trinh-don-1.jpg)
 
-Nhấn nút **v** để hoàn tất
+Nhấn nút **v** để hoàn tất.
 
 Có 2 cách để thêm trình đơn
 
