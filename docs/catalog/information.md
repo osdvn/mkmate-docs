@@ -7,7 +7,9 @@ published: true
 ---
 # Thông tin
 
-Cho phép quản lý các bài thông tin như bài giới thiệu, các bài viết về chính sách công ty.
+- Cho phép quản lý các bài thông tin như bài giới thiệu, các bài viết về chính sách công ty.
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
 ## Thêm mới bài thông tin
 
@@ -29,13 +31,9 @@ Nhập tiêu đề cho bài thông tin
 
 Nhập mô tả thông tin có mục đích hướng tới độc giả
 
-Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-
 **Ảnh đại diện**
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
-
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Thứ tự**
 

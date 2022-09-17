@@ -7,7 +7,9 @@ published: true
 ---
 # Thư viện ảnh
 
-Là nơi lưu trữ các bộ sưu tập trên website.
+- Là nơi lưu trữ các bộ sưu tập trên website.
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 ## Thêm thư viện ảnh
 
@@ -23,8 +25,6 @@ Nhập tên bộ sưu tập. Được hiển thị các bộ sưu tập tại tr
 
 Trình bày thông tin có mục đích hướng tới độc giả
 
-Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-
 **Thư viện ảnh**
 
 Upload các bộ ảnh trình bày kiểu gallery
@@ -37,15 +37,13 @@ Upload các bộ ảnh trình bày kiểu gallery
 
 Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
-
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 

@@ -6,7 +6,10 @@ sidebar_label: Sản phẩm
 published: true
 ---
 # Sản phẩm
- 
+
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
+
 # Thêm bài sản phẩm mới
 
 Để thêm một bài sản phẩm, bạn cần:
@@ -27,12 +30,11 @@ Nhập mô tả ngắn cho bài sản phẩm. Độ dài khoảng 160-320 ký t�
 
 **Nội dung**
 
-Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+Nhập nội dung mô tả chi tiết cho bài viết.
 
 **Ảnh đại diện**
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 **Nhóm sản phẩm**
 

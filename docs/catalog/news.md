@@ -7,6 +7,9 @@ published: true
 ---
 # Tin bài
 
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
+
 ## Thêm tin bài mới
 
 Để thêm một tin bài, bạn cần:
@@ -27,8 +30,6 @@ Nhập mô tả cho bài tin. Độ dài khoảng 160-320 ký tự.
 
 Nhập nội dung thông tin có mục đích hướng tới độc giả.
 
-Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-
 **Câu hỏi thường gặp**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
@@ -41,13 +42,9 @@ Dán đường dẫn URL (liên kết) phù hợp với thông tin bài tin, đ�
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
-
 **Chuyên mục**
 
-Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
-
-Chuyên mục tin bài đã được tạo  [tại đây](https://mkmate.osd.vn/docs/catalog/categories/)
+Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn [chuyên mục tin](https://mkmate.osd.vn/docs/catalog/categories/) bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
 
 **Tag**
 

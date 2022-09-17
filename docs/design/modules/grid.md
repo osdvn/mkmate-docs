@@ -6,7 +6,7 @@ Chức năng này dùng để trình bày những loại nội dung có nhiều 
 
 Để cấu hình mô đun Grid Content, bạn cần:
 
-Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Grid Content -> Cấu hình**
+Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Grid Content -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun **Grid Content** được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
 

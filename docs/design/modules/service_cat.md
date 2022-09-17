@@ -5,7 +5,7 @@ Cho phép cấu hình mô đun nhóm sản phẩm tại nhiều bố cục và v
 
 ## Thêm mới mô đun nhóm sản phẩm
 
-Nhấn chọn **Giao diện -> Mô đun -> Nhóm sản phẩm -> **Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Nhóm sản phẩm -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun nhóm sản phẩm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 

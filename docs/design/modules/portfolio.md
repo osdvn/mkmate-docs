@@ -3,7 +3,7 @@
 
 Để cấu hình mô đun dự án, bạn cần:
 
-Nhấn chọn **Giao diện -> Mô đun -> Dự án -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Dự án -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun dự án được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
