@@ -5,7 +5,7 @@ Cho phép cấu hình mô đun trình bày nhóm sản phẩm tại nhiều bố
 
 ## Thêm mới mô đun trình bày sản phẩm
 
-Nhấn chọn **Giao diện -> Mô đun -> Trình bày sản phẩm -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Trình bày sản phẩm -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun trình bày sản phẩm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
