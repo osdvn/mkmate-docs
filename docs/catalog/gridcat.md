@@ -3,6 +3,8 @@
 
 - Nhóm longform: cho phép tạo nhiều nhóm longform tùy theo mục đích.
 - Một nhóm longform có liên kết mật thiết chặt chẽ với các [bài longform](https://mkmate.osd.vn/docs/catalog/gridpage) cùng loại.
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
 ## Thêm một nhóm long form
 
@@ -20,11 +22,9 @@ Nhập tên longform bạn muốn hiển thị trên wesbite
 
 Nhập nội dung cho nhóm longform.
 
-Xem thêm trình soạn thảo nội dung [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-
 **Ảnh đại diện**
 
-Nhấn chọn **Chọn ảnh đại diện** để upload ảnh. Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
+Nhấn chọn **Chọn ảnh đại diện** để upload ảnh.
 
 **Nhóm cha**
 
