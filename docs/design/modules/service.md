@@ -51,7 +51,7 @@ Lựa chọn kiểu sắp xếp hiển thị trên website tại danh sách th�
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa mô đun trình bày sản phẩm
 
