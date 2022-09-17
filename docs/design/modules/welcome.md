@@ -30,7 +30,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa mô đun nội dung
 
