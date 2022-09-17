@@ -7,11 +7,6 @@ tags:
 published: true
 ---
 # Logic sử dụng Mkmate
-## Thêm một mục
-Nhấn chọn nút (+) để thêm mới 1 mục
-
-## Lưu một mục
-Nhấn chọn nút (v) để lưu lại 1 mục
 
 ##  Xóa các mục, các thành phần, thông tin
 Khi xóa hệ thống sẽ yêu cầu xác nhận do Mkmate không có chức năng Thùng rác. Đây là 1 trong những định hướng giúp website không phải lưu trữ nhiều thông tin để website hoạt động nhanh hơn.
