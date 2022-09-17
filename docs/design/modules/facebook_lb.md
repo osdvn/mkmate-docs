@@ -12,7 +12,7 @@ Facebook Business Page nhằm tiếp cận khách hàng bằng cách kết nối
 
 Để cấu hình mô đun Facebook Business Page, bạn cần:
 
-Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Facebook Business Page -> Cấu hình**
+Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Facebook Business Page -> Cấu hình -> Thêm mô đun**
 
 Trang cấu hình mô đun Facebook Business Page được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
