@@ -10,7 +10,9 @@ published: true
 
 ## Thêm mới vai trò
 
-Nhấn chọn **Hệ thống -> Thành viên -> Vai trò -> Thêm**. Những thông tin cần điền như sau:
+Nhấn chọn **Hệ thống -> Thành viên -> Vai trò**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cần điền như sau:
 
 **Tên vai trò**
 Nhập tên vai trò của từng nhóm theo logic để dễ quản lý. 
@@ -30,3 +32,5 @@ Ví dụ đường dẫn trang sản phẩm: https://domain.vn/oadmin/index.php?
 Trong vai trò bạn cần tích vào **catalog/service** để người dùng được với vai trò đó sẽ xem được mục này.
 
 Phân quyền tài khoản được cấu hình sẵn mang tính kĩ thuật. Bạn cần chú ý cẩn thận trước khi sửa/xóa các quyền.
+
+Sau khi thay đổi các thông tin nội dung của chi nhánh cần chọn nút Lưu để cập nhật những thay đổi.
