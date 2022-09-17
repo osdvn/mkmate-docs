@@ -58,7 +58,7 @@ Kích thước W x H = 500 pixel x 621 pixel
 
 Chọn thêm mô đun để hiển thị giao diện bố cục khác nhau
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa mô đun banner
 
