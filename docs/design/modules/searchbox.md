@@ -28,7 +28,7 @@ Có 3 kiểu trình bày
 
 - Đơn giản: hiển thị icon và khung box tìm kiếm từ khóa
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ### Xóa mô đun hộp tìm kiếm
 
