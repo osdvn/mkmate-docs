@@ -6,7 +6,7 @@ Cho phép hiển thị các thông điệp tùy chỉnh trên website.
 
 Để cấu hình mô đun Nội dung, bạn cần:
 
-Nhấn chọn **Giao diện -> Mô đun -> Nội dung -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Nội dung -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun Nội dung được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
