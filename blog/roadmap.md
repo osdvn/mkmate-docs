@@ -22,6 +22,7 @@ tags: [roadmap, mkmate]
 14. - [x] Tinh chỉnh ảnh thumb trong khu vực quản trị
 15. - [ ] Customer portal, self service to manage issue & ticket
 16. - [ ] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
+17. - [x] Hỗ trợ tinyslider cho slideshow
 
 ## 2022-12-31. V6.5.3
 1. - [ ] Layout manager
