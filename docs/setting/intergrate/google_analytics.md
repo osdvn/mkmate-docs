@@ -16,7 +16,7 @@ Sau khi thiết lập tài khoản xong bạn nhấn chọn nút **Tiếp theo**
 
 Tại màn hình thiết lập tài sản, các trường điền như sau:
 
-- **Tên thuộc tính**: điền tên website
+- **Tên thuộc tính**: điền tên thuộc tính
 - **Múi giờ báo cáo**: chọn Việt Nam
 - **Đơn vị tiền tệ**: chọn Đồng Việt Nam
 
@@ -24,7 +24,7 @@ Nhấn chọn **Tiếp theo** được chuyển hướng đến tab **Giới thi
 
 ![Google Analytics](img/ga-2.jpg)
 
-Lựa chọn thông tin phù hợp cho doanh nghiệp của bạn,nhấn chọn **Tạo** và được chuyển hướng đến điều khoản của Google
+Lựa chọn thông tin phù hợp cho doanh nghiệp của bạn, nhấn chọn **Tạo** và được chuyển hướng đến điều khoản của Google
 
 ![Google Analytics](img/ga-3.jpg)
 
