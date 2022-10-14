@@ -1,6 +1,6 @@
 # Hướng dẫn tích hợp Google Search Console
 
-Truy cập đường dẫn: https://search.google.com/search-console/welcome và đăng nhập vào tài khoản gmail của bạn.
+Truy cập đường dẫn: [https://search.google.com/search-console/welcome](https://search.google.com/search-console/welcome) và đăng nhập vào tài khoản gmail của bạn.
 
 Sau khi đăng nhập vào tài khoản gmail, có 2 cách xác minh như sau:
 
