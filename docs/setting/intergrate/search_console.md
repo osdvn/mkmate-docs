@@ -20,7 +20,7 @@ Bạn sẽ được chuyển hướng xác minh quyền sở hữu miền bằng
 
 ![Google Search Console](img/ggs-7.jpg)
 
-Phương thức xác minh này khá phức tạp, bạn nên xác minh bằng tiền tố URL.
+Phương thức xác minh này khá phức tạp, bạn có thể nhờ kỹ thuật viên xử lý hoặc xác minh bằng tiền tố URL.
 
 Sau khi đã lưu file TXT record bạn chọn Verify để hoàn tất phần xác minh.
 
