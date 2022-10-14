@@ -22,7 +22,7 @@ Nhấn chọn **Tiếp theo** được chuyển hướng đến tab **Giới thi
 
 ![Google Analytics](img/ga-2.jpg)
 
-Lựa chọn thông tin phù hợp cho doanh nghiệp của bạn và nhấn chọn **Tạo** và được chuyển hướng đến điều khoản của Google
+Lựa chọn thông tin phù hợp cho doanh nghiệp của bạn,nhấn chọn **Tạo** và được chuyển hướng đến điều khoản của Google
 
 ![Google Analytics](img/ga-3.jpg)
 
@@ -34,7 +34,7 @@ Phương thức khuyên dùng là chọn nền tảng Web.
 
 ![Google Analytics](img/ga-4.jpg)
 
-Thiết lập dữ liệu, bạn điền URL trang web và tên luồng, sau đó chọn tạo luồng.
+Thiết lập dữ liệu, bạn điền URL trang web và tên luồng, sau đó nhấn chọn **Tạo luồng**.
 
 ![Google Analytics](img/ga-5.jpg)
 
