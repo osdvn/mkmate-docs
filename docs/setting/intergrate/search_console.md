@@ -16,14 +16,17 @@ Bạn sẽ được chuyển hướng xác minh quyền sở hữu miền bằng
 
 - Chọn loại bản ghi: TXT
 - Đăng nhập vào nhà cung cấp tên miền của bạn
-- Sao chép bản ghi TXT và cấu hình bản ghi DNS tên miền như sau:
+- Sao chép bản ghi TXT và cấu hình bản ghi DNS tên miền như hình minh họa sau:
 
 ![Google Search Console](img/ggs-7.jpg)
 
+Phương thức xác minh này khá phức tạp, bạn nên xác minh bằng tiền tố URL.
+
 Sau khi đã lưu file TXT record bạn chọn Verify để hoàn tất phần xác minh.
 
-
 ## Xác minh bằng tiền tố URL
+
+> Phương thức xác minh khuyên dùng
 
 ![Google Search Console](img/ggs-1.jpg)
 
@@ -38,7 +41,7 @@ Bạn sẽ được chuyển hướng xác minh theo hình thức này và có r
 
 Mỗi phương pháp xác minh đều có hướng dẫn rất chi tiết, bạn chỉ cần làm theo hướng dẫn là có thể xác minh quyền sở hữu tên miền.
 
-Phương thức xác minh khuyên dùng là thẻ HTML
+### Xác minh qua thẻ HTML
 
 ![Google Search Console](img/ggs-2.jpg)
 
