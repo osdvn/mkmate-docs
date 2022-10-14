@@ -1,6 +1,6 @@
 # Hướng dẫn tích hợp Google Analytics
 
-Truy cập vào Google Analytics theo đường dẫn sau: https://analytics.google.com/analytics/web
+Truy cập vào Google Analytics theo đường dẫn sau: [https://analytics.google.com/analytics/web](https://analytics.google.com/analytics/web)
 
 Google yêu cầu đăng nhập vào tài khoản gmail của bạn.
 
@@ -46,7 +46,7 @@ Bạn có thể sử dụng trình tạo trang web để tự động hoàn tấ
 
 ![Google Analytics](img/ga-7.jpg)
 
-Sau đó, so chép mã đo lường và truy cập vào quản trị web theo đường dẫn sau: **Hệ thống -> Tích hợp -> Mã Google Analytics** và dán mã vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
+Tạo luồng thành công được chuyển hướng tới màn hình **Thông tin chi tiết về luồng phát**, tại đây Google Analytics cấp cho bạn 1 mã đo lường theo dõi, bạn sao chép mã đo lường và truy cập vào quản trị web theo đường dẫn sau: **Hệ thống -> Tích hợp -> Mã Google Analytics** và dán mã vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
 
 ![Google Analytics](img/ga-8.jpg)
 
