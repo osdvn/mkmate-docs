@@ -51,7 +51,7 @@ Sao chép thẻ meta và dán vào trang chủ trên trang web của bạn. Th�
 
 Hoặc
 
-Sao chép thẻ meta và truy cập quản trị web theo đường dẫn như sau: Hệ thống -> Tích hợp -> Thẻ Meta Google Search Console và dán thẻ meta vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
+Sao chép thẻ meta và truy cập quản trị web theo đường dẫn như sau: **Hệ thống -> Tích hợp -> Thẻ Meta Google Search Console** và dán thẻ meta vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
   
 ![Google Search Console](img/ggs-3.jpg)
 
@@ -62,3 +62,5 @@ Nhấn **Xác minh** trong Google Search Console và nhấn chọn **Chuyển đ
 Sau khi xác minh xong được chuyển hướng đến trang tổng quan chi tiết của sản phẩm như hình dưới đây:
 
 ![Google Search Console](img/ggs-5.jpg)
+  
+_Chúc bạn thành công!_
