@@ -46,7 +46,7 @@ Tạo luồng thành công được chuyển hướng tới màn hình **Thông 
 
 ![Google Analytics](img/ga-7.jpg)
 
-Bạn có thể sử dụng trình tạo trang web để tự động hoàn tất việc thiết lập hoặc tự cài đặt thẻ. Để đảm bảo nhận được kết quả đo lường chính xác, hãy nhớ cài đặt thẻ trên mọi trang của trang web.
+Bạn có thể sử dụng trình tạo trang web để tự động hoàn tất việc thiết lập hoặc tự cài đặt thẻ. Để đảm bảo nhận được kết quả đo lường chính xác, bạn cài đặt thẻ trên trang web bạn cần theo dõi.
 
 Nhấn chọn **Xem hướng dẫn về thẻ**, tại đây hướng dẫn rất chi tiết, bạn làm theo hướng dẫn để xác minh thuộc tính mã đo lường theo dõi vào website của bạn.
 
