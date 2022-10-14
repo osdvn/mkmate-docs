@@ -58,6 +58,4 @@ Bạn cần sao chép mã đo lường và truy cập vào quản trị web theo
 
 ![Google Analytics](img/ga-8.jpg)
 
-
-
 _Chúc bạn thành công!_
