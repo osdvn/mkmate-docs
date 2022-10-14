@@ -47,7 +47,7 @@ Mỗi phương pháp xác minh đều có hướng dẫn rất chi tiết, bạn
 
 Cách thực hiện như sau:
 
-Sao chép thẻ meta và dán vào trang chủ trên trang web của bạn. Thẻ phải nằm trong phần <head>, trước phần <body>.
+Sao chép thẻ meta và dán vào trang chủ trên trang web của bạn. Thẻ phải nằm trong phần `head`, trước phần `body`.
 
 Hoặc
 
