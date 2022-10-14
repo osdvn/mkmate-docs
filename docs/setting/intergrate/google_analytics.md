@@ -38,16 +38,22 @@ Thiết lập dữ liệu, bạn điền URL trang web và tên luồng, sau đ�
 
 ![Google Analytics](img/ga-5.jpg)
 
-Nhấn chọn Xem hướng dẫn về thẻ, tại đây hướng dẫn rất chi tiết, bạn làm theo hướng dẫn để xác minh thuộc tính của web.
-
-![Google Analytics](img/ga-6.jpg)
-
-Bạn có thể sử dụng trình tạo trang web để tự động hoàn tất việc thiết lập hoặc tự cài đặt thẻ. Để đảm bảo nhận được kết quả đo lường chính xác, hãy nhớ cài đặt thẻ trên mọi trang của trang web.
+Tạo luồng thành công được chuyển hướng tới màn hình **Thông tin chi tiết về luồng phát**, tại đây Google Analytics cấp cho bạn 1 mã đo lường theo dõi.
 
 ![Google Analytics](img/ga-7.jpg)
 
-Tạo luồng thành công được chuyển hướng tới màn hình **Thông tin chi tiết về luồng phát**, tại đây Google Analytics cấp cho bạn 1 mã đo lường theo dõi, bạn sao chép mã đo lường và truy cập vào quản trị web theo đường dẫn sau: **Hệ thống -> Tích hợp -> Mã Google Analytics** và dán mã vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
+Bạn có thể sử dụng trình tạo trang web để tự động hoàn tất việc thiết lập hoặc tự cài đặt thẻ. Để đảm bảo nhận được kết quả đo lường chính xác, hãy nhớ cài đặt thẻ trên mọi trang của trang web.
+
+Nhấn chọn **Xem hướng dẫn về thẻ**, tại đây hướng dẫn rất chi tiết, bạn làm theo hướng dẫn để xác minh thuộc tính mã đo lường theo dõi vào website của bạn.
+
+![Google Analytics](img/ga-6.jpg)
+
+**Hướng dẫn dán mã Mã Google Analytics trong quản trị web**
+
+Bạn cần sao chép mã đo lường và truy cập vào quản trị web theo đường dẫn sau: **Hệ thống -> Tích hợp -> Mã Google Analytics** và dán mã vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
 
 ![Google Analytics](img/ga-8.jpg)
+
+
 
 _Chúc bạn thành công!_
