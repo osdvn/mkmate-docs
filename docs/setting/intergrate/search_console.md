@@ -34,10 +34,10 @@ Với lựa chọn xác minh tiền tố URL, bạn nhập địa chỉ URL webs
 
 Bạn sẽ được chuyển hướng xác minh theo hình thức này và có rất nhiều cách để bạn xác minh quyền sở hữu trang web như:
 
-- Tệp HTML: Tải tệp HTML lên trang web của bạn
-- Thẻ HTML: Thêm thẻ meta vào trang chủ trang web của bạn
-- Google Analytics: Sử dụng tài khoản Google Analytics của bạn
-- Google Tag Manager: Sử dụng tài khoản Trình quản lý thẻ của Google của bạn.
+- **Tệp HTML:** Tải tệp HTML lên trang web của bạn
+- **Thẻ HTML:** Thêm thẻ meta vào trang chủ trang web của bạn
+- **Google Analytics:** Sử dụng tài khoản Google Analytics của bạn
+- **Google Tag Manager:** Sử dụng tài khoản Trình quản lý thẻ của Google của bạn.
 
 Mỗi phương pháp xác minh đều có hướng dẫn rất chi tiết, bạn chỉ cần làm theo hướng dẫn là có thể xác minh quyền sở hữu tên miền.
 
@@ -46,6 +46,7 @@ Mỗi phương pháp xác minh đều có hướng dẫn rất chi tiết, bạn
 ![Google Search Console](img/ggs-2.jpg)
 
 Cách thực hiện như sau:
+
 Sao chép thẻ meta và dán vào trang chủ trên trang web của bạn. Thẻ phải nằm trong phần <head>, trước phần <body>.
 
 Hoặc
