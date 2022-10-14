@@ -1,5 +1,7 @@
 # Hướng dẫn tích hợp Google Analytics
 
+## Tạo thuộc tính Google Analytics
+
 Truy cập vào Google Analytics theo đường dẫn sau: [https://analytics.google.com/analytics/web](https://analytics.google.com/analytics/web)
 
 Google yêu cầu đăng nhập vào tài khoản gmail của bạn.
@@ -25,6 +27,8 @@ Nhấn chọn **Tiếp theo** được chuyển hướng đến tab **Giới thi
 Lựa chọn thông tin phù hợp cho doanh nghiệp của bạn,nhấn chọn **Tạo** và được chuyển hướng đến điều khoản của Google
 
 ![Google Analytics](img/ga-3.jpg)
+
+## Thiết lập tính năng đo lường trên tên miền
 
 Tạo thành công thuộc tính và bắt đầu cấu hình thu thập dữ liệu:
 
