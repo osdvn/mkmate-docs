@@ -17,11 +17,14 @@ Tại box "Câu hỏi thường gặp" trong từng trang, bạn có thể bấm
 
 **Tiêu đề**
 
-Điền tiêu đề của câu hỏi vào ô textbox
+Dựa vào mục đích của sản phẩm để đặt câu hỏi, bạn có thể sử dụng các cách thức sau:
+
+- **Hỏi thẳng vào vấn đề:** Những câu hỏi này chủ yếu áp dụng trong những trường hợp bạn cần câu trả lời dứt khoát hoặc cần khẳng định lại câu trả lời.
+- **Đưa những câu hỏi mở thăm dò:** Những câu hỏi này nhằm thăm dò ý kiến, khiến cho người được hỏi có thể đưa ra thêm các thông tin giải đáp những điều người đọc thường thắc mắc.
 
 **Nội dung**
 
-Điền nội dung câu trả lời cần ngắn gọn, xúc tích
+Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề.
 
 ## Xóa câu hỏi thường gặp
 
