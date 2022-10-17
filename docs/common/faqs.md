@@ -17,11 +17,11 @@ Tại box "Câu hỏi thường gặp" trong từng trang, bạn có thể bấm
 
 **Tiêu đề**
 
-Điền tiêu đề của câu hỏi vào ô textbox
+Dựa vào mục đích của sản phẩm để đặt câu hỏi.
 
 **Nội dung**
 
-Điền nội dung câu trả lời cần ngắn gọn, xúc tích vì 
+Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề.
 
 ## Xóa câu hỏi thường gặp
 

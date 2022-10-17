@@ -28,7 +28,8 @@ Thông thường việc sắp xếp ở nhiều phần mềm theo quy tắc từ
 
 ## Bố cục và vị trí
 
-Là cách trình bày các bộ phận chi tiết nằm trong bản thiết kế của một trang website
+- **Bố cục** là sự sắp xếp của tất cả các mục trên trang website. Tạo sự liên kết chặt chẽ giữa các yếu tố trên website, giúp người dùng có cái nhìn tổng quan về trang web và dễ dàng tìm kiếm những nội dung họ quan tâm.
+- **Vị trí** là nơi hiển thị các mục trong trang web giúp người dùng dễ dàng nắm bắt toàn bộ các thành phần của website. Cần sắp xếp vị trí các mục nhằm phù hợp với giao diện website.
 
 ## Một số lưu ý với hình ảnh sử dụng trên website
 Ảnh đưa lên website tốt nhất là ở định dạng JPG, nếu được nén theo chuẩn losslessly là tốt nhất, kích thước chiều rộng tối đa là 1920 pixel, độ phân giải 72 dpi, quality = 80-85%. Khi bạn không chắc chắn về định dạng ảnh thì tuyệt đối không nên dùng định dạng ảnh PNG.
