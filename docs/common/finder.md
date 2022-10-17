@@ -94,7 +94,7 @@ Cách thao tác tương tự như với file, đặc thù của thư mục sẽ 
 *   **Empty the folder:** xóa toàn bộ file và thư mục bên trong thư mục đang chọn
 *   **Hide (Preference):** ẩn 1 thư mục 
 *   **Rename:** đổi tên 1 thư mục
-*   **Create archive** Tạo kho lưu trữ thư mục (có 5 kiểu nén: TAR archive, GZIP archive, BZIP archive, XZ archive, ZIP archive)
+*   **Create archive:** tạo kho lưu trữ thư mục (có 5 kiểu nén: TAR archive, GZIP archive, BZIP archive, XZ archive, ZIP archive)
 *   **Select all:** chọn toàn bộ file trong 1 thư mục
 *   **Invert selection:** đảo chọn toàn bộ các file trong 1 thư mục so với những file đang ở trạng thái chọn
 
@@ -102,14 +102,14 @@ Cách thao tác tương tự như với file, đặc thù của thư mục sẽ 
 
 ![ql-file-2.jpg (82 KB)](img/ql-file-2.jpg)
 
-**Các chức năng chỉ hỗ trợ mức đơn giản như dưới đây**
+**Các chức năng chỉ hỗ trợ mức đơn giản như dưới đây:**
 
 *   **Width:** thay đổi chiều rộng ảnh
 *   **Height:** thay đổi chiều cao ảnh
 *   **Aspect Ratio:** giữ tỉ lệ ảnh, điều chỉnh kích thước chiều rộng của ảnh sau đó click nút Aspect ratio thì chiều cao tự động resize theo kích thước tương ứng. Nên dùng chức năng này để ảnh theo tỉ lệ chuẩn
 *   **Reset:** trở về trạng thái ban đầu của ảnh
 *   **Quality:** dung lượng ảnh
-*   **Scale:** tỉ lệ ảnh theo kích thước của ảnh ban đầu.
+*   **Scale:** tỉ lệ ảnh theo kích thước của ảnh ban đầu
 *   **Apply:** lưu đè lên ảnh gốc
 *   **Save as:** lưu ảnh thành 1 file ảnh khác và ảnh gốc được giữ nguyên
 *   **Crop:** cắt ảnh theo kích thích tùy chỉnh
@@ -127,7 +127,7 @@ Có 2 lý do chính mà bạn cần tổ chức thư mục khoa học theo nhu c
 Hệ thống của OSD.VN theo logic tinh gọn và giảm chi phí xử lý về phần cứng máy chủ nên sẽ lưu trực tiếp thư mục và file của bạn trên ổ cứng máy chủ tương tự như cách bạn lưu thư mục và file trên Windows **Explorer** hay MacOS X **Finder**
 
 *   Khi tìm kiếm lại ảnh đã có trên hệ thống mất thời gian hơn.
-*   Mỗi lần thao tác với trình quản lý file, khi có quá nhiều file trong 1 thư mục sẽ khiến bạn phải đợi hệ thống load lại trong thời gian dài mới có thể chọn được file mong muốn
+*   Mỗi lần thao tác với trình quản lý file, khi có quá nhiều file trong 1 thư mục sẽ khiến bạn phải đợi hệ thống load lại trong thời gian dài mới có thể chọn được file mong muốn.
 
 ### Dễ phối hợp nhóm hơn
 
@@ -145,7 +145,7 @@ Khi bạn không thực hiện theo tư vấn của OSD.VN, theo thời gian, c�
 
 ### Thư mục dành cho nhóm Quản trị
 
-Hệ thống phân cấp thư mục linh hoạt nhằm đáp ứng đồng thời quy mô của doanh nghiệp lớn lẫn doanh nghiệp nhỏ. Khi doanh nghiệp của bạn chỉ có 1-2 người duy nhất tham gia quản lý website thì mọi ảnh được đưa lên thư mục data
+Hệ thống phân cấp thư mục linh hoạt nhằm đáp ứng đồng thời quy mô của doanh nghiệp lớn lẫn doanh nghiệp nhỏ. Khi doanh nghiệp của bạn chỉ có 1-2 người duy nhất tham gia quản lý website thì mọi ảnh được đưa lên thư mục data.
 
 ### Thư mục của nhóm "Thành viên"
 
