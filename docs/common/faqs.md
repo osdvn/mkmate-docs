@@ -21,7 +21,7 @@ Tại box "Câu hỏi thường gặp" trong từng trang, bạn có thể bấm
 
 **Nội dung**
 
-Điền nội dung câu trả lời cần ngắn gọn, xúc tích vì 
+Điền nội dung câu trả lời cần ngắn gọn, xúc tích
 
 ## Xóa câu hỏi thường gặp
 
