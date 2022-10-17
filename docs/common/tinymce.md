@@ -77,28 +77,11 @@ Tính năng lựa chọn kí tự, kí hiệu đặc biệt. Hệ thống chỉ 
 
 ![trinh-soan-thao-10.jpg](img/trinh-soan-thao-10.jpg)
 
-- **Currency:** tiền tệ
-- **Text:** chữ
-- **Quotations:** báo giá
-- **Mathematical:** toán học
-- **Extended Latin:** tiếng Lating mở rộng
-- **Symbols:** ký hiệu
-- **Arrows:** mũi tên
-
 ### (11) Emoticons
 
 Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phép bạn lựa chọn 8 tùy chọn tương ứng biểu tượng cảm xúc theo danh sách tương ứng như sau:
 
 ![trinh-soan-thao-11.jpg](img/trinh-soan-thao-11.jpg)
-
-- **Symbols:** ký hiệu
-- **People:** mọi người
-- **Animals:** and Nature Động vật và thiên nhiên
-- F**ood and Drink:** đồ ăn và đồ uống
-- **Activity:** hoạt động
-- **Travel and Places:** du lịch và địa điểm
-- **Objects:** các đối tượng
-- **Flags:** cờ
 
 ### (12) Source code
 
@@ -187,15 +170,15 @@ Tùy chọn Open link in New window sẽ giúp điều khiển mở liên kết 
 
 !> Bạn cũng nên tham khảo tư vấn tổ chức thư mục hình ảnh trên hệ thống
 
-(20) Chèn trực tiếp ảnh từ máy tính lên trình soạn thảo nội dung
+**(20) Chọn hình ảnh nhanh trực tiếp từ máy tính cá nhân**
 
 ![trinh-soan-thao-20.jpg](img/trinh-soan-thao-20.jpg)
 
-Bấm vào nơi bạn muốn chèn ảnh
+Bấm vào vùng bạn muốn chèn ảnh, tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 20, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn https://osdvn.vn/media/data/uploads/2022/07/06/162821_ky-thuat-huong-dan-viet-bai-chuan-seo-dat-ket-qua-cao.jpeg)
 
-Tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 20, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn https://osdvn.vn/media/data/uploads/2022/07/06/162821_ky-thuat-huong-dan-viet-bai-chuan-seo-dat-ket-qua-cao.jpeg)
+**(21) Chèn/Chỉnh sửa hình ảnh**
 
-Để chèn hình ảnh vào bài viết, bạn đặt con trỏ vào vị trí cần chèn, sau đó chọn nút số (21) trên thanh công cụ soạn thảo. Tiếp theo, hệ thống sẽ mở trình quản lý file của hệ thống để bạn có thể chọn 1 hoặc nhiều ảnh => Click phải chuột và bấm Select Files => Ảnh sẽ được chèn vào trong nội dung bài viết.
+Để chèn hình ảnh/chỉnh sửa hình ảnh trong bài viết, bạn đặt con trỏ vào vị trí cần chèn, sau đó chọn nút số (21) trên thanh công cụ soạn thảo. Tiếp theo, hệ thống sẽ mở trình quản lý file của hệ thống để bạn có thể chọn 1 hoặc nhiều ảnh => Click phải chuột và bấm **Select Files** => Ảnh sẽ được chèn vào trong nội dung bài viết.
 
 ![trinh-soan-thao-21.jpg](img/trinh-soan-thao-21.jpg)
 
@@ -221,6 +204,6 @@ WIP: tham khảo thêm cách tạo kênh và upload video lên youtube
 
 ![trinh-soan-thao-6.jpg](img/trinh-soan-thao-6.jpg)
 
-Bạn có thể sử dụng nhấn nút Table trong trình soạn thảo để chèn bảng biểu vào nội dung trình soạn thảo.
+Bạn có thể sử dụng nhấn nút **Table** trong trình soạn thảo để chèn bảng biểu vào nội dung trình soạn thảo.
 
 Khi muốn gộp, tách cột và dòng, thao tác cũng tương tự như bạn thao tác với MS Excel, Google Docs, MS Word...
