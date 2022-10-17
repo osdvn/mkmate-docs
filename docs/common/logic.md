@@ -28,7 +28,7 @@ Thông thường việc sắp xếp ở nhiều phần mềm theo quy tắc từ
 
 ## Bố cục và vị trí
 
-Là cách trình bày các bộ phận chi tiết nằm trong bản thiết kế của một trang website
+Là cách trình bày các bộ phận chi tiết nằm trong giao diện của một trang website.
 
 ## Một số lưu ý với hình ảnh sử dụng trên website
 Ảnh đưa lên website tốt nhất là ở định dạng JPG, nếu được nén theo chuẩn losslessly là tốt nhất, kích thước chiều rộng tối đa là 1920 pixel, độ phân giải 72 dpi, quality = 80-85%. Khi bạn không chắc chắn về định dạng ảnh thì tuyệt đối không nên dùng định dạng ảnh PNG.
