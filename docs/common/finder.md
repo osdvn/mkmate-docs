@@ -28,7 +28,7 @@ Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cả
 *   (12) Sao chép file ảnh hoặc thư mục ảnh vào khay nhớ và có thể thao tác tới thư mục đích để dán 1 tương tự.
 *   (13) Cắt file ảnh hiện tại vào khay nhớ để di chuyển sang thư mục ảnh khác
 *   (14) Dán ảnh vừa cắt hoặc copy vào thư mục ảnh
-*   (15) Chọn ảnh cần xóa và click biểu tượng thùng rác, nút 15
+*   (15) Chọn ảnh cần xóa và click biểu tượng thùng rác
 *   (16) Làm trống thư mục
 *   (17) Tính năng xem trước hình ảnh
 *   (18) Nhân bản file ảnh hoặc thư mục ảnh
