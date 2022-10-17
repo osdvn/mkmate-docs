@@ -73,8 +73,7 @@ Trình đơn này được hiện ra khi bạn click phải chuột vào đối 
 
 ### Đối với file nén (chức năng giới hạn)
 
-Hệ thống cho phép nén và giải nén định dạng zip trên trình quản lý file. Tuy nhiên, có 1 bất cập về sự chiếm dụng tài nguyên   
-máy chủ, chức năng này chỉ được mở khi được yêu cầu hỗ trợ. Số lần mở phụ thuộc vào gói đăng ký sử dụng.
+Hệ thống cho phép nén và giải nén định dạng zip trên trình quản lý file. Tuy nhiên, có 1 bất cập về sự chiếm dụng tài nguyên máy chủ, chức năng này chỉ được mở khi được yêu cầu hỗ trợ. Số lần mở phụ thuộc vào gói đăng ký sử dụng.
 
 ### Đối với thư mục
 
