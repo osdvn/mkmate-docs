@@ -84,7 +84,7 @@ Cách thao tác tương tự như với file, đặc thù của thư mục sẽ 
 *   **Open:** mở thư mục
 *   **Open in new window:** mở thư mục tại cửa sổ mới
 *   **Download:** tải toàn bộ nội dung thư mục về máy tính
-*   **Preview:**xem trước thư mục file
+*   **Preview:** xem trước thư mục file
 *   **Upload files** upload file từ máy tính lên thư mục ảnh
 *   **Into New Folder:** chuyển nhanh 1 thư mục vào thư mục mới có tên NewFolder
 *   **Copy:** sao chép thư mục hiện tại vào khay nhớ và có thể thao tác tới thư mục đích để dán 1 tương tự.
