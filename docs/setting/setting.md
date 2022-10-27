@@ -31,7 +31,7 @@ Thông tin này thường xuất hiện tại chân trang, trang thông tin liê
 
 **E-mail**
 
-Địa chỉ email dùng để nhận thông tin giao tiếp với người sử dụng. Khi có nhiều email, cần ngăn cách bằng dấu phẩy
+Địa chỉ email dùng để nhận thông tin giao tiếp với người sử dụng (bao gồm form liên hệ, các form khác trên website). Khi có nhiều email, cần ngăn cách bằng dấu chấm phẩy. Ví dụ: info@osd.vn; system@osd.vn.
 
 **Điện thoại**
 
