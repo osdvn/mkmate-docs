@@ -5,7 +5,7 @@ authors: saosangmo
 tags: [roadmap, mkmate]
 ---
 
-## 2022-10-31. V6.5.2
+## 2022-11-30. V6.5.2
 1. - [ ] Tối ưu lại phần backup dữ liệu
 2. - [ ] Tích hợp Google Ads, Facebook Ads
 3. - [ ] Task queue for optimizing lossless image
