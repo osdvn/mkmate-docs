@@ -31,3 +31,6 @@ tags: [roadmap, mkmate]
 4. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 5. - [ ] Mẫu nội dung cho trình soạn thảo
 6. - [ ] Bỏ token trong khu vực quản trị
+
+## 2023-03-31. V6.5.4
+1. - [ ] Hỗ trợ sản phẩm random
