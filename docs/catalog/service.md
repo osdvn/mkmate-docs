@@ -50,7 +50,8 @@ Là một dạng quy ước giúp phân loại sản phẩm.
 
 **Giá bán**
 
-Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
+
+Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm. Giá dao động của sản phẩm theo từng mốc giá tiền `Từ` `đến`
 
 **Mục lục**
 
@@ -85,11 +86,11 @@ Kết quả hiển thị tự động theo theo công thức `Tổng điểm/S�
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
 **Khuyến mại**
-- **TT**: Điền số thứ tự cho từng mốc khuyến mãi
+- **TT**: Điền số thứ tự cho từng mốc khuyến mại
 - **Tên gói**: Tên gói khuyến mại
-- **Giá khuyến mại**: Điền giá khuyến mãi
-- **Ngày bắt đầu**: Chọn ngày bắt đầu khuyến mãi
-- **Ngày kết thúc**: Chọn ngày kết thúc khuyến mãi
+- **Giá khuyến mại**: Điền giá khuyến mại
+- **Ngày bắt đầu**: Chọn ngày bắt đầu khuyến mại
+- **Ngày kết thúc**: Chọn ngày kết thúc khuyến mại
 - **Thêm**: Nhấn chọn để thêm nhiều khuyến mãi theo từng mốc thời gian
 
 **Câu hỏi thường gặp**
