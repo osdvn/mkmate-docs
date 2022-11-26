@@ -21,6 +21,13 @@ Quy tắc sắp xếp theo số chỉ định từ lớn đến bé.
 
 Thông thường việc sắp xếp ở nhiều phần mềm theo quy tắc từ số nhỏ đến số lớn. Tuy nhiên, việc này có bất cập khi mục nào đó trong tương lai muốn xếp lên trước thì bạn cần phải sửa toàn bộ các số đã thực hiện trước đó.
 
+### Thứ tự sắp xếp bài sản phẩm tại nhóm danh mục
+
+Thứ tự sắp xếp ưu tiên như sau:
+- Nổi bật
+- Thứ tự
+- Ngày xuất bản
+
 ## Trạng thái
 
 - Bật/Có: cho phép hiển thị
