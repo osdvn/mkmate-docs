@@ -8,6 +8,13 @@ authors:
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
 ---
+## 2022-12-04. V6.5.5
+1. - [x] Bổ sung tooltip cho các nút bấm trong quản trị
+2. - [x] Tinh chỉnh ảnh thumb trong khu vực quản trị
+3. - [x] Hỗ trợ banner random
+4. - [x] Hỗ trợ tinyslider cho slideshow
+5. - [x] Cho phép chọn điện thoại theo nhóm
+
 ## 2022-08-31. V6.5.1
 1. - [x] Big Update: Lưu thông tin vùng quản trị bằng AJAX
 2. - [x] Hỗ trợ ảnh webp
