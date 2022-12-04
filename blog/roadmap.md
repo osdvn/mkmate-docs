@@ -18,11 +18,8 @@ tags: [roadmap, mkmate]
 10. - [ ] Tích hợp tiktok
 11. - [ ] 🥷🏽 💻 Cookie Consent
 12. - [ ] 🏊‍♂️ Admin tasks: doing
-13. - [x] Bổ sung tooltip cho các nút bấm trong quản trị
-14. - [x] Tinh chỉnh ảnh thumb trong khu vực quản trị
-15. - [ ] Customer portal, self service to manage issue & ticket
-16. - [ ] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
-17. - [x] Hỗ trợ tinyslider cho slideshow
+17. - [ ] Customer portal, self service to manage issue & ticket
+18. - [ ] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
 
 ## 2022-12-31. V6.5.3
 1. - [ ] Layout manager
