@@ -33,4 +33,3 @@ tags: [roadmap, mkmate]
 6. - [ ] Bỏ token trong khu vực quản trị
 
 ## 2023-03-31. V6.5.4
-1. - [ ] Hỗ trợ sản phẩm random
