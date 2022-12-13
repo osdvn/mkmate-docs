@@ -62,7 +62,11 @@ Bạn cần sao chép mã đo lường và truy cập vào quản trị web theo
 
 Cách 2: `Xem hướng dẫn về thẻ` và dán vào vùng `Mã nhúng`
 
-Tại màn hình quản trị luồng dữ liệu website, nhấn chọn xem chi tiết luồng dữ liệu của website đó -> **Xem hướng dẫn về thẻ**, tại đây hướng dẫn rất chi tiết, bạn copy mã thẻ và dán vào vùng **Giao diện -> Mã nhúng -> Script header**
+Tại màn hình quản trị luồng dữ liệu website, nhấn chọn xem chi tiết luồng dữ liệu của website đó
+
+![Google Analytics](img/ga-10.jpg)
+
+Tiếp theo, nhấn chọn **Xem hướng dẫn về thẻ**, tại đây hướng dẫn rất chi tiết, bạn copy mã thẻ và dán vào vùng **Giao diện -> Mã nhúng -> Script header**
 
 ![Google Analytics](img/ga-6.jpg)
 
