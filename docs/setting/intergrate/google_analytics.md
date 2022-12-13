@@ -48,7 +48,6 @@ Tạo luồng thành công được chuyển hướng tới màn hình **Thông 
 
 Bạn có thể sử dụng trình tạo trang web để tự động hoàn tất việc thiết lập hoặc tự cài đặt thẻ. Để đảm bảo nhận được kết quả đo lường chính xác, bạn cài đặt thẻ trên trang web bạn cần theo dõi.
 
-
 **Hướng dẫn dán Mã Google Analytics trong quản trị web**
 
 Có 2 cách tích hợp Mã Google Analytics vào quản trị web
