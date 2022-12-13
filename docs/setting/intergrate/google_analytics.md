@@ -22,7 +22,7 @@ Tại màn hình thiết lập tài sản, các trường điền như sau:
 
 Nhấn chọn **Tiếp theo** được chuyển hướng đến tab **Giới thiệu về doanh nghiệp**
 
-![Google Analytics](img/ga-2.jpg)
+![Google Analytics](img/ga_2.jpg)
 
 Lựa chọn thông tin phù hợp cho doanh nghiệp của bạn, nhấn chọn **Tạo** và được chuyển hướng đến điều khoản của Google
 
