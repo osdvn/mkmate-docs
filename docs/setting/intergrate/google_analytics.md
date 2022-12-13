@@ -48,14 +48,26 @@ Tạo luồng thành công được chuyển hướng tới màn hình **Thông 
 
 Bạn có thể sử dụng trình tạo trang web để tự động hoàn tất việc thiết lập hoặc tự cài đặt thẻ. Để đảm bảo nhận được kết quả đo lường chính xác, bạn cài đặt thẻ trên trang web bạn cần theo dõi.
 
-Nhấn chọn **Xem hướng dẫn về thẻ**, tại đây hướng dẫn rất chi tiết, bạn làm theo hướng dẫn để xác minh thuộc tính mã đo lường theo dõi vào website của bạn.
 
-![Google Analytics](img/ga-6.jpg)
 
-**Hướng dẫn dán mã Mã Google Analytics trong quản trị web**
+**Hướng dẫn dán Mã Google Analytics trong quản trị web**
+
+Có 2 cách tích hợp Mã Google Analytics vào quản trị web
+
+Cách 1: Copy `Mã đo lường` và dán vào vùng `Tích hợp`
 
 Bạn cần sao chép mã đo lường và truy cập vào quản trị web theo đường dẫn sau: **Hệ thống -> Tích hợp -> Mã Google Analytics** và dán mã vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
 
 ![Google Analytics](img/ga-8.jpg)
+
+Cách 2: `Xem hướng dẫn về thẻ` và dán vào vùng `Mã nhúng`
+
+Tại màn hình quản trị luồng dữ liệu website, nhấn chọn xem chi tiết luồng dữ liệu của website đó -> **Xem hướng dẫn về thẻ**, tại đây hướng dẫn rất chi tiết, bạn copy mã thẻ và dán vào vùng **Giao diện -> Mã nhúng -> Script header**
+
+![Google Analytics](img/ga-6.jpg)
+
+![Google Analytics](img/ga-9.jpg)
+
+Sau khi dán thẻ vào `Mã nhúng` bạn cần nhấn chọn nút (v) để lưu cập nhật thông tin.
 
 _Chúc bạn thành công!_
