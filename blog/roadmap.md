@@ -29,3 +29,4 @@ tags: [roadmap, mkmate]
 5. - [ ] Mẫu nội dung cho trình soạn thảo
 6. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
 7. - [ ] Build giao diện tự động theo từng website
+8. - [ ] Code lại menu với mục tiêu thân thiện hơn
