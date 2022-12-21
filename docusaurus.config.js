@@ -137,10 +137,6 @@ const config = {
                 to: 'https://osd.vn',
               },
               {
-                label: 'Cộng đồng F1',
-                href: 'https://f1.edu.vn',
-              },
-              {
                 label: 'Bảng Tra',
                 href: 'https://bangtra.com',
               }
