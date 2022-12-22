@@ -19,9 +19,9 @@ tags: [roadmap, mkmate]
 11. - [ ] 🏊‍♂️ Admin tasks: doing
 12. - [ ] Customer portal, self service to manage issue & ticket
 13. - [x] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
-14. - [ ] Đếm ký tự của tiêu đề tin bài
-15. - [ ] Bổ sung dự án liên quan tại trang sản phẩm
-16. - [ ] Định nghĩa URL của trang tất cả dự án
+14. - [x] Đếm ký tự của tiêu đề tin bài
+15. - [x] Bổ sung dự án liên quan tại trang sản phẩm
+16. - [x] Định nghĩa URL của trang tất cả dự án
 17. - [ ] Extra Fields cho dự án
 
 
