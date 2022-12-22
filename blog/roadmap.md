@@ -19,6 +19,7 @@ tags: [roadmap, mkmate]
 11. - [ ] 🏊‍♂️ Admin tasks: doing
 12. - [ ] Customer portal, self service to manage issue & ticket
 13. - [x] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
+14. - [ ] Đếm ký tự của tiêu đề tin bài
 
 
 ## 2023-03-31. V6.5.4
