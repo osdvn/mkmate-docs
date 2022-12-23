@@ -34,3 +34,4 @@ tags: [roadmap, mkmate]
 6. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
 7. - [ ] Build giao diện tự động theo từng website
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
+9. - [ ] Thay đổi cách cấu hình mô-đun
