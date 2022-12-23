@@ -23,6 +23,7 @@ tags: [roadmap, mkmate]
 15. - [x] Bổ sung dự án liên quan tại trang sản phẩm
 16. - [x] Định nghĩa URL của trang tất cả dự án
 17. - [ ] Extra Fields cho dự án
+18. - [ ] Hỗ trợ gửi email bằng SMTP theo từng site
 
 
 ## 2023-03-31. V6.5.4
