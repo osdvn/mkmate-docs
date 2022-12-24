@@ -8,7 +8,7 @@ tags: [roadmap, mkmate]
 ## 2022-12-31. V6.5.3
 1. - [ ] Tối ưu lại phần backup dữ liệu
 2. - [ ] Tích hợp Google Ads, Facebook Ads
-3. - [ ] Task queue for optimizing lossless image
+3. - [x] Task queue for optimizing lossless image
 4. - [ ] Popup builder
 5. - [ ] CTA builder
 6. - [ ] Form builder
@@ -23,7 +23,7 @@ tags: [roadmap, mkmate]
 15. - [x] Bổ sung dự án liên quan tại trang sản phẩm
 16. - [x] Định nghĩa URL của trang tất cả dự án
 17. - [ ] Extra Fields cho dự án
-18. - [ ] Hỗ trợ gửi email bằng SMTP theo từng site
+18. - [x] Hỗ trợ gửi email bằng SMTP theo từng site
 
 
 ## 2023-03-31. V6.5.4
