@@ -38,3 +38,5 @@ tags: [roadmap, mkmate]
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
 9. - [ ] Thay đổi cách cấu hình mô-đun
 10. - [ ] Tích hợp Google Ping
+11. - [ ] Hỗ trợ liệt kê anchor text cho toàn bộ site
+12. - [ ] Hỗ trợ tư vấn sửa chính tả và tìm ảnh lỗi
