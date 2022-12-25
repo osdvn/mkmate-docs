@@ -24,6 +24,7 @@ tags: [roadmap, mkmate]
 16. - [x] Định nghĩa URL của trang tất cả dự án
 17. - [ ] Filter Fields cho dự án
 18. - [ ] Hỗ trợ gửi email bằng SMTP theo từng site
+19. - [ ] Đặc điểm nổi bật của sản phẩm
 
 
 ## 2023-03-31. V6.5.4
