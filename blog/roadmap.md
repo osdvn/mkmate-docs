@@ -22,9 +22,9 @@ tags: [roadmap, mkmate]
 14. - [x] Đếm ký tự của tiêu đề tin bài
 15. - [x] Bổ sung dự án liên quan tại trang sản phẩm
 16. - [x] Định nghĩa URL của trang tất cả dự án
-17. - [ ] Filter Fields cho dự án
+17. - [x] Filter Fields cho Dự án
 18. - [ ] Hỗ trợ gửi email bằng SMTP theo từng site
-19. - [ ] Đặc điểm nổi bật của sản phẩm
+19. - [x] Đặc điểm nổi bật của sản phẩm
 
 
 ## 2023-03-31. V6.5.4
@@ -37,3 +37,4 @@ tags: [roadmap, mkmate]
 7. - [ ] Build giao diện tự động theo từng website
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
 9. - [ ] Thay đổi cách cấu hình mô-đun
+10. - [ ] Tích hợp Google Ping
