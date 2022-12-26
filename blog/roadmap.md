@@ -25,6 +25,7 @@ tags: [roadmap, mkmate]
 17. - [x] Filter Fields cho Dự án
 18. - [ ] Hỗ trợ gửi email bằng SMTP theo từng site
 19. - [x] Đặc điểm nổi bật của sản phẩm
+20. - [ ] Hiển thị nhóm con khi xem nhóm cha
 
 
 ## 2023-03-31. V6.5.4
