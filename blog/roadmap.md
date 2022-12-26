@@ -42,5 +42,5 @@ tags: [roadmap, mkmate]
 11. - [ ] Hỗ trợ liệt kê anchor text cho toàn bộ site
 12. - [ ] Hỗ trợ tư vấn sửa chính tả và tìm ảnh lỗi
 13. - [ ] Tool quản lý anchor text
-14. - [ ] Tool sửa chính tả hàng loạt dự án
+14. - [ ] Tool sửa chính tả hàng loạt bài viết
 15. - [ ] Tiện ích thêm nhanh nhiều ảnh cùng 1 lúc
