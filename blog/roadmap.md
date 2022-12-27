@@ -26,7 +26,6 @@ tags: [roadmap, mkmate]
 18. - [ ] Hỗ trợ gửi email bằng SMTP theo từng site
 19. - [x] Đặc điểm nổi bật của sản phẩm
 20. - [x] Hiển thị nhóm con khi xem nhóm cha
-21. - [ ] Hỗ trợ tối ưu hóa lossless cho ảnh hiện tại
 
 
 ## 2023-03-31. V6.5.4
@@ -45,3 +44,4 @@ tags: [roadmap, mkmate]
 13. - [ ] Tool quản lý anchor text
 14. - [ ] Tool sửa chính tả hàng loạt bài viết
 15. - [ ] Tiện ích thêm nhanh nhiều ảnh cùng 1 lúc
+16. - [ ] Hỗ trợ tối ưu hóa lossless cho ảnh hiện tại
