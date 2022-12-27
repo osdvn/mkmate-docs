@@ -23,7 +23,7 @@ tags: [roadmap, mkmate]
 15. - [x] Bổ sung dự án liên quan tại trang sản phẩm
 16. - [x] Định nghĩa URL của trang tất cả dự án
 17. - [x] Filter Fields cho Dự án
-18. - [ ] Hỗ trợ gửi email bằng SMTP theo từng site
+18. - [x] Hỗ trợ gửi email bằng SMTP theo từng site
 19. - [x] Đặc điểm nổi bật của sản phẩm
 20. - [x] Hiển thị nhóm con khi xem nhóm cha
 
