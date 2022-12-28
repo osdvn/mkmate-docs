@@ -6,18 +6,18 @@ tags: [roadmap, mkmate]
 ---
 
 ## 2022-12-31. V6.5.3
-1. - [ ] Tối ưu lại phần backup dữ liệu
-2. - [ ] Tích hợp Google Ads, Facebook Ads
+1. - [-] Tối ưu lại phần backup dữ liệu: delay
+2. - [-] Tích hợp Google Ads, Facebook Ads: delay
 3. - [x] Task queue for optimizing lossless image
 4. - [ ] Popup builder
 5. - [ ] CTA builder
-6. - [ ] Form builder
+6. - [ ] Form builder: delay
 7. - [ ] Cho phép cấu hình sản phẩm liên quan
 8. - [x] SERP preview
-9. - [ ] Tích hợp tiktok
-10. - [ ] 🥷🏽 💻 Cookie Consent
-11. - [ ] 🏊‍♂️ Admin tasks: doing
-12. - [ ] Customer portal, self service to manage issue & ticket
+9. - [ ] Tích hợp tiktok: delay
+10. - [ ] 🥷🏽 💻 Cookie Consent: delay
+11. - [ ] 🏊‍♂️ Admin tasks: doing: delay
+12. - [x] Customer portal, self service to manage issue & ticket: delay
 13. - [x] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
 14. - [x] Đếm ký tự của tiêu đề tin bài
 15. - [x] Bổ sung dự án liên quan tại trang sản phẩm
@@ -45,3 +45,9 @@ tags: [roadmap, mkmate]
 14. - [ ] Tool sửa chính tả hàng loạt bài viết
 15. - [ ] Tiện ích thêm nhanh nhiều ảnh cùng 1 lúc
 16. - [ ] Hỗ trợ tối ưu hóa lossless cho ảnh hiện tại
+17. - [ ] Tối ưu lại phần backup dữ liệu
+18. - [ ] Form builder
+19. - [ ] Tích hợp tiktok
+20. - [ ] Customer portal, self service to manage issue & ticket
+21. - [ ] Tích hợp Google Ads, Facebook Ads
+22. - [ ] Admin tasks: doing: delay
