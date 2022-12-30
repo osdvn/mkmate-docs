@@ -12,7 +12,7 @@ tags: [roadmap, mkmate]
 4. - [x] Popup builder
 5. - [ ] CTA builder: delay
 6. - [ ] Form builder: delay
-7. - [-] Cho phép cấu hình sản phẩm liên quan: delay
+7. - [x] Cho phép cấu hình sản phẩm liên quan
 8. - [x] SERP preview
 9. - [ ] Tích hợp tiktok: delay
 10. - [ ] 🥷🏽 💻 Cookie Consent: delay
