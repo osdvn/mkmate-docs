@@ -21,7 +21,7 @@ tags: [roadmap, mkmate]
 13. - [x] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
 14. - [x] Đếm ký tự của tiêu đề tin bài
 15. - [x] Bổ sung dự án liên quan tại trang sản phẩm
-16. - [x] Định nghĩa URL của trang tất cả dự án
+16. - [x] Định nghĩa URL của trang Tất cả dự án
 17. - [x] Filter Fields cho Dự án
 18. - [x] Hỗ trợ gửi email bằng SMTP theo từng site
 19. - [x] Đặc điểm nổi bật của sản phẩm
