@@ -10,7 +10,7 @@ tags: [roadmap, mkmate]
 2. - [-] Tích hợp Google Ads, Facebook Ads: delay
 3. - [x] Task queue for optimizing lossless image
 4. - [x] Popup builder
-5. - [x] CTA builder
+5. - [ ] CTA builder: delay
 6. - [ ] Form builder: delay
 7. - [-] Cho phép cấu hình sản phẩm liên quan: delay
 8. - [x] SERP preview
