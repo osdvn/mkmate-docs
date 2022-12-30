@@ -26,7 +26,7 @@ tags: [roadmap, mkmate]
 18. - [x] Hỗ trợ gửi email bằng SMTP theo từng site
 19. - [x] Đặc điểm nổi bật của sản phẩm
 20. - [x] Tùy chọn hiển thị nhóm con khi xem nhóm cha
-21. - [ ] Tool kiểm tra lỗi hình ảnh
+21. - [x] Tool kiểm tra lỗi hình ảnh
 
 
 ## 2023-03-31. V6.5.4
