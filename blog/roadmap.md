@@ -15,7 +15,7 @@ tags: [roadmap, mkmate]
 7. - [x] Cho phép cấu hình sản phẩm liên quan
 8. - [x] SERP preview
 9. - [x] Lỗi lấy sản phẩm không cùng danh mục
-10. - [x] Cho phép định nghĩa lấy sản phẩm liên quan: Cùng nhóm hoặc Tự động (Nhận diện)
+10. - [x] Cho phép định nghĩa lấy sản phẩm liên quan: `Cùng nhóm` hoặc `Tự động` (Nhận diện)
 11. - [ ]
 12. - [-]
 13. - [x] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
