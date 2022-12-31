@@ -52,3 +52,4 @@ tags: [roadmap, mkmate]
 20. - [ ] Customer portal, self service to manage issue & ticket
 21. - [ ] Tích hợp Google Ads, Facebook Ads
 22. - [ ] Admin tasks: doing: delay
+23. - [ ] Nâng cấp trình soạn thảo Tinymce6
