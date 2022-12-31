@@ -10,8 +10,8 @@ tags: [roadmap, mkmate]
 2. - [-] Tích hợp Google Ads, Facebook Ads: delay
 3. - [x] Task queue for optimizing lossless image
 4. - [x] Popup builder
-5. - [ ] CTA builder: delay
-6. - [ ] Form builder: delay
+5. - [ ] Drag and Drop các trường thư viện
+6. - [ ] Hỗ trợ upload hàng loạt ảnh cho thư viện
 7. - [x] Cho phép cấu hình sản phẩm liên quan
 8. - [x] SERP preview
 9. - [ ] Tích hợp tiktok: delay
