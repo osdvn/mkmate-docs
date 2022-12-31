@@ -10,7 +10,7 @@ tags: [roadmap, mkmate]
 2. - [-] Tích hợp Google Ads, Facebook Ads: delay
 3. - [x] Task queue for optimizing lossless image
 4. - [x] Popup builder
-5. - [ ] Drag and Drop các trường thư viện
+5. - [x] Drag and Drop các trường thư viện
 6. - [ ] Hỗ trợ upload hàng loạt ảnh cho thư viện
 7. - [x] Cho phép cấu hình sản phẩm liên quan
 8. - [x] SERP preview
@@ -44,7 +44,7 @@ tags: [roadmap, mkmate]
 12. - [ ] Hỗ trợ tư vấn sửa chính tả
 13. - [ ] Đường dẫn hỗ trợ theo template
 14. - [ ] Tool sửa chính tả hàng loạt bài viết
-15. - [ ] Tiện ích thêm nhanh nhiều ảnh cùng 1 lúc
+15. - [ ] 
 16. - [x] Hỗ trợ tối ưu hóa lossless cho ảnh hiện tại
 17. - [ ] Tối ưu lại phần backup dữ liệu
 18. - [ ] Form builder
