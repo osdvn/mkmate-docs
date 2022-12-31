@@ -6,7 +6,7 @@ tags: [roadmap, mkmate]
 ---
 
 ## 2022-12-31. V6.5.3
-1. - [-] Tối ưu lại phần backup dữ liệu: delay
+1. - [-] Bổ sung TOC cho sản phẩm
 2. - [-] Tích hợp Google Ads, Facebook Ads: delay
 3. - [x] Task queue for optimizing lossless image
 4. - [x] Popup builder
