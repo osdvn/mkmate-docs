@@ -39,7 +39,7 @@ tags: [roadmap, mkmate]
 7. - [ ] Build giao diện tự động theo từng website
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
 9. - [ ] Thay đổi cách cấu hình mô-đun
-10. - [ ] Tích hợp Google Ping
+10. - [ ] Tích hợp Google Indexing
 11. - [ ] Hỗ trợ liệt kê anchor text cho toàn bộ site
 12. - [ ] Hỗ trợ tư vấn sửa chính tả và tìm ảnh lỗi
 13. - [ ] Đường dẫn hỗ trợ theo template
@@ -51,5 +51,5 @@ tags: [roadmap, mkmate]
 19. - [ ] Tích hợp tiktok
 20. - [ ] Customer portal, self service to manage issue & ticket
 21. - [ ] Tích hợp Google Ads, Facebook Ads
-22. - [ ] Admin tasks: doing: delay
+22. - [ ] Admin tasks: doing
 23. - [ ] Nâng cấp trình soạn thảo Tinymce6
