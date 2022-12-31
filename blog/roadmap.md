@@ -41,7 +41,7 @@ tags: [roadmap, mkmate]
 9. - [ ] Thay đổi cách cấu hình mô-đun
 10. - [ ] Tích hợp Google Indexing
 11. - [ ] Hỗ trợ liệt kê anchor text cho toàn bộ site
-12. - [ ] Hỗ trợ tư vấn sửa chính tả và tìm ảnh lỗi
+12. - [ ] Hỗ trợ tư vấn sửa chính tả
 13. - [ ] Đường dẫn hỗ trợ theo template
 14. - [ ] Tool sửa chính tả hàng loạt bài viết
 15. - [ ] Tiện ích thêm nhanh nhiều ảnh cùng 1 lúc
