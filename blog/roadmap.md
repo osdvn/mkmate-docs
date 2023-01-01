@@ -11,7 +11,7 @@ tags: [roadmap, mkmate]
 3. - [x] Task queue for optimizing lossless image
 4. - [x] Popup builder
 5. - [x] Tiện ích Drag and Drop các trường theo dòng nhỏ
-6. - [ ] 
+6. - [x] Hỗ trợ tối ưu hóa lossless cho hình ảnh khi upload lên hệ thống
 7. - [x] Cho phép cấu hình sản phẩm liên quan
 8. - [x] SERP preview
 9. - [x] Lỗi lấy sản phẩm không cùng danh mục
@@ -45,7 +45,7 @@ tags: [roadmap, mkmate]
 13. - [ ] Đường dẫn hỗ trợ theo template
 14. - [ ] Tool sửa chính tả hàng loạt bài viết
 15. - [ ] Cookie Consent
-16. - [x] Hỗ trợ tối ưu hóa lossless cho ảnh hiện tại
+16. - [x] 
 17. - [ ] Tối ưu lại phần backup dữ liệu
 18. - [ ] Form builder
 19. - [ ] Tích hợp tiktok
