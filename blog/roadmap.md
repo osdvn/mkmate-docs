@@ -24,6 +24,7 @@ tags: [roadmap, mkmate]
 16. - [x] Đặc điểm nổi bật của sản phẩm
 17. - [x] Tùy chọn hiển thị nhóm con khi xem nhóm cha
 18. - [x] Tool kiểm tra lỗi hình ảnh
+19. - [x] Nâng cấp trình soạn thảo TinyMCE6
 
 
 ## 2023-03-31. V6.5.4
@@ -49,4 +50,3 @@ tags: [roadmap, mkmate]
 20. - [ ] Customer portal, self service to manage issue & ticket
 21. - [ ] Tích hợp Google Ads, Facebook Ads
 22. - [ ] Admin tasks: doing
-23. - [ ] Nâng cấp trình soạn thảo Tinymce6
