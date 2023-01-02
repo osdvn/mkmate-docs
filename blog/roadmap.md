@@ -5,28 +5,6 @@ authors: saosangmo
 tags: [roadmap, mkmate]
 ---
 
-## 2022-12-31. V6.5.3
-1. - [-] Bổ sung TOC cho sản phẩm
-2. - [x] Task queue for optimizing lossless image
-3. - [x] Popup builder
-4. - [x] Tiện ích Drag and Drop các trường theo dòng nhỏ
-5. - [x] Hỗ trợ tối ưu hóa lossless cho hình ảnh khi upload lên hệ thống
-6. - [x] Cho phép cấu hình sản phẩm liên quan
-7. - [x] SERP preview
-8. - [x] Lỗi lấy sản phẩm không cùng danh mục
-9. - [x] Cho phép định nghĩa lấy sản phẩm liên quan: `Cùng nhóm` hoặc `Tự động` (Nhận diện)
-10. - [x] Cho phép định nghĩa slideshow: mobile và desktop khác nhau
-11. - [x] Đếm ký tự của tiêu đề tin bài
-12. - [x] Bổ sung dự án liên quan tại trang sản phẩm
-13. - [x] Định nghĩa URL của trang Tất cả dự án
-14. - [x] Filter Fields cho Dự án
-15. - [x] Hỗ trợ gửi email bằng SMTP theo từng site
-16. - [x] Đặc điểm nổi bật của sản phẩm
-17. - [x] Tùy chọn hiển thị nhóm con khi xem nhóm cha
-18. - [x] Tool kiểm tra lỗi hình ảnh
-19. - [x] Nâng cấp trình soạn thảo TinyMCE6
-
-
 ## 2023-03-31. V6.5.4
 1. - [ ] Layout manager
 2. - [ ] Search and replace massive content
