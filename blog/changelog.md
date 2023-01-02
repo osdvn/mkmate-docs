@@ -8,7 +8,7 @@ authors:
   image_url: https://github.com/saosangmo.png
 tags: [roadmap, mkmate]
 ---
-## 2022-12-31. V6.5.2
+## 2022-12-31. V6.5.3
 1. - [x] Bổ sung TOC cho sản phẩm
 2. - [x] Task queue for optimizing lossless image
 3. - [x] Popup builder
@@ -29,7 +29,7 @@ tags: [roadmap, mkmate]
 18. - [x] Tool kiểm tra lỗi hình ảnh
 19. - [x] Nâng cấp trình soạn thảo TinyMCE6
 
-## 2022-12-04. V6.5.1 hotfix
+## 2022-12-04. V6.5.2
 1. - [x] Bổ sung tooltip cho các nút bấm trong quản trị
 2. - [x] Tinh chỉnh ảnh thumb trong khu vực quản trị
 3. - [x] Hỗ trợ banner random
