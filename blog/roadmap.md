@@ -15,11 +15,11 @@ tags: [roadmap, mkmate]
 7. - [ ] Build giao diện tự động theo từng website
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
 9. - [ ] Thay đổi cách cấu hình mô-đun
-10. - [ ] Tích hợp Google Indexing
+10. - [ ] Tích hợp Google Indexing API
 11. - [ ] Hỗ trợ liệt kê anchor text cho toàn bộ site
 12. - [ ] Hỗ trợ tư vấn sửa chính tả
-13. - [ ] Đường dẫn hỗ trợ theo template
-14. - [ ] Tool sửa chính tả hàng loạt bài viết
+13. - [x] 
+14. - [ ] Tool kiểm tra chính tả
 15. - [ ] Cookie Consent
 16. - [ ] Hỗ trợ upload nhiều ảnh đồng thời cho thư viện
 17. - [ ] Tối ưu lại phần backup dữ liệu
