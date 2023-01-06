@@ -12,12 +12,12 @@ Tính năng này được biết đến nhiều vì lợi ích SEO, được xu�
 
 ## Thêm mới câu hỏi thường gặp
 
-Tại box "Câu hỏi thường gặp" trong từng trang, bạn có thể bấm nút **Thêm**
+Tại trường "Câu hỏi thường gặp" trong từng vùng chức năng, bạn có thể bấm nút **+ Thêm**
 ![faq.jpg](img/faq.jpg)
 
 **Tiêu đề**
 
-Dựa vào mục đích của sản phẩm để đặt câu hỏi.
+Dựa vào mục đích của bài viết để đặt câu hỏi.
 
 **Nội dung**
 
@@ -35,7 +35,7 @@ Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề
 
 ![faq-2.jpg](img/faq-2.jpg)
 
-Sau khi hoàn tất các thao tác thay đổi thông tin, bạn cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi hoàn tất các thao tác thay đổi thông tin, bạn cần chọn nút (v) để cập nhật những thay đổi.
 
 ## Sắp xếp lại vị trí
 
