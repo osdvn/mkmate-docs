@@ -33,4 +33,4 @@ Trong vai trò bạn cần tích vào **catalog/service** để người dùng �
 
 Phân quyền tài khoản được cấu hình sẵn mang tính kĩ thuật. Bạn cần chú ý cẩn thận trước khi sửa/xóa các quyền.
 
-Sau khi thay đổi các thông tin nội dung của chi nhánh cần chọn nút **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của chi nhánh cần chọn nút **v** để cập nhật những thay đổi.
