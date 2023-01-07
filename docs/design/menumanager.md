@@ -6,10 +6,6 @@ published: true
 
 Trình đơn là các mục menu thường nằm ở phần đầu của trang web. Top Menu sẽ giúp mọi người thuận thiện trong việc truy cập nhanh vào các chuyên mục khác nhau trên trang web của bạn.
 
-**Một số lưu ý về slideshow và banner**
-
-Đối với thiết lập trình đơn, bạn cần thêm 1 bước cấu hình tại **Giao diện -> Mô đun -> Trình đơn -> Cấu hình**, để hiển thị ngoài trang chủ website
-
 ## Trình đơn
 
 ### Thêm trình đơn
