@@ -18,8 +18,8 @@ tags: [roadmap, mkmate]
 10. - [ ] Tích hợp Google Indexing API
 11. - [ ] Hỗ trợ liệt kê anchor text cho toàn bộ site
 12. - [ ] Hỗ trợ tư vấn sửa chính tả
-13. - [x] 
-14. - [ ] Tool kiểm tra chính tả
+13. - [x] Tool kiểm lỗi ảnh
+14. - [ ] Tool kiểm tra link gãy
 15. - [ ] Cookie Consent
 16. - [ ] Hỗ trợ upload nhiều ảnh đồng thời cho thư viện
 17. - [ ] Tối ưu lại phần backup dữ liệu
