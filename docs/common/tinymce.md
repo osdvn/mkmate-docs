@@ -8,7 +8,7 @@ published: true
 ---
 # Trình soạn thảo nội dung
 
-Trình soạn thảo TinyMCE 5 với nhiều tích hợp sâu giúp bạn soạn thảo trực tiếp trên website nhanh chóng và hiệu quả hơn.
+Trình soạn thảo TinyMCE 6 với nhiều tích hợp sâu giúp bạn soạn thảo trực tiếp trên website nhanh chóng và hiệu quả hơn.
 
 **Sơ đồ các tính năng trên thanh công cụ của trình soạn thảo**
 
@@ -55,11 +55,11 @@ Bạn cần chọn đoạn văn bản cần thay đổi màu chữ, sau đó b�
 
 ![trinh-soan-thao-7.jpg](img/trinh-soan-thao-7.jpg)
 
-Để xóa màu chữ của văn bản, bạn cần bôi đen đoạn văn bản cần xóa màu và chọn nút Remove Color.
+Để xóa màu chữ của văn bản, bạn cần bôi đen đoạn văn bản cần xóa màu và chọn nút Xóa định dạng (nút số 20).
 
 ### (8) Thay đổi màu nền của văn bản
 
-Tương tự chức năng số (7) được nêu trên, chức năng này cho phép định dạng màu nền của chữ.
+Tương tự chức năng số 8) được nêu trên, chức năng này cho phép định dạng màu nền của chữ.
 
 ![trinh-soan-thao-8.jpg](img/trinh-soan-thao-8.jpg)
 
@@ -85,13 +85,13 @@ Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phé
 
 ### (12) Mã nguồn
 
-Tính năng xem mã nguồn của trang web. Để xem chế độ Source code bạn chỉ cần nhấn phím tính năng số (12) trên thanh công cụ, nếu muốn tắt chế độ Source code bạn chỉ cần ấn lại phím số (12) một lần nữa.
+Tính năng xem mã nguồn của trang web. Để xem chế độ Mã nguồn bạn chỉ cần nhấn phím tính năng số (12) trên thanh công cụ, nếu muốn tắt chế độ Mã nguồn bạn chỉ cần ấn lại phím số (12) một lần nữa.
 
 ![trinh-soan-thao-12.jpg](img/trinh-soan-thao-12.jpg)
 
 ### (13) Toàn màn hình
 
-Tính năng xem toàn màn hình của trình soạn thảo. Để bật chế độ duyệt web toàn màn hình Full Screen bạn chỉ cần nhấn phím tính năng số (13) trên thanh công cụ, nếu muốn tắt chế độ full toàn màn hình bạn chỉ cần ấn lại phím số (13) một lần nữa
+Tính năng xem toàn màn hình của trình soạn thảo. Để bật chế độ duyệt web toàn màn hình Toàn màn hình bạn chỉ cần nhấn phím tính năng số (13) trên thanh công cụ, nếu muốn tắt chế độ toàn màn hình bạn chỉ cần ấn lại phím số (13) một lần nữa.
 
 ![trinh-soan-thao-13.jpg](img/trinh-soan-thao-13.jpg)
 
@@ -108,13 +108,13 @@ Bạn cũng có thể dùng tổ hợp phím tắt để căn lề cho nội dun
 
 ### (15) Định dạng danh sách đánh số
 
-Number list (danh sách đánh số thứ tự) giúp thể hiện các mục rõ ràng và cụ thể hơn. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (15).
+Danh sách đánh số thứ tự giúp thể hiện các mục rõ ràng và cụ thể hơn. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (15).
 
 ![trinh-soan-thao-15.jpg](img/trinh-soan-thao-15.jpg)
 
 ### (16) Định dạng danh sách không theo thứ tự
 
-Unordered list (danh sách không theo thứ tự) giúp văn bản sạch và dễ nhìn và bớt đơn điệu. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (16).
+Danh sách dạng biểu tượng giúp văn bản sạch và dễ nhìn và bớt đơn điệu. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (16).
 
 ![trinh-soan-thao-16.jpg](img/trinh-soan-thao-16.jpg)
 
@@ -132,7 +132,7 @@ Tính năng này sẽ dịch chuyển khối văn bản thụt vào bên phải 
 
 ### (19) Trích dẫn văn bản
 
-Thẻ blockquote là thẻ tag dùng để trích dẫn phần văn bản từ một nguồn khác trong html. Tag Blockquote thường được sử dụng trong trích dẫn câu nói của một tác giả nào đó. Hay nhấn mạnh một nội dung nào đó trên bài viết của mình.
+Thẻ đoạn trích (blockquote) là thẻ tag dùng để trích dẫn phần văn bản từ một nguồn khác trong html. Tag Blockquote thường được sử dụng trong trích dẫn câu nói của một tác giả nào đó. Hay nhấn mạnh một nội dung nào đó trên bài viết của mình.
 
 ![trinh-soan-thao-19.jpg](img/trinh-soan-thao-19.jpg)
 
@@ -142,17 +142,23 @@ Chức năng này được dùng khi các bạn thực hiện copy nội dung t�
 
 ![trinh-soan-thao-20.jpg](img/trinh-soan-thao-20.jpg)
 
-### (25) Insert/edit code sample
+### (25) Add a footnote
 
-![trinh-soan-thao-25.jpg](img/trinh-soan-thao-25.jpg)
 
-### (26) Tabs content
 
-![trinh-soan-thao-26.jpg](img/trinh-soan-thao-26.jpg)
+### (26) Thêm mẫu
 
-### (27) fontawesomepicker
+
+
+### (27) iconpicker
 
 ![trinh-soan-thao-27.jpg](img/trinh-soan-thao-27.jpg)
+
+### (28) Xem thử
+
+Cho phép bạn xem trước nội dung bài viết trước khi xuất bản. Thao tác đơn giản là ấn nút số (28) để xem trước nội dung bài và nếu muốn tắt chế độ xem trước bạn chỉ cần ấn lại phím số (28) một lần nữa.
+
+![trinh-soan-thao-28.jpg](img/trinh-soan-thao-28.jpg)
 
 ## Cách chèn liên kết (hyperlink)
 
