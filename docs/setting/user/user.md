@@ -3,7 +3,9 @@
 ## Thêm thành viên mới
 Để thêm một thành viên mới, bạn cần:
 
-Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Những thông tin cần điền như sau:
+Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cần điền như sau:
 
 **Tên đăng nhập**
 Nhập vào tên đăng nhập của tài khoản. _(ví dụ: admin)_
@@ -32,7 +34,7 @@ Nhập lại mật khẩu của tài khoản
 **Trạng thái**
 Lựa chọn trạng thái hoạt động của tài khoản này (Bật: cho phép hoạt động/Tắt: không cho phép hoạt động)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấp chuột vào nút **v** để hoàn tất.
 
 ## Xóa thành viên
 
@@ -48,4 +50,4 @@ Sửa thông tin – thiết lập một tài khoản quản trị
 
 Trong màn hình quản trị tài khoản, bạn nhấn chọn trực tiếp tại tài khoản muốn sửa hoặc icon bút chì ở cuối mỗi tài khoản để sửa thông tin.
 
-Sau khi cập nhật các thông tin – thiết lập cho tài khoản, bạn chọn **Lưu** để cập nhật những thay đổi.
+Sau khi cập nhật các thông tin – thiết lập cho tài khoản, bạn chọn **v** để cập nhật những thay đổi.
