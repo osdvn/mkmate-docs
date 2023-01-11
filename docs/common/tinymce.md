@@ -12,7 +12,7 @@ Trình soạn thảo TinyMCE 5 với nhiều tích hợp sâu giúp bạn soạn
 
 **Sơ đồ các tính năng trên thanh công cụ của trình soạn thảo**
 
-![trinh-soan-thao.jpg](img/trinh-soan-thao.jpg)
+![tinymce.jpg](img/tinymce.jpg)
 
 ## Chức năng định dạng văn bản
 ### (1) Trình bày đoạn văn
