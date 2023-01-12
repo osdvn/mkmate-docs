@@ -114,7 +114,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết, nhấn chọn nút (v) để cập nhật những thay đổi.
 
 ## Nhân bản bài sản phẩm
 
