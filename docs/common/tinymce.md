@@ -184,7 +184,9 @@ Bấm vào vùng bạn muốn chèn ảnh, tại thanh công cụ trên trình s
 
   **(22) Chèn/Chỉnh sửa hình ảnh**
 
-Để chèn hình ảnh/chỉnh sửa hình ảnh trong bài viết, bạn đặt con trỏ vào vị trí cần chèn, sau đó chọn nút số (22) trên thanh công cụ soạn thảo. Tiếp theo, hệ thống sẽ mở trình quản lý file của hệ thống để bạn có thể chọn 1 hoặc nhiều ảnh => Click phải chuột và bấm **Select Files** => Ảnh sẽ được chèn vào trong nội dung bài viết.
+Để chèn hình ảnh/chỉnh sửa hình ảnh trong bài viết, bạn đặt con trỏ vào vị trí cần chèn, sau đó chọn nút số (22) trên thanh công cụ soạn thảo và nhấn nút `Nguồn`. Hệ thống sẽ mở trình quản lý file manager, bạn có thể chọn ảnh bằng cách nhấp đúp vào ảnh hoặc click phải chuột vào ảnh và bấm **Select Files** => Ảnh sẽ được chèn vào trong nội dung bài viết.
+
+Xem cách upload file ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 ![trinh-soan-thao-22.jpg](img/trinh-soan-thao-22.jpg)
 
