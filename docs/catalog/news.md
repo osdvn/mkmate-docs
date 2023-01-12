@@ -50,7 +50,7 @@ Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn
 
 Nhập từ khóa cho tin bài và ngăn cách nhau bằng dấu phẩy
 
-**Mục lục tự động**
+**Mục lục**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
@@ -70,11 +70,21 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
+**Số bầu chọn/Tổng điểm**
+
+Điền từ 1 đến 5
+
+**Kết quả** 
+
+Kết quả hiển thị tự động theo theo công thức `Tổng điểm/Số bầu chọn`. Sao cho kết quả bằng 5 là đẹp.
+
 **Tin bài liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp. Được hiển thị phía đầu nội dung bài tin, trình bày dạng bullet
 
-_Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
+_SEO_
+
+Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
@@ -88,4 +98,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa một tin bài
 
-Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để hoàn tất.
+Nhấn chọn trực tiếp vào bài tin để sửa.
+
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để cập nhật những thay đổi.

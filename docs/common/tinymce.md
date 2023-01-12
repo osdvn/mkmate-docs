@@ -180,11 +180,13 @@ Tùy chọn Open link in New window sẽ giúp điều khiển mở liên kết 
 
 ![trinh-soan-thao-21.jpg](img/trinh-soan-thao-21.jpg)
 
-Bấm vào vùng bạn muốn chèn ảnh, tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 21, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn https://osdvn.vn/media/data/uploads/2022/07/06/162821_ky-thuat-huong-dan-viet-bai-chuan-seo-dat-ket-qua-cao.jpeg)
+Bấm vào vùng bạn muốn chèn ảnh, tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 21, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn `https://osd.vn/media/data/uploads/2023/01/11/154658_demo-anh.jpg`)
 
   **(22) Chèn/Chỉnh sửa hình ảnh**
 
-Để chèn hình ảnh/chỉnh sửa hình ảnh trong bài viết, bạn đặt con trỏ vào vị trí cần chèn, sau đó chọn nút số (22) trên thanh công cụ soạn thảo. Tiếp theo, hệ thống sẽ mở trình quản lý file của hệ thống để bạn có thể chọn 1 hoặc nhiều ảnh => Click phải chuột và bấm **Select Files** => Ảnh sẽ được chèn vào trong nội dung bài viết.
+Để chèn hình ảnh/chỉnh sửa hình ảnh trong bài viết, bạn đặt con trỏ vào vị trí cần chèn, sau đó chọn nút số (22) trên thanh công cụ soạn thảo và nhấn nút `Nguồn`. Hệ thống sẽ mở trình quản lý file manager, bạn có thể chọn ảnh bằng cách nhấp đúp vào ảnh hoặc click phải chuột vào ảnh và bấm **Select Files** => Ảnh sẽ được chèn vào trong nội dung bài viết.
+
+Xem cách upload file ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
 
 ![trinh-soan-thao-22.jpg](img/trinh-soan-thao-22.jpg)
 

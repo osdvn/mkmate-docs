@@ -56,6 +56,10 @@ Tích vào trường thông tin này, khi xem ngoài website hệ thống sẽ t
 
 Tích vào trường thông tin này, khi xem ngoài website hệ thống sẽ lấy thông tin mô tả ngắn (sapo) của tin bài và được hiển thị dưới tiêu đề tin bài
 
+4 tùy chọn trên hiển thị ại nhóm chuyên mục tin. Hình minh họa cấu hình 4 tùy chọn trên
+
+![chuyen-muc-tin.jpg](img/chuyen-muc-tin.jpg)
+
 **Kích thước ảnh**
 
 Có 5 loại kích thước có sẵn để lựa chọn
@@ -64,7 +68,10 @@ Có 5 loại kích thước có sẵn để lựa chọn
 
 Có 4 loại kích thước có sẵn để lựa chọn
 
-- **Mẫu trình bày**: tại đây có 5 kiểu trình bày cho bạn lựa chọn
+**Mẫu trình bày**
+
+Tại đây có 5 kiểu trình bày cho bạn lựa chọn
+
 - **Mặc định**: hiển thị theo hàng dọc
 - **Tạp chí**: hiển thị 3 bài trên 1 hàng ngang
 - **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
@@ -78,8 +85,9 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-*Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
-Meta title*
+_SEO_
+
+Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
