@@ -38,7 +38,9 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-_Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
+_SEO_
+
+Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
@@ -51,5 +53,7 @@ Nhấn chọn nút (v) để lưu lại 1 mục.
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa nhóm Longform
+
+Nhấn chọn trực tiếp vào nhóm longform để sửa.
 
 Sau khi thay đổi các thông tin nội dung của nhóm longform, nhấn chọn nút (v) để cập nhật những thay đổi.
