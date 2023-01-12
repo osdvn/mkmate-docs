@@ -50,7 +50,6 @@ Là một dạng quy ước giúp phân loại sản phẩm.
 
 **Giá bán**
 
-
 Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm. Giá dao động của sản phẩm theo từng mốc giá tiền `Từ` `đến`
 
 **Mục lục**
@@ -81,7 +80,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 Kết quả hiển thị tự động theo theo công thức `Tổng điểm/Số bầu chọn`. Sao cho kết quả bằng 5 là đẹp.
 
-**Sản phẩm liên quan/Tin bài liên quan**
+**Sản phẩm liên quan/Tin bài liên quan/Dự án liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
 
@@ -97,7 +96,9 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc l
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
-_Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
+_SEO_
+
+Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
