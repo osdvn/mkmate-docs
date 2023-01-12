@@ -47,7 +47,9 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-_Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
+_SEO_
+
+Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
