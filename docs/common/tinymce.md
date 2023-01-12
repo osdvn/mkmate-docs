@@ -180,7 +180,7 @@ Tùy chọn Open link in New window sẽ giúp điều khiển mở liên kết 
 
 ![trinh-soan-thao-21.jpg](img/trinh-soan-thao-21.jpg)
 
-Bấm vào vùng bạn muốn chèn ảnh, tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 21, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn https://osdvn.vn/media/data/uploads/2022/07/06/162821_ky-thuat-huong-dan-viet-bai-chuan-seo-dat-ket-qua-cao.jpeg)
+Bấm vào vùng bạn muốn chèn ảnh, tại thanh công cụ trên trình soạn thảo, nhấn chọn nút số 21, nhấp chọn ảnh từ máy tính => đường dẫn ảnh sẽ hiển thị tại mục media/data/uploads/{năm/tháng/ngày tự động theo thời gian hiện tại} (ví dụ đường dẫn `https://osd.vn/media/data/uploads/2023/01/11/154658_demo-anh.jpg`)
 
   **(22) Chèn/Chỉnh sửa hình ảnh**
 
