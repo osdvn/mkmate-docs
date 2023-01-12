@@ -37,7 +37,7 @@ Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có
 
 **Nổi bật**
 
-Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website. Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
+Tích chọn trường nổi bật, đồng thời cấu hình vùng chức năng `Giao diện/Mô đun/Nhóm sản phẩm`, khi chọn `Kiểu dữ liệu` là `Nổi bật`, website sẽ lấy dữ liệu các nhóm sản phẩm được chọn là nổi bật hiển thị trên bố cục/vị trí bạn cấu hình.
 
 **Thứ tự**
 
