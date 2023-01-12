@@ -47,7 +47,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-Dự án
+**Dự án**
 
 Chọn các nhóm dự án đã được tạo tại vùng chức năng `Hệ thống/Quản lý mẫu/Trường nội dung`
 
