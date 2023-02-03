@@ -7,7 +7,7 @@ published: true
 ---
 # Dự án tiêu biểu
 
-- Cho phép quản lý các bài dự án tiêu biểu của cơ quan, công ty, doanh nghiệp. Xem các dự án tại đường dẫn `https://tenmien_cuaban/information/portfolio`
+- Cho phép quản lý các bài dự án tiêu biểu của cơ quan, công ty, doanh nghiệp. Đường dẫn dự án tiêu biểu `https://tenmien_cuaban/information/portfolio`
 - Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 - Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
@@ -21,15 +21,15 @@ Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề**
 
-Tên bài dự án tiêu biểu
+Điền tên bài dự án tiêu biểu
 
 **Mô tả ngắn**
 
-Mô tả tóm tắt dự án tiêu biểu
+Điền mô tả tóm tắt dự án tiêu biểu
 
 **Mô tả**
 
-Nội dung chi tiết bài dự án tiêu biểu
+Điền nội dung chi tiết bài dự án tiêu biểu
 
 **Thư viện ảnh**
 
@@ -51,7 +51,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 Chọn các nhóm dự án đã được tạo tại vùng chức năng `Hệ thống/Quản lý mẫu/Trường nội dung`
 
-_SEO_
+**_SEO_**
 
 Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
