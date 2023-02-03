@@ -19,11 +19,11 @@ Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề album**
 
-Nhập tên cho mỗi bộ sưu tập.
+Điền tên cho mỗi bộ sưu tập.
 
 **Mô tả**
 
-Mô tả cho mỗi bộ sưu tập (nếu có)
+Điền mô tả cho mỗi bộ sưu tập (nếu có)
 
 **Thư viện ảnh**
 
