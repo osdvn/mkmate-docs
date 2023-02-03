@@ -23,7 +23,7 @@ Nhập tên cho mỗi bộ sưu tập.
 
 **Mô tả**
 
-Trình bày thông tin có mục đích hướng tới độc giả
+Mô tả cho mỗi bộ sưu tập (nếu có)
 
 **Thư viện ảnh**
 
