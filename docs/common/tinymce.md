@@ -208,7 +208,7 @@ WIP: tham khảo thêm cách tạo kênh và upload video lên youtube
 
 ## Thác tác với bảng biểu (6)
 
-!> 70% người dùng truy cập website từ điện thoại với kích thước màn hình nhỏ, khi nội dung được trình bày trong bảng biểu quá nhiều cột dễ gây các trình bày không được như mong muốn. Bạn hết sức cân nhắc tìm cách trình bày phù hợp để nội dung không bị xô lệch trên thiết bị bi động.
+!> 70% người dùng truy cập website từ điện thoại với kích thước màn hình nhỏ, khi nội dung được trình bày trong bảng biểu quá nhiều cột dễ gây các trình bày không được như mong muốn. Bạn hết sức cân nhắc tìm cách trình bày phù hợp để nội dung không bị xô lệch trên thiết bị di động.
 
 ![trinh-soan-thao-6.jpg](img/trinh-soan-thao-6.jpg)
 

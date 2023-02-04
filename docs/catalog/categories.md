@@ -22,15 +22,15 @@ Những thông tin cụ thể cần điền như sau:
 
 **Tên chuyên mục**
 
-Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những tin bài mà bạn đã thêm vào
+Điền tên nhóm chuyên mục. Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa chỉ website, tại URL đó sẽ hiển thị những tin bài mà bạn đã thêm vào
 
 **Phụ đề**
 
-Nhập phụ đề cho chuyên mục tin bài. Được hiển thị dưới tiêu đề chuyên mục tin bài tùy từng giao diện.
+Điền phụ đề cho chuyên mục tin bài (nếu có). Được hiển thị dưới tiêu đề chuyên mục tin bài tùy từng giao diện.
 
 **Mô tả**
 
-Nhập nội dung mô tả chuyên mục tin bài
+Điền nội dung mô tả cho chuyên mục tin bài
 
 **Hình ảnh**:
 
@@ -56,7 +56,7 @@ Tích vào trường thông tin này, khi xem ngoài website hệ thống sẽ t
 
 Tích vào trường thông tin này, khi xem ngoài website hệ thống sẽ lấy thông tin mô tả ngắn (sapo) của tin bài và được hiển thị dưới tiêu đề tin bài
 
-4 tùy chọn trên hiển thị ại nhóm chuyên mục tin. Hình minh họa cấu hình 4 tùy chọn trên
+4 tùy chọn trên hiển thị tại nhóm chuyên mục tin. Hình minh họa cấu hình 4 tùy chọn trên
 
 ![chuyen-muc-tin.jpg](img/chuyen-muc-tin.jpg)
 
@@ -85,7 +85,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-_SEO_
+**_SEO_**
 
 Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
@@ -101,6 +101,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa nhóm chuyên mục tin bài
 
-Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa hoặc nhấn vào icon bút chì.
+Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để cập nhật những thay đổi.
