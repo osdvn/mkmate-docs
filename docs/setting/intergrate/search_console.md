@@ -30,7 +30,7 @@ Sau khi đã lưu file TXT record bạn chọn Verify để hoàn tất phần x
 
 ![Google Search Console](img/ggs-1.jpg)
 
-Với lựa chọn xác minh tiền tố URL, bạn nhập địa chỉ URL website bao gồm https:// và bấm vào nút **Tiếp tục**.
+Với lựa chọn xác minh tiền tố URL, bạn nhập địa chỉ URL website bao gồm https://wwww.tenmiencuaban và bấm vào nút **Tiếp tục**.
 
 Bạn sẽ được chuyển hướng xác minh theo hình thức này và có rất nhiều cách để bạn xác minh quyền sở hữu trang web như:
 
@@ -48,12 +48,8 @@ Mỗi phương pháp xác minh đều có hướng dẫn rất chi tiết, bạn
 Cách thực hiện như sau:
 
 Sao chép thẻ meta và dán vào trang chủ trên trang web của bạn. Thẻ phải nằm trong phần `head`, trước phần `body`.
-
-Hoặc
-
-Sao chép thẻ meta và truy cập quản trị web theo đường dẫn như sau: **Hệ thống -> Tích hợp -> Thẻ Meta Google Search Console** và dán thẻ meta vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
   
-![Google Search Console](img/ggs-3.jpg)
+![Google Search Console](img/ggs_3.jpg)
 
 Nhấn **Xác minh** trong Google Search Console và nhấn chọn **Chuyển đến sản phẩm**
 

@@ -7,7 +7,7 @@ published: true
 ---
 # Thông tin
 
-- Cho phép quản lý các bài thông tin như bài giới thiệu, các bài viết về chính sách công ty.
+- Là nơi lưu trữ các bài thông tin như bài giới thiệu, các bài viết về chính sách công ty.
 - Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
 - Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
@@ -21,19 +21,23 @@ Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề**
 
-Nhập tiêu đề cho bài thông tin
+Điền tiêu đề cho bài thông tin
 
-**Phụ đề**
+**Mô tả ngắn**
 
-Được hiển thị dưới tên tiêu đề bài thông tin. Phụ thuộc vào từng giao diện sẽ có phụ đề hay không có phụ đề.
+Điền 1 đoạn mô tả giới thiệu ngắn cho bài thông tin (nếu có)
 
 **Mô tả**
 
-Nhập mô tả thông tin có mục đích hướng tới độc giả
+Điền nội dung chi tiết cho bài thông tin
+
+**Câu hỏi thường gặp**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
 **Ảnh đại diện**
 
-Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
+Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
 
 **Thứ tự**
 
@@ -43,11 +47,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-**Câu hỏi thường gặp**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
-
-_SEO_
+**_SEO_**
 
 Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
