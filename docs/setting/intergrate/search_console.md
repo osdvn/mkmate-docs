@@ -49,7 +49,7 @@ Cách thực hiện như sau:
 
 Sao chép thẻ meta và dán vào trang chủ trên trang web của bạn. Thẻ phải nằm trong phần `head`, trước phần `body`.
   
-![Google Search Console](img/ggs-3.jpg)
+![Google Search Console](img/ggs_3.jpg)
 
 Nhấn **Xác minh** trong Google Search Console và nhấn chọn **Chuyển đến sản phẩm**
 
