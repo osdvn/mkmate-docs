@@ -58,6 +58,8 @@ Bạn cần sao chép mã đo lường và truy cập vào quản trị web theo
 
 ![Google Analytics](img/ga-8.jpg)
 
+![Google Analytics](img/ga-8.1.jpg)
+
 Cách 2: `Xem hướng dẫn về thẻ` và dán vào vùng `Mã nhúng`
 
 Tại màn hình quản trị luồng dữ liệu website, nhấn chọn xem chi tiết luồng dữ liệu của website đó
