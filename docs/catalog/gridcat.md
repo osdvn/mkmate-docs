@@ -16,11 +16,11 @@ _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm longform._
 
 **Tiêu đề**
 
-Nhập tên longform bạn muốn hiển thị trên wesbite
+Điền tên longform bạn muốn hiển thị trên wesbite
 
 **Nội dung**
 
-Nhập nội dung cho nhóm longform.
+Điền nội dung cho nhóm longform.
 
 **Ảnh đại diện**
 
@@ -38,7 +38,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
-_SEO_
+**_SEO_**
 
 Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
