@@ -8,7 +8,7 @@ published: true
 ---
 # Câu hỏi thường gặp
 
-Tính năng này được biết đến nhiều vì lợi ích SEO, được xuất hiện trong tin bài, nhóm sản phẩm, bài dịch vụ,...
+Tính năng này được biết đến nhiều vì lợi ích SEO, được xuất hiện trong tin bài, bài dịch vụ,...
 
 ## Thêm mới câu hỏi thường gặp
 
