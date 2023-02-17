@@ -14,7 +14,7 @@ published: true
 
 ## Thêm chuyên mục tin bài
 
-Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Chuyên mục tin**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
