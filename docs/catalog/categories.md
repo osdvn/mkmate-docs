@@ -9,12 +9,10 @@ published: true
 
 - Chuyên mục tin bài: cho phép tạo nhiều nhóm những chuyên mục cùng loại với nhau tùy theo mục đích.
 - Một chuyên mục tin bài có liên kết mật thiết chặt chẽ với các tin bài cùng loại.
-- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
 ## Thêm chuyên mục tin bài
 
-Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Chuyên mục tin**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 

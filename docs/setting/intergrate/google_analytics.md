@@ -74,4 +74,10 @@ Tiếp theo, nhấn chọn **Xem hướng dẫn về thẻ**, tại đây hướ
 
 Sau khi dán thẻ vào `Mã nhúng` bạn cần nhấn chọn nút (v) để lưu cập nhật thông tin.
 
+## Chia sẻ quyền truy cập Google Analytics cho người khác
+
+Bước 1: Đăng nhập vào Google Analytics [tại đây](https://analytics.google.com/analytics/web)!
+Bước 2: Điền tài khoản Email/Mật khẩu bạn sử dụng Google Analytics
+
+
 _Chúc bạn thành công!_
