@@ -54,7 +54,7 @@ Có 2 cách tích hợp Mã Google Analytics vào quản trị web
 
 Cách 1: Copy `Mã đo lường` và dán vào vùng `Tích hợp`
 
-Bạn cần sao chép mã đo lường và truy cập vào quản trị web theo đường dẫn sau: **Hệ thống -> Tích hợp -> Mã Google Analytics** và dán mã vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
+Bạn cần sao chép mã đo lường và truy cập vào quản trị web theo đường dẫn sau: **Hệ thống -> Tích hợp -> Mã theo dõi Google** và dán mã vừa copy vào đây sau đó nhấn chọn nút (v) để lưu cập nhật thông tin.
 
 ![Google Analytics](img/ga-8.jpg)
 
