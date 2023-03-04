@@ -29,10 +29,6 @@ Những thông tin cụ thể cần điền như sau:
 
 Điền nội dung chi tiết bài dự án tiêu biểu
 
-**Thư viện ảnh**
-
-Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
-
 **Ảnh đại diện**
 
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài dự án tiêu biểu và tải lên (nếu có).
@@ -54,6 +50,10 @@ Chọn các nhóm dự án đã được tạo tại vùng chức năng [Hệ th
 Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
+
+**Thư viện ảnh**
+
+Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
 
 Nhấn chọn nút (v) để lưu lại 1 mục.
 
