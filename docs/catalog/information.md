@@ -8,8 +8,6 @@ published: true
 # Thông tin
 
 - Là nơi lưu trữ các bài thông tin như bài giới thiệu, các bài viết về chính sách công ty.
-- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
 ## Thêm mới bài thông tin
 
