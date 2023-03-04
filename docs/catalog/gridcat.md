@@ -3,8 +3,6 @@
 
 - Nhóm longform: cho phép tạo nhiều nhóm longform tùy theo mục đích.
 - Một nhóm longform có liên kết mật thiết chặt chẽ với các [bài longform](https://mkmate.osd.vn/docs/catalog/gridpage) cùng loại.
-- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
 ## Thêm một nhóm long form
 
