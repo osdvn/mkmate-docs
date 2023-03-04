@@ -8,8 +8,6 @@ published: true
 # Thư viện ảnh
 
 - Là nơi lưu trữ các bộ sưu tập. Đường dẫn Thư viện ảnh: `domain/information/picture`
-- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 ## Thêm thư viện ảnh
 
