@@ -23,16 +23,6 @@ Những thông tin cụ thể cần điền như sau:
 
 Điền mô tả cho mỗi bộ sưu tập (nếu có)
 
-**Thư viện ảnh**
-
-Upload các bộ ảnh trình bày kiểu gallery. Nhấn chọn **Thêm ảnh**
-
-- **Hình ảnh**: nhấp chọn nút **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
-- **Tên ảnh (Tiếng Việt)**: nhập tên cho mỗi ảnh trong bộ sưu tập
-- **Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
-- **Mô tả ảnh ()**: nhấn chọn nút mũi tên trỏ xuống để thấy mục này
-- Nhấn chọn nút trừ **(-)** để xóa 1 ảnh (bao gồm hình ảnh, tiêu đề ảnh, mô tả ảnh, thứ tự) của thư viện ảnh.
-
 **Ảnh đại diện/Banner**
 
 Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
@@ -50,6 +40,16 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th
 Nhấn chọn icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+
+**Thư viện ảnh**
+
+Upload các bộ ảnh trình bày kiểu gallery. Nhấn chọn **Thêm ảnh**
+
+- **Hình ảnh**: nhấp chọn nút **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
+- **Tên ảnh (Tiếng Việt)**: nhập tên cho mỗi ảnh trong bộ sưu tập
+- **Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
+- **Mô tả ảnh ()**: nhấn chọn nút mũi tên trỏ xuống để thấy mục này
+- Nhấn chọn nút trừ **(-)** để xóa 1 ảnh (bao gồm hình ảnh, tiêu đề ảnh, mô tả ảnh, thứ tự) của thư viện ảnh.
 
 Nhấn chọn nút (v) để lưu lại 1 mục.
 
