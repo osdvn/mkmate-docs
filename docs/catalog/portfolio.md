@@ -8,8 +8,6 @@ published: true
 # Dự án tiêu biểu
 
 - Cho phép quản lý các bài dự án tiêu biểu của cơ quan, công ty, doanh nghiệp. Đường dẫn dự án tiêu biểu `https://tenmien_cuaban/information/portfolio`
-- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
 ## Thêm bài dự án tiêu biểu
 
