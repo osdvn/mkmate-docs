@@ -7,9 +7,6 @@ published: true
 ---
 # Sản phẩm
 
-- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
-
 # Thêm bài sản phẩm mới
 
 Để thêm một bài sản phẩm, bạn cần:
