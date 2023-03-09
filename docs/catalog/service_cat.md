@@ -2,8 +2,6 @@
 
 - Nhóm sản phẩm: cho phép tạo nhiều nhóm những sản phẩm cùng loại với nhau tùy theo mục đích.
 - Một nhóm sản phẩm có liên kết mật thiết chặt chẽ với các bài [sản phẩm](https://mkmate.osd.vn/docs/catalog/service) cùng loại.
-- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
 
 ## Thêm một nhóm sản phẩm
 

@@ -7,9 +7,6 @@ published: true
 ---
 # Sản phẩm
 
-- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/tinymce)
-- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/finder/)
-
 # Thêm bài sản phẩm mới
 
 Để thêm một bài sản phẩm, bạn cần:
@@ -22,15 +19,15 @@ _Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
 
 **Tên sản phẩm**
 
-Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
+Điền tên sản phẩm bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn**
 
-Nhập mô tả ngắn cho bài sản phẩm. Độ dài khoảng 160-320 ký tự.
+Điền mô tả ngắn cho bài sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung**
 
-Nhập nội dung mô tả chi tiết cho bài viết.
+Điền nội dung mô tả chi tiết cho bài viết.
 
 **Ảnh đại diện**
 
@@ -39,10 +36,6 @@ Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình
 **Nhóm sản phẩm**
 
 Chọn nhóm sản phẩm đã được tạo [tại đây](https://mkmate.osd.vn/docs/catalog/service_cat). Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
-
-**Thư viện ảnh**
-
-Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
 
 **Mã sản phẩm**
 
@@ -96,7 +89,11 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc l
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
-_SEO_
+**Thư viện ảnh**
+
+Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
+
+**_SEO_**
 
 Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
