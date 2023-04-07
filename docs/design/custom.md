@@ -1,23 +1,13 @@
-# Mã nhúng
+# Trang bảo trì
 
-Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tương ứng tại **Script header** và **Script footer**.
+Khu vực này cho phép bạn đóng cửa website.
 
-## Thêm mới mã nhúng
+## Chế độ bảo trì
 
-**Script header** `(Javascript hiển thị trong cặp thẻ <head>)`
+Chế độ bảo trì khi chọn là Bật hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
 
-Dán mã code của thẻ head
+## Nội dung khi đóng cửa
 
-**Script footer** `(Javascript hiển thị trước thẻ đóng body <body>)`
+Khi các bạn nhập mô tả nội dung vào phần này và để chế độ bảo trì là bật thì thông báo hiển thị ngoài website của bạn sẽ hiển thị nôi dung mà bạn đã nhập vào đó.
 
-Dán mã code của thẻ body
-
-**Custom CSS**
-
-Đây là tham số CSS được cấu hình sẵn mang tính kĩ thuật. Không được xóa.
-  
-## Xóa mã nhúng
-Bôi đen đoạn mã nhúng cần xóa và chọn nút Back Space tại bàn phím máy tính, sau đó chọn nút **v** để hoàn tất.
-
-## Sửa mã nhúng
-Sửa thông tin đoạn mã nhúng, sau đó chọn nút **v** để hoàn tất.
+Sau đó nhấn chọn nút **Lưu** để hoàn tất

@@ -54,8 +54,4 @@ Khi chọn là English, tại trang admin sẽ hiển thị toàn bộ giao di�
 
 Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ giao diện và nội dung quản trị viên nhìn thấy là ngôn ngữ tiếng Việt
 
-## Bảo mật hệ thống
-
-**Chế độ bảo trì** Khi chọn là **Bật** hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
-
 Nhấn chọn nút **v** để hoàn tất.
