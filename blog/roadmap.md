@@ -11,7 +11,7 @@ tags: [roadmap, mkmate]
 3. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 4. - [ ] Bỏ token trong khu vực quản trị
 5. - [ ] Mẫu nội dung cho trình soạn thảo
-6. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
+6. - [x] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực quản trị
 7. - [ ] Build giao diện tự động theo từng website
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
 9. - [ ] Thay đổi cách cấu hình mô-đun
@@ -19,7 +19,7 @@ tags: [roadmap, mkmate]
 11. - [x] Hỗ trợ liệt kê anchor text cho toàn bộ site
 12. - [ ] Hỗ trợ tư vấn sửa chính tả
 13. - [x] Tool kiểm lỗi ảnh
-14. - [ ] Tool kiểm tra link gãy
+14. - [x] Tool kiểm tra link gãy
 15. - [ ] Cookie Consent
 16. - [ ] Hỗ trợ upload nhiều ảnh đồng thời cho thư viện
 17. - [ ] Tối ưu lại phần backup dữ liệu
