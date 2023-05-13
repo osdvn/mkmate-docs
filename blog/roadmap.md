@@ -22,7 +22,7 @@ tags: [roadmap, mkmate]
 14. - [x] Tool kiểm tra link gãy
 15. - [ ] Cookie Consent
 16. - [x] Hỗ trợ upload nhiều ảnh đồng thời cho thư viện
-17. - [ ] Tối ưu lại phần backup dữ liệu
+17. - [x] Tối ưu chức năng backup dữ liệu
 18. - [ ] Form builder
 19. - [ ] Tích hợp tiktok
 20. - [ ] Customer portal, self service to manage issue & ticket
