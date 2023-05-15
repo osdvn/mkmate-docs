@@ -11,7 +11,7 @@ published: true
 
 Để thêm một tin bài, bạn cần:
 
-Nhấn chọn **Nội dung -> Tin bài**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Tin bài**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -63,7 +63,7 @@ Lựa chọn ngày hiển thị cho tin bài
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
-**Trạng thái**
+**Xuất bản**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
 
@@ -97,4 +97,13 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài tin để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút Lưu để cập nhật những thay đổi.
+
+## Nhân bản bài tin tức
+
+Chọn sản phẩm cần nhân bản từ danh sách sau đó chọn Nhân bản => Hệ thống sẽ nhân bản bài tin bài và đặt trạng thái là tắt.
+
+## Bật/Tắt trạng thái tất cả bài tin bài
+
+Chọn tin bài cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái tin bài của bạn.
+
