@@ -13,7 +13,7 @@ published: true
 
 Để thêm một bài dự án tiêu biểu, bạn cần:
 
-Nhấn chọn **Nội dung -> Dự án tiêu biểu**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Dự án tiêu biểu**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -55,7 +55,7 @@ Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
 Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa bài dự án tiêu biểu
 
@@ -67,4 +67,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa một bài dự án tiêu biểu, nhấn chọn vào bài dự án tiêu biểu đó để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
