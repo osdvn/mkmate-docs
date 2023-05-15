@@ -28,7 +28,7 @@ Thứ tự sắp xếp ưu tiên như sau:
 - Thứ tự
 - Ngày xuất bản
 
-## Trạng thái
+## Trạng thái và Xuất bản
 
 - Bật/Có: cho phép hiển thị
 - Tắt/Không: không cho phép hiển thị
