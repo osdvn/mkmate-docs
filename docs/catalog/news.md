@@ -85,7 +85,7 @@ Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa một tin bài
 
@@ -97,7 +97,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài tin để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút Lưu để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
 
 ## Nhân bản bài tin tức
 
