@@ -11,7 +11,7 @@ published: true
 
 ## Thêm thư viện ảnh
 
-Nhấn chọn **Nội dung -> Thư viện ảnh**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Thư viện ảnh**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -31,7 +31,7 @@ Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sư
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
-**Trạng thái**
+**Xuất bản**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
@@ -51,7 +51,7 @@ Upload các bộ ảnh trình bày kiểu gallery. Nhấn chọn **Thêm ảnh**
 - **Mô tả ảnh ()**: nhấn chọn nút mũi tên trỏ xuống để thấy mục này
 - Nhấn chọn nút trừ **(-)** để xóa 1 ảnh (bao gồm hình ảnh, tiêu đề ảnh, mô tả ảnh, thứ tự) của thư viện ảnh.
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa thư viện ảnh
 
@@ -63,4 +63,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa thư viện ảnh, nhấn chọn vào bài thư viện ảnh đó để sửa.
 
-Sau khi thay đổi các thông tin nội dung của thư viện ảnh, nhấn chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của thư viện ảnh, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
