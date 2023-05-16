@@ -28,7 +28,7 @@ Có 3 kiểu trình bày
 
 - Đơn giản: hiển thị icon và khung box tìm kiếm từ khóa
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ### Xóa mô đun hộp tìm kiếm
 
@@ -40,4 +40,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn **Cấu hình** tại mô đun **Hộp tìm kiếm**
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.
