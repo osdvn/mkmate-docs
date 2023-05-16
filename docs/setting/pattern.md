@@ -45,4 +45,4 @@ Bạn nhập tên biến ở vị trí nào sẽ hiển thị tên biến ở v�
 
 ![cn-mau-noi-dung-5.jpg](img/cn-mau-noi-dung-5.jpg)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.

@@ -54,4 +54,4 @@ Khi chọn là English, tại trang admin sẽ hiển thị toàn bộ giao di�
 
 Khi chọn là Tiếng Việt, website sẽ hiển thị toàn bộ giao diện và nội dung quản trị viên nhìn thấy là ngôn ngữ tiếng Việt
 
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút **Lưu** để hoàn tất.
