@@ -6,7 +6,7 @@
 
 Để thêm một bài dự án tiêu biểu, bạn cần:
 
-Nhấn chọn **Hệ thống -> Quản lý mẫu -> Trường mở rộng**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Hệ thống -> Quản lý mẫu -> Trường mở rộng**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 ![truong-mo-rong.jpg](img/truong-mo-rong.jpg)
 
@@ -45,7 +45,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp#slug-url-th%C3%A2n-t
 - Nhấn chọn nút (+) để thêm nhiều trường mở rộng
 - Nhấn chọn nút (-) để xóa trường mở rộng
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa trường mở rộng
 
@@ -57,5 +57,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa trường mở rộng, nhấn chọn vào bài trường mở rộng đó để sửa.
 
-Sau khi thay đổi các thông tin nội dung của trường mở rộng, nhấn chọn nút (v) để cập nhật những thay đổi.
-
+Sau khi thay đổi các thông tin nội dung của trường mở rộng, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
