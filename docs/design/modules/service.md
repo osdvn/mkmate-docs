@@ -51,7 +51,7 @@ Lựa chọn kiểu sắp xếp hiển thị trên website tại danh sách th�
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ### Xóa mô đun trình bày sản phẩm
 
@@ -63,4 +63,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn **Cấu hình** tại mô đun **Trình bày sản phẩm**
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.
