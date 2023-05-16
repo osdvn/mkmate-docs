@@ -58,7 +58,7 @@ Kích thước W x H = 500 pixel x 621 pixel
 
 Chọn thêm mô đun để hiển thị giao diện bố cục khác nhau
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ### Xóa mô đun banner
 
@@ -70,4 +70,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn **Cấu hình** tại mô đun **banner**
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.
