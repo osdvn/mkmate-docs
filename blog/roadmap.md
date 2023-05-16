@@ -7,7 +7,7 @@ tags: [roadmap, mkmate]
 
 ## 2023-05-30. V6.5.5
 1. - [ ] Layout manager
-2. - [ ] Search and replace massive content
+2. - [x] Search and replace massive content
 3. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 4. - [ ] Bỏ token trong khu vực quản trị
 5. - [ ] Mẫu nội dung cho trình soạn thảo
@@ -17,7 +17,7 @@ tags: [roadmap, mkmate]
 9. - [ ] Thay đổi cách cấu hình mô-đun
 10. - [ ] Tích hợp Google Indexing API
 11. - [x] Hỗ trợ liệt kê anchor text cho toàn bộ site
-12. - [ ] Hỗ trợ tư vấn sửa chính tả
+12. - [x] Hỗ trợ tư vấn sửa chính tả
 13. - [x] Tool kiểm lỗi ảnh
 14. - [x] Tool kiểm tra link gãy
 15. - [ ] Cookie Consent
