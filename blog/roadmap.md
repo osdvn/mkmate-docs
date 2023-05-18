@@ -5,7 +5,7 @@ authors: saosangmo
 tags: [roadmap, mkmate]
 ---
 
-## 2023-05-30. V6.5.5
+## 2023-06-30. V6.5.5
 1. - [ ] Layout manager
 2. - [x] Search and replace massive content
 3. - [ ] Cộng tác nhóm khi soạn thảo bài viết
@@ -27,4 +27,4 @@ tags: [roadmap, mkmate]
 19. - [ ] Tích hợp tiktok
 20. - [ ] Customer portal, self service to manage issue & ticket
 21. - [ ] Tích hợp Google Ads, Facebook Ads
-22. - [ ] Admin tasks: doing
+22. - [ ] Hỗ trợ URL song ngữ
