@@ -6,7 +6,7 @@
 
 ## Thêm một nhóm long form
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm Longform**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm Longform**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -42,7 +42,7 @@ Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa nhóm Longform
 
@@ -54,4 +54,8 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào nhóm longform để sửa.
 
-Sau khi thay đổi các thông tin nội dung của nhóm longform, nhấn chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của nhóm longform, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
+
+## Bật/Tắt trạng thái tất cả
+
+Chọn nhóm Longform cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái nhóm longform của bạn.
