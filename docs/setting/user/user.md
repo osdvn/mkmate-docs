@@ -3,7 +3,7 @@
 ## Thêm thành viên mới
 Để thêm một thành viên mới, bạn cần:
 
-Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cần điền như sau:
 
@@ -34,15 +34,15 @@ Nhập lại mật khẩu của tài khoản
 **Trạng thái**
 Lựa chọn trạng thái hoạt động của tài khoản này (Bật: cho phép hoạt động/Tắt: không cho phép hoạt động)
 
-Nhấp chuột vào nút **v** để hoàn tất.
+Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa thành viên
 
-Tại chi tiết mỗi tài khoản, bạn nhấn chọn nút **Xóa** để xóa tài khoản người dùng.
+Tại chi tiết mỗi tài khoản, bạn nhấn chọn nút **Xóa thành viên** để xóa tài khoản người dùng. Sau đó tại màn hình sẽ hiện lên 1 popup để chọn tài khoản sở hữu các bài viết của tài khoản mà bạn muốn xóa.
+Khi bạn đã xóa tài khoản đó thì tất cả các bài viết đó sẽ được chuyển giao sang tài khoản bạn đã chọn để chuyển giao.
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/setting/user/#x%C3%B3a-th%C3%A0nh-vi%C3%AAn)
 
-Vì liên quan đến các hạng mục kỹ thuật, KHÔNG ĐƯỢC xóa thông tin người dùng, nếu người dùng đã nghỉ việc, chỉ ĐƯỢC PHÉP tắt người dùng đó.
 
 ## Sửa thành viên
 
@@ -50,4 +50,4 @@ Sửa thông tin – thiết lập một tài khoản quản trị
 
 Trong màn hình quản trị tài khoản, bạn nhấn chọn trực tiếp tại tài khoản muốn sửa hoặc icon bút chì ở cuối mỗi tài khoản để sửa thông tin.
 
-Sau khi cập nhật các thông tin – thiết lập cho tài khoản, bạn chọn **v** để cập nhật những thay đổi.
+Sau khi cập nhật các thông tin – thiết lập cho tài khoản, bạn chọn **Lưu** để cập nhật những thay đổi.

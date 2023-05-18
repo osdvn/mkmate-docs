@@ -13,7 +13,7 @@ Cấu hình một hệ thống kinh doanh theo chuỗi gồm từ hai hay nhiề
 
 Để cấu hình mô đun hệ thống chi nhánh, bạn cần:
 
-Nhấn chọn **Hệ thống -> Chi nhánh**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Hệ thống -> Chi nhánh**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những nội dung cần điền như sau:
 
