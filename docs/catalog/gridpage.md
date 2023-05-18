@@ -6,7 +6,7 @@ Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đ�
 
 Để thêm một nhóm longform, bạn cần:
 
-Nhấn chọn **Nội dung -> Longform**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Longform**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi hàng ngang tương ứng hiển thị trên màn hình.
 
@@ -85,7 +85,7 @@ Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa longform
 
@@ -101,4 +101,4 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa bài longform
 
-Nhấn chọn bài Longform cần sửa, sau khi thay đổi thông tin nội dung bài viết, nhấn chọn nút (v) để cập nhật thay đổi.
+Nhấn chọn bài Longform cần sửa, sau khi thay đổi thông tin nội dung bài viết, nhấn chọn nút **Lưu** để cập nhật thay đổi.
