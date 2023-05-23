@@ -55,10 +55,14 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa nhóm sản phẩm
 
-Để xóa một nhóm sản phẩm, tích vào nhóm sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa nhóm sản phẩm** trong mỗi nhóm sản phẩm chi tiết.
+Để xóa một nhóm sản phẩm, tích vào nhóm sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên phải hoặc click nút **Xóa nhóm sản phẩm** trong mỗi nhóm sản phẩm chi tiết.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa nhóm sản phẩm
 
 Nhấn chọn nhóm sản phẩm muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
+
+## Bật/Tắt trạng thái tất cả nhóm sản phẩm
+
+Chọn nhóm sản phẩm cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái nhóm sản phẩm của bạn.

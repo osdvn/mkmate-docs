@@ -43,7 +43,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **_SEO_**
 
@@ -55,7 +55,7 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa bài thông tin
 
-Để xóa một bài viết thông tin, tích vào bài viết thông tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
+Để xóa một bài viết thông tin, tích vào bài viết thông tin đó và chọn **Xóa** từ danh sách checkbox bên phải hoặc nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
@@ -67,6 +67,4 @@ Sau khi thay đổi các thông tin nội dung của bài viết, nhấn chọn 
 
 ## Bật/Tắt trạng thái bài thông tin
 
-Chọn bài thông tin cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ **Bật** hoặc **Tắt** trạng thái bài thông tin.
-
-
+Chọn bài thông tin cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ **Bật** hoặc **Tắt** trạng thái bài thông tin.

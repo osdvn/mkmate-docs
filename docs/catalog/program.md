@@ -34,11 +34,11 @@ Nhập mô tả cho lịch học.
 
 **Xuất bản**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i).
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n). 
 
 ## Xóa một lịch học
 
-Để xóa một lịch học, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên trái.
+Để xóa một lịch học, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên phải.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
@@ -50,6 +50,4 @@ Sau khi thay đổi các thông tin nội dung của bài viết cần chọn n�
 
 ## Bật/Tắt trạng thái tất cả lịch học
 
-Chọn lịch học cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái lịch học của bạn.
-
-
+Chọn lịch học cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái lịch học của bạn.

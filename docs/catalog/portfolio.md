@@ -39,7 +39,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Dự án**
 
@@ -59,7 +59,7 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa bài dự án tiêu biểu
 
-Để xóa một bài dự án tiêu biểu, tích vào bài đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc nhấn chọn nút **Xóa bài** trong mỗi bài dự án chi tiết.
+Để xóa một bài dự án tiêu biểu, tích vào bài đó và chọn **Xóa** từ danh sách checkbox bên phải hoặc nhấn chọn nút **Xóa bài** trong mỗi bài dự án chi tiết.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
@@ -68,3 +68,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 Để sửa một bài dự án tiêu biểu, nhấn chọn vào bài dự án tiêu biểu đó để sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
+
+## Bật/Tắt trạng thái tất cả dự án tiêu biểu
+
+Chọn dự án tiêu biểu cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái dự án tiêu biểu của bạn.
