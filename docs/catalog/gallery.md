@@ -67,4 +67,4 @@ Sau khi thay đổi các thông tin nội dung của thư viện ảnh, nhấn c
 
 ## Bật/Tắt trạng thái tất cả thư viện ảnh
 
-Chọn thư viện ảnh cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái thư viện ảnh của bạn.
+Chọn thư viện ảnh cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái thư viện ảnh của bạn.
