@@ -111,7 +111,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết, nhấn chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
 
 ## Nhân bản bài sản phẩm
 
@@ -119,4 +119,4 @@ Chọn sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân b�
 
 ## Bật/Tắt trạng thái tất cả bài sản phẩm
 
-Chọn sản phẩm cần bật hoặc tắt từ màn hình danh sách sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái bài sản phẩm.
+Chọn sản phẩm cần bật hoặc tắt từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái bài sản phẩm.
