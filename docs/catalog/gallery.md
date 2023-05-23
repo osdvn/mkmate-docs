@@ -33,7 +33,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 **Xuất bản**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **_SEO_**
 
@@ -65,6 +65,6 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Sau khi thay đổi các thông tin nội dung của thư viện ảnh, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
 
-## Bật/Tắt trạng thái tất cả
+## Bật/Tắt trạng thái tất cả thư viện ảnh
 
 Chọn thư viện ảnh cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái thư viện ảnh của bạn.
