@@ -34,7 +34,7 @@ Nhập mô tả cho lịch học.
 
 **Xuất bản**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i).
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n). 
 
 ## Xóa một lịch học
 
