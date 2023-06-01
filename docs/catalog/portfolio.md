@@ -53,9 +53,7 @@ Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
 **Thư viện ảnh**
 
-Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên. Các bạn có thể chọn nhiều ảnh cùng 1 lúc cho thư viện ảnh đầu tiên bạn cần bôi chọn các ảnh muốn thêm sau đó click vào chuột phải và chọn **Select file** như vậy bạn có thể thêm 1 lúc nhiều ảnh mà không cần chọn thêm từng ảnh 1.
-
-Nhấn chọn nút **Lưu** để lưu lại 1 mục.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C6%B0-vi%E1%BB%87n-%E1%BA%A3nh)
 
 ## Xóa bài dự án tiêu biểu
 
