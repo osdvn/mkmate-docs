@@ -79,7 +79,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
-_SEO_
+**SEO**
 
 Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
@@ -102,7 +102,3 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 ## Sửa bài longform
 
 Nhấn chọn bài Longform cần sửa, sau khi thay đổi thông tin nội dung bài viết, nhấn chọn nút **Lưu** để cập nhật thay đổi.
-
-## Bật/Tắt trạng thái tất cả
-
-Chọn Longform cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái Longform của bạn.
