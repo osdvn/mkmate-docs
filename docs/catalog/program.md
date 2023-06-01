@@ -47,7 +47,3 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 Nhấn chọn nút **Sửa** ở trường thao tác tại mỗi lịch học để sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
-
-## Bật/Tắt trạng thái tất cả lịch học
-
-Chọn lịch học cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái lịch học của bạn.

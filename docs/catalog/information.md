@@ -64,7 +64,3 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
-
-## Bật/Tắt trạng thái bài thông tin
-
-Chọn bài thông tin cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ **Bật** hoặc **Tắt** trạng thái bài thông tin.

@@ -53,9 +53,7 @@ Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
 
 **Thư viện ảnh**
 
-Nhấn chọn **Thêm ảnh -> Chọn ảnh** để lựa chọn tập tin hình ảnh của dự án tiêu biểu từ máy tính và tải lên
-
-Nhấn chọn nút **Lưu** để lưu lại 1 mục.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C6%B0-vi%E1%BB%87n-%E1%BA%A3nh)
 
 ## Xóa bài dự án tiêu biểu
 

@@ -79,7 +79,7 @@ Kết quả hiển thị tự động theo theo công thức `Tổng điểm/S�
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp. Được hiển thị phía đầu nội dung bài tin, trình bày dạng bullet
 
-_SEO_
+**_SEO_**
 
 Nhấp vào icon bút chì để tối ưu các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 
@@ -102,7 +102,3 @@ Sau khi thay đổi các thông tin nội dung của bài viết cần chọn n�
 ## Nhân bản bài tin tức
 
 Chọn sản phẩm cần nhân bản từ danh sách sau đó chọn Nhân bản => Hệ thống sẽ nhân bản bài tin bài và đặt trạng thái là tắt.
-
-## Bật/Tắt trạng thái tất cả bài tin bài
-
-Chọn tin bài cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái tin bài của bạn.
