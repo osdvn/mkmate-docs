@@ -64,7 +64,3 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 Để sửa thư viện ảnh, nhấn chọn vào bài thư viện ảnh đó để sửa.
 
 Sau khi thay đổi các thông tin nội dung của thư viện ảnh, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
-
-## Bật/Tắt trạng thái tất cả thư viện ảnh
-
-Chọn thư viện ảnh cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái thư viện ảnh của bạn.
