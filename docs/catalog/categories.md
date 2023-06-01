@@ -102,7 +102,3 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
-
-## Bật hoặc tắt trạng thái chuyên mục tin bài
-
-Chọn chuyên mục tin bài cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái chuyên mục tin bài của bạn.
