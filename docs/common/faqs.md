@@ -37,11 +37,10 @@ Sau khi xóa nội dung câu trả lời, hiển thị nhãn Undo (thực hiện
 
 ![faq-2.jpg](img/faq-2.jpg)
 
-Sau khi hoàn tất các thao tác thay đổi thông tin, bạn cần chọn nút (v) để cập nhật những thay đổi.
+Sau khi hoàn tất các thao tác thay đổi thông tin, bạn cần chọn nút **Lưu** để cập nhật những thay đổi.
 
 ## Sắp xếp lại vị trí bằng drag and drop
 
-Tính năng này cho phép người dùng có thể di chuyển các đối tượng từ vị trí này sang vị trí khác với thao tác di 
-chuột đến vị trí góc trái của câu hỏi sẽ hiển thị text `Kéo thả để di chuyển thứ tự`, sau đó di chuyển kéo thả vào vị trí mong muốn.
+Tính năng này cho phép người dùng có thể di chuyển các đối tượng từ vị trí này sang vị trí khác với thao tác di chuột đến vị trí góc trái của câu hỏi sẽ hiển thị text `Kéo thả để di chuyển thứ tự`, sau đó di chuyển kéo thả vào vị trí mong muốn.
 
 ![faq-3.jpg](img/faq-3.jpg)
