@@ -103,7 +103,7 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa bài sản phẩm
 
-Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
+Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên phải hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
