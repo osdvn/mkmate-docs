@@ -17,7 +17,7 @@ Dán mã code của thẻ body
 Đây là tham số CSS được cấu hình sẵn mang tính kĩ thuật. Không được xóa.
   
 ## Xóa mã nhúng
-Bôi đen đoạn mã nhúng cần xóa và chọn nút Back Space tại bàn phím máy tính, sau đó chọn nút **v** để hoàn tất.
+Bôi đen đoạn mã nhúng cần xóa và chọn nút Back Space tại bàn phím máy tính, sau đó chọn nút **Lưu** để hoàn tất.
 
 ## Sửa mã nhúng
 Sửa thông tin đoạn mã nhúng, sau đó chọn nút **Lưu** để hoàn tất.

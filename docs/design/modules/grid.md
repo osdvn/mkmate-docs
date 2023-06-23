@@ -26,11 +26,11 @@ Tùy chỉnh màn hình Mobile:
 
 Mô tả chi tiết bài thông tin muốn hiển thị để người dùng hiểu rõ hơn về lĩnh vực của bạn đang kinh doanh. Có 8 loại tab nội dung theo 8 cách hiển thị khác nhau như sau:
 
-- Add row 12
-- Add row 6-6
-- Add row 4-4-4
-- Add row 3-3-3-3
-- Add row 2-2-2-2-2-2
+- Add row 12: Hiển thi 1 cột.
+- Add row 6-6: Hiển thị 2 cột.
+- Add row 4-4-4: Hiển thị 3 cột.
+- Add row 3-3-3-3: Hiển thị 4 cột
+- Add row 2-2-2-2-2-2: Hiển thị 5 cột
 - Add row 2-8-2
 - Add row 4-8
 - Add row 8-4
@@ -61,7 +61,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 

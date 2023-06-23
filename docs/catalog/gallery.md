@@ -45,17 +45,19 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Upload các bộ ảnh trình bày kiểu gallery. Nhấn chọn **Thêm ảnh**
 
-- **Hình ảnh**: nhấp chọn nút **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên
+- **Hình ảnh**: nhấp chọn nút **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên 
 - **Tên ảnh (Tiếng Việt)**: nhập tên cho mỗi ảnh trong bộ sưu tập
 - **Thứ tự**: xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 - **Mô tả ảnh ()**: nhấn chọn nút mũi tên trỏ xuống để thấy mục này
 - Nhấn chọn nút trừ **(-)** để xóa 1 ảnh (bao gồm hình ảnh, tiêu đề ảnh, mô tả ảnh, thứ tự) của thư viện ảnh.
 
+Cách thêm nhiều thư viện ảnh. Nhấn chọn **Thêm ảnh** sau đó nhấp **Chọn** để chọn hình ảnh, tiếp theo bôi đen các ảnh muốn thêm vào thư viện ảnh tiếp đó click vào chuột phải và chọn **Select file**.
+
 Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa thư viện ảnh
 
-Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và nhấn chọn nút **Xóa** từ danh sách thả xuống.
+Để xóa một thư viện ảnh, tích vào thư viện ảnh đó và nhấn chọn nút **Xóa** từ checkbox bên phải
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 

@@ -1,11 +1,9 @@
+# Mô đun Album ảnh
+Để cấu hình mô đun album ảnh, bạn cần:
 
-# Mô đun Dự án
+Nhấn chọn **Giao diện -> Mô đun -> Album ảnh -> Cấu hình -> Thêm mô đun**
 
-Để cấu hình mô đun dự án, bạn cần:
-
-Nhấn chọn **Giao diện -> Mô đun -> Dự án -> Cấu hình -> Thêm mô đun**
-
-Trang tạo cấu hình mô đun dự án được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
+Trang tạo cấu hình mô đun album ảnh được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
 **Bố cục/Vị trí**
 
@@ -19,6 +17,20 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
+**Tiêu đề**
+
+- Hiện tiêu đề mô đun: cho phép hiển thị tiêu đề của chuyên mục
+- Ẩn tiêu đề mô đun: không cho phép hiển thị tiêu đề của chuyên mục
+- Tùy chỉnh: cho phép tùy chỉnh tiêu đề của chuyên mục
+
+**Mẫu trình bày**
+
+Lựa chọn mấu trình bày có sẵn tại danh sách đổ xuống
+
+**Mặc đinh**
+**Popup :** trình bày mô đun Album ảnh dưới dạng popup
+**Danh sách dọc**: Trình bày dạng danh sách dọc
+
 **Giới hạn**
 
 Nhập số lượng giới hạn bài viết hiển thị
@@ -29,14 +41,14 @@ Nhập kích thước hình ảnh muốn hiển thị bao gồm chiều rộng v
 
 Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
-### Xóa mô đun dự án
+### Xóa mô đun Album ảnh
 
 Nhấn chọn nút **Xóa** để xóa mô đun này.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
-### Sửa mô đun dự án
+### Sửa mô đun Album ảnh
 
-Nhấn chọn **Cấu hình** tại mô đun **Dự án**
+Nhấn chọn **Cấu hình** tại mô đun **Album ảnh**
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.
