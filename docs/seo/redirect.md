@@ -29,4 +29,4 @@ Nhập tên URL cũ vào button, URL được xác định bị xóa khỏi webs
 
 Nhập địa chỉ URL trang đích mà bạn muốn chuyển hướng đến, thao tác này thực hiện chuyển hướng người dùng lẫn bộ máy tìm kiếm từ một đường dẫn URL qua một đường dẫn URL khác _(ví dụ: https://osd.vn/news/blog)_
 
-Nhấn chọn nút **lưu** để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
