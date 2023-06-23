@@ -2,11 +2,11 @@
 
 ## Trang Blog
 
-Khu vực này cho phép bạn thay đổi các thông tin  của trang news blog.
+Khu vực này cho phép bạn thay đổi các thông tin của trang `domain/news/blogs`.
 
 ### Tên trang
 
-Tên trang của trang news blog, được hiển thị trên trình duyệt web của người dùng (ví dụ: bạn đặt là Wiki thì trang news blog không tên là Blog sẽ thành Wiki ).
+Tên trang của trang news blog, được hiển thị trên trình duyệt web của người dùng (ví dụ: bạn đặt là Wiki thì trang `blogs` sẽ thành Wiki ).
 
 ### Meta title 
 
@@ -14,7 +14,7 @@ Tiêu đề của trang blog, được hiển thị trên trình duyệt web c�
 
 ### Mô tả ngắn & Meta description
 
-Thông tin mô tả của trang news blog. Độ dài tối đa là 160 ký tự.
+Thông tin mô tả ngắn của trang news blog. Độ dài tối đa là 160 ký tự.
 
 ### Ảnh đại diện
 
@@ -22,7 +22,7 @@ Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sư
 
 ### Slug / Đường dẫn
 
-Khi bạn điền vào trường này thì đường dẫn news/blog của bạn sẽ không truy cập được mà sẽ thay đổi theo đường dẫn bạn điền vào vùng này (ví dụ: bạn điền là wiki thì đường dẫn osd.vn/news/blog sẽ không truy cập được mà sẽ thành osd.vn/wiki ).
+Khi bạn điền vào trường này thì đường dẫn news/blog của bạn sẽ không truy cập được mà sẽ thay đổi theo đường dẫn bạn điền vào vùng này (ví dụ: bạn điền là `wiki` thì đường dẫn osd.vn/news/blog sẽ không truy cập được mà sẽ thành osd.vn/wiki ).
 
 Sau đó nhấn chọn nút **Lưu** để hoàn tất
 
@@ -77,7 +77,6 @@ Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sư
 Khi bạn điền vào trường này thì đường dẫn `information/portfolio` của bạn sẽ không truy cập được mà sẽ thay đổi theo đường dẫn bạn điền vào vùng này (ví dụ: bạn điền là `information/du-an` thì đường dẫn sẽ là osd.vn/service/du-an).
 
 Sau đó nhấn chọn nút **Lưu** để hoàn tất
-
 
 ## Trang bảo trì
 
