@@ -34,7 +34,7 @@ Nhập kích thước tùy chỉnh hiển thị mô đun này
 
 **Trạng thái/Hiển thị cover/Hiển thị stream/Hiển thị tiêu đề**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
