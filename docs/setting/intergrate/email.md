@@ -1,7 +1,10 @@
 ---
 slug: email
 title: Tích hợp Email
-tags: [email, smtp]
+tags:
+  - email
+  - smtp
+published: true
 ---
 # Tích hợp giao thức gửi email
 Để Mkmate có thể gửi email cho người dùng, chúng ta có 2 lựa chọn như sau:
