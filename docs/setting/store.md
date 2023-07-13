@@ -13,7 +13,7 @@ Cấu hình một hệ thống kinh doanh theo chuỗi gồm từ hai hay nhiề
 
 Để cấu hình mô đun hệ thống chi nhánh, bạn cần:
 
-Nhấn chọn **Hệ thống -> Chi nhánh**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
+Nhấn chọn **Hệ thống -> Chi nhánh**. Nhấn chọn nút **Thêm chi nhánh** để thêm mới 1 mục.
 
 Những nội dung cần điền như sau:
 
@@ -50,10 +50,6 @@ Tại hình trên tọa độ sẽ là:
 
 Nhập số điện thoại của chi nhánh
 
-**Cho phép nhận hàng**
-
-Lựa chọn trạng thái có hoặc không cho phép nhận hàng
-
 **Thứ tự**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
@@ -70,7 +66,7 @@ Nhấn chọn nút **Lưu** để cập nhật thông tin
 
 ## Xóa chi nhánh
 
-Để xóa một chi nhánh, tích vào chi nhánh đó và chọn **Xóa**
+Để xóa một chi nhánh, tích vào chi nhánh đó từ danh sách checkbox bên phải và chọn **Xóa**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
