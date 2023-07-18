@@ -15,6 +15,10 @@ Chọn gói dịch vụ, ở đây bạn chọn gói miễn phí.
 
 Bạn nhấn chọn vào vùng **Free** để dùng miễn phí sau đó nhấn chọn **Continue**.Tiếp đó bạn chọn **Continue**
 
+Sau đó đợi Cloudflare quét DNS có sẵn trong tên miền của bạn, nếu bạn đã tạo các record DNS trước đó, Cloudflare sẽ hiển thị bên dưới. Nếu chưa có DNS, bạn tạo DNS mới để trỏ tên miền.
+
+![Cloudflare](img/hinh-anh-cloudflare-4.jpg)
+
 Trỏ cặp nameserver về cloudflare
 
 ![Cloudflare](img/hinh-anh-cloudflare-2.jpg)
@@ -32,4 +36,3 @@ Sau đó truy cập vào cloudflare.
 Dán mã **Zone id** vào trường **Zone id**, copy trường **Account id** vào trường **Token id**.
 
 Sau khi tích hợp xong, nhấn chọn **Công cụ -> Xóa đệm Cloudflare** để xóa cache cloudflare.
-
