@@ -1,4 +1,4 @@
-# Tạo lại mật khẩu truy cập vào admin
+# Tạo lại mật khẩu truy cập vào khu vực quản trị
 
 Điều kiện để chức năng này có thể hoạt động được thì trong phần hệ thống bạn cần thiết phải bật khả năng tạo mật khẩu cho thành viên.
 
