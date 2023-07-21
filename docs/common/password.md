@@ -1,14 +1,19 @@
+---
+title: Tạo lại mật khẩu
+tags:
+  - password
+  - mật khẩu
+published: true
+---
 # Tạo lại mật khẩu truy cập vào khu vực quản trị
-
-Điều kiện để chức năng này có thể hoạt động được thì trong phần hệ thống bạn cần thiết phải bật khả năng tạo mật khẩu cho thành viên.
+Khi bạn quên mật khẩu quản trị website, bạn có thể dùng chức năng Quên mật khẩu để tạo lại mật khẩu. Điều kiện để chức năng này có thể hoạt động được thì trong phần hệ thống bạn cần thiết phải bật "Chức năng quên mật khẩu".
 
 ## Bật chế độ quên mật khẩu
-1. Thao tác bằng cách vào **Hệ Thống -> Thiết lập -> Bảo mật người dùng**. 
-Bạn bật trạng thái của chức năng quên mật khẩu. Sau đó chọn **Lưu** để hoàn tất thiết lập. Sau khi bạn bật chức năng quên mât khẩu tại màn khi đăng nhập vào quản trị sẽ xuất hiện dưới nút đăng nhập sẽ xuất hiện dòng chữ **quên mật khẩu?**.
+1. Truy cập vào **Hệ Thống -> Thiết lập -> Bảo mật người dùng**.
+2. Bạn bật trạng thái của "Chức năng quên mật khẩu". Sau đó chọn **Lưu** để hoàn tất thiết lập.
+3. Màn khi đăng nhập vào khu vực quản trị sẽ xuất hiện liên kết với dòng chữ **Quên mật khẩu?**.
 
-_Lưu ý: Tại thông tin tài khoản thành viên bạn sẽ phải điền email để khi dùng chức năng quên mật khẩu sẽ có 1 link dẫn gửi về gmail và thay đổi thông tin tài khoản có chứa email đó xem thêm [tại đây](https://mkmate.osd.vn/docs/setting/user/)._
-
-Khi bạn quên mật khẩu quản trị website của bạn bạn có thể dùng chức năng quên mật khẩu để thay đổi thông tin mật khẩu.
+_Lưu ý: Tại thông tin tài khoản thành viên bạn sẽ phải điền email để khi dùng chức năng quên mật khẩu sẽ có 1 link dẫn gửi về gmail và thay đổi thông tin tài khoản có chứa email đó xem thêm [tại đây](https://mkmate.osd.vn/docs/setting/user/).
 
 ## Hướng dẫn lấy lại mật khẩu khi người dùng quên mật khẩu
 
@@ -20,7 +25,7 @@ Bạn điền thông tin email bạn đã đặt trong tài khoản quản trị
 
 _Ví dụ: email bạn đặt trong user quản trị là tencuaban@gmail.com bạn sẽ điền thông tin email tương ứng đó vào. _
 
-Sau đó bạn sẽ chờ 5p -> 10p hệ thống sẽ gửi cho bạn 1 đường dẫn thay đổi mật khẩu về gmail của bạn.
+Sau tối đa là 5 phút, hệ thống sẽ gửi vào địa chỉ email bạn khai báo 1 đường dẫn giúp khởi tạo lại mật khẩu.
 
 _Lưu ý: nếu tài khoản email không đúng với tài khoản bạn đã thềm trong user quản trị của bạn sẽ không lấy được mật khẩu của user quản trị đó._
 
