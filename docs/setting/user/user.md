@@ -1,14 +1,12 @@
 # Thành viên
 
 ## Thêm thành viên mới
-Để thêm một thành viên mới, bạn cần:
+Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên**. Nhấp chuột vào nút **Thêm** để thêm mới 1 thành viên.
 
-Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
-
-Những thông tin cần điền như sau:
+Thông tin cần điền như sau:
 
 **Tên đăng nhập**
-Nhập vào tên đăng nhập của tài khoản. _(ví dụ: admin)_
+Điền tên đăng nhập của tài khoản. _(ví dụ: admin)_
 
 **Họ và tên**
 Nhập vào họ tên người dùng. Tên thành viên này được hiển thị tại bài tin nếu thành viên đăng nhập vào quản trị website và đăng bài tin  _(ví dụ: Nguyễn Hoàng Quân)_
@@ -39,13 +37,13 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 ## Xóa thành viên
 
 Tại chi tiết mỗi tài khoản, bạn nhấn chọn nút **Xóa thành viên** để xóa tài khoản người dùng. Sau đó tại màn hình sẽ hiện lên 1 popup để chọn tài khoản sở hữu các bài viết của tài khoản mà bạn muốn xóa.
+
 Khi bạn đã xóa tài khoản đó thì tất cả các bài viết đó sẽ được chuyển giao sang tài khoản bạn đã chọn để chuyển giao.
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/setting/user/#x%C3%B3a-th%C3%A0nh-vi%C3%AAn)
 
 
 ## Sửa thành viên
-
 Sửa thông tin – thiết lập một tài khoản quản trị
 
 Trong màn hình quản trị tài khoản, bạn nhấn chọn trực tiếp tại tài khoản muốn sửa hoặc icon bút chì ở cuối mỗi tài khoản để sửa thông tin.
