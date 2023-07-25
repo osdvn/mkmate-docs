@@ -13,7 +13,7 @@ Khi bạn quên mật khẩu quản trị website, bạn có thể dùng chức 
 2. Bạn bật trạng thái của "Chức năng quên mật khẩu". Sau đó chọn **Lưu** để hoàn tất thiết lập.
 3. Màn hình khi đăng nhập vào khu vực quản trị sẽ xuất hiện liên kết với dòng chữ **Quên mật khẩu?**.
 
-_Lưu ý: Tại thông tin tài khoản thành viên bạn sẽ phải điền email để khi dùng chức năng quên mật khẩu sẽ có 1 link dẫn gửi về gmail và thay đổi thông tin tài khoản có chứa email đó xem thêm [tại đây](https://mkmate.osd.vn/docs/setting/user/).
+_Lưu ý: Tại thông tin tài khoản thành viên bạn sẽ phải điền email để khi dùng chức năng quên mật khẩu sẽ có 1 link dẫn gửi về gmail và thay đổi thông tin tài khoản có chứa email đó xem thêm [tại đây](https://mkmate.osd.vn/docs/setting/user/)._
 
 ## Hướng dẫn lấy lại mật khẩu khi người dùng quên mật khẩu
 
