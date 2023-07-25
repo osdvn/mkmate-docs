@@ -2,6 +2,14 @@
 sidebar_label: Trình đơn
 published: true
 ---
+---
+slug: menumanager
+sidebar_position: 4
+title: Trình đơn
+sidebar_label: Trình đơn
+published: true
+---
+
 # Trình đơn & trình bày trình đơn
 
 Trình đơn là các mục menu thường nằm ở phần đầu của trang web. Top Menu sẽ giúp mọi người thuận thiện trong việc truy cập nhanh vào các chuyên mục khác nhau trên trang web của bạn.
