@@ -1,6 +1,6 @@
 ---
 slug: information
-sidebar_position: 3
+sidebar_position: 6
 sidebar_label: Bài thông tin
 title: Quản lý Bài Thông tin
 published: true

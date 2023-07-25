@@ -1,7 +1,7 @@
 ---
 slug: portforlio
 title: Quản lý Dự án tiêu biểu
-sidebar_position: 1
+sidebar_position: 7
 sidebar_label: Dự án tiêu biểu
 published: true
 ---
