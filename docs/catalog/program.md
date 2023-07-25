@@ -1,3 +1,9 @@
+slug: program
+sidebar_position: 5
+sidebar_label: Lịch học
+title: Quản lý Lịch học
+published: true
+---
 # Lịch học
 
 ## Thêm lịch học
