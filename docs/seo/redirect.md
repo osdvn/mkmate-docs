@@ -9,6 +9,14 @@ tags:
 published: true
 ---
 
+---
+slug: redirect
+sidebar_position: 2
+title: Chuyển hướng url
+sidebar_label: Chuyển hướng url
+published: true
+---
+
 # Chuyển hướng URL (301,302 redirect)
 
 Chuyển hướng URL là phương pháp chuyển hướng nhằm thông báo rằng các URL hoặc các trang web đã được chuyển hướng vĩnh viễn sang một URL hoặc một trang web khác. Điều này có nghĩa là tất cả các giá trị của trang web hoặc URL gốc như hình ảnh, nội dung… sẽ được chuyển hết sang URL mới.
