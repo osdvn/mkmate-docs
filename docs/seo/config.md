@@ -1,14 +1,9 @@
 ---
-title: Cấu hình SEO
-tags:
-  - seo
-published: true
----
----
-slug: config
 sidebar_position: 1
 title: Cấu hình Seo
 sidebar_label: Cấu hình Seo
+tags:
+  - seo
 published: true
 ---
 
