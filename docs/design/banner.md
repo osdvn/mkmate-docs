@@ -6,6 +6,14 @@ tags:
   - automate
 published: true
 ---
+---
+slug: banner
+sidebar_position: 1
+title: Banner
+sidebar_label: Banner & trình diễn
+published: true
+---
+
 # Banner và trình diễn banner
 
 Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
