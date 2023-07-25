@@ -1,3 +1,11 @@
+---
+slug: gridcat
+sidebar_position: 6
+title: Tran đặc biệt
+sidebar_label: Trang đặc biệt
+published: true
+---
+
 # Trang đặc biệt
 
 ## Trang Blog
