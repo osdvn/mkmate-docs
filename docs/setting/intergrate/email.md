@@ -1,6 +1,6 @@
 ---
 slug: email
-title: Tích hợp Email
+title: Tích hợp gửi Email
 tags:
   - email
   - smtp
