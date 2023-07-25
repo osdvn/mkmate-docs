@@ -28,7 +28,7 @@ Nhập tiêu đề và nội dung hiển thị trên website
 
 Phạm vi bố cục hiển thị mẫu nội dung này. Tại đây hệ thống cho phép lựa chọn 4 tab hiển thị 4 bố cục khác nhau: **_Nội dung chi tiết, Tab dịch vụ_**
 
-Nhấn chọn nút (v) để lưu lại thông tin.
+Nhấn chọn nút **Lưu** để lưu lại thông tin.
 
 ## Hướng dẫn nhanh điền mẫu nội dung trong thông tin bài viết
 
