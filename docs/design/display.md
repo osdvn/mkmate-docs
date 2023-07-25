@@ -1,3 +1,11 @@
+---
+slug: display
+sidebar_position: 3
+title: Nhận diện
+sidebar_label: Nhận diện
+published: true
+---
+
 # Nhận diện
 
 Để cấu hình logo website bạn cần:

@@ -1,3 +1,11 @@
+---
+slug: embed
+sidebar_position: 5
+title: Mã nhúng
+sidebar_label: Mã nhúng
+published: true
+---
+
 # Mã nhúng
 
 Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tương ứng tại **Script header** và **Script footer**.

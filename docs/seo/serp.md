@@ -1,5 +1,6 @@
 ---
 title: Khai báo SEO cho từng trang
+sidebar_position: 3
 tags:
   - serp
   - seo

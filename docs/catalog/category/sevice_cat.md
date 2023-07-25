@@ -1,6 +1,6 @@
 ---
 slug: service_cat
-sidebar_position: 11
+sidebar_position: 2
 title: Nhóm sản phẩm
 sidebar_label: Nhóm sản phẩm
 published: true

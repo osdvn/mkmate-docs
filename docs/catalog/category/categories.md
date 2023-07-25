@@ -1,6 +1,6 @@
 ---
 slug: categories
-sidebar_position: 10
+sidebar_position: 1
 title: Chuyên mục tin bài
 sidebar_label: Chuyên mục tin bài
 published: true
