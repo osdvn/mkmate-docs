@@ -1,7 +1,8 @@
 ---
+slug: robots
 sidebar_position: 4
-title: Robot TxT
 sidebar_label: Robot Txt
+title: Robot
 published: true
 ---
 
