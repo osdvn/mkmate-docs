@@ -1,19 +1,12 @@
 ---
-title: Quản lý tin bài
-sidebar_position: 2
-sidebar_label: Chuyển hướng URL
-tags:
-  - seo
-  - 301
-  - redirect
-published: true
----
-
----
 slug: redirect
 sidebar_position: 2
 title: Chuyển hướng url
 sidebar_label: Chuyển hướng url
+tags:
+  - seo
+  - 301
+  - redirect
 published: true
 ---
 
