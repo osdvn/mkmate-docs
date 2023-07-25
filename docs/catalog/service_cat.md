@@ -1,3 +1,10 @@
+---
+slug: service_cat
+sidebar_position: 11
+title: Nhóm sản phẩm
+sidebar_label: Nhóm sản phẩm
+published: true
+---
 # Nhóm sản phẩm
 
 - Nhóm sản phẩm: cho phép tạo nhiều nhóm những sản phẩm cùng loại với nhau tùy theo mục đích.
