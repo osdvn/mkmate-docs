@@ -1,4 +1,10 @@
-
+---
+slug: gridcat
+sidebar_position: 12
+title: Nhóm Longform
+sidebar_label: Nhóm Longform
+published: true
+---
 # Nhóm longform
 
 - Nhóm longform: cho phép tạo nhiều nhóm longform tùy theo mục đích.
