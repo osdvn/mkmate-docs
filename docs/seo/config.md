@@ -4,6 +4,14 @@ tags:
   - seo
 published: true
 ---
+---
+slug: config
+sidebar_position: 1
+title: Cấu hình Seo
+sidebar_label: Cấu hình Seo
+published: true
+---
+
 # Cấu hình SEO cho toàn bộ website
 
 Khu vực này cho phép bạn khai báo thông tin chung liên quan đến SEO của toàn bộ website.
