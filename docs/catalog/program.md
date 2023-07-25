@@ -1,3 +1,4 @@
+---
 slug: program
 sidebar_position: 5
 sidebar_label: Lịch học
