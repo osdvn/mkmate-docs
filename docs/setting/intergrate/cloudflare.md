@@ -1,3 +1,11 @@
+---
+slug: cloudflare
+title: Tích hợp Cloudflare DNS 
+tags:
+  - email
+  - smtp
+published: true
+---
 # Hướng dẫn tích hợp tên miền sử dụng DNS của Cloudflare
 Truy cập đường dẫn https://dash.cloudflare.com/ nếu bạn chưa có tài khoản thì bạn đăng kí tài khoản [tại đây](https://dash.cloudflare.com/sign-up).
 
