@@ -8,17 +8,15 @@ published: true
 
 # Mã nhúng
 
-Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tương ứng tại **Script header** và **Script footer**.
+Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tương ứng tại **Header**, **Body** và **Footer**.
 
-## Thêm mới mã nhúng
+**Header**
+Nội dung là HTML trong cặp thẻ head (`<head></head>`)
 
-**Script header** `(Javascript hiển thị trong cặp thẻ <head>)`
+Dán đoạn mã mong muốn vào ô textbox
 
-Dán mã code của thẻ head
-
-**Script footer** `(Javascript hiển thị trước thẻ đóng body <body>)`
-
-Dán mã code của thẻ body
+**Footer** 
+Nội dung là HTML sẽ được chèn vào trước thẻ đóng body (`</body>`)
 
 **Custom CSS**
 
