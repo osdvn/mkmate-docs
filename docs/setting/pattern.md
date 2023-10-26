@@ -35,14 +35,14 @@ Truy cập vài bài viết muốn hiển thị mẫu nội dung tự động:
 
 Nhập tên biến  đã tạo tại **Mẫu nội dung** vào trình soạn thảo của bài viết bằng cách gõ @ tại nơi muốn hiển thị mẫu nội dung, hệ thống sẽ gợi ý các mẫu nội dung cho bạn lựa chọn như sau:
 
-![cn-mau-noi-dung-3.jpg](img/cn-mau-noi-dung-3.jpg)
+![cn-mau-noi-dung-3.jpg](setting/img/cn-mau-noi-dung-3.jpg)
 
 Sau khi dán tên biến vào form trình soạn thảo, màn hình sẽ hiển thị minh họa như sau:
 
-![cn-mau-noi-dung-4.jpg](img/cn-mau-noi-dung-4.jpg)
+![cn-mau-noi-dung-4.jpg](setting/img/cn-mau-noi-dung-4.jpg)
 
 Bạn nhập tên biến ở vị trí nào sẽ hiển thị tên biến ở vị trí đó trong bài viết. Khi xem ngoài wesbite mẫu nội dung được hiển thị như sau:
 
-![cn-mau-noi-dung-5.jpg](img/cn-mau-noi-dung-5.jpg)
+![cn-mau-noi-dung-5.jpg](setting/img/cn-mau-noi-dung-5.jpg)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.
