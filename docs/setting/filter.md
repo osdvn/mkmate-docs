@@ -8,15 +8,11 @@
 
 Nhấn chọn **Hệ thống -> Quản lý mẫu -> Trường mở rộng**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
-![truong-mo-rong.jpg](img/truong-mo-rong.jpg)
-
 Những thông tin cụ thể cần điền như sau:
 
 **Tên nhóm**
 
 Điền tên nhóm nội dung của trường mở rộng. Được hiển thị tại vùng chức năng [Nội dung -> Dự án tiêu biểu](https://mkmate.osd.vn/docs/catalog/portforlio)
-
-![truong-mo-rong-1.jpg](img/truong-mo-rong-1.jpg)
 
 **Thứ tự**
 
