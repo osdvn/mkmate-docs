@@ -8,26 +8,22 @@ published: true
 
 # Mã nhúng
 
-Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tương ứng tại **Header**, **Body** và **Footer**.
+Chức năng cho phép nhúng các đoạn mã html và css để tích hợp với các phần mềm ứng dụng khác hay tùy chỉnh giao diện theo yêu cầu cụ thể của bạn. Các đoạn mã được nhúng tại đây sẽ có tác dụng trên toàn bộ các trang và chúng sẽ được chèn vào khu vực `<head></head>`, trước thẻ đóng `</body>`.
 
 **Header**
 
-Nội dung là HTML trong cặp thẻ head (`<head></head>`)
+Cần chèn nội dung theo chuẩn mã HTML trong cặp thẻ head (`<head></head>`), thông thường được dùng để: xác thực Google Search Console, Google Adwords, Facebook Ads,...
 
-Dán đoạn mã mong muốn vào ô textbox
 
 **Footer** 
 
-Nội dung là HTML sẽ được chèn vào trước thẻ đóng body (`</body>`)
+Nội dung là chuẩn HTML sẽ được chèn vào trước thẻ đóng body (`</body>`)
 
 **Custom CSS**
 
-Đây là tham số CSS được cấu hình sẵn mang tính kĩ thuật. Không được xóa.
-  
-## Xóa mã nhúng
+Những đoạn stylesheet ghi đè so với giao diện mặc định đang có. Bạn KHÔNG cần đặt trong cặp `<style></style>`.
 
-Bôi đen đoạn mã nhúng cần xóa và chọn nút Back Space tại bàn phím máy tính, sau đó chọn nút **Lưu** để hoàn tất.
+Sau khi thao tác xong, vui lòng bấm `Lưu` lại.
 
-## Sửa mã nhúng
-
-Sửa thông tin đoạn mã nhúng, sau đó chọn nút **Lưu** để hoàn tất.
+<!> Lưu ý:
+- Khi chỉnh sửa, bạn cần hết sức lưu ý về cấu trúc thẻ HTML để đảm bảo rằng các thao tác ở khu vực này không làm cho website bị lỗi giao diện.
