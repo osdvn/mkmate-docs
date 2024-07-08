@@ -5,7 +5,7 @@ authors: saosangmo
 tags: [roadmap, mkmate]
 ---
 
-## 2023-09-30. V6.5.6
+## 2024-07-30. V6.5.6
 1. - [ ] Layout manager
 3. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 4. - [ ] Bỏ token trong khu vực quản trị
@@ -14,8 +14,8 @@ tags: [roadmap, mkmate]
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
 9. - [ ] Thay đổi cách cấu hình mô-đun
 10. - [x] Tích hợp Google Indexing API
-15. - [x] Cookie Consent
-18. - [ ] Form builder
-19. - [ ] Tích hợp tiktok
-20. - [ ] Customer portal, self service to manage issue & ticket
-21. - [ ] Tích hợp Google Ads, Facebook Ads
+11. - [x] Cookie Consent
+12. - [ ] Form builder
+13. - [ ] Tích hợp tiktok
+14. - [ ] Customer portal, self service to manage issue & ticket
+15. - [ ] Tích hợp Google Ads, Facebook Ads
