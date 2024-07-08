@@ -11,15 +11,14 @@ tags: [roadmap, mkmate]
 ## 2023-06-30. V6.5.5
 1. - [x] Search and replace massive content
 2. - [x] Hỗ trợ liệt kê anchor text cho toàn bộ site
-3. - [x] Hỗ trợ liệt kê anchor text cho toàn bộ site
-4. - [x] Hỗ trợ tư vấn sửa chính tả
-5. - [x] Tool kiểm lỗi ảnh
-6. - [x] Tool kiểm tra link gãy
-7. - [x] Hỗ trợ upload nhiều ảnh đồng thời cho thư viện
-8. - [x] Tối ưu chức năng backup dữ liệu
-9. - [x] Hỗ trợ URL song ngữ
-10. - [x] Cảnh báo lỗi trực quan với màn hình đa ngôn ngữ
-11. - [x] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực quản trị
+3. - [x] Hỗ trợ tư vấn sửa chính tả
+4. - [x] Tool kiểm lỗi ảnh
+5. - [x] Tool kiểm tra link gãy
+6. - [x] Hỗ trợ upload nhiều ảnh đồng thời cho thư viện
+7. - [x] Tối ưu chức năng backup dữ liệu
+8. - [x] Hỗ trợ URL song ngữ
+9. - [x] Cảnh báo lỗi trực quan với màn hình đa ngôn ngữ
+10. - [x] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực quản trị
    
 ## 2022-12-31. V6.5.3
 1. - [x] Bổ sung TOC cho sản phẩm
