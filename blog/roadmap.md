@@ -19,3 +19,4 @@ tags: [roadmap, mkmate]
 13. - [ ] Tích hợp tiktok
 14. - [ ] Customer portal, self service to manage issue & ticket
 15. - [ ] Tích hợp Google Ads, Facebook Ads
+16. - [x] Hỗ trợ shortlink
