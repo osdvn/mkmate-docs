@@ -13,7 +13,7 @@ tags: [roadmap, mkmate]
 7. - [ ] Build giao diện tự động theo từng website
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
 9. - [ ] Thay đổi cách cấu hình mô-đun
-10. - [x] Tích hợp Google Indexing API
+10. - [x] Tích hợp Google Indexing API, Bing IndexNow
 11. - [x] Cookie Consent
 12. - [ ] Form builder
 13. - [ ] Tích hợp tiktok
