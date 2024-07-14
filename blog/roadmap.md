@@ -8,7 +8,7 @@ tags: [roadmap, mkmate]
 ## 2024-08-31. V6.5.6
 1. - [ ] Layout manager
 3. - [ ] Cộng tác nhóm khi soạn thảo bài viết
-4. - [ ] Bỏ token trong khu vực quản trị
+4. - [x] Bỏ token trong khu vực quản trị
 5. - [x] Mẫu nội dung cho trình soạn thảo
 7. - [ ] Build giao diện tự động theo từng website
 8. - [ ] Code lại menu với mục tiêu thân thiện hơn
