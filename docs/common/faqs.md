@@ -12,7 +12,7 @@ Tính năng này được biết đến nhiều vì lợi ích SEO, được xu�
 
 ## Thêm mới câu hỏi thường gặp
 
-Tại trường "Câu hỏi thường gặp" trong từng vùng chức năng, bạn có thể bấm nút **Thêm câu hỏi**
+Tại khu vực "Câu hỏi thường gặp" trong từng vùng chức năng, bạn có thể bấm nút **Thêm câu hỏi**
 ![faq.jpg](img/faq.jpg)
 
 **Câu hỏi**
