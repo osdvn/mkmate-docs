@@ -5,7 +5,7 @@ tags: [mkmate, content-centric]
 ---
 
 # Giới thiệu Mkmate
-**Content centric** (Nội dung là trung tâm), khái niệm mới theo quan điểm bán hàng trực tuyến truyền thống, lấy khách hàng là trung tâm (customer centric). 
+**Content centric** (Nội dung là trung tâm), khái niệm mới theo quan điểm bán hàng truyền thống, lấy khách hàng là trung tâm (customer centric). 
 
 Để tiếp cận và cung cấp giải pháp tổng thể cho quan điểm lấy nội dung làm trung tâm, OSD.VN đã có quá trình dài thiết kế website và theo dõi đa số các thất bại trong marketing trực tuyến là quảng cáo thực dụng, rao bán trực tiếp sản phẩm trên Facebook, Google,... gây ác cảm cho người dùng.
 
