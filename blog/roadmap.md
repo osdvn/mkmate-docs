@@ -20,4 +20,5 @@ tags: [roadmap, mkmate]
 14. - [ ] Customer portal, self service to manage issue & ticket
 15. - [x] Tích hợp Google Ads, Facebook Ads
 16. - [x] Hỗ trợ shortlink
-17. - [x] Tiện ích cho phép tự động chuyển hướng URL khi có thay đổi về slug của bài viết đã xuất bản.
+17. - [x] SEO: Tiện ích cho phép tự động chuyển hướng URL khi có thay đổi về slug của bài viết đã xuất bản.
+18. - [ ] SEO: Redirect theo match rule.
