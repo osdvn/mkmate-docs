@@ -25,3 +25,5 @@ tags: [roadmap, mkmate]
 19. - [ ] SEO: Redirect tạm thời cho bài viết sang bài khác
 20. - [ ] SEO: Xóa bài sẽ cho phép thực hiện tạo chuyển hướng sang bài khác
 21. - [ ] Refactor: SEO: Redirect cần thực hiện theo đúng url gốc
+22. - [x] Sao lưu dữ liệu MySQL và data
+23. - [ ] Preview bài viết
