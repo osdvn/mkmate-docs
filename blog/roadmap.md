@@ -28,4 +28,4 @@ tags: [roadmap, mkmate]
 22. - [x] Sao lưu dữ liệu MySQL và data
 23. - [x] Preview bài viết
 24. - [x] Popup thông báo hết phiên làm việc
-25. - [x] Tự động lưu bài viết
+25. - [ ] Tự động lưu bài viết
