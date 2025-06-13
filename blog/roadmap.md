@@ -27,3 +27,5 @@ tags: [roadmap, mkmate]
 21. - [x] Refactor: SEO: Redirect cần thực hiện theo đúng url gốc
 22. - [x] Sao lưu dữ liệu MySQL và data
 23. - [x] Preview bài viết
+24. - [x] Popup thông báo hết phiên làm việc
+25. - [x] Tự động lưu bài viết
