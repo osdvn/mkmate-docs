@@ -29,3 +29,4 @@ tags: [roadmap, mkmate]
 23. - [x] Preview bài viết
 24. - [x] Popup thông báo hết phiên làm việc
 25. - [ ] Tự động lưu bài viết
+26. - [x] Bảo mật nâng cao: mã token sinh 1 lần chống hack
