@@ -5,7 +5,7 @@ authors: saosangmo
 tags: [roadmap, mkmate]
 ---
 
-## 2025-07-31. V6.5.8
+## 2025-08-31. V6.5.8
 1. - [ ] Layout manager
 3. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 4. - [x] Bỏ token trong khu vực quản trị
