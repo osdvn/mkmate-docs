@@ -23,7 +23,7 @@ tags: [roadmap, mkmate]
 17. - [x] SEO: Tiện ích cho phép tự động chuyển hướng URL khi có thay đổi về slug của bài viết đã xuất bản.
 18. - [ ] SEO: Redirect theo match rule.
 19. - [ ] SEO: Redirect tạm thời cho bài viết sang bài khác
-20. - [ ] SEO: Xóa bài sẽ cho phép thực hiện tạo chuyển hướng sang bài khác
+20. - [ ] Xóa bài sẽ cho phép thực hiện tạo chuyển hướng sang bài khác
 21. - [x] Refactor: SEO: Redirect cần thực hiện theo đúng url gốc
 22. - [x] Sao lưu dữ liệu MySQL và data
 23. - [x] Preview bài viết
