@@ -29,5 +29,5 @@ tags: [roadmap, mkmate]
 23. - [x] Preview bài viết
 24. - [x] Popup thông báo hết hạn phiên làm việc
 25. - [ ] Tự động lưu bài viết
-26. - [x] Bảo mật nâng cao: mã token sinh 1 lần chống hack. Hỗ trợ người dùng mở nhiều tab cùng 1 lúc.
-27. - [x] Theo dõi thay đổi nội dung tin bài và sản phẩm
+26. - [x] Bảo mật nâng cao: mã token sinh 1 lần chống hack. Hỗ trợ người dùng mở nhiều tab cùng 1 lúc
+27. - [x] Theo dõi thay đổi nội dung tin bài và sản phẩm.
