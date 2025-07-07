@@ -14,7 +14,7 @@ published: true
 
 Để thêm một nhóm sản phẩm, bạn cần:
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Phân loại -> Nhóm và danh mục -> Nhóm sản phẩm**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
