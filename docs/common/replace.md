@@ -24,7 +24,7 @@ Những thông tin cần điền như sau:
 **Ngôn ngữ**
 
 - Tiếng Việt: cho phép bạn chỉ tìm ở ngôn ngữ tiếng việt.
-- Tiếng Anh: cho phép bạn chỉ tìm ở ngôn ngữ tiếng 
+- Tiếng Anh: cho phép bạn chỉ tìm ở ngôn ngữ tiếng Anh.
 - Tất cả: cho phép bạn chỉ tìm ở cả 2 ngôn ngữ.
 
 **Xác nhận rủi ro**
