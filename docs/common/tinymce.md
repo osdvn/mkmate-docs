@@ -59,7 +59,7 @@ Bạn cần chọn đoạn văn bản cần thay đổi màu chữ, sau đó b�
 
 ### (8) Thay đổi màu nền của văn bản
 
-Tương tự chức năng số 8) được nêu trên, chức năng này cho phép định dạng màu nền của chữ.
+Tương tự chức năng số (7) được nêu trên, chức năng này cho phép định dạng màu nền của chữ.
 
 ![trinh-soan-thao-8.jpg](img/trinh-soan-thao-8.jpg)
 
