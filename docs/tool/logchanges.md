@@ -16,3 +16,9 @@ Chức năng cho phép theo dõi thay đổi thông tin sản phẩm/dịch vụ
 Từ menu của vùng quản trị website, chọn `Hệ thống` -> `Thiết lập` -> Chuyển đến vùng `Nghiệp vụ đặc thù`, chuyển nút trạng thái thành `Bật` với từng loại nội dung bạn cần theo dõi thay đổi:
 1. `Theo dõi thay đổi sản phẩm`
 2. `Theo dõi thay đổi tin bài`
+
+[!tracking changes](img/tracking_changes.jpg)
+
+## Theo dõi thay đổi
+
+Từ menu của vùng quản trị website, chọn `Công cụ` -> `Theo dõi thay đổi`. Tại đây bạn có thể lọc theo nhiều tiêu chí để theo dõi thay đổi thông tin trên website của bạn và thậm chí có thể phục hồi phiên bản tốt nhất của tin bài.
